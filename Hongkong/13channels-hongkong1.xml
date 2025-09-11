@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<channel id="CMG/RGB.hk"><display-name>CMG/RGB.hk</display-name></channel>
+<channel id="CNR/HK.hk"><display-name>CNR/HK.hk</display-name></channel>
+<channel id="Putonghua.hk"><display-name>Putonghua.hk</display-name></channel>
+<channel id="Radio 1.hk"><display-name>Radio 1.hk</display-name></channel>
+<channel id="Radio 2.hk"><display-name>Radio 2.hk</display-name></channel>
+<channel id="Radio 3.hk"><display-name>Radio 3.hk</display-name></channel>
+<channel id="Radio 4.hk"><display-name>Radio 4.hk</display-name></channel>
+<channel id="Radio 5.hk"><display-name>Radio 5.hk</display-name></channel>
+<channel id="TV 31.hk"><display-name>TV 31.hk</display-name></channel>
+<channel id="TV 32.hk"><display-name>TV 32.hk</display-name></channel>
+<channel id="TV 33.hk"><display-name>TV 33.hk</display-name></channel>
+<channel id="TV 34.hk"><display-name>TV 34.hk</display-name></channel>
+<channel id="TV 35.hk"><display-name>TV 35.hk</display-name></channel>
+<programme start="20250910160000 +0000" stop="20250910220000 +0000" channel="CMG/RGB.hk"><title>轉播中央廣播電視總台粵港澳大灣區之聲</title></programme>
+<programme start="20250910220000 +0000" stop="20250911160000 +0000" channel="CMG/RGB.hk"><title>轉播中央廣播電視總台粵港澳大灣區之聲</title></programme>
+<programme start="20250911160000 +0000" stop="20250911220000 +0000" channel="CMG/RGB.hk"><title>轉播中央廣播電視總台粵港澳大灣區之聲</title></programme>
+<programme start="20250911220000 +0000" stop="20250912160000 +0000" channel="CMG/RGB.hk"><title>轉播中央廣播電視總台粵港澳大灣區之聲</title></programme>
+<programme start="20250912160000 +0000" stop="20250912220000 +0000" channel="CMG/RGB.hk"><title>轉播中央廣播電視總台粵港澳大灣區之聲</title></programme>
+<programme start="20250912220000 +0000" stop="20250913160000 +0000" channel="CMG/RGB.hk"><title>轉播中央廣播電視總台粵港澳大灣區之聲</title></programme>
+<programme start="20250910160000 +0000" stop="20250910220000 +0000" channel="CNR/HK.hk"><title>轉播中央人民廣播電台香港之聲</title></programme>
+<programme start="20250910220000 +0000" stop="20250911160000 +0000" channel="CNR/HK.hk"><title>轉播中央人民廣播電台香港之聲</title></programme>
+<programme start="20250911160000 +0000" stop="20250911220000 +0000" channel="CNR/HK.hk"><title>轉播中央人民廣播電台香港之聲</title></programme>
+<programme start="20250911220000 +0000" stop="20250912160000 +0000" channel="CNR/HK.hk"><title>轉播中央人民廣播電台香港之聲</title></programme>
+<programme start="20250912160000 +0000" stop="20250912220000 +0000" channel="CNR/HK.hk"><title>轉播中央人民廣播電台香港之聲</title></programme>
+<programme start="20250912220000 +0000" stop="20250913160000 +0000" channel="CNR/HK.hk"><title>轉播中央人民廣播電台香港之聲</title></programme>
+<programme start="20250910160000 +0000" stop="20250910180000 +0000" channel="Putonghua.hk"><title>月夜樂逍遙</title><desc>主持人：-- 讓聽眾 從耳熟能詳的樂曲中 重拾歲月的共鳴及感動重溫 月夜樂逍遙 （週六、日）</desc></programme>
+<programme start="20250910180000 +0000" stop="20250910220000 +0000" channel="Putonghua.hk"><title>輕談淺唱不夜天（與第二台聯播）</title></programme>
+<programme start="20250910220000 +0000" stop="20250910230000 +0000" channel="Putonghua.hk"><title>晨光第一線（與第二台聯播）</title><desc>與二台聯播 ( 早上 6:00 - 7:00)* 請選擇 第二台之 " 晨光第一線 " 以收聽全個節目</desc></programme>
+<programme start="20250910230000 +0000" stop="20250911010000 +0000" channel="Putonghua.hk"><title>好Young音樂</title><desc>主持人：葉宇波 《好Young音樂》</desc></programme>
+<programme start="20250911010000 +0000" stop="20250911020000 +0000" channel="Putonghua.hk"><title>621新聞財經</title><desc>主持人：孟繁旭、宛佳</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="Putonghua.hk"><title>新紫荊廣場</title><sub-title>楊子矜 麥尚中 葉柏強醫生 鄒潔瑜 余秀珠 陳峰總監/數字化賦能公益/打針預防流感重症/原來不只寧夏有枸杞？/社會熱點話題</sub-title><desc>主持人：楊子矜、麥尚中</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911050000 +0000" channel="Putonghua.hk"><title>U秀幫</title><desc>主持人：小孟、Sylar、Lillian 、天音、老張 星期一至五 中午12時至1時共同發掘U LIFE社會新鮮事！邀請歌手、藝人、各路達人做客，與你掏心掏肺！</desc></programme>
+<programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="Putonghua.hk"><title>午間新聞/財經</title></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="Putonghua.hk"><title>寰聽世界</title></programme>
+<programme start="20250911080000 +0000" stop="20250911090000 +0000" channel="Putonghua.hk"><title>普出校園精彩</title></programme>
+<programme start="20250911090000 +0000" stop="20250911100000 +0000" channel="Putonghua.hk"><title>e線金融網</title></programme>
+<programme start="20250911100000 +0000" stop="20250911113000 +0000" channel="Putonghua.hk"><title>音樂抱抱</title></programme>
+<programme start="20250911113000 +0000" stop="20250911120000 +0000" channel="Putonghua.hk"><title>晚間新聞/財經</title></programme>
+<programme start="20250911120000 +0000" stop="20250911130000 +0000" channel="Putonghua.hk"><title>CIBS節目：香港的生態學家！</title><sub-title>第十一集：香港海岸線復育之旅</sub-title><desc>科學家是不少人兒時的夢想或很尊崇的職業，長大後又會因「讀科學」被大眾標籤為不切實際而卻步。其實普羅大眾都能理解科學，科研與生活亦息息相關！本節目將邀請在香港從事自然生態研究最前線的科學家，解構研究成果如何應用於生活或保育上。讓科學普及，以本地科學家的故事激勵更多有志之士投身生態保育的行列吧！意見</desc></programme>
+<programme start="20250911130000 +0000" stop="20250911140000 +0000" channel="Putonghua.hk"><title>CIBS節目：樂齡治療師</title><sub-title>第十一集：頸痛</sub-title><desc>長者因年紀的增長出現各種毛病，當中包括各種的痛症。有時為免身體受痛楚煎熬，長者會選擇減少活動、拒絕社交，結果加速退化，形成惡性循環。本節目會講述13種長者常見的痛症，談及其症狀成因，更與一眾物理治療師討論預防及治療的方法。改善日常生活的小習慣，新技術如何幫助他們緩解痛症？並剖析這些痛症的迷思。意見</desc></programme>
+<programme start="20250911140000 +0000" stop="20250911150000 +0000" channel="Putonghua.hk"><title>夜媽媽心裡話</title><sub-title>夜媽媽心裡話：梓瑜媽媽故事時間-《小狗的夢想》</sub-title><desc>主持人：黃梓瑜 ✨夜，媽媽放下日間的疲憊； ✨夜，媽媽們拾起me time的自由； 《夜媽媽心裡話 》星期一至四，晚上十點， 梓瑜 用音符與你圍爐夜話。</desc></programme>
+<programme start="20250911150000 +0000" stop="20250911180000 +0000" channel="Putonghua.hk"><title>月夜樂逍遙</title></programme>
+<programme start="20250911160000 +0000" stop="20250912180000 +0000" channel="Putonghua.hk"><title>月夜樂逍遙</title></programme>
+<programme start="20250911180000 +0000" stop="20250912220000 +0000" channel="Putonghua.hk"><title>輕談淺唱不夜天（與第二台聯播）</title></programme>
+<programme start="20250911220000 +0000" stop="20250912230000 +0000" channel="Putonghua.hk"><title>晨光第一線（與第二台聯播）</title></programme>
+<programme start="20250911230000 +0000" stop="20250913010000 +0000" channel="Putonghua.hk"><title>好Young音樂</title></programme>
+<programme start="20250912010000 +0000" stop="20250913020000 +0000" channel="Putonghua.hk"><title>621新聞財經</title></programme>
+<programme start="20250912020000 +0000" stop="20250913040000 +0000" channel="Putonghua.hk"><title>新紫荊廣場</title></programme>
+<programme start="20250912040000 +0000" stop="20250913050000 +0000" channel="Putonghua.hk"><title>U秀幫</title></programme>
+<programme start="20250912050000 +0000" stop="20250913060000 +0000" channel="Putonghua.hk"><title>午間新聞/財經</title></programme>
+<programme start="20250912060000 +0000" stop="20250913080000 +0000" channel="Putonghua.hk"><title>寰聽世界</title></programme>
+<programme start="20250912080000 +0000" stop="20250913090000 +0000" channel="Putonghua.hk"><title>普出校園精彩</title></programme>
+<programme start="20250912090000 +0000" stop="20250913100000 +0000" channel="Putonghua.hk"><title>e線金融網</title></programme>
+<programme start="20250912100000 +0000" stop="20250913113000 +0000" channel="Putonghua.hk"><title>音樂抱抱</title></programme>
+<programme start="20250912113000 +0000" stop="20250913120000 +0000" channel="Putonghua.hk"><title>晚間新聞/財經</title></programme>
+<programme start="20250912120000 +0000" stop="20250913130000 +0000" channel="Putonghua.hk"><title>CIBS節目：聽見我的悲傷</title></programme>
+<programme start="20250912130000 +0000" stop="20250913140000 +0000" channel="Putonghua.hk"><title>CIBS節目：自在樂齡族</title></programme>
+<programme start="20250912140000 +0000" stop="20250913150000 +0000" channel="Putonghua.hk"><title>CIBS節目：樂齡腸活</title></programme>
+<programme start="20250912150000 +0000" stop="20250913180000 +0000" channel="Putonghua.hk"><title>月夜樂逍遙</title></programme>
+<programme start="20250912160000 +0000" stop="20250914180000 +0000" channel="Putonghua.hk"><title>月夜樂逍遙</title></programme>
+<programme start="20250912180000 +0000" stop="20250914220000 +0000" channel="Putonghua.hk"><title>輕談淺唱不夜天（與第二台聯播）</title></programme>
+<programme start="20250912220000 +0000" stop="20250914230000 +0000" channel="Putonghua.hk"><title>知識會社（與第二台聯播）</title></programme>
+<programme start="20250912230000 +0000" stop="20250915010000 +0000" channel="Putonghua.hk"><title>621 金曲專門店</title></programme>
+<programme start="20250913010000 +0000" stop="20250915020000 +0000" channel="Putonghua.hk"><title>兩文三語說故事</title></programme>
+<programme start="20250913020000 +0000" stop="20250915040000 +0000" channel="Putonghua.hk"><title>新人類、大世界</title></programme>
+<programme start="20250913040000 +0000" stop="20250915060000 +0000" channel="Putonghua.hk"><title>絕代芳華</title></programme>
+<programme start="20250913060000 +0000" stop="20250915070000 +0000" channel="Putonghua.hk"><title>好young音樂 (星期六)</title></programme>
+<programme start="20250913070000 +0000" stop="20250915090000 +0000" channel="Putonghua.hk"><title>樂宇宙</title></programme>
+<programme start="20250910160000 +0000" stop="20250910170000 +0000" channel="Radio 1.hk"><title>那些年 張偉基</title><desc>主持人：張偉基 在你生命中留下的一些痕跡，可以使你更明白自己、更懂得如何走向未來。 星期一至五，深夜十二時至一時【那些年】張偉基</desc></programme>
+<programme start="20250910170000 +0000" stop="20250910173000 +0000" channel="Radio 1.hk"><title>香港故事</title><sub-title>飛越愛時空(第8集)</sub-title></programme>
+<programme start="20250910173000 +0000" stop="20250910193000 +0000" channel="Radio 1.hk"><title>CIBS人人廣播</title><sub-title>《黃金歲月活動秘訣》第11集 / 《運動營養全攻略》第11集</sub-title><desc>CIBS就是社區參與廣播服務。來自社區朋友的意念，通過他們自家製作變成電台節目，並在香港電台播出。《CIBS人人廣播》精選當中的優良製作，在這個重播時段與大家一起，聽聽來自不同社群的多元聲音。意見</desc></programme>
+<programme start="20250910193000 +0000" stop="20250910210000 +0000" channel="Radio 1.hk"><title>大自然之聲</title><sub-title>世界十大最奇特自然現象 (十) 火龍捲 / 歌曲背後 嘉賓：周嘉俊</sub-title><desc>主持人：黃思蘅 　深夜，是結束，也是新的開始。開啟一段另類的旅程，投入難得的片刻寧靜，置身於風、樹、鳥聲之中，享受放空。第一台播放時間星期一至六03:30至05:00 部分集數因版權關係未能提供podcast收聽。#香港電台文教組#藝文一格 culture.rthk.hk</desc></programme>
+<programme start="20250910210000 +0000" stop="20250910223000 +0000" channel="Radio 1.hk"><title>清晨爽利 （與第五台聯播）</title><desc>「清晨爽利」節目內容豐富，集保健、生活及社會資訊等元素於一身。主要環節有：「健健康康在清晨」 由　專業導師教授不同類型的養生運動、保健常識、運動時需要注意的事項 及行山等實用貼士 清晨爽利之齊齊做早操</desc></programme>
+<programme start="20250910223000 +0000" stop="20250911000000 +0000" channel="Radio 1.hk"><title>晨早新聞天地</title><desc>新聞雜誌式節目，包括詳盡新聞、財經消息、時事特寫、專題探討、體壇快訊、報章和社評摘要。播出時間：逢一至六，早上六時半至八時。 立即查看所有集數內容</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911020000 +0000" channel="Radio 1.hk"><title>千禧年代</title><sub-title>9月11日 立法會二讀否決《同性伴侶關係登記條例草案》</sub-title><desc>主持人：陳燕萍 《千禧年代》星期一至五 聲音更立體　意見更多元「千禧年代」鼓勵聽眾及嘉賓作有觀點、有理據的意見交流，藉此帶出更多新觀點、新意見、新角度。透過時事速遞，每日早晨為廣大聽眾提供最新資訊以迎接新的一天。監製：林嘉瑜編導：蕭洛汶</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911022000 +0000" channel="Radio 1.hk"><title>一桶金</title><desc>交易日早上及中午兩個時段，提供最新股市消息、公司業績，並找來財經專家談股論市。 立即查看所有集數內容</desc></programme>
+<programme start="20250911022000 +0000" stop="20250911040000 +0000" channel="Radio 1.hk"><title>是日快樂</title><sub-title>是日快樂：是日標題黨 / 快樂計劃：畫畫 嘉賓：1. 香港畫家 / 策展人 沈平 2.⁠ ⁠新藝潮博覽會創辦人黃白露</sub-title><desc>主持人：米哈、杜雯惠、標爺 我們常常問：十年後，世界將會有什麼新事物？不如，反過來問：十年後，我們還會想把握什麼？我們會想把握生活、好奇、快樂。沒有一個笑話可以支撐超過五分鐘的笑聲，沒有一個滑稽的動作可以叫人感到由衷的內心幸福，但是，當我們在日常生活裡找到可以好奇、可以聚焦、可以重新理解世界的一事一物，那就可以是我們是日快樂的理由。</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911043000 +0000" channel="Radio 1.hk"><title>午間新聞天地</title><desc>播出時間： 星期一至五 12:00-12:30星期六／日 12:00-12:15香港電台新聞部製作 立即查看所有集數內容</desc></programme>
+<programme start="20250911043000 +0000" stop="20250911050000 +0000" channel="Radio 1.hk"><title>一桶金</title><desc>交易日早上及中午兩個時段，提供最新股市消息、公司業績，並找來財經專家談股論市。 立即查看所有集數內容</desc></programme>
+<programme start="20250911050000 +0000" stop="20250911070000 +0000" channel="Radio 1.hk"><title>精靈一點</title></programme>
+<programme start="20250911070000 +0000" stop="20250911080000 +0000" channel="Radio 1.hk"><title>港識生活館</title></programme>
+<programme start="20250911080000 +0000" stop="20250911083000 +0000" channel="Radio 1.hk"><title>動力4射</title></programme>
+<programme start="20250911083000 +0000" stop="20250911090000 +0000" channel="Radio 1.hk"><title>一桶金之財經新思維</title></programme>
+<programme start="20250911090000 +0000" stop="20250911100000 +0000" channel="Radio 1.hk"><title>自由風自由PHONE</title></programme>
+<programme start="20250911100000 +0000" stop="20250911103500 +0000" channel="Radio 1.hk"><title>傍晚新聞天地</title></programme>
+<programme start="20250911103500 +0000" stop="20250911120000 +0000" channel="Radio 1.hk"><title>自由風自由PHONE</title></programme>
+<programme start="20250911120000 +0000" stop="20250911140000 +0000" channel="Radio 1.hk"><title>守下留情</title></programme>
+<programme start="20250911140000 +0000" stop="20250911143500 +0000" channel="Radio 1.hk"><title>晚間新聞天地</title></programme>
+<programme start="20250911143500 +0000" stop="20250911160000 +0000" channel="Radio 1.hk"><title>講東講西 (星期一至五)</title></programme>
+<programme start="20250911160000 +0000" stop="20250911170000 +0000" channel="Radio 1.hk"><title>那些年 張偉基</title></programme>
+<programme start="20250911170000 +0000" stop="20250911173000 +0000" channel="Radio 1.hk"><title>香港故事</title></programme>
+<programme start="20250911173000 +0000" stop="20250911193000 +0000" channel="Radio 1.hk"><title>CIBS人人廣播</title></programme>
+<programme start="20250911193000 +0000" stop="20250911210000 +0000" channel="Radio 1.hk"><title>大自然之聲</title><sub-title>海洋生物們特別的捕獵技巧 / 山居日月 嘉賓：自然畫家及作家、有機農夫 葉曉文</sub-title><desc>主持人：李秋婷 　深夜，是結束，也是新的開始。開啟一段另類的旅程，投入難得的片刻寧靜，置身於風、樹、鳥聲之中，享受放空。第一台播放時間星期一至六03:30至05:00 部分集數因版權關係未能提供podcast收聽。#香港電台文教組#藝文一格 culture.rthk.hk</desc></programme>
+<programme start="20250911210000 +0000" stop="20250911223000 +0000" channel="Radio 1.hk"><title>清晨爽利 （與第五台聯播）</title></programme>
+<programme start="20250911223000 +0000" stop="20250912000000 +0000" channel="Radio 1.hk"><title>晨早新聞天地</title></programme>
+<programme start="20250912000000 +0000" stop="20250912020000 +0000" channel="Radio 1.hk"><title>千禧年代</title></programme>
+<programme start="20250912020000 +0000" stop="20250912022000 +0000" channel="Radio 1.hk"><title>一桶金</title></programme>
+<programme start="20250912022000 +0000" stop="20250912040000 +0000" channel="Radio 1.hk"><title>是日快樂</title></programme>
+<programme start="20250912040000 +0000" stop="20250912043000 +0000" channel="Radio 1.hk"><title>午間新聞天地</title></programme>
+<programme start="20250912043000 +0000" stop="20250912050000 +0000" channel="Radio 1.hk"><title>一桶金</title></programme>
+<programme start="20250912050000 +0000" stop="20250912070000 +0000" channel="Radio 1.hk"><title>精靈一點</title></programme>
+<programme start="20250912070000 +0000" stop="20250912080000 +0000" channel="Radio 1.hk"><title>港識生活館</title></programme>
+<programme start="20250912080000 +0000" stop="20250912083000 +0000" channel="Radio 1.hk"><title>動力4射</title></programme>
+<programme start="20250912083000 +0000" stop="20250912090000 +0000" channel="Radio 1.hk"><title>一桶金之財經新思維</title></programme>
+<programme start="20250912090000 +0000" stop="20250912100000 +0000" channel="Radio 1.hk"><title>自由風自由PHONE</title></programme>
+<programme start="20250912100000 +0000" stop="20250912103500 +0000" channel="Radio 1.hk"><title>傍晚新聞天地</title></programme>
+<programme start="20250912103500 +0000" stop="20250912120000 +0000" channel="Radio 1.hk"><title>自由風自由PHONE</title></programme>
+<programme start="20250912120000 +0000" stop="20250912140000 +0000" channel="Radio 1.hk"><title>守下留情</title></programme>
+<programme start="20250912140000 +0000" stop="20250912143500 +0000" channel="Radio 1.hk"><title>晚間新聞天地</title></programme>
+<programme start="20250912143500 +0000" stop="20250912160000 +0000" channel="Radio 1.hk"><title>講東講西 (星期一至五)</title></programme>
+<programme start="20250912160000 +0000" stop="20250912170000 +0000" channel="Radio 1.hk"><title>那些年 張偉基</title></programme>
+<programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="Radio 1.hk"><title>香港故事</title></programme>
+<programme start="20250912173000 +0000" stop="20250912193000 +0000" channel="Radio 1.hk"><title>CIBS人人廣播</title></programme>
+<programme start="20250912193000 +0000" stop="20250912210000 +0000" channel="Radio 1.hk"><title>大自然之聲</title></programme>
+<programme start="20250912210000 +0000" stop="20250912223000 +0000" channel="Radio 1.hk"><title>清晨爽利 （與第五台聯播）</title></programme>
+<programme start="20250912223000 +0000" stop="20250913000000 +0000" channel="Radio 1.hk"><title>晨早新聞天地</title></programme>
+<programme start="20250913000000 +0000" stop="20250913010000 +0000" channel="Radio 1.hk"><title>星期六問責</title></programme>
+<programme start="20250913010000 +0000" stop="20250913012000 +0000" channel="Radio 1.hk"><title>香港家書</title></programme>
+<programme start="20250913012000 +0000" stop="20250913013000 +0000" channel="Radio 1.hk"><title>未來·無限</title></programme>
+<programme start="20250913013000 +0000" stop="20250913023000 +0000" channel="Radio 1.hk"><title>理財新世代</title></programme>
+<programme start="20250913023000 +0000" stop="20250913040000 +0000" channel="Radio 1.hk"><title>十萬八千里</title></programme>
+<programme start="20250913040000 +0000" stop="20250913042000 +0000" channel="Radio 1.hk"><title>午間新聞天地</title></programme>
+<programme start="20250913042000 +0000" stop="20250913060000 +0000" channel="Radio 1.hk"><title>大氣候</title></programme>
+<programme start="20250913060000 +0000" stop="20250913070000 +0000" channel="Radio 1.hk"><title>五十年後</title></programme>
+<programme start="20250913070000 +0000" stop="20250913080000 +0000" channel="Radio 1.hk"><title>國潮3.0</title></programme>
+<programme start="20250910160000 +0000" stop="20250910180000 +0000" channel="Radio 2.hk"><title>音樂說</title><desc>主持人：艾力 逢星期一至五晚，由艾力為你精選睡前服歌單一首歌一個故事，用音樂說故事，以故事說音樂。用音樂整理一天勞碌的心情，為你的心靈做最佳音樂治療師。</desc></programme>
+<programme start="20250910180000 +0000" stop="20250910220000 +0000" channel="Radio 2.hk"><title>輕談淺唱不夜天</title><desc>主持人：岑亮、劉沛龍、星怡、余茵娜、張家樂、雷瑋陶</desc></programme>
+<programme start="20250910220000 +0000" stop="20250911020000 +0000" channel="Radio 2.hk"><title>晨光第一線</title><desc>主持人：阿O、白原顥、嘉明、Vicky、旋仔 「晨光第一線」是香港電台其中一個最長壽節日，節日內容包括羅萬有，綜合新聞、娛樂、教育、財經、資訊，為您營造輕鬆愉快的清晨～</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="Radio 2.hk"><title>瘋 Show 快活人</title><desc>主持人：李麗蕊、阮德鏘、黃天恩 + 爆谷、余詠茵 一個消閒式的雜誌節目，內容包羅萬有，由每日報上熱門新聞，到經典金曲，世界各地古怪趣聞，到遊戲都一應俱全。</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911050000 +0000" channel="Radio 2.hk"><title>音樂中年</title><sub-title>嘉賓﹕尹光</sub-title><desc>主持人：周國豐</desc></programme>
+<programme start="20250911050000 +0000" stop="20250911070000 +0000" channel="Radio 2.hk"><title>Made in Hong Kong 李志剛</title></programme>
+<programme start="20250911070000 +0000" stop="20250911090000 +0000" channel="Radio 2.hk"><title>三五成群</title></programme>
+<programme start="20250911090000 +0000" stop="20250911110000 +0000" channel="Radio 2.hk"><title>騷動音樂</title></programme>
+<programme start="20250911110000 +0000" stop="20250911120000 +0000" channel="Radio 2.hk"><title>Albert Au 區瑞強</title></programme>
+<programme start="20250911120000 +0000" stop="20250911130000 +0000" channel="Radio 2.hk"><title>恬淡情懷</title></programme>
+<programme start="20250911130000 +0000" stop="20250911140000 +0000" channel="Radio 2.hk"><title>音樂情人</title></programme>
+<programme start="20250911140000 +0000" stop="20250911160000 +0000" channel="Radio 2.hk"><title>她．他．它</title></programme>
+<programme start="20250911160000 +0000" stop="20250911180000 +0000" channel="Radio 2.hk"><title>音樂說</title></programme>
+<programme start="20250911180000 +0000" stop="20250911220000 +0000" channel="Radio 2.hk"><title>輕談淺唱不夜天</title></programme>
+<programme start="20250911220000 +0000" stop="20250912020000 +0000" channel="Radio 2.hk"><title>晨光第一線</title></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="Radio 2.hk"><title>瘋 Show 快活人</title></programme>
+<programme start="20250912040000 +0000" stop="20250912050000 +0000" channel="Radio 2.hk"><title>音樂中年</title></programme>
+<programme start="20250912050000 +0000" stop="20250912070000 +0000" channel="Radio 2.hk"><title>Made in Hong Kong 李志剛</title></programme>
+<programme start="20250912070000 +0000" stop="20250912090000 +0000" channel="Radio 2.hk"><title>三五成群</title></programme>
+<programme start="20250912090000 +0000" stop="20250912110000 +0000" channel="Radio 2.hk"><title>騷動音樂</title></programme>
+<programme start="20250912110000 +0000" stop="20250912120000 +0000" channel="Radio 2.hk"><title>Albert Au 區瑞強</title></programme>
+<programme start="20250912120000 +0000" stop="20250912130000 +0000" channel="Radio 2.hk"><title>恬淡情懷</title></programme>
+<programme start="20250912130000 +0000" stop="20250912140000 +0000" channel="Radio 2.hk"><title>音樂情人</title></programme>
+<programme start="20250912140000 +0000" stop="20250912160000 +0000" channel="Radio 2.hk"><title>她．他．它</title></programme>
+<programme start="20250912160000 +0000" stop="20250912180000 +0000" channel="Radio 2.hk"><title>音樂說</title></programme>
+<programme start="20250912180000 +0000" stop="20250912220000 +0000" channel="Radio 2.hk"><title>輕談淺唱不夜天</title></programme>
+<programme start="20250912220000 +0000" stop="20250913010000 +0000" channel="Radio 2.hk"><title>知識會社</title></programme>
+<programme start="20250913010000 +0000" stop="20250913020000 +0000" channel="Radio 2.hk"><title>灣區生活一小時</title></programme>
+<programme start="20250913020000 +0000" stop="20250913030000 +0000" channel="Radio 2.hk"><title>夢想號啟航</title></programme>
+<programme start="20250913030000 +0000" stop="20250913040000 +0000" channel="Radio 2.hk"><title>安哥同學會</title></programme>
+<programme start="20250913040000 +0000" stop="20250913060000 +0000" channel="Radio 2.hk"><title>中文歌曲龍虎榜</title></programme>
+<programme start="20250913060000 +0000" stop="20250913070000 +0000" channel="Radio 2.hk"><title>終身美麗</title></programme>
+<programme start="20250913070000 +0000" stop="20250913090000 +0000" channel="Radio 2.hk"><title>學嘢啦, 師兄!</title></programme>
+<programme start="20250910160000 +0000" stop="20250910170000 +0000" channel="Radio 3.hk"><title>After Hours with Michael Lance</title><desc>主持人：Michael Lance Michael Lance takes you on night-time journey back to the classic smooth FM sounds of radio days gone by. Join him every weekday evening from 10.05 until 1 the next morning for After Hours with Michael Lance. Listen to the soulful melodies of RandB, soft rock ballads that defined a generation, iconic anthems, and the pop hits that keep our hearts beating in rhythm. Rediscover your favorites and uncover hidden gems, as After Hours gives you the perfect soundtrack to your late-night adventures.So, whether you’re sliding into your comfy chair, grabbing the wheel, or surrendering to the magic of the night, tune in to After Hours with Michael Lance. Weekdays 10:05pm to 1am - On Air - Online - On Radio 3</desc></programme>
+<programme start="20250910170000 +0000" stop="20250910223000 +0000" channel="Radio 3.hk"><title>Night Music on Radio 3</title><desc>主持人：Music for night owls and early birds Stay with us throughout the night, every night, from 1.05am until dawn, as we slowly wake up with you. Enjoy the non-stop mellow side of the 70s to the 90s at first, with some legendary ballads and soft rock hits, which gently grow in pace, moving you towards the 2000s and a perfect morning mixSeven days a week from 1.05am... only on Radio 3</desc></programme>
+<programme start="20250910223000 +0000" stop="20250911000000 +0000" channel="Radio 3.hk"><title>Hong Kong Today</title><sub-title>Thursday</sub-title><desc>RTHKs morning news programme. Weekdays 6:30 - 8:00 Please check all episodes.</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911010000 +0000" channel="Radio 3.hk"><title>Money Talk</title><desc>主持人：James Ross A fast moving and topical business and finance show bringing you breaking business and economic news and financial market updates. Join our team and their expert guests for analysis and discussion on the days top business stories live every weekday morning 8.05am to 9am (HKT) on RTHK Radio 3. Listen live here https://www.rthk.hk/radio/radio3Find us on Facebook, on Twitter @MoneyTalkRadio3, or email us at moneytalk@rthk.hk</desc></programme>
+<programme start="20250911010000 +0000" stop="20250911020000 +0000" channel="Radio 3.hk"><title>Backchat</title></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="Radio 3.hk"><title>Brunch with Noreen</title><desc>主持人：Noreen Mir Brunch with Noreen is packed full of radio goodness. Weve got human interest stories, social issues, wellness, the latest on what’s happening around Hong Kong, and plenty of your favourite music.</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911050000 +0000" channel="Radio 3.hk"><title>The Brew</title><desc>主持人：Phil Whelan Every weekday from noon, The Brew is a chat and music show. Hosted by Phil Whelan, guests include regular contributors and drop-ins, who span topics from current affairs to cookery, sport, the arts, technology, and music... lots of music. For 19 years, Phil has presented Morning Brew, but now that weve moved to the lunchtime spot, all we need to change is the name. We have the same MB crew coming to you on the same days, and were open for business... as usual.</desc></programme>
+<programme start="20250911050000 +0000" stop="20250911051500 +0000" channel="Radio 3.hk"><title>News at One</title></programme>
+<programme start="20250911051500 +0000" stop="20250911060000 +0000" channel="Radio 3.hk"><title>The Brew</title><desc>主持人：Phil Whelan Every weekday from noon, The Brew is a chat and music show. Hosted by Phil Whelan, guests include regular contributors and drop-ins, who span topics from current affairs to cookery, sport, the arts, technology, and music... lots of music. For 19 years, Phil has presented Morning Brew, but now that weve moved to the lunchtime spot, all we need to change is the name. We have the same MB crew coming to you on the same days, and were open for business... as usual.</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911090000 +0000" channel="Radio 3.hk"><title>Steve James</title></programme>
+<programme start="20250911090000 +0000" stop="20250911100000 +0000" channel="Radio 3.hk"><title>The Close</title></programme>
+<programme start="20250911100000 +0000" stop="20250911103000 +0000" channel="Radio 3.hk"><title>Newswrap</title></programme>
+<programme start="20250911103000 +0000" stop="20250911130000 +0000" channel="Radio 3.hk"><title>Sunset Sounds with Simon Willson</title></programme>
+<programme start="20250911130000 +0000" stop="20250911140000 +0000" channel="Radio 3.hk"><title>In the Common Room</title></programme>
+<programme start="20250911140000 +0000" stop="20250911150000 +0000" channel="Radio 3.hk"><title>After Hours with Michael Lance</title></programme>
+<programme start="20250911150000 +0000" stop="20250911151500 +0000" channel="Radio 3.hk"><title>News at Eleven</title></programme>
+<programme start="20250911151500 +0000" stop="20250911170000 +0000" channel="Radio 3.hk"><title>After Hours with Michael Lance</title></programme>
+<programme start="20250911160000 +0000" stop="20250912170000 +0000" channel="Radio 3.hk"><title>After Hours with Michael Lance</title></programme>
+<programme start="20250911170000 +0000" stop="20250912223000 +0000" channel="Radio 3.hk"><title>Night Music on Radio 3</title></programme>
+<programme start="20250911223000 +0000" stop="20250913000000 +0000" channel="Radio 3.hk"><title>Hong Kong Today</title></programme>
+<programme start="20250912000000 +0000" stop="20250913010000 +0000" channel="Radio 3.hk"><title>Money Talk</title></programme>
+<programme start="20250912010000 +0000" stop="20250913020000 +0000" channel="Radio 3.hk"><title>Backchat</title></programme>
+<programme start="20250912020000 +0000" stop="20250913040000 +0000" channel="Radio 3.hk"><title>Brunch with Noreen</title></programme>
+<programme start="20250912040000 +0000" stop="20250913050000 +0000" channel="Radio 3.hk"><title>The Brew</title></programme>
+<programme start="20250912050000 +0000" stop="20250913051500 +0000" channel="Radio 3.hk"><title>News at One</title></programme>
+<programme start="20250912051500 +0000" stop="20250913060000 +0000" channel="Radio 3.hk"><title>The Brew</title></programme>
+<programme start="20250912060000 +0000" stop="20250913090000 +0000" channel="Radio 3.hk"><title>Steve James</title></programme>
+<programme start="20250912090000 +0000" stop="20250913100000 +0000" channel="Radio 3.hk"><title>The Close</title></programme>
+<programme start="20250912100000 +0000" stop="20250913103000 +0000" channel="Radio 3.hk"><title>Newswrap</title></programme>
+<programme start="20250912103000 +0000" stop="20250913130000 +0000" channel="Radio 3.hk"><title>Sunset Sounds with Simon Willson</title></programme>
+<programme start="20250912130000 +0000" stop="20250913140000 +0000" channel="Radio 3.hk"><title>In the Common Room</title></programme>
+<programme start="20250912140000 +0000" stop="20250913150000 +0000" channel="Radio 3.hk"><title>After Hours with Michael Lance</title></programme>
+<programme start="20250912150000 +0000" stop="20250913151500 +0000" channel="Radio 3.hk"><title>News at Eleven</title></programme>
+<programme start="20250912151500 +0000" stop="20250913170000 +0000" channel="Radio 3.hk"><title>After Hours with Michael Lance</title></programme>
+<programme start="20250912160000 +0000" stop="20250914170000 +0000" channel="Radio 3.hk"><title>After Hours with Michael Lance</title></programme>
+<programme start="20250912170000 +0000" stop="20250914230000 +0000" channel="Radio 3.hk"><title>Night Music on Radio 3</title></programme>
+<programme start="20250912230000 +0000" stop="20250914233000 +0000" channel="Radio 3.hk"><title>Weekend AM</title></programme>
+<programme start="20250912233000 +0000" stop="20250915000000 +0000" channel="Radio 3.hk"><title>Hong Kong Heritage</title></programme>
+<programme start="20250913000000 +0000" stop="20250915002000 +0000" channel="Radio 3.hk"><title>Weekend AM</title></programme>
+<programme start="20250913002000 +0000" stop="20250915003000 +0000" channel="Radio 3.hk"><title>Inside the National Games</title></programme>
+<programme start="20250913003000 +0000" stop="20250915010000 +0000" channel="Radio 3.hk"><title>Trending China</title></programme>
+<programme start="20250913010000 +0000" stop="20250915020000 +0000" channel="Radio 3.hk"><title>CultureZine</title></programme>
+<programme start="20250913020000 +0000" stop="20250915040000 +0000" channel="Radio 3.hk"><title>Saturday Yum Cha with Luisa</title></programme>
+<programme start="20250913040000 +0000" stop="20250915050000 +0000" channel="Radio 3.hk"><title>So Saturday with Jeff Cheung</title></programme>
+<programme start="20250913050000 +0000" stop="20250915051000 +0000" channel="Radio 3.hk"><title>News at One</title></programme>
+<programme start="20250913051000 +0000" stop="20250915070000 +0000" channel="Radio 3.hk"><title>So Saturday with Jeff Cheung</title></programme>
+<programme start="20250913070000 +0000" stop="20250915080000 +0000" channel="Radio 3.hk"><title>Sports Break</title></programme>
+<programme start="20250910160000 +0000" stop="20250910220000 +0000" channel="Radio 4.hk"><title>Night Music 長夜細聽</title><desc>主持人：Host: Bill Robertson, Isaac Droscha, Cleo Leung You will find many soft pieces and some Chinese works in Night Music. Friday and Saturday nights will begin with two hours of enjoyable jazz music.When you are alone and sleepless, please remember good music is always there on Radio 4.「長夜細聽」節目當然少不了氣質優雅的作品，每晚亦會精選一些中國音樂送上。週五和週六晚還有兩小時爵士樂。如果哪天你不能入睡，別忘了第四台這裡總有值得細聽的音樂。</desc></programme>
+<programme start="20250910220000 +0000" stop="20250910230000 +0000" channel="Radio 4.hk"><title>Aubade</title><desc>Join us for an hour of luminous music every morning at 6 am with Radio 4 ’ s Aubade - it’ ll brighten up your day.</desc></programme>
+<programme start="20250910230000 +0000" stop="20250911020000 +0000" channel="Radio 4.hk"><title>First Notes 由聆開始</title><desc>主持人：Livia Lin 凌崎偵 Join Livia for fine music, candid artist chats, and the stories behind the creativity - weekdays 7 to 10am.WATCH OUR LATEST VIDEOSThe WHOOP GroupCzardas by Vittorio Monti"Storm" by Antonio VivaldiFavourite Saxophonist and Rhapsody in Blue by George GershwinTarmo PeltokoskiWe ask Tarmo PeltokoskiWatch more on youtube.com/@radio4rthk with #FNPlus.</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911050000 +0000" channel="Radio 4.hk"><title>Non-stop Classics 美樂無休</title><desc>More music, less talk - for 3 continuous hours.</desc></programme>
+<programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="Radio 4.hk"><title>Delight in a Bite 一時之選</title></programme>
+<programme start="20250911060000 +0000" stop="20250911070000 +0000" channel="Radio 4.hk"><title>Traditional Cantonese Singing - Naamyam (Repeat) 傳統廣東說唱—南音（重播）</title></programme>
+<programme start="20250911070000 +0000" stop="20250911090000 +0000" channel="Radio 4.hk"><title>Concert on 4 (Repeat) 四台音樂會（重播）</title></programme>
+<programme start="20250911090000 +0000" stop="20250911100000 +0000" channel="Radio 4.hk"><title>Sunset Music Diary 日樂誌</title></programme>
+<programme start="20250911100000 +0000" stop="20250911101800 +0000" channel="Radio 4.hk"><title>Arts News 藝壇快訊</title></programme>
+<programme start="20250911101800 +0000" stop="20250911110000 +0000" channel="Radio 4.hk"><title>Sunset Music Diary 日樂誌</title></programme>
+<programme start="20250911110000 +0000" stop="20250911120000 +0000" channel="Radio 4.hk"><title>Simply Classical 就是古典</title></programme>
+<programme start="20250911120000 +0000" stop="20250911140000 +0000" channel="Radio 4.hk"><title>Concert on 4 四台音樂會</title><sub-title>Prague Spring 2025: Arvo Part 90</sub-title></programme>
+<programme start="20250911140000 +0000" stop="20250911155700 +0000" channel="Radio 4.hk"><title>Nocturne 夜心曲</title></programme>
+<programme start="20250911155700 +0000" stop="20250911160000 +0000" channel="Radio 4.hk"><title>Reflections 晚禱</title></programme>
+<programme start="20250911160000 +0000" stop="20250911220000 +0000" channel="Radio 4.hk"><title>Night Music 長夜細聽</title></programme>
+<programme start="20250911220000 +0000" stop="20250911230000 +0000" channel="Radio 4.hk"><title>Aubade</title></programme>
+<programme start="20250911230000 +0000" stop="20250912020000 +0000" channel="Radio 4.hk"><title>First Notes 由聆開始</title></programme>
+<programme start="20250912020000 +0000" stop="20250912050000 +0000" channel="Radio 4.hk"><title>Non-stop Classics 美樂無休</title></programme>
+<programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="Radio 4.hk"><title>Delight in a Bite 一時之選</title></programme>
+<programme start="20250912060000 +0000" stop="20250912070000 +0000" channel="Radio 4.hk"><title>77th Hong Kong Schools Music Festival (Repeat) 第77屆香港學校音樂節（重播）</title></programme>
+<programme start="20250912070000 +0000" stop="20250912090000 +0000" channel="Radio 4.hk"><title>Chamber Resonance (Repeat) 樂有所思（重播）</title><sub-title>Nancy Loo (piano) 羅乃新 (鋼琴)</sub-title><desc>Radio 4 proudly presents to you seven recitals of Hong Kong’s own distinguished musicians on our 50th anniversary. Join them in Studio 2 as they share their artistic visions and life stories with us.在第四台五十週年之際，我們邀請七位一直在港深耕的音樂家，來到香港電台二號錄音室，留下他們藝術成就的記錄，並透過對談分享他們的演奏思路。</desc></programme>
+<programme start="20250912090000 +0000" stop="20250912100000 +0000" channel="Radio 4.hk"><title>Sunset Music Diary 日樂誌</title></programme>
+<programme start="20250912100000 +0000" stop="20250912101800 +0000" channel="Radio 4.hk"><title>Arts News 藝壇快訊</title></programme>
+<programme start="20250912101800 +0000" stop="20250912110000 +0000" channel="Radio 4.hk"><title>Sunset Music Diary 日樂誌</title></programme>
+<programme start="20250912110000 +0000" stop="20250912120000 +0000" channel="Radio 4.hk"><title>Simply Classical 就是古典</title></programme>
+<programme start="20250912120000 +0000" stop="20250912140000 +0000" channel="Radio 4.hk"><title>Concert on 4 四台音樂會</title></programme>
+<programme start="20250912140000 +0000" stop="20250912155700 +0000" channel="Radio 4.hk"><title>Nocturne 夜心曲</title></programme>
+<programme start="20250912155700 +0000" stop="20250912160000 +0000" channel="Radio 4.hk"><title>Reflections 晚禱</title></programme>
+<programme start="20250912160000 +0000" stop="20250912220000 +0000" channel="Radio 4.hk"><title>Night Music 長夜細聽</title></programme>
+<programme start="20250912220000 +0000" stop="20250912230000 +0000" channel="Radio 4.hk"><title>Aubade</title></programme>
+<programme start="20250912230000 +0000" stop="20250913010000 +0000" channel="Radio 4.hk"><title>Saturday Morning on 4 週六早晨</title></programme>
+<programme start="20250913010000 +0000" stop="20250913030000 +0000" channel="Radio 4.hk"><title>The Classical and The Curious 爾想不到</title></programme>
+<programme start="20250913030000 +0000" stop="20250913050000 +0000" channel="Radio 4.hk"><title>Play by Ear 週末隨想</title></programme>
+<programme start="20250913050000 +0000" stop="20250913060000 +0000" channel="Radio 4.hk"><title>Delight in a Bite 一時之選</title></programme>
+<programme start="20250913060000 +0000" stop="20250913080000 +0000" channel="Radio 4.hk"><title>R4 Music Academy 我哋都係音樂系！</title></programme>
+<programme start="20250910160000 +0000" stop="20250910180000 +0000" channel="Radio 5.hk"><title>戲曲之夜</title><sub-title>節目內容</sub-title><desc>播 出 時 間 ：星 期 一 至 五 ： 晚 上 十 時 三 十 五 分 至 凌 晨 二 時 星期六、日及公眾假期：晚 上 十 時 二十 分 至 凌 晨 二 時</desc></programme>
+<programme start="20250910180000 +0000" stop="20250910210000 +0000" channel="Radio 5.hk"><title>越夜粵精彩</title><sub-title>節目內容</sub-title><desc>播 出 時 間 ：</desc></programme>
+<programme start="20250910210000 +0000" stop="20250910223000 +0000" channel="Radio 5.hk"><title>清晨爽利</title><sub-title>「健健康康在清晨」主題: 肺腺癌(5) 主講:臨床腫瘤科專科（林嘉安醫生）</sub-title><desc>主持人：錢佩佩 嘉賓主持：鍾志光、葉均耀、崔紹漢博士、雷雄德博士、營養師 林思為 、沈君豪醫生(精神科) "清晨爽利"節目內容豐富，集保健、生活及社會資訊等元素於一身。主要環節有：「健健康康在清晨」 由　專業導師教授不同類型的養生運動、保健常識、運動時需要注意的事項 及行山等實用貼士清晨爽利之齊齊做早操  太極招式示範</desc></programme>
+<programme start="20250910223000 +0000" stop="20250911000000 +0000" channel="Radio 5.hk"><title>晨早新聞天地（與第一台聯播）</title><desc>晨早新聞天地(2025-09-11)</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911020000 +0000" channel="Radio 5.hk"><title>自在早晨</title><desc>主持人：陳永業 「自」夢中甦醒， 「在」音樂中，迎接新的一天，「早」上步履輕盈， 「晨」光伴隨，安定心神。 願你每天有個「自在早晨」。</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911050000 +0000" channel="Radio 5.hk"><title>香江暖流</title><sub-title>《好玩醫學》眼都會中風㗎咩？如果眼中風咁點算好啊？問下黎心慧醫生有咩預防同治療方法～ /《暖流熱線》</sub-title><desc>主持人：Harry哥哥、袁沅玉、周綺玲、鄧添樂、黎茜姸 新一代長者雜誌節目，內容三部曲 :</desc></programme>
+<programme start="20250911050000 +0000" stop="20250911080000 +0000" channel="Radio 5.hk"><title>戲曲天地</title></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="Radio 5.hk"><title>有你同行</title></programme>
+<programme start="20250911100000 +0000" stop="20250911103500 +0000" channel="Radio 5.hk"><title>傍晚新聞天地（與第一台聯播）</title></programme>
+<programme start="20250911103500 +0000" stop="20250911120000 +0000" channel="Radio 5.hk"><title>優閒安多Fun</title></programme>
+<programme start="20250911120000 +0000" stop="20250911130000 +0000" channel="Radio 5.hk"><title>綠色 Fighting</title></programme>
+<programme start="20250911130000 +0000" stop="20250911140000 +0000" channel="Radio 5.hk"><title>乾坤幾何 (重播)</title><sub-title>#4 風水與設計 / 風水與建築</sub-title><desc>主持人：盧傑雄、洪健崴 「乾、坤」出自易經，也為風水學說之根，易經包含象（天文、地理）、數（變數、定數）、理（推理、科學）、占（提出有條件的推測）。「幾何」是數學的一門分支；曹操《短歌行》名句「人生幾何」，有對未來無法預知的意思。節目著重理性認識中國術數的學說，旨在鑽研文化，警惕迷信，傳承智慧。 　#香港電台文教組#藝文一格 culture.rthk.hk</desc></programme>
+<programme start="20250911140000 +0000" stop="20250911143500 +0000" channel="Radio 5.hk"><title>晚間新聞天地（與第一台聯播）</title></programme>
+<programme start="20250911143500 +0000" stop="20250911180000 +0000" channel="Radio 5.hk"><title>戲曲之夜</title></programme>
+<programme start="20250911160000 +0000" stop="20250912180000 +0000" channel="Radio 5.hk"><title>戲曲之夜</title></programme>
+<programme start="20250911180000 +0000" stop="20250912210000 +0000" channel="Radio 5.hk"><title>越夜粵精彩</title><sub-title>節目內容</sub-title><desc>播 出 時 間 ：</desc></programme>
+<programme start="20250911210000 +0000" stop="20250912223000 +0000" channel="Radio 5.hk"><title>清晨爽利</title></programme>
+<programme start="20250911223000 +0000" stop="20250913000000 +0000" channel="Radio 5.hk"><title>晨早新聞天地（與第一台聯播）</title></programme>
+<programme start="20250912000000 +0000" stop="20250913020000 +0000" channel="Radio 5.hk"><title>自在早晨</title></programme>
+<programme start="20250912020000 +0000" stop="20250913050000 +0000" channel="Radio 5.hk"><title>香江暖流</title></programme>
+<programme start="20250912050000 +0000" stop="20250913080000 +0000" channel="Radio 5.hk"><title>戲曲天地</title></programme>
+<programme start="20250912080000 +0000" stop="20250913100000 +0000" channel="Radio 5.hk"><title>有你同行</title></programme>
+<programme start="20250912100000 +0000" stop="20250913103500 +0000" channel="Radio 5.hk"><title>傍晚新聞天地（與第一台聯播）</title></programme>
+<programme start="20250912103500 +0000" stop="20250913120000 +0000" channel="Radio 5.hk"><title>優閒安多Fun</title></programme>
+<programme start="20250912120000 +0000" stop="20250913130000 +0000" channel="Radio 5.hk"><title>樂齡是敢的</title></programme>
+<programme start="20250912130000 +0000" stop="20250913140000 +0000" channel="Radio 5.hk"><title>綠TEEN工作</title></programme>
+<programme start="20250912140000 +0000" stop="20250913143500 +0000" channel="Radio 5.hk"><title>晚間新聞天地（與第一台聯播）</title></programme>
+<programme start="20250912143500 +0000" stop="20250913180000 +0000" channel="Radio 5.hk"><title>戲曲之夜</title></programme>
+<programme start="20250912160000 +0000" stop="20250914180000 +0000" channel="Radio 5.hk"><title>戲曲之夜</title></programme>
+<programme start="20250912180000 +0000" stop="20250914210000 +0000" channel="Radio 5.hk"><title>越夜粵精彩</title></programme>
+<programme start="20250912210000 +0000" stop="20250914223000 +0000" channel="Radio 5.hk"><title>清晨爽利</title></programme>
+<programme start="20250912223000 +0000" stop="20250915000000 +0000" channel="Radio 5.hk"><title>晨早新聞天地（與第一台聯播）</title></programme>
+<programme start="20250913000000 +0000" stop="20250915020000 +0000" channel="Radio 5.hk"><title>好歌安哥</title></programme>
+<programme start="20250913020000 +0000" stop="20250915050000 +0000" channel="Radio 5.hk"><title>耆力量</title></programme>
+<programme start="20250913050000 +0000" stop="20250915080000 +0000" channel="Radio 5.hk"><title>戲曲天地</title></programme>
+<programme start="20250910160000 +0000" stop="20250910163000 +0000" channel="TV 31.hk"><title>凝聚香港</title><sub-title>第八百四十三集</sub-title><desc>「吉舖有自提，商機返埋嚟？」電商業務發達，不少人看中當中商機，與物流商合作，租舖或於小店中開設自提點，賺取收入。究竟營運自提點有多大商機？當中又有甚麼風險要注意？#自提點#電商業務#物流商#小店#商機#張嘉儀「吹風要小心，病從冷氣生？」雖然已經立秋，但天氣仍然炎熱，不少人仍會開冷氣。然而長期吹冷氣容易造成身體不適，現代醫學統稱為「冷氣病」。中醫師會拆解如何預防及調理冷氣病？#冷氣病#天氣炎熱#立秋#中醫#預防#調理#梁凱寧#崔潔彤「玩物壯志-抗戰勝利80年：日佔香港時期的收藏品（上）」今年適逢抗戰勝利80周年，文物收藏家唐卓敏醫生從他豐富藏品中，精選多件日佔香港時期的珍貴文物，包括票據、證件等，從中回顧香港從戰前到淪陷、被日軍佔領、抗戰勝利後的歷史，並呈現了當時艱苦的民生實況。#玩物壯志#抗戰勝利80周年#日佔香港時期#文物#票據#證件#收藏品#丘靜雯</desc></programme>
+<programme start="20250910163000 +0000" stop="20250910170000 +0000" channel="TV 31.hk"><title>灣區全媒睇</title><sub-title>第九百八十三集</sub-title><desc>#灣區全媒睇第九百八十三集主持梁凱寧、涂冠祺南北快閃無錫：海鐵聯運直達南美山東：自然保護區內東方白鸛繁殖量創新高南京：舉辦周口店遺址文化展新疆輪台縣：白化棕熊母子於山區覓食福州：舉行茉莉花開採季啓動儀式廣為人知廣州：適老舒適型旅遊專列啓行廣州：通過體育運動學習垃圾分類知識廣州：粵港澳台青少年同場競技灣區新里程珠海：自主研發技術協助國家探索太空惠州：家庭養老床位目標建設超額完成保定：恐龍化石裡的中國故事與科技魅力太原：蒙山景區成避暑勝境講你知香港：介紹充滿集體回憶的港式美食鳥瞰神州雲南永善：綠浪湧動美如畫</desc></programme>
+<programme start="20250910170000 +0000" stop="20250910180000 +0000" channel="TV 31.hk"><title>山花爛漫時</title><sub-title>第八集：寧華被老師趕出了教室</sub-title><desc>女高老師們課時量滿，還不時被張桂梅要求照顧生病的學生，一段時間下來都感到分身乏術，頭暈目眩。老師蔡虹本就對待遇不滿，如今負面情緒積攢更深。寧華第一次來月經，上課時心不在焉，被老師蔡虹趕出了教室。</desc></programme>
+<programme start="20250910180000 +0000" stop="20250910183000 +0000" channel="TV 31.hk"><title>傳媒初體驗</title><sub-title>第一集：傳媒新星追夢起程</sub-title><desc>這是一場青春與夢想的狂熱序幕！由業界傳媒工作者現身說法，分享傳媒工作的魅力和價值。隨後，一系列實務工作坊登場，同學親手操作攝影設備，學習做導演、主持、製作種種技巧。入圍的同學更有難得機會在港台實習，迎接職場各種挑戰。真實的傳媒世界重重關卡，會否嚇怕一群滿懷熱血傳媒夢的中學生？</desc></programme>
+<programme start="20250910183000 +0000" stop="20250910190000 +0000" channel="TV 31.hk"><title>醫生與你</title><sub-title>#519 肥胖問題</sub-title><desc>據世界衛生組織定義，「肥胖」是一種由過量脂肪沉積引起的慢性複雜疾病。很多人覺得小朋友「肥嘟嘟」很可愛，但有統計顯示，2024年全球估計有3500萬5歲以下兒童超重。成年人的肥胖問題亦會引致多種疾病，如心血管疾病、二型糖尿病、骨關節炎等肌肉骨骼疾病，以及一些癌症等等。所以，本集請來醫生解答各種關於「肥胖」的問題，齊齊拜拜脂肪！主持：鄭萃雯、蔡雪瑩嘉賓：袁美欣醫生(內分泌及糖尿科專科)</desc></programme>
+<programme start="20250910190000 +0000" stop="20250910193000 +0000" channel="TV 31.hk"><title>迎戰全國運動會 (四) - 行走十五運</title><sub-title>第六集：汕頭 汕尾</sub-title><desc>這一站我們來到了廣東省的汕頭和汕尾，別看兩座城市名字很相似，實際上它們之間相距100多公里。在十五運當中，汕頭承辦了沖浪及女子手球項目，汕尾承辦了帆船帆板項目。今集請來2015年世界帆板錦標賽冠軍，前中國帆板代表陳佩娜，作為土生土長汕頭人，她將帶領香港女子手球運動員鄔梨鈴Hardi，暢遊這座朝氣蓬勃、歷史悠久的城市：體驗融合舞蹈、戲曲跟武術元素的廣東潮汕地區傳統民俗舞蹈－英歌舞、品賞汕頭美食。亦會到汕頭體育中心體育館，觀賞手球測試賽之如，更讓Hardi率先踏足十五運會女子手球項目賽場！佩娜亦會帶大家到汕尾，參觀十五運會帆船帆板項目賽場－廣東海上項目訓練中心，了解帆船帆板項目籌備情況，Hardi更有機會在世界冠軍的指導下學習滑浪風帆。在汕尾紅海灣斜陽的襯托下，兩位一同分享運動員的苦與樂。</desc></programme>
+<programme start="20250910193000 +0000" stop="20250910203000 +0000" channel="TV 31.hk"><title>追風者</title><sub-title>第四集：魏若川被李晟達出賣犧牲</sub-title><desc>眼看資金見底，沈圖南卻似乎成竹在胸。他以盤外招一招制敵最終成功獲得通商主控權。通商銀行行長張鳴泉氣急敗壞，但也無計可施。另一邊，李晟達沒有經受住嚴刑拷打的考驗，說出了孤星近日到上海的情報。徐諾也告知沈近真，孤星會帶來金條保釋被捕同志，命她前去接頭。不知道李晟達已叛變的孤星，果然在接頭的咖啡館遭到林樵松盤查，孤星跳窗逃走，不幸中彈。夜裡，魏若來回到家被一雙大手蒙住嘴，回頭發現竟是他消失多年的兄長魏若川，而魏若川正是孤星。</desc></programme>
+<programme start="20250910203000 +0000" stop="20250910213000 +0000" channel="TV 31.hk"><title>31看世界 - Gordon Ramsay 瘋味之旅 3</title><sub-title>大煙山脈</sub-title><desc>大廚Gordon Ramsay在大煙山脈挑戰一己極限。為了尋找區內美食秘密，他在瀑布進行游繩下降、在急流中划艇、深入森林探秘，一切都只為找出這雄壯山區的獨特美味食材。到底，他這一番苦功，是否能助他在比試中戰勝當地著名大廚William Dissen呢？雙語廣播：粵語/英語　(電視版)播出時間：(首播)2025年1月21日 星期二晚，10時30分 Chef Ramsay is pushed to his limits in the Smoky Mountains. In his quest to unearth the culinary secrets of the region, Gordon must rappel down a treacherous waterfall, kayak through raging rapids, and trek deep into the forest, attempting to find the most delicious ingredients in this magnificent mountain range. Will it be enough to help him in his battle against local legend and sustainable chef William Dissen? Bilingual:Cantonese/ English (TV Version) Time:(First run)2025.1.21 TUE 10:30pm</desc></programme>
+<programme start="20250910213000 +0000" stop="20250910223000 +0000" channel="TV 31.hk"><title>學人沙龍</title><sub-title>聲影功成萬骨枯</sub-title><desc>一部史詩，既是一個時代的鏡子，也是權力者的自我想像。本集將從銀幕上的皇朝史詩談起，以「再現」為核心，探討電影與文學作品在描述戰爭、創傷等苦難時，如何重新詮釋歷史記憶與英雄神話。主持:譚家齊(香港浸會大學歷史系副教授)曾卓然(嶺南大學中文系哲學博士)黎東耀(香港珠海學院建築學系系主任)謝偉傑(香港中文大學歷史系副教授)</desc></programme>
+<programme start="20250910223000 +0000" stop="20250910225000 +0000" channel="TV 31.hk"><title>BobieLand</title><sub-title>第八十八集 - 「好媽媽 別咆哮」</sub-title><desc>BobieLand 第八十八集-「好媽媽別咆哮」編導:蔡少傑為求「由Okie Bobie 扮演子樂媽媽代替見家長」的計畫順利進行，各園長與小朋友從髮型、化妝及服裝對Okie Bobie進行大改造，令Okie Bobie形神兼備似足子樂媽媽。【More More魔術see】Magic Kevin 向大家講述了一個他與小朋友David的一次魔術表演，更教導小朋友一起變了一個關於Okie Bobie的魔術。【手作EASY JOB】圖媽媽與圖圖了解到大家的衝突源於溝通的面向不同，本星期的『手作EASY JOB』將由圖圖母子決定教大家製作一幅從不同角度觀看，會有不同效果的神奇畫作。</desc></programme>
+<programme start="20250910225000 +0000" stop="20250910230500 +0000" channel="TV 31.hk"><title>奀菇菇搞搞震 2</title><sub-title>力大磨菇</sub-title><desc>適逢相撲菇到鎮外，奀菇菇和阿發覺得自己是菇菇鎮當下最大力的菇菌族。可是秀珍妹和阿毛的力量令他們始料不及！</desc></programme>
+<programme start="20250910230500 +0000" stop="20250910233000 +0000" channel="TV 31.hk"><title>小農夫大作物 新一彈</title><sub-title>北海道的驕傲—百合</sub-title><desc>今集會參觀食用百合生產地美瑛町。原來種植百合的時間相當驚人，需要六年才能供以食用。另外亦會介紹最適合除夕新年的百合菜式。</desc></programme>
+<programme start="20250910233000 +0000" stop="20250911000000 +0000" channel="TV 31.hk"><title>灣區全媒睇</title><sub-title>第九百八十三集</sub-title><desc>#灣區全媒睇第九百八十三集主持梁凱寧、涂冠祺南北快閃無錫：海鐵聯運直達南美山東：自然保護區內東方白鸛繁殖量創新高南京：舉辦周口店遺址文化展新疆輪台縣：白化棕熊母子於山區覓食福州：舉行茉莉花開採季啓動儀式廣為人知廣州：適老舒適型旅遊專列啓行廣州：通過體育運動學習垃圾分類知識廣州：粵港澳台青少年同場競技灣區新里程珠海：自主研發技術協助國家探索太空惠州：家庭養老床位目標建設超額完成保定：恐龍化石裡的中國故事與科技魅力太原：蒙山景區成避暑勝境講你知香港：介紹充滿集體回憶的港式美食鳥瞰神州雲南永善：綠浪湧動美如畫</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911000500 +0000" channel="TV 31.hk"><title>盛事傳城</title><sub-title>亞藝無疆藝術節；抗戰勝利八十周年展覽</sub-title><desc>由康文署策劃的第三屆「亞藝無疆」藝術節，9月至11月舉行，匯聚超過三十個國家同地區的藝術家和藝團，呈獻過百場戲劇、舞蹈、音樂演出等。重頭戲「亞裔藝采＋」嘉年華將於11月16日會在文化中心舉行，獲多個駐港領事館支持，會有各國民族音樂和舞蹈表演，還有文化攤位和工作坊，展示精緻的民族傳統服飾、手工藝、特色小食等。</desc></programme>
+<programme start="20250911000500 +0000" stop="20250911010000 +0000" channel="TV 31.hk"><title>千禧年代</title><sub-title>千禧年代 9月11日</sub-title><desc>主題：立法會二讀否決《同性伴侶關係登記條例草案》訪問：基本法委員會委員、立法會《同性伴侶關係登記條例草案》委員會委員 李浩然主題：當局稱交椅洲填海未有條件本屆政府內開展 訪問：工程界立法會議員 盧偉國訪問：香港測量師學會土地政策小組主席 劉振江主題：施政報告前瞻 公屋聯會倡鼓勵富戶上居屋　訪問：公屋聯會總幹事 招國偉</desc></programme>
+<programme start="20250911010000 +0000" stop="20250911013000 +0000" channel="TV 31.hk"><title>傳媒初體驗</title><sub-title>第一集：傳媒新星追夢起程</sub-title><desc>這是一場青春與夢想的狂熱序幕！由業界傳媒工作者現身說法，分享傳媒工作的魅力和價值。隨後，一系列實務工作坊登場，同學親手操作攝影設備，學習做導演、主持、製作種種技巧。入圍的同學更有難得機會在港台實習，迎接職場各種挑戰。真實的傳媒世界重重關卡，會否嚇怕一群滿懷熱血傳媒夢的中學生？</desc></programme>
+<programme start="20250911013000 +0000" stop="20250911020000 +0000" channel="TV 31.hk"><title>醫生與你</title><sub-title>#519 肥胖問題</sub-title><desc>據世界衛生組織定義，「肥胖」是一種由過量脂肪沉積引起的慢性複雜疾病。很多人覺得小朋友「肥嘟嘟」很可愛，但有統計顯示，2024年全球估計有3500萬5歲以下兒童超重。成年人的肥胖問題亦會引致多種疾病，如心血管疾病、二型糖尿病、骨關節炎等肌肉骨骼疾病，以及一些癌症等等。所以，本集請來醫生解答各種關於「肥胖」的問題，齊齊拜拜脂肪！主持：鄭萃雯、蔡雪瑩嘉賓：袁美欣醫生(內分泌及糖尿科專科)</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911025500 +0000" channel="TV 31.hk"><title>簡言的夏冬</title><sub-title>第九集</sub-title><desc>夏冬指揮小卡調查銀河地產的一切公開資料。小卡發現秦克和簡言有聯繫，透露給老方。老方表示招呼好簡言，夏冬也相對更安全，萬一夏冬走了，也許簡言能成為新靠山。小卡無語。夏冬從司機阿強口中套話，得知梁美珠此前曾去龍關鎮青林別墅看房。夏冬前往青林別墅調查。</desc></programme>
+<programme start="20250911025500 +0000" stop="20250911030000 +0000" channel="TV 31.hk"><title>政正關你事</title><sub-title>行政長官表揚榜 - 特區救援隊</sub-title><desc>「行政長官表揚榜」獎勵計劃旨在公開表揚優秀而且具示範作用的公務員團隊或人員，激勵公務員不斷求進，並讓公眾更了解政府的工作及公務員團隊優秀的面貌。「2025年3月前赴緬甸地震災區救援的特區救援隊」是獲獎隊伍之一，其成員包括保安局、消防處及入境事務處的公務員團隊，以及醫院管理局的醫護代表。特區救援隊秉持專業精神，在救災其間更與國家救援隊合作，並利用人工智能及無人機等先進科技進行救災。特區救援隊不斷提升應急救援能力和水平，為國際人道救援工作作出重大貢獻。</desc></programme>
+<programme start="20250911030000 +0000" stop="20250911030500 +0000" channel="TV 31.hk"><title>盛事傳城</title><sub-title>亞藝無疆藝術節；抗戰勝利八十周年展覽</sub-title><desc>由康文署策劃的第三屆「亞藝無疆」藝術節，9月至11月舉行，匯聚超過三十個國家同地區的藝術家和藝團，呈獻過百場戲劇、舞蹈、音樂演出等。重頭戲「亞裔藝采＋」嘉年華將於11月16日會在文化中心舉行，獲多個駐港領事館支持，會有各國民族音樂和舞蹈表演，還有文化攤位和工作坊，展示精緻的民族傳統服飾、手工藝、特色小食等。</desc></programme>
+<programme start="20250911030500 +0000" stop="20250911031000 +0000" channel="TV 31.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250911031000 +0000" stop="20250911040000 +0000" channel="TV 31.hk"><title>香江暖流</title><sub-title>香江暖流《好玩醫學》</sub-title><desc>《好玩醫學》嘉賓：黎心慧醫生（眼科專科醫生）《極速15秒》</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911043000 +0000" channel="TV 31.hk"><title>血鑄河山 經典回放</title><sub-title>第二十三集︰一封家書</sub-title><desc>第二十三集︰一封家書製作單位︰鄭州廣播電視台</desc></programme>
+<programme start="20250911043000 +0000" stop="20250911050000 +0000" channel="TV 31.hk"><title>血鑄河山 經典回放</title><sub-title>第二十四集︰碧血崑崙</sub-title><desc>第二十四集︰碧血崑崙製作單位︰鄭州廣播電視台</desc></programme>
+<programme start="20250911050000 +0000" stop="20250911050500 +0000" channel="TV 31.hk"><title>政正關你事</title><sub-title>行政長官表揚榜 - 特區救援隊</sub-title><desc>「行政長官表揚榜」獎勵計劃旨在公開表揚優秀而且具示範作用的公務員團隊或人員，激勵公務員不斷求進，並讓公眾更了解政府的工作及公務員團隊優秀的面貌。「2025年3月前赴緬甸地震災區救援的特區救援隊」是獲獎隊伍之一，其成員包括保安局、消防處及入境事務處的公務員團隊，以及醫院管理局的醫護代表。特區救援隊秉持專業精神，在救災其間更與國家救援隊合作，並利用人工智能及無人機等先進科技進行救災。特區救援隊不斷提升應急救援能力和水平，為國際人道救援工作作出重大貢獻。</desc></programme>
+<programme start="20250911050500 +0000" stop="20250911051000 +0000" channel="TV 31.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250911051000 +0000" stop="20250911060000 +0000" channel="TV 31.hk"><title>精靈一點</title><sub-title>精靈一點 9月11日</sub-title><desc>1300-1400[健康人物專訪]1400-1500[醫學會會診日]主題︰血管炎嘉賓：崔慶森醫生(風濕病科專科醫生)</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911064500 +0000" channel="TV 31.hk"><title>故鄉，別來無恙</title><sub-title>第十三集: 張沛為朋友爭取保險賠償</sub-title><desc>張沛和劉楓陪同朋友到保險公司面談判，謝陽跟朋友一同到來。四人聲勢壯大，保險公司不再態度強硬。一行人正離開保險公司時，忽然發生地震，謝陽拉起張沛便往外跑，抓住機會重新向張沛介紹了自己。董家希告訴好姊妹父親回了家，幾人勸勉她要明白母親處境。</desc></programme>
+<programme start="20250911064500 +0000" stop="20250911073500 +0000" channel="TV 31.hk"><title>故鄉，別來無恙</title><sub-title>第十四集: 苟丹丹收到不明來歷禮物</sub-title><desc>苟丹丹突然收到很多禮品，面對不明來路的好意，苟丹丹並不敢領取。好友決定偷偷監察送禮人是誰，終於有所發現。好友知道苟丹丹面臨五十萬違約金，張沛責斥苟丹丹沒跟大家商量，苟丹丹正在氣頭上，兩人大吵幾句。吳芸的房子同租人要退租，也不還錢給吳芸，吳芸不再啞忍。</desc></programme>
+<programme start="20250911073500 +0000" stop="20250911083000 +0000" channel="TV 31.hk"><title>港台體壇123</title><sub-title>第一千零四十九集</sub-title><desc>嘉賓：劉嘉豪、陳曉峯體育手板公仔創作人</desc></programme>
+<programme start="20250911083000 +0000" stop="20250911085000 +0000" channel="TV 31.hk"><title>BobieLand</title><sub-title>第八十九集 - 「好媽媽 別咆哮」</sub-title><desc>BobieLand 第八十八集-「好媽媽別咆哮」編導:蔡少傑為求「由Okie Bobie 扮演子樂媽媽代替見家長」的計畫順利進行，各園長與小朋友從髮型、化妝及服裝對Okie Bobie進行大改造，令Okie Bobie形神兼備似足子樂媽媽。【More More魔術see】Magic Kevin 向大家講述了一個他與小朋友David的一次魔術表演，更教導小朋友一起變了一個關於Okie Bobie的魔術。【手作EASY JOB】圖媽媽與圖圖了解到大家的衝突源於溝通的面向不同，本星期的『手作EASY JOB』將由圖圖母子決定教大家製作一幅從不同角度觀看，會有不同效果的神奇畫作。</desc></programme>
+<programme start="20250911085000 +0000" stop="20250911090500 +0000" channel="TV 31.hk"><title>奀菇菇搞搞震 2</title><sub-title>誰是收藏家？</sub-title><desc>杏鮑仔本來很開心毒菇也成為了收藏家，怎料她變得比他還要擅長收集！</desc></programme>
+<programme start="20250911090500 +0000" stop="20250911093000 +0000" channel="TV 31.hk"><title>小農夫大作物 新一彈</title><sub-title>嚴寒中的寒締菠菜</sub-title><desc>名寄市在嚴寒中種植菠菜。我們一起去了解菠菜如何在白雪皚皚、寒冷的北海道北部生長。寒冷會使蔬菜變甜。而驚人的含糖量究竟是多少呢？最後，我們吃了農民推薦的菠菜菜餚。</desc></programme>
+<programme start="20250911093000 +0000" stop="20250911100000 +0000" channel="TV 31.hk"><title>灣區全媒睇</title><sub-title>第九百八十四集</sub-title><desc>#灣區全媒睇第九百八十三集主持梁凱寧、涂冠祺南北快閃無錫：海鐵聯運直達南美山東：自然保護區內東方白鸛繁殖量創新高南京：舉辦周口店遺址文化展新疆輪台縣：白化棕熊母子於山區覓食福州：舉行茉莉花開採季啓動儀式廣為人知廣州：適老舒適型旅遊專列啓行廣州：通過體育運動學習垃圾分類知識廣州：粵港澳台青少年同場競技灣區新里程珠海：自主研發技術協助國家探索太空惠州：家庭養老床位目標建設超額完成保定：恐龍化石裡的中國故事與科技魅力太原：蒙山景區成避暑勝境講你知香港：介紹充滿集體回憶的港式美食鳥瞰神州雲南永善：綠浪湧動美如畫</desc></programme>
+<programme start="20250911100000 +0000" stop="20250911103000 +0000" channel="TV 31.hk"><title>新聞天地</title><sub-title>20250911</sub-title><desc>監製：新聞部記者 提供每日新聞資訊</desc></programme>
+<programme start="20250911103000 +0000" stop="20250911105500 +0000" channel="TV 31.hk"><title>凝聚香港</title></programme>
+<programme start="20250911105500 +0000" stop="20250911110000 +0000" channel="TV 31.hk"><title>香港電台天氣簡報</title></programme>
+<programme start="20250911110000 +0000" stop="20250911115500 +0000" channel="TV 31.hk"><title>山花爛漫時</title><sub-title>第九集：學生哭着挽留老師</sub-title><desc>張桂梅開會，鄭重向所有老師致歉，表示自己之前太專注女高辦學，忽略了老師們的感受。老師胡娟和嚴莉向張桂梅遞上辭職報告，張桂梅親自相送。這時，學生們沖出來，攔住了胡娟和嚴莉，並紛紛哭着表態，一定苦讀苦學。</desc></programme>
+<programme start="20250911115500 +0000" stop="20250911120000 +0000" channel="TV 31.hk"><title>政正關你事 - 感激有你</title><sub-title>感激有你 - 區區有愛</sub-title><desc>「行政長官表揚榜」獎勵計劃旨在公開表揚優秀而且具示範作用的公務員團隊或人員，激勵公務員不斷求進，並讓公眾更了解政府的工作及公務員團隊優秀的面貌。「2025年3月前赴緬甸地震災區救援的特區救援隊」是獲獎隊伍之一，其成員包括保安局、消防處及入境事務處的公務員團隊，以及醫院管理局的醫護代表。特區救援隊秉持專業精神，在救災其間更與國家救援隊合作，並利用人工智能及無人機等先進科技進行救災。特區救援隊不斷提升應急救援能力和水平，為國際人道救援工作作出重大貢獻。</desc></programme>
+<programme start="20250911120000 +0000" stop="20250911122500 +0000" channel="TV 31.hk"><title>鏗鏘集</title><sub-title>海洋公園生命力</sub-title><desc>1977年成立，陪伴香港人成長的海洋公園，近年正逐步轉型為以動物為本的保育教育中心，園方去年用於自然教育及保育工作的開支佔營運成本近三成，超過四億三千萬港元。昔日以機動遊戲聞名的樂園，如何在商業及生態責任間探索新方向? 節目將透過人工繁殖牛鼻鯆的科研過程、與漁護署合作救援擱淺海龜的故事等，看看園方近年在定位上的轉變。</desc></programme>
+<programme start="20250911122500 +0000" stop="20250911123000 +0000" channel="TV 31.hk"><title>香港電台天氣簡報</title></programme>
+<programme start="20250911123000 +0000" stop="20250911132500 +0000" channel="TV 31.hk"><title>追風者</title><sub-title>第五集：魏若來替魏若川發接頭信息</sub-title><desc>魏若來前往央行保險庫，發現他哥保管的竟是一箱金條。沈近真請老徐將沈圖南的金融計畫轉交江西，並決定親自去探林樵鬆口風。果然在沈近真打探下，林樵松不小心透露了抓捕孤星的進展。魏若來按兄長交代，在報紙上發佈了接頭“掛失資訊”，卻突然得知張鳴泉正偷偷轉移通商銀行金庫。他拼命阻止，危機關頭，沈圖南帶援兵趕到化解了危機。見魏若來頭破血流，沈圖南邊責備邊心疼，令他好好收拾，去吃頓好的。林樵松通過李晟達提供的密碼本，幾乎和徐諾同時從報紙上破解了接頭地點就在央行。沈近真不顧徐諾反對，主動請纓前往。</desc></programme>
+<programme start="20250911132500 +0000" stop="20250911133000 +0000" channel="TV 31.hk"><title>政正關你事 - 感激有你</title><sub-title>感激有你 - 區區有愛</sub-title><desc>「行政長官表揚榜」獎勵計劃旨在公開表揚優秀而且具示範作用的公務員團隊或人員，激勵公務員不斷求進，並讓公眾更了解政府的工作及公務員團隊優秀的面貌。「2025年3月前赴緬甸地震災區救援的特區救援隊」是獲獎隊伍之一，其成員包括保安局、消防處及入境事務處的公務員團隊，以及醫院管理局的醫護代表。特區救援隊秉持專業精神，在救災其間更與國家救援隊合作，並利用人工智能及無人機等先進科技進行救災。特區救援隊不斷提升應急救援能力和水平，為國際人道救援工作作出重大貢獻。</desc></programme>
+<programme start="20250911133000 +0000" stop="20250911140000 +0000" channel="TV 31.hk"><title>跑者愛也</title><sub-title>黎展峯/跑的記錄與傳承</sub-title><desc>第十集黎展峯/跑的記錄與傳承〈跑者愛分享〉－黎展峯主持梁諾妍（Inez）與歌手黎展峯（Andy）穿梭於中半山寶雲道，從寶雲道花園出發，奔向姻緣石，踏出健步徑節奏。 Andy從球場的體育生轉變為十公里跑者，他笑言：「與朋友並肩衝刺，就是跑步最純粹的快樂！」在備戰首場半馬之際，Andy分享歌手與跑者之間的共通點，聲帶和雙腿都需要持續的鍛鍊。他深知，人生的賽道並非一帆風順，但只要不斷向前，終點自會相逢。無論是在音樂或跑道上，保持熱忱，才是最好的節奏！〈跑者愛迷思〉－如何提升跑步耐力？想跑得更快、更遠，突破自己的極限？原來除了跑步本身，波比跳和深蹲跳這兩個簡單又有效的練習，能顯著提升你的耐力，增強肌力與心肺功能，讓你輕鬆超越個人紀錄！〈鐵人跑〉港隊前三項鐵人代表劉峻崚（Ling Lau），退役後轉型為教練，仍然熱愛奔跑。他不僅帶領新一代三鐵學生，自己也從未忘記跑步的樂趣，繼續積極參加各類賽事。此外，他也是跑步vlogger，經常把學界比賽及與跑友一起奔跑的片段記錄並分享到網上，身體力行推動跑步文化，來一場跑步的記錄與傳承！《跑者愛也》 Fun Run 歡樂跑為進一步推廣跑步的樂趣，香港電台特別舉辦「歡樂跑」活動，邀請主持梁諾妍（Inez）、嘉賓應智越（細貓）與近一百名跑友共聚沙田運動場，一同進行3公里慢跑，並親身體驗蒙眼視障跑，感受運動與共融所發放的無限活力！</desc></programme>
+<programme start="20250911140000 +0000" stop="20250911145500 +0000" channel="TV 31.hk"><title>盧溝橋:我們的紀念</title><sub-title>第三集</sub-title><desc>全民族抗戰爆發後，中國共產黨提出並實施持久戰的戰略總方針和一整套人民戰爭的戰略戰術。本集主要故事包括毛澤東撰寫《論持久戰》、斯諾採訪背包、百團大戰、八路軍在抗戰中犧牲的最高將領左權、新四軍在抗戰中犧牲的最高將領彭雪楓、冉莊地道戰唯一健在的民兵李恒彪、出生在延安的向延生等。</desc></programme>
+<programme start="20250911145500 +0000" stop="20250911150000 +0000" channel="TV 31.hk"><title>盛事傳城</title><sub-title>亞藝無疆藝術節；抗戰勝利八十周年展覽</sub-title><desc>由康文署策劃的第三屆「亞藝無疆」藝術節，9月至11月舉行，匯聚超過三十個國家同地區的藝術家和藝團，呈獻過百場戲劇、舞蹈、音樂演出等。重頭戲「亞裔藝采＋」嘉年華將於11月16日會在文化中心舉行，獲多個駐港領事館支持，會有各國民族音樂和舞蹈表演，還有文化攤位和工作坊，展示精緻的民族傳統服飾、手工藝、特色小食等。</desc></programme>
+<programme start="20250911150000 +0000" stop="20250911160000 +0000" channel="TV 31.hk"><title>學人沙龍</title><sub-title>你有中二病嗎?</sub-title><desc>「中二病」這一術語源自日本，形容青春期特有的心態，通常在中學二年級出現，根據Piaget的理論，這一階段的青少年開始發展抽象思維，並感受到強烈的自我中心主義，為追求獨特性和渴望獨立，青少年常常構建幻想世界來表達自我，這種心態又會否成為逃避現實的機制?主持:張存華(多媒體主持)梁重皿(臨床心理學家)黃麗茵(廚師)李澄琳(澳洲註冊營養師)</desc></programme>
+<programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="TV 31.hk"><title>凝聚香港</title></programme>
+<programme start="20250911163000 +0000" stop="20250911170000 +0000" channel="TV 31.hk"><title>灣區全媒睇</title><sub-title>第九百八十四集</sub-title><desc>#灣區全媒睇第九百八十三集主持梁凱寧、涂冠祺南北快閃無錫：海鐵聯運直達南美山東：自然保護區內東方白鸛繁殖量創新高南京：舉辦周口店遺址文化展新疆輪台縣：白化棕熊母子於山區覓食福州：舉行茉莉花開採季啓動儀式廣為人知廣州：適老舒適型旅遊專列啓行廣州：通過體育運動學習垃圾分類知識廣州：粵港澳台青少年同場競技灣區新里程珠海：自主研發技術協助國家探索太空惠州：家庭養老床位目標建設超額完成保定：恐龍化石裡的中國故事與科技魅力太原：蒙山景區成避暑勝境講你知香港：介紹充滿集體回憶的港式美食鳥瞰神州雲南永善：綠浪湧動美如畫</desc></programme>
+<programme start="20250911170000 +0000" stop="20250911180000 +0000" channel="TV 31.hk"><title>山花爛漫時</title><sub-title>第九集：學生哭着挽留老師</sub-title><desc>張桂梅開會，鄭重向所有老師致歉，表示自己之前太專注女高辦學，忽略了老師們的感受。老師胡娟和嚴莉向張桂梅遞上辭職報告，張桂梅親自相送。這時，學生們沖出來，攔住了胡娟和嚴莉，並紛紛哭着表態，一定苦讀苦學。</desc></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="TV 31.hk"><title>鏗鏘集</title><sub-title>海洋公園生命力</sub-title><desc>1977年成立，陪伴香港人成長的海洋公園，近年正逐步轉型為以動物為本的保育教育中心，園方去年用於自然教育及保育工作的開支佔營運成本近三成，超過四億三千萬港元。昔日以機動遊戲聞名的樂園，如何在商業及生態責任間探索新方向? 節目將透過人工繁殖牛鼻鯆的科研過程、與漁護署合作救援擱淺海龜的故事等，看看園方近年在定位上的轉變。</desc></programme>
+<programme start="20250911183000 +0000" stop="20250911190000 +0000" channel="TV 31.hk"><title>跑者愛也</title><sub-title>黎展峯/跑的記錄與傳承</sub-title><desc>第十集黎展峯/跑的記錄與傳承〈跑者愛分享〉－黎展峯主持梁諾妍（Inez）與歌手黎展峯（Andy）穿梭於中半山寶雲道，從寶雲道花園出發，奔向姻緣石，踏出健步徑節奏。 Andy從球場的體育生轉變為十公里跑者，他笑言：「與朋友並肩衝刺，就是跑步最純粹的快樂！」在備戰首場半馬之際，Andy分享歌手與跑者之間的共通點，聲帶和雙腿都需要持續的鍛鍊。他深知，人生的賽道並非一帆風順，但只要不斷向前，終點自會相逢。無論是在音樂或跑道上，保持熱忱，才是最好的節奏！〈跑者愛迷思〉－如何提升跑步耐力？想跑得更快、更遠，突破自己的極限？原來除了跑步本身，波比跳和深蹲跳這兩個簡單又有效的練習，能顯著提升你的耐力，增強肌力與心肺功能，讓你輕鬆超越個人紀錄！〈鐵人跑〉港隊前三項鐵人代表劉峻崚（Ling Lau），退役後轉型為教練，仍然熱愛奔跑。他不僅帶領新一代三鐵學生，自己也從未忘記跑步的樂趣，繼續積極參加各類賽事。此外，他也是跑步vlogger，經常把學界比賽及與跑友一起奔跑的片段記錄並分享到網上，身體力行推動跑步文化，來一場跑步的記錄與傳承！《跑者愛也》 Fun Run 歡樂跑為進一步推廣跑步的樂趣，香港電台特別舉辦「歡樂跑」活動，邀請主持梁諾妍（Inez）、嘉賓應智越（細貓）與近一百名跑友共聚沙田運動場，一同進行3公里慢跑，並親身體驗蒙眼視障跑，感受運動與共融所發放的無限活力！</desc></programme>
+<programme start="20250911190000 +0000" stop="20250911193000 +0000" channel="TV 31.hk"><title>港樂 • 講樂</title><sub-title>第120集：何佩 (HOPUI)</sub-title><desc>何佩，原名何佩婷，是本地的創作女歌手，她在設計學院畢業後成為廣告撰稿員，工作讓她鍛鍊文筆，為日後填詞打好基礎。2021年何佩為實現音樂夢，毅然辭去廣告工作，參加電視台的選秀節目，其後決定成為獨立創作歌手，自資出歌。她希望自己的音樂可以成為一道暖光，陪伴每一個人！今集《港樂．講樂》請來何佩，分享她選擇獨立發展的音樂之路，並親自演繹兩首自己作曲的作品。主持崔潔彤、阮偉倫歌曲：《喜劇開場了》《Maybe I Have Something Just Like You》</desc></programme>
+<programme start="20250911193000 +0000" stop="20250911203000 +0000" channel="TV 31.hk"><title>追風者</title><sub-title>第五集：魏若來替魏若川發接頭信息</sub-title><desc>魏若來前往央行保險庫，發現他哥保管的竟是一箱金條。沈近真請老徐將沈圖南的金融計畫轉交江西，並決定親自去探林樵鬆口風。果然在沈近真打探下，林樵松不小心透露了抓捕孤星的進展。魏若來按兄長交代，在報紙上發佈了接頭“掛失資訊”，卻突然得知張鳴泉正偷偷轉移通商銀行金庫。他拼命阻止，危機關頭，沈圖南帶援兵趕到化解了危機。見魏若來頭破血流，沈圖南邊責備邊心疼，令他好好收拾，去吃頓好的。林樵松通過李晟達提供的密碼本，幾乎和徐諾同時從報紙上破解了接頭地點就在央行。沈近真不顧徐諾反對，主動請纓前往。</desc></programme>
+<programme start="20250911203000 +0000" stop="20250911213000 +0000" channel="TV 31.hk"><title>盧溝橋:我們的紀念</title><sub-title>第三集</sub-title><desc>全民族抗戰爆發後，中國共產黨提出並實施持久戰的戰略總方針和一整套人民戰爭的戰略戰術。本集主要故事包括毛澤東撰寫《論持久戰》、斯諾採訪背包、百團大戰、八路軍在抗戰中犧牲的最高將領左權、新四軍在抗戰中犧牲的最高將領彭雪楓、冉莊地道戰唯一健在的民兵李恒彪、出生在延安的向延生等。</desc></programme>
+<programme start="20250911213000 +0000" stop="20250911223000 +0000" channel="TV 31.hk"><title>學人沙龍</title><sub-title>你有中二病嗎?</sub-title><desc>「中二病」這一術語源自日本，形容青春期特有的心態，通常在中學二年級出現，根據Piaget的理論，這一階段的青少年開始發展抽象思維，並感受到強烈的自我中心主義，為追求獨特性和渴望獨立，青少年常常構建幻想世界來表達自我，這種心態又會否成為逃避現實的機制?主持:張存華(多媒體主持)梁重皿(臨床心理學家)黃麗茵(廚師)李澄琳(澳洲註冊營養師)</desc></programme>
+<programme start="20250911223000 +0000" stop="20250911225000 +0000" channel="TV 31.hk"><title>BobieLand</title><sub-title>第八十九集 - 「好媽媽 別咆哮」</sub-title><desc>BobieLand 第八十八集-「好媽媽別咆哮」編導:蔡少傑為求「由Okie Bobie 扮演子樂媽媽代替見家長」的計畫順利進行，各園長與小朋友從髮型、化妝及服裝對Okie Bobie進行大改造，令Okie Bobie形神兼備似足子樂媽媽。【More More魔術see】Magic Kevin 向大家講述了一個他與小朋友David的一次魔術表演，更教導小朋友一起變了一個關於Okie Bobie的魔術。【手作EASY JOB】圖媽媽與圖圖了解到大家的衝突源於溝通的面向不同，本星期的『手作EASY JOB』將由圖圖母子決定教大家製作一幅從不同角度觀看，會有不同效果的神奇畫作。</desc></programme>
+<programme start="20250911225000 +0000" stop="20250911230500 +0000" channel="TV 31.hk"><title>奀菇菇搞搞震 2</title><sub-title>誰是收藏家？</sub-title><desc>杏鮑仔本來很開心毒菇也成為了收藏家，怎料她變得比他還要擅長收集！</desc></programme>
+<programme start="20250911230500 +0000" stop="20250911233000 +0000" channel="TV 31.hk"><title>小農夫大作物 新一彈</title><sub-title>嚴寒中的寒締菠菜</sub-title><desc>名寄市在嚴寒中種植菠菜。我們一起去了解菠菜如何在白雪皚皚、寒冷的北海道北部生長。寒冷會使蔬菜變甜。而驚人的含糖量究竟是多少呢？最後，我們吃了農民推薦的菠菜菜餚。</desc></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="TV 31.hk"><title>灣區全媒睇</title><sub-title>第九百八十四集</sub-title><desc>#灣區全媒睇第九百八十三集主持梁凱寧、涂冠祺南北快閃無錫：海鐵聯運直達南美山東：自然保護區內東方白鸛繁殖量創新高南京：舉辦周口店遺址文化展新疆輪台縣：白化棕熊母子於山區覓食福州：舉行茉莉花開採季啓動儀式廣為人知廣州：適老舒適型旅遊專列啓行廣州：通過體育運動學習垃圾分類知識廣州：粵港澳台青少年同場競技灣區新里程珠海：自主研發技術協助國家探索太空惠州：家庭養老床位目標建設超額完成保定：恐龍化石裡的中國故事與科技魅力太原：蒙山景區成避暑勝境講你知香港：介紹充滿集體回憶的港式美食鳥瞰神州雲南永善：綠浪湧動美如畫</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912000500 +0000" channel="TV 31.hk"><title>盛事傳城</title></programme>
+<programme start="20250912000500 +0000" stop="20250912010000 +0000" channel="TV 31.hk"><title>千禧年代</title><sub-title>千禧年代 9月12日</sub-title><desc>監製：林嘉瑜 《千禧年代》鼓勵聽眾作有觀點、有理據的意見交流，藉此帶出更多新觀點、新意見、新態度。透過時事速遞，每日早晨為市民提供最新資訊以迎接新的一天。逢星期一至五 上午八時至九時 港台電視31視像直播上午八時至十時 FM926 香港電台第一台直播聲音更立體　意見更多元 熱線號碼: 1872311</desc></programme>
+<programme start="20250912010000 +0000" stop="20250912013000 +0000" channel="TV 31.hk"><title>鏗鏘集</title><sub-title>海洋公園生命力</sub-title><desc>1977年成立，陪伴香港人成長的海洋公園，近年正逐步轉型為以動物為本的保育教育中心，園方去年用於自然教育及保育工作的開支佔營運成本近三成，超過四億三千萬港元。昔日以機動遊戲聞名的樂園，如何在商業及生態責任間探索新方向? 節目將透過人工繁殖牛鼻鯆的科研過程、與漁護署合作救援擱淺海龜的故事等，看看園方近年在定位上的轉變。</desc></programme>
+<programme start="20250912013000 +0000" stop="20250912020000 +0000" channel="TV 31.hk"><title>跑者愛也</title><sub-title>黎展峯/跑的記錄與傳承</sub-title><desc>第十集黎展峯/跑的記錄與傳承〈跑者愛分享〉－黎展峯主持梁諾妍（Inez）與歌手黎展峯（Andy）穿梭於中半山寶雲道，從寶雲道花園出發，奔向姻緣石，踏出健步徑節奏。 Andy從球場的體育生轉變為十公里跑者，他笑言：「與朋友並肩衝刺，就是跑步最純粹的快樂！」在備戰首場半馬之際，Andy分享歌手與跑者之間的共通點，聲帶和雙腿都需要持續的鍛鍊。他深知，人生的賽道並非一帆風順，但只要不斷向前，終點自會相逢。無論是在音樂或跑道上，保持熱忱，才是最好的節奏！〈跑者愛迷思〉－如何提升跑步耐力？想跑得更快、更遠，突破自己的極限？原來除了跑步本身，波比跳和深蹲跳這兩個簡單又有效的練習，能顯著提升你的耐力，增強肌力與心肺功能，讓你輕鬆超越個人紀錄！〈鐵人跑〉港隊前三項鐵人代表劉峻崚（Ling Lau），退役後轉型為教練，仍然熱愛奔跑。他不僅帶領新一代三鐵學生，自己也從未忘記跑步的樂趣，繼續積極參加各類賽事。此外，他也是跑步vlogger，經常把學界比賽及與跑友一起奔跑的片段記錄並分享到網上，身體力行推動跑步文化，來一場跑步的記錄與傳承！《跑者愛也》 Fun Run 歡樂跑為進一步推廣跑步的樂趣，香港電台特別舉辦「歡樂跑」活動，邀請主持梁諾妍（Inez）、嘉賓應智越（細貓）與近一百名跑友共聚沙田運動場，一同進行3公里慢跑，並親身體驗蒙眼視障跑，感受運動與共融所發放的無限活力！</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912025500 +0000" channel="TV 31.hk"><title>簡言的夏冬</title><sub-title>第十集</sub-title><desc>夏冬與千朵假扮情侶購買別墅，卻無法激發售樓小姐的熱情，夏冬感到蹊蹺。他由諸多細節處著眼，確認無論是梁美珠買樓還是樓盤本身都疑點重重…為了確認自己的判斷，他讓千朵刷卡訂購樓王，千朵照辦。關鍵時刻，售樓組長出面制止。話間，夏冬望見林俊文從經理室迅速閃出。</desc></programme>
+<programme start="20250912025500 +0000" stop="20250912030000 +0000" channel="TV 31.hk"><title>政正關你事 - 感激有你</title><sub-title>感激有你 - 區區有愛</sub-title><desc>「行政長官表揚榜」獎勵計劃旨在公開表揚優秀而且具示範作用的公務員團隊或人員，激勵公務員不斷求進，並讓公眾更了解政府的工作及公務員團隊優秀的面貌。「2025年3月前赴緬甸地震災區救援的特區救援隊」是獲獎隊伍之一，其成員包括保安局、消防處及入境事務處的公務員團隊，以及醫院管理局的醫護代表。特區救援隊秉持專業精神，在救災其間更與國家救援隊合作，並利用人工智能及無人機等先進科技進行救災。特區救援隊不斷提升應急救援能力和水平，為國際人道救援工作作出重大貢獻。</desc></programme>
+<programme start="20250912030000 +0000" stop="20250912030500 +0000" channel="TV 31.hk"><title>盛事傳城</title></programme>
+<programme start="20250912030500 +0000" stop="20250912031000 +0000" channel="TV 31.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250912031000 +0000" stop="20250912040000 +0000" channel="TV 31.hk"><title>香江暖流</title><sub-title>香江暖流《Music Five》</sub-title><desc>監製：李仁傑 全港首個為銀齡而設，電台電視同步直播的遊戲節目，集腦力、智力、創造力於一身。為您帶來最貼近銀髮一族嘅生活、醫學、消閒資訊。香港電台第五台《香江暖流》電視版。五月十七日上午十一時，正式啟播。主持：Harry哥哥、袁沅玉、周綺玲、鄧添樂、黎茜姸</desc></programme>
+<programme start="20250912040000 +0000" stop="20250912043000 +0000" channel="TV 31.hk"><title>血鑄河山 經典回放</title><sub-title>第二十五集︰生死約定</sub-title><desc>監製：周啟棠 由中國廣播電視協會城市台電視新聞委員會策劃、內地46個電視台共同製作並重新包裝的大型抗戰紀念系列節目。紀錄片聚焦普通士兵、民眾的抗戰經歷，包含陝軍抗日、川軍抗戰等地方事蹟。採用雙時空敘事結構，通過歷史影像與現時尋訪交替呈現日本八路、南僑機工等人物故事。香港電台於8月27日至9月26日，星期一至五，中午1200-1300，每日兩集，31台播出。</desc></programme>
+<programme start="20250912043000 +0000" stop="20250912050000 +0000" channel="TV 31.hk"><title>血鑄河山 經典回放</title><sub-title>第二十六集︰西班牙醫生</sub-title><desc>監製：周啟棠 由中國廣播電視協會城市台電視新聞委員會策劃、內地46個電視台共同製作並重新包裝的大型抗戰紀念系列節目。紀錄片聚焦普通士兵、民眾的抗戰經歷，包含陝軍抗日、川軍抗戰等地方事蹟。採用雙時空敘事結構，通過歷史影像與現時尋訪交替呈現日本八路、南僑機工等人物故事。香港電台於8月27日至9月26日，星期一至五，中午1200-1300，每日兩集，31台播出。</desc></programme>
+<programme start="20250912050000 +0000" stop="20250912050500 +0000" channel="TV 31.hk"><title>政正關你事 - 感激有你</title><sub-title>感激有你 - 區區有愛</sub-title><desc>「行政長官表揚榜」獎勵計劃旨在公開表揚優秀而且具示範作用的公務員團隊或人員，激勵公務員不斷求進，並讓公眾更了解政府的工作及公務員團隊優秀的面貌。「2025年3月前赴緬甸地震災區救援的特區救援隊」是獲獎隊伍之一，其成員包括保安局、消防處及入境事務處的公務員團隊，以及醫院管理局的醫護代表。特區救援隊秉持專業精神，在救災其間更與國家救援隊合作，並利用人工智能及無人機等先進科技進行救災。特區救援隊不斷提升應急救援能力和水平，為國際人道救援工作作出重大貢獻。</desc></programme>
+<programme start="20250912050500 +0000" stop="20250912051000 +0000" channel="TV 31.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250912051000 +0000" stop="20250912060000 +0000" channel="TV 31.hk"><title>精靈一點</title></programme>
+<programme start="20250912060000 +0000" stop="20250912064500 +0000" channel="TV 31.hk"><title>故鄉，別來無恙</title><sub-title>第十五集: 謝陽搭線希望張沛和苟丹丹和好</sub-title><desc>董家希在成都找工作並不順利，無論是本科的會計，或興趣的劇場工作也不易找。吳芸也被時常來要求申請低保的老爺爺煩擾着。謝陽幫忙搭線約四人吃飯，希望張沛和苟丹丹可以和好，但苟丹丹沒出現。其他三個女孩去到謝陽家，看到他家的裝潢後驚嘆謝陽發達了!</desc></programme>
+<programme start="20250912064500 +0000" stop="20250912073500 +0000" channel="TV 31.hk"><title>故鄉，別來無恙</title><sub-title>第十六集: 當年中學時的一巴掌</sub-title><desc>張沛父母又催她結婚，張沛不希望父母管這麼多。董家希瞞騙母親說自己在做會計工作，其實是做文案，晚上更要兼職劇本殺，但兩份工作都很不順心。張沛忙了一天回到家竟然看到了謝陽，吃飯時媽媽想撮合二人，但張沛不能放下在中學時被爸爸搧巴掌的一事，怒得奪門而去。</desc></programme>
+<programme start="20250912073500 +0000" stop="20250912083000 +0000" channel="TV 31.hk"><title>港台體壇123</title></programme>
+<programme start="20250912083000 +0000" stop="20250912085000 +0000" channel="TV 31.hk"><title>BobieLand</title><sub-title>第九十集 - 「好媽媽 別咆哮」</sub-title><desc>BobieLand 第八十八集-「好媽媽別咆哮」編導:蔡少傑為求「由Okie Bobie 扮演子樂媽媽代替見家長」的計畫順利進行，各園長與小朋友從髮型、化妝及服裝對Okie Bobie進行大改造，令Okie Bobie形神兼備似足子樂媽媽。【More More魔術see】Magic Kevin 向大家講述了一個他與小朋友David的一次魔術表演，更教導小朋友一起變了一個關於Okie Bobie的魔術。【手作EASY JOB】圖媽媽與圖圖了解到大家的衝突源於溝通的面向不同，本星期的『手作EASY JOB』將由圖圖母子決定教大家製作一幅從不同角度觀看，會有不同效果的神奇畫作。</desc></programme>
+<programme start="20250912085000 +0000" stop="20250912090500 +0000" channel="TV 31.hk"><title>奀菇菇搞搞震 2</title></programme>
+<programme start="20250912090500 +0000" stop="20250912093000 +0000" channel="TV 31.hk"><title>小農夫大作物 新一彈</title><sub-title>大豆的精華—黃豆粉</sub-title><desc>這是節目第一次介紹黃豆粉。黃豆粉是日本傳統食品，由大豆製成。北海道大豆產量高居日本第一。只需烘焙及研磨即可製成黃豆粉。今次亦會有專業廚師教我們烹調簡單黃豆粉菜餚。</desc></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="TV 31.hk"><title>灣區全媒睇</title><sub-title>第九百八十五集</sub-title><desc>#灣區全媒睇第九百八十三集主持梁凱寧、涂冠祺南北快閃無錫：海鐵聯運直達南美山東：自然保護區內東方白鸛繁殖量創新高南京：舉辦周口店遺址文化展新疆輪台縣：白化棕熊母子於山區覓食福州：舉行茉莉花開採季啓動儀式廣為人知廣州：適老舒適型旅遊專列啓行廣州：通過體育運動學習垃圾分類知識廣州：粵港澳台青少年同場競技灣區新里程珠海：自主研發技術協助國家探索太空惠州：家庭養老床位目標建設超額完成保定：恐龍化石裡的中國故事與科技魅力太原：蒙山景區成避暑勝境講你知香港：介紹充滿集體回憶的港式美食鳥瞰神州雲南永善：綠浪湧動美如畫</desc></programme>
+<programme start="20250912100000 +0000" stop="20250912103000 +0000" channel="TV 31.hk"><title>新聞天地</title><sub-title>20250912</sub-title><desc>監製：新聞部記者 提供每日新聞資訊</desc></programme>
+<programme start="20250912103000 +0000" stop="20250912105500 +0000" channel="TV 31.hk"><title>凝聚香港</title></programme>
+<programme start="20250912105500 +0000" stop="20250912110000 +0000" channel="TV 31.hk"><title>香港電台天氣簡報</title></programme>
+<programme start="20250912110000 +0000" stop="20250912115500 +0000" channel="TV 31.hk"><title>山花爛漫時</title><sub-title>第十集：谷雨父親高喊讓張桂梅還錢</sub-title><desc>張桂梅再出門化緣，不料之前答允捐助的企業家都紛紛變卦，打了張桂梅一個措手不及。與此同時，谷雨父親耍賴跑到女高，高喊讓張桂梅還清欠自己的三萬塊錢，讓谷雨無地自容。縣領導打算向省委書吐露女高眼下的危機。</desc></programme>
+<programme start="20250912115500 +0000" stop="20250912120000 +0000" channel="TV 31.hk"><title>政正關你事 - 感激有你</title><sub-title>感激有你 - 香港守望者服務團</sub-title><desc>香港守望者服務團成立了四年，團員已經超過30人，來自各行各業的他們，雖然大多數是全職上班族，但卻願意在工作之餘投入這份無償的搜救工作。創辦人鄭偉軒相信，除了政府救援部門，民間也應該有一支專業且靈活的隊伍，能夠在最短的時間內投入搜救行動，為遇險者爭取寶貴的時間。鄭偉軒分享多年來在搜救過程中見證的人性光輝，感嘆強頑的生命力。</desc></programme>
+<programme start="20250912120000 +0000" stop="20250912122500 +0000" channel="TV 31.hk"><title>尋蹤抗戰歷史</title><sub-title>第一集：秘密大營救</sub-title><desc>香港淪陷期間，香港地下黨組織及廣東人民抗日游擊隊展開空前絕後的「秘密大營救」，在日寇嚴密封鎖下，救出數百文化人士，轉移往後方安全地帶，奇跡般地完成一場「最偉大的搶救工作」。第一集尋蹤抗戰歷史以「秘密大營救」為主題，介紹七個與「秘密大營救」有密切關係的地點，對比現今變化，了解背後的歷史故事及旅遊價值，並感受抗戰勝利的艱辛，反思現代和平生活得來不易。</desc></programme>
+<programme start="20250912122500 +0000" stop="20250912123000 +0000" channel="TV 31.hk"><title>香港電台天氣簡報</title></programme>
+<programme start="20250912123000 +0000" stop="20250912132500 +0000" channel="TV 31.hk"><title>追風者</title><sub-title>第六集：沈近真掩護魏若來脫險</sub-title><desc>央行接頭當日，魏若來來到大廳，沒想等來的卻是沈近真。她很快識破了偵緝隊偽裝，假意責駡魏若來失職，並稱要找沈圖南催款。林樵松致電兵工廠核實情況後，才最終打消心中疑雲。夜裡，李晟達奉命潛入魏若來家，得知孤星和魏若來正是親兄弟。他聲稱自己是魏若川的同志，魏若來謹慎作答才逃過一劫。他看到李晟達留下的裁紙刀上寫著“日新”二字，囑託阿文幫忙打探。徐諾擔心魏若來是林樵松的餌，前去會計學校調查情況。沈圖南也來到七寶街瞭解魏若來背景，沒想碰上曾經的老師，白髮老頭。此時，央行培訓考試結果出爐，魏若來成績墊底，黃從勻向沈圖南建議重新選拔助理。</desc></programme>
+<programme start="20250912132500 +0000" stop="20250912133000 +0000" channel="TV 31.hk"><title>政正關你事 - 感激有你</title><sub-title>感激有你 - 香港守望者服務團</sub-title><desc>香港守望者服務團成立了四年，團員已經超過30人，來自各行各業的他們，雖然大多數是全職上班族，但卻願意在工作之餘投入這份無償的搜救工作。創辦人鄭偉軒相信，除了政府救援部門，民間也應該有一支專業且靈活的隊伍，能夠在最短的時間內投入搜救行動，為遇險者爭取寶貴的時間。鄭偉軒分享多年來在搜救過程中見證的人性光輝，感嘆強頑的生命力。</desc></programme>
+<programme start="20250912133000 +0000" stop="20250912140000 +0000" channel="TV 31.hk"><title>證義搜查線之騙局拼圖</title><sub-title>第四集 (唱高散貨)</sub-title><desc>冰嬸陷入「唱高散貨」的騙局，再次血本無歸，情緒崩潰。調查員留意到案中迪奇證券行疑似操控戶口，關鍵人物是證券行負責人羅錦及背後掌事的股壇玩家馬志華。兩人之間有不尋常交易，但馬志華聲稱全由手下主理，推得乾淨，氣焰甚高。Tony振作士氣受挫的下屬們，並決定主攻更大破綻的羅錦，遂針對羅的不同交易不停邀其問話，軟硬兼施，首先警戒他必須回應根據《證券及期貨條例》第183條提出的問題，再以保密協議及《證券及期貨條例》第187條提及認罪元素不能作檢控的原則，幾經波折終將之說服！感到不妙的馬志華慌忙銷毀所有證據，打算馬上搭直昇機離開，促使證監會與警方進行聯合緝捕行動，開展一輪追逐搏鬥，終將他捕獲！過後Tony與凱茵關係好轉，工作模式也多少對對方產生了微妙影響。作為證監會的成員，二人帶著使命，繼續向著維持股票市場公平的目標一同進發。</desc></programme>
+<programme start="20250912140000 +0000" stop="20250912145500 +0000" channel="TV 31.hk"><title>盧溝橋:我們的紀念</title><sub-title>第四集</sub-title><desc>戰略支撐，中國艱苦抗戰打破法西斯稱霸世界的圖謀。故事包括劉老莊八十二烈士浴血奮戰、狼牙山五壯士、一家三代守護張自忠初葬地墓碑半個世紀、鐵漢將軍戴安瀾、營救杜立特、石碾子修機場，全面展示了中國作為東方主戰場，為世界反法西斯戰爭做出的重大貢獻。</desc></programme>
+<programme start="20250912145500 +0000" stop="20250912150000 +0000" channel="TV 31.hk"><title>盛事傳城</title></programme>
+<programme start="20250912150000 +0000" stop="20250912160000 +0000" channel="TV 31.hk"><title>學人沙龍</title></programme>
+<programme start="20250912160000 +0000" stop="20250912163000 +0000" channel="TV 31.hk"><title>凝聚香港</title></programme>
+<programme start="20250912163000 +0000" stop="20250912170000 +0000" channel="TV 31.hk"><title>灣區全媒睇</title><sub-title>第九百八十五集</sub-title><desc>#灣區全媒睇第九百八十三集主持梁凱寧、涂冠祺南北快閃無錫：海鐵聯運直達南美山東：自然保護區內東方白鸛繁殖量創新高南京：舉辦周口店遺址文化展新疆輪台縣：白化棕熊母子於山區覓食福州：舉行茉莉花開採季啓動儀式廣為人知廣州：適老舒適型旅遊專列啓行廣州：通過體育運動學習垃圾分類知識廣州：粵港澳台青少年同場競技灣區新里程珠海：自主研發技術協助國家探索太空惠州：家庭養老床位目標建設超額完成保定：恐龍化石裡的中國故事與科技魅力太原：蒙山景區成避暑勝境講你知香港：介紹充滿集體回憶的港式美食鳥瞰神州雲南永善：綠浪湧動美如畫</desc></programme>
+<programme start="20250912170000 +0000" stop="20250912180000 +0000" channel="TV 31.hk"><title>山花爛漫時</title><sub-title>第十集：谷雨父親高喊讓張桂梅還錢</sub-title><desc>張桂梅再出門化緣，不料之前答允捐助的企業家都紛紛變卦，打了張桂梅一個措手不及。與此同時，谷雨父親耍賴跑到女高，高喊讓張桂梅還清欠自己的三萬塊錢，讓谷雨無地自容。縣領導打算向省委書吐露女高眼下的危機。</desc></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="TV 31.hk"><title>尋蹤抗戰歷史</title><sub-title>第一集：秘密大營救</sub-title><desc>香港淪陷期間，香港地下黨組織及廣東人民抗日游擊隊展開空前絕後的「秘密大營救」，在日寇嚴密封鎖下，救出數百文化人士，轉移往後方安全地帶，奇跡般地完成一場「最偉大的搶救工作」。第一集尋蹤抗戰歷史以「秘密大營救」為主題，介紹七個與「秘密大營救」有密切關係的地點，對比現今變化，了解背後的歷史故事及旅遊價值，並感受抗戰勝利的艱辛，反思現代和平生活得來不易。</desc></programme>
+<programme start="20250912183000 +0000" stop="20250912190000 +0000" channel="TV 31.hk"><title>證義搜查線之騙局拼圖</title><sub-title>第四集 (唱高散貨)</sub-title><desc>冰嬸陷入「唱高散貨」的騙局，再次血本無歸，情緒崩潰。調查員留意到案中迪奇證券行疑似操控戶口，關鍵人物是證券行負責人羅錦及背後掌事的股壇玩家馬志華。兩人之間有不尋常交易，但馬志華聲稱全由手下主理，推得乾淨，氣焰甚高。Tony振作士氣受挫的下屬們，並決定主攻更大破綻的羅錦，遂針對羅的不同交易不停邀其問話，軟硬兼施，首先警戒他必須回應根據《證券及期貨條例》第183條提出的問題，再以保密協議及《證券及期貨條例》第187條提及認罪元素不能作檢控的原則，幾經波折終將之說服！感到不妙的馬志華慌忙銷毀所有證據，打算馬上搭直昇機離開，促使證監會與警方進行聯合緝捕行動，開展一輪追逐搏鬥，終將他捕獲！過後Tony與凱茵關係好轉，工作模式也多少對對方產生了微妙影響。作為證監會的成員，二人帶著使命，繼續向著維持股票市場公平的目標一同進發。</desc></programme>
+<programme start="20250912190000 +0000" stop="20250912190500 +0000" channel="TV 31.hk"><title>傑出華人系列-復刻版</title><sub-title>胡秀英 - 中藥救我命</sub-title><desc>植物學家胡秀英博士對中草藥研究的濃厚興趣，源於她出生時曾救她一命的藥茶。她的持續研究亦推動了「中醫藥研究中心」和香港中文大學中醫學院的成立。</desc></programme>
+<programme start="20250912190500 +0000" stop="20250912191000 +0000" channel="TV 31.hk"><title>傑出華人系列-復刻版</title><sub-title>胡秀英 - 永在自然裏</sub-title><desc>植物學家胡秀英博士在大學時期轉修生物學，因為感到大自然的奧妙，令人心曠神怡。她早在六十年代已開始於香港中文大學推動環保，拯救樹木。</desc></programme>
+<programme start="20250912191000 +0000" stop="20250912191500 +0000" channel="TV 31.hk"><title>傑出華人系列-復刻版</title><sub-title>胡秀英 - 碩果纍纍</sub-title><desc>植物學家胡秀英博士著作等身。是冬青科、蘭科、錦葵科的世界權威。美國哈佛大學將她所編著的《中國植物誌》中超過十五萬種植物的分類以「Hu Card」命名。</desc></programme>
+<programme start="20250912191500 +0000" stop="20250912192500 +0000" channel="TV 31.hk"><title>傑出華人系列-復刻版</title><sub-title>胡秀英 - 獨樹風聲</sub-title><desc>植物學家胡秀英博士一生為科學貢獻自己，替人解決問題。她說：生命是在乎奉獻。</desc></programme>
+<programme start="20250912192500 +0000" stop="20250912193000 +0000" channel="TV 31.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250912193000 +0000" stop="20250912203000 +0000" channel="TV 31.hk"><title>追風者</title><sub-title>第六集：沈近真掩護魏若來脫險</sub-title><desc>央行接頭當日，魏若來來到大廳，沒想等來的卻是沈近真。她很快識破了偵緝隊偽裝，假意責駡魏若來失職，並稱要找沈圖南催款。林樵松致電兵工廠核實情況後，才最終打消心中疑雲。夜裡，李晟達奉命潛入魏若來家，得知孤星和魏若來正是親兄弟。他聲稱自己是魏若川的同志，魏若來謹慎作答才逃過一劫。他看到李晟達留下的裁紙刀上寫著“日新”二字，囑託阿文幫忙打探。徐諾擔心魏若來是林樵松的餌，前去會計學校調查情況。沈圖南也來到七寶街瞭解魏若來背景，沒想碰上曾經的老師，白髮老頭。此時，央行培訓考試結果出爐，魏若來成績墊底，黃從勻向沈圖南建議重新選拔助理。</desc></programme>
+<programme start="20250912203000 +0000" stop="20250912213000 +0000" channel="TV 31.hk"><title>盧溝橋:我們的紀念</title><sub-title>第四集</sub-title><desc>戰略支撐，中國艱苦抗戰打破法西斯稱霸世界的圖謀。故事包括劉老莊八十二烈士浴血奮戰、狼牙山五壯士、一家三代守護張自忠初葬地墓碑半個世紀、鐵漢將軍戴安瀾、營救杜立特、石碾子修機場，全面展示了中國作為東方主戰場，為世界反法西斯戰爭做出的重大貢獻。</desc></programme>
+<programme start="20250912213000 +0000" stop="20250912223000 +0000" channel="TV 31.hk"><title>學人沙龍</title></programme>
+<programme start="20250912223000 +0000" stop="20250912225000 +0000" channel="TV 31.hk"><title>BobieLand</title><sub-title>第九十集 - 「好媽媽 別咆哮」</sub-title><desc>BobieLand 第八十八集-「好媽媽別咆哮」編導:蔡少傑為求「由Okie Bobie 扮演子樂媽媽代替見家長」的計畫順利進行，各園長與小朋友從髮型、化妝及服裝對Okie Bobie進行大改造，令Okie Bobie形神兼備似足子樂媽媽。【More More魔術see】Magic Kevin 向大家講述了一個他與小朋友David的一次魔術表演，更教導小朋友一起變了一個關於Okie Bobie的魔術。【手作EASY JOB】圖媽媽與圖圖了解到大家的衝突源於溝通的面向不同，本星期的『手作EASY JOB』將由圖圖母子決定教大家製作一幅從不同角度觀看，會有不同效果的神奇畫作。</desc></programme>
+<programme start="20250912225000 +0000" stop="20250912230500 +0000" channel="TV 31.hk"><title>奀菇菇搞搞震 2</title></programme>
+<programme start="20250912230500 +0000" stop="20250912233000 +0000" channel="TV 31.hk"><title>小農夫大作物 新一彈</title><sub-title>大豆的精華—黃豆粉</sub-title><desc>這是節目第一次介紹黃豆粉。黃豆粉是日本傳統食品，由大豆製成。北海道大豆產量高居日本第一。只需烘焙及研磨即可製成黃豆粉。今次亦會有專業廚師教我們烹調簡單黃豆粉菜餚。</desc></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="TV 31.hk"><title>灣區全媒睇</title><sub-title>第九百八十五集</sub-title><desc>#灣區全媒睇第九百八十三集主持梁凱寧、涂冠祺南北快閃無錫：海鐵聯運直達南美山東：自然保護區內東方白鸛繁殖量創新高南京：舉辦周口店遺址文化展新疆輪台縣：白化棕熊母子於山區覓食福州：舉行茉莉花開採季啓動儀式廣為人知廣州：適老舒適型旅遊專列啓行廣州：通過體育運動學習垃圾分類知識廣州：粵港澳台青少年同場競技灣區新里程珠海：自主研發技術協助國家探索太空惠州：家庭養老床位目標建設超額完成保定：恐龍化石裡的中國故事與科技魅力太原：蒙山景區成避暑勝境講你知香港：介紹充滿集體回憶的港式美食鳥瞰神州雲南永善：綠浪湧動美如畫</desc></programme>
+<programme start="20250913000000 +0000" stop="20250913000500 +0000" channel="TV 31.hk"><title>盛事傳城</title></programme>
+<programme start="20250913000500 +0000" stop="20250913010000 +0000" channel="TV 31.hk"><title>星期六問責</title></programme>
+<programme start="20250913010000 +0000" stop="20250913013000 +0000" channel="TV 31.hk"><title>時事摘錄</title><desc>監製：彭啟光 時事摘錄」擷取每週寰宇新聞及本港大事精華，詳盡報導；為進一步令香港達致無障礙城市目標，「時事摘錄」更提供現場手語傳譯及字幕，方便聽障人士收看。</desc></programme>
+<programme start="20250913013000 +0000" stop="20250913013500 +0000" channel="TV 31.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250913013500 +0000" stop="20250913023000 +0000" channel="TV 31.hk"><title>理財新世代</title></programme>
+<programme start="20250913023000 +0000" stop="20250913025500 +0000" channel="TV 31.hk"><title>藝坊</title><desc>Singer-songwriter Elly C’s musical style has been described as lo-fi, ambient RandB, and indie pop. She’ll be with us later on the show to introduce her recently released single, “Lexapro”. But first, we’re going to introduce you to the work of a very different artist. Yvonne Feng was born in Guangdong and moved to the United Kingdom in her teens. Last year, she came to Hong Kong, where she currently has her first solo exhibition at the non-profit arts organisation, HART Haus. In Tseung Kwon O at The Hong Kong Design Institute there is an exhibition that includes over 440 works by graduates of the institute’s courses in Architecture, Interior and Product Design, Communication Design, Digital Media, and Fashion and Image Design. It showcases projects from The Advanced Design Studio programme in which outcome-based training is provided for young designers to create innovative works.</desc></programme>
+<programme start="20250913025500 +0000" stop="20250913030000 +0000" channel="TV 31.hk"><title>政正關你事 - 感激有你</title><sub-title>感激有你 - 香港守望者服務團</sub-title><desc>香港守望者服務團成立了四年，團員已經超過30人，來自各行各業的他們，雖然大多數是全職上班族，但卻願意在工作之餘投入這份無償的搜救工作。創辦人鄭偉軒相信，除了政府救援部門，民間也應該有一支專業且靈活的隊伍，能夠在最短的時間內投入搜救行動，為遇險者爭取寶貴的時間。鄭偉軒分享多年來在搜救過程中見證的人性光輝，感嘆強頑的生命力。</desc></programme>
+<programme start="20250913030000 +0000" stop="20250913032500 +0000" channel="TV 31.hk"><title>香港故事：情繫香港</title><sub-title>吾泰香港人</sub-title><desc>Kit Wong is a third-generation Thai born and raised in Hong Kong. “It feels like being caught in between, not fully a Thai nor a Hongkonger. It’s like being stranded in the middle of the road.”Kit looks and lives just like a local young man, seamlessly integrates into Hong Kongs local culture. He participated in a reality dating show, hoping to find love and take roots in Hong Kong. He aspires to serve the community by applying to be a firefighter. Yet, he maintains strong ties to his Thai origins. He speaks fluent Thai and believes in Buddhism, the major religion in Thailand. During his childhood, he briefly became a novice monk in Chiang Mai and served a year in the Thai military.Is he a Hongkonger, a Thai, or a Thai living in Hong Kong? How does he differ from the first and second generation Thais in the way they look at Hong Kong?</desc></programme>
+<programme start="20250913032500 +0000" stop="20250913041000 +0000" channel="TV 31.hk"><title>風吹半夏</title><sub-title>第八集</sub-title><desc>眾人被騙了，許半夏失去了所有現金，而國內這邊的小陳在堆場遭到各路施工方的催款，童驍騎欠著車隊兄弟們的工資。許半夏堅決留在北邊，她捉到騙她的妮娜，發瘋的要抓她去警局，妮娜只好介紹許半夏見倒賣軍用物資的叔叔。</desc></programme>
+<programme start="20250913041000 +0000" stop="20250913050000 +0000" channel="TV 31.hk"><title>風吹半夏</title><sub-title>第九集</sub-title><desc>許半夏打電話給趙壘，說要買大量廢鋼。趙壘覺得許半夏簡直瘋了，但許半夏真誠的請求打動了他，他願意跟著許半夏賭一把。春節前許半夏回國，但隨即因未繳稅費被拉進拘留所。童驍騎唯有向野貓借錢，野貓拿了母親的錢給童驍騎。許半夏去拜訪高躍進，高躍進對她有些佩服。</desc></programme>
+<programme start="20250913050000 +0000" stop="20250913050500 +0000" channel="TV 31.hk"><title>政正關你事 - 感激有你</title><sub-title>感激有你 - 香港守望者服務團</sub-title><desc>香港守望者服務團成立了四年，團員已經超過30人，來自各行各業的他們，雖然大多數是全職上班族，但卻願意在工作之餘投入這份無償的搜救工作。創辦人鄭偉軒相信，除了政府救援部門，民間也應該有一支專業且靈活的隊伍，能夠在最短的時間內投入搜救行動，為遇險者爭取寶貴的時間。鄭偉軒分享多年來在搜救過程中見證的人性光輝，感嘆強頑的生命力。</desc></programme>
+<programme start="20250913050500 +0000" stop="20250913060400 +0000" channel="TV 31.hk"><title>學人沙龍</title><sub-title>藝術電影明唔明？</sub-title><desc>有些電影，散場之後總係令人困惑：到底是否看明白呢？有些人深受觸動的同時卻有些人毫無共鳴？藝術電影的存在，似乎永遠伴隨着這種落差。藝術電影拍攝成本可能不高，形式亦未必是主流，但始終有人堅持地去製作，是為理念，還是在尋找知音人呢？主持：米哈(作家)李思汝(視覺藝術家)嘉賓主持：黎宇文(舞蹈影像導演)黃麗茵(藝術家)#藝術電影明唔明#非主流#堅持製作#共鳴感#小眾</desc></programme>
+<programme start="20250913060400 +0000" stop="20250913070000 +0000" channel="TV 31.hk"><title>學人沙龍</title><sub-title>情繫公屋</sub-title><desc>香港人有句說話，『抽到公屋，就係人生勝利組』！全港二百幾個公屋屋邨，今天的嘉賓差不多已經行過了，她可以說是「人生勝利組的組長」。公屋建築幾歷時代變遷不單是建築外形上的轉變，設施及設計，甚至公共空間上都越趨人性化，為住戶帶來便利，但情懷又有否不同呢？主持：潘浩倫(建築師)董正綱(建築師)阮文韜(英國註冊建築師)嘉賓主持：簡佩珊(雜誌編輯)#情繫公屋*潘浩倫#阮文韜#陳元敬#簡佩珊</desc></programme>
+<programme start="20250913070000 +0000" stop="20250913073000 +0000" channel="TV 31.hk"><title>跑者愛也</title><sub-title>黎展峯/跑的記錄與傳承</sub-title><desc>第十集黎展峯/跑的記錄與傳承〈跑者愛分享〉－黎展峯主持梁諾妍（Inez）與歌手黎展峯（Andy）穿梭於中半山寶雲道，從寶雲道花園出發，奔向姻緣石，踏出健步徑節奏。 Andy從球場的體育生轉變為十公里跑者，他笑言：「與朋友並肩衝刺，就是跑步最純粹的快樂！」在備戰首場半馬之際，Andy分享歌手與跑者之間的共通點，聲帶和雙腿都需要持續的鍛鍊。他深知，人生的賽道並非一帆風順，但只要不斷向前，終點自會相逢。無論是在音樂或跑道上，保持熱忱，才是最好的節奏！〈跑者愛迷思〉－如何提升跑步耐力？想跑得更快、更遠，突破自己的極限？原來除了跑步本身，波比跳和深蹲跳這兩個簡單又有效的練習，能顯著提升你的耐力，增強肌力與心肺功能，讓你輕鬆超越個人紀錄！〈鐵人跑〉港隊前三項鐵人代表劉峻崚（Ling Lau），退役後轉型為教練，仍然熱愛奔跑。他不僅帶領新一代三鐵學生，自己也從未忘記跑步的樂趣，繼續積極參加各類賽事。此外，他也是跑步vlogger，經常把學界比賽及與跑友一起奔跑的片段記錄並分享到網上，身體力行推動跑步文化，來一場跑步的記錄與傳承！《跑者愛也》 Fun Run 歡樂跑為進一步推廣跑步的樂趣，香港電台特別舉辦「歡樂跑」活動，邀請主持梁諾妍（Inez）、嘉賓應智越（細貓）與近一百名跑友共聚沙田運動場，一同進行3公里慢跑，並親身體驗蒙眼視障跑，感受運動與共融所發放的無限活力！</desc></programme>
+<programme start="20250910160000 +0000" stop="20250910163000 +0000" channel="TV 32.hk"><title>藝坊</title><desc>Singer-songwriter Elly C’s musical style has been described as lo-fi, ambient RandB, and indie pop. She’ll be with us later on the show to introduce her recently released single, “Lexapro”. But first, we’re going to introduce you to the work of a very different artist. Yvonne Feng was born in Guangdong and moved to the United Kingdom in her teens. Last year, she came to Hong Kong, where she currently has her first solo exhibition at the non-profit arts organisation, HART Haus. In Tseung Kwon O at The Hong Kong Design Institute there is an exhibition that includes over 440 works by graduates of the institute’s courses in Architecture, Interior and Product Design, Communication Design, Digital Media, and Fashion and Image Design. It showcases projects from The Advanced Design Studio programme in which outcome-based training is provided for young designers to create innovative works.</desc></programme>
+<programme start="20250910163000 +0000" stop="20250910170000 +0000" channel="TV 32.hk"><title>照顧者們</title><sub-title>與別不童</sub-title><desc>Eleven-year-old student (Haley) suffers from a rare condition known as "stone disease," which locks certain important joints and causes a hunchback, affecting her upper body mobility. She cannot use the restroom independently and requires 24-hour care.Her mother, Yoki, is the primary caregiver and has been by her side throughout her battle with the illness. However, Haley faces not only physical limitations but also the endless restrictions that come with her condition.Haley loves ice skating and biking, but the enemy of "stone disease" is injury. If a patient falls, wounds may not heal automatically, potentially leading to new bone growth and the risk of permanent disability."Letting her try means facing the risk of permanent disability, but with limited time, should we allow her to try and enjoy life as much as possible?"Haley’s condition is estimated to occur in only 1 in a million people, making her a rare case. Yoki worries that Haley will become weaker over time, so she has decided to give up her stable job to spend more time with Haley, cherishing the moments when they can still go out together as a family.</desc></programme>
+<programme start="20250910170000 +0000" stop="20250910173000 +0000" channel="TV 32.hk"><title>凝聚香港</title><sub-title>第八百四十三集</sub-title><desc>「吉舖有自提，商機返埋嚟？」電商業務發達，不少人看中當中商機，與物流商合作，租舖或於小店中開設自提點，賺取收入。究竟營運自提點有多大商機？當中又有甚麼風險要注意？#自提點#電商業務#物流商#小店#商機#張嘉儀「吹風要小心，病從冷氣生？」雖然已經立秋，但天氣仍然炎熱，不少人仍會開冷氣。然而長期吹冷氣容易造成身體不適，現代醫學統稱為「冷氣病」。中醫師會拆解如何預防及調理冷氣病？#冷氣病#天氣炎熱#立秋#中醫#預防#調理#梁凱寧#崔潔彤「玩物壯志-抗戰勝利80年：日佔香港時期的收藏品（上）」今年適逢抗戰勝利80周年，文物收藏家唐卓敏醫生從他豐富藏品中，精選多件日佔香港時期的珍貴文物，包括票據、證件等，從中回顧香港從戰前到淪陷、被日軍佔領、抗戰勝利後的歷史，並呈現了當時艱苦的民生實況。#玩物壯志#抗戰勝利80周年#日佔香港時期#文物#票據#證件#收藏品#丘靜雯</desc></programme>
+<programme start="20250910173000 +0000" stop="20250910210000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250910210000 +0000" stop="20250910213000 +0000" channel="TV 32.hk"><title>凝聚香港</title><sub-title>第八百四十三集</sub-title><desc>「吉舖有自提，商機返埋嚟？」電商業務發達，不少人看中當中商機，與物流商合作，租舖或於小店中開設自提點，賺取收入。究竟營運自提點有多大商機？當中又有甚麼風險要注意？#自提點#電商業務#物流商#小店#商機#張嘉儀「吹風要小心，病從冷氣生？」雖然已經立秋，但天氣仍然炎熱，不少人仍會開冷氣。然而長期吹冷氣容易造成身體不適，現代醫學統稱為「冷氣病」。中醫師會拆解如何預防及調理冷氣病？#冷氣病#天氣炎熱#立秋#中醫#預防#調理#梁凱寧#崔潔彤「玩物壯志-抗戰勝利80年：日佔香港時期的收藏品（上）」今年適逢抗戰勝利80周年，文物收藏家唐卓敏醫生從他豐富藏品中，精選多件日佔香港時期的珍貴文物，包括票據、證件等，從中回顧香港從戰前到淪陷、被日軍佔領、抗戰勝利後的歷史，並呈現了當時艱苦的民生實況。#玩物壯志#抗戰勝利80周年#日佔香港時期#文物#票據#證件#收藏品#丘靜雯</desc></programme>
+<programme start="20250910213000 +0000" stop="20250910233000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250910233000 +0000" stop="20250910233500 +0000" channel="TV 32.hk"><title>盛事傳城</title><sub-title>亞藝無疆藝術節；抗戰勝利八十周年展覽</sub-title><desc>Presented by the Leisure and Cultural Services Department, the third Asia+ Festival will be held from September to November. It brings together artists and art troupes from over thirty countries and regions, presenting more than a hundred drama, dance, and music performances. The highlight of the Asia+ Festival, the “Asian Ethnic Cultural Performances +” Carnival, will be held on November 16th at the Cultural Centre. Supported by Consulates General in Hong Kong, there will be performances of ethnic music and dance from various countries, as well as stalls and workshops showcasing exquisite traditional ethnic costumes, handicrafts, and snacks.</desc></programme>
+<programme start="20250910233500 +0000" stop="20250910234000 +0000" channel="TV 32.hk"><title>政正關你事</title><sub-title>行政長官表揚榜 - 特區救援隊</sub-title><desc>「行政長官表揚榜」獎勵計劃旨在公開表揚優秀而且具示範作用的公務員團隊或人員，激勵公務員不斷求進，並讓公眾更了解政府的工作及公務員團隊優秀的面貌。「2025年3月前赴緬甸地震災區救援的特區救援隊」是獲獎隊伍之一，其成員包括保安局、消防處及入境事務處的公務員團隊，以及醫院管理局的醫護代表。特區救援隊秉持專業精神，在救災其間更與國家救援隊合作，並利用人工智能及無人機等先進科技進行救災。特區救援隊不斷提升應急救援能力和水平，為國際人道救援工作作出重大貢獻。</desc></programme>
+<programme start="20250910234000 +0000" stop="20250911010000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250911010000 +0000" stop="20250911010700 +0000" channel="TV 32.hk"><title>立法會大會</title></programme>
+<programme start="20250911010700 +0000" stop="20250911012200 +0000" channel="TV 32.hk"><title>立法會大會</title></programme>
+<programme start="20250911012200 +0000" stop="20250911020000 +0000" channel="TV 32.hk"><title>立法會大會</title></programme>
+<programme start="20250911020000 +0000" stop="20250911031400 +0000" channel="TV 32.hk"><title>立法會大會</title></programme>
+<programme start="20250911031400 +0000" stop="20250911070000 +0000" channel="TV 32.hk"><title>立法會大會</title></programme>
+<programme start="20250911070000 +0000" stop="20250911070500 +0000" channel="TV 32.hk"><title>盛事傳城</title><sub-title>亞藝無疆藝術節；抗戰勝利八十周年展覽</sub-title><desc>Presented by the Leisure and Cultural Services Department, the third Asia+ Festival will be held from September to November. It brings together artists and art troupes from over thirty countries and regions, presenting more than a hundred drama, dance, and music performances. The highlight of the Asia+ Festival, the “Asian Ethnic Cultural Performances +” Carnival, will be held on November 16th at the Cultural Centre. Supported by Consulates General in Hong Kong, there will be performances of ethnic music and dance from various countries, as well as stalls and workshops showcasing exquisite traditional ethnic costumes, handicrafts, and snacks.</desc></programme>
+<programme start="20250911070500 +0000" stop="20250911071000 +0000" channel="TV 32.hk"><title>政正關你事</title><sub-title>行政長官表揚榜 - 特區救援隊</sub-title><desc>「行政長官表揚榜」獎勵計劃旨在公開表揚優秀而且具示範作用的公務員團隊或人員，激勵公務員不斷求進，並讓公眾更了解政府的工作及公務員團隊優秀的面貌。「2025年3月前赴緬甸地震災區救援的特區救援隊」是獲獎隊伍之一，其成員包括保安局、消防處及入境事務處的公務員團隊，以及醫院管理局的醫護代表。特區救援隊秉持專業精神，在救災其間更與國家救援隊合作，並利用人工智能及無人機等先進科技進行救災。特區救援隊不斷提升應急救援能力和水平，為國際人道救援工作作出重大貢獻。</desc></programme>
+<programme start="20250911071000 +0000" stop="20250911110000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250911110000 +0000" stop="20250911110500 +0000" channel="TV 32.hk"><title>香港電台天氣簡報</title></programme>
+<programme start="20250911110500 +0000" stop="20250911130000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250911130000 +0000" stop="20250911130500 +0000" channel="TV 32.hk"><title>盛事傳城</title><sub-title>亞藝無疆藝術節；抗戰勝利八十周年展覽</sub-title><desc>Presented by the Leisure and Cultural Services Department, the third Asia+ Festival will be held from September to November. It brings together artists and art troupes from over thirty countries and regions, presenting more than a hundred drama, dance, and music performances. The highlight of the Asia+ Festival, the “Asian Ethnic Cultural Performances +” Carnival, will be held on November 16th at the Cultural Centre. Supported by Consulates General in Hong Kong, there will be performances of ethnic music and dance from various countries, as well as stalls and workshops showcasing exquisite traditional ethnic costumes, handicrafts, and snacks.</desc></programme>
+<programme start="20250911130500 +0000" stop="20250911133000 +0000" channel="TV 32.hk"><title>凝聚香港</title></programme>
+<programme start="20250911133000 +0000" stop="20250911143000 +0000" channel="TV 32.hk"><title>無極飛行</title><sub-title>馬達加斯加 - 空中的士</sub-title><desc>In this island as big as France, it sometimes takes several days to travel from one city to another by car. Yet, Fifou is super active and moves about all the time. Whether supplying his hotel, studying the migration of whales, or carrying humanitarian aid, he counts on his faithful flying companion, a yellow bush plane that everyone in Madagascar knows by the name: "India Papa". A "taxi in the air" which provides many services, and can even, sometimes, save lives.</desc></programme>
+<programme start="20250911143000 +0000" stop="20250911143500 +0000" channel="TV 32.hk"><title>環事覺得你最保 (英文字幕版)</title></programme>
+<programme start="20250911143500 +0000" stop="20250911160000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250911160000 +0000" stop="20250911170000 +0000" channel="TV 32.hk"><title>無極飛行</title><sub-title>馬達加斯加 - 空中的士</sub-title><desc>In this island as big as France, it sometimes takes several days to travel from one city to another by car. Yet, Fifou is super active and moves about all the time. Whether supplying his hotel, studying the migration of whales, or carrying humanitarian aid, he counts on his faithful flying companion, a yellow bush plane that everyone in Madagascar knows by the name: "India Papa". A "taxi in the air" which provides many services, and can even, sometimes, save lives.</desc></programme>
+<programme start="20250911170000 +0000" stop="20250911173000 +0000" channel="TV 32.hk"><title>凝聚香港</title></programme>
+<programme start="20250911173000 +0000" stop="20250911210000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="TV 32.hk"><title>凝聚香港</title></programme>
+<programme start="20250911213000 +0000" stop="20250911233000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250911233000 +0000" stop="20250911233500 +0000" channel="TV 32.hk"><title>盛事傳城</title></programme>
+<programme start="20250911233500 +0000" stop="20250911234000 +0000" channel="TV 32.hk"><title>政正關你事 - 感激有你</title><sub-title>感激有你 - 區區有愛</sub-title><desc>「行政長官表揚榜」獎勵計劃旨在公開表揚優秀而且具示範作用的公務員團隊或人員，激勵公務員不斷求進，並讓公眾更了解政府的工作及公務員團隊優秀的面貌。「2025年3月前赴緬甸地震災區救援的特區救援隊」是獲獎隊伍之一，其成員包括保安局、消防處及入境事務處的公務員團隊，以及醫院管理局的醫護代表。特區救援隊秉持專業精神，在救災其間更與國家救援隊合作，並利用人工智能及無人機等先進科技進行救災。特區救援隊不斷提升應急救援能力和水平，為國際人道救援工作作出重大貢獻。</desc></programme>
+<programme start="20250911234000 +0000" stop="20250912010000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250912010000 +0000" stop="20250912013000 +0000" channel="TV 32.hk"><title>凝聚香港</title></programme>
+<programme start="20250912013000 +0000" stop="20250912050000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250912050000 +0000" stop="20250912053000 +0000" channel="TV 32.hk"><title>凝聚香港</title></programme>
+<programme start="20250912053000 +0000" stop="20250912053500 +0000" channel="TV 32.hk"><title>盛事傳城</title></programme>
+<programme start="20250912053500 +0000" stop="20250912054000 +0000" channel="TV 32.hk"><title>政正關你事 - 感激有你</title><sub-title>感激有你 - 區區有愛</sub-title><desc>「行政長官表揚榜」獎勵計劃旨在公開表揚優秀而且具示範作用的公務員團隊或人員，激勵公務員不斷求進，並讓公眾更了解政府的工作及公務員團隊優秀的面貌。「2025年3月前赴緬甸地震災區救援的特區救援隊」是獲獎隊伍之一，其成員包括保安局、消防處及入境事務處的公務員團隊，以及醫院管理局的醫護代表。特區救援隊秉持專業精神，在救災其間更與國家救援隊合作，並利用人工智能及無人機等先進科技進行救災。特區救援隊不斷提升應急救援能力和水平，為國際人道救援工作作出重大貢獻。</desc></programme>
+<programme start="20250912054000 +0000" stop="20250912063000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250912063000 +0000" stop="20250912070000 +0000" channel="TV 32.hk"><title>內務委員會會議</title></programme>
+<programme start="20250912070000 +0000" stop="20250912093000 +0000" channel="TV 32.hk"><title>財務委員會會議</title></programme>
+<programme start="20250912093000 +0000" stop="20250912110000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250912110000 +0000" stop="20250912110500 +0000" channel="TV 32.hk"><title>香港電台天氣簡報</title></programme>
+<programme start="20250912110500 +0000" stop="20250912130000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250912130000 +0000" stop="20250912130500 +0000" channel="TV 32.hk"><title>盛事傳城</title></programme>
+<programme start="20250912130500 +0000" stop="20250912133000 +0000" channel="TV 32.hk"><title>凝聚香港</title></programme>
+<programme start="20250912133000 +0000" stop="20250912142400 +0000" channel="TV 32.hk"><title>非凡香港</title></programme>
+<programme start="20250912142400 +0000" stop="20250912143000 +0000" channel="TV 32.hk"><title>警聲360</title><sub-title>警聲360 #98</sub-title><desc>警聲360</desc></programme>
+<programme start="20250912143000 +0000" stop="20250912143500 +0000" channel="TV 32.hk"><title>環事覺得你最保 (英文字幕版)</title></programme>
+<programme start="20250912143500 +0000" stop="20250912160000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250912160000 +0000" stop="20250912170000 +0000" channel="TV 32.hk"><title>非凡香港</title></programme>
+<programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="TV 32.hk"><title>凝聚香港</title></programme>
+<programme start="20250912173000 +0000" stop="20250912210000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250912210000 +0000" stop="20250912213000 +0000" channel="TV 32.hk"><title>凝聚香港</title></programme>
+<programme start="20250912213000 +0000" stop="20250912233000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250912233000 +0000" stop="20250912233500 +0000" channel="TV 32.hk"><title>盛事傳城</title></programme>
+<programme start="20250912233500 +0000" stop="20250912234000 +0000" channel="TV 32.hk"><title>政正關你事 - 感激有你</title><sub-title>感激有你 - 香港守望者服務團</sub-title><desc>香港守望者服務團成立了四年，團員已經超過30人，來自各行各業的他們，雖然大多數是全職上班族，但卻願意在工作之餘投入這份無償的搜救工作。創辦人鄭偉軒相信，除了政府救援部門，民間也應該有一支專業且靈活的隊伍，能夠在最短的時間內投入搜救行動，為遇險者爭取寶貴的時間。鄭偉軒分享多年來在搜救過程中見證的人性光輝，感嘆強頑的生命力。</desc></programme>
+<programme start="20250912234000 +0000" stop="20250913010000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250913010000 +0000" stop="20250913013000 +0000" channel="TV 32.hk"><title>凝聚香港</title></programme>
+<programme start="20250913013000 +0000" stop="20250913050000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250913050000 +0000" stop="20250913053000 +0000" channel="TV 32.hk"><title>凝聚香港</title></programme>
+<programme start="20250913053000 +0000" stop="20250913053500 +0000" channel="TV 32.hk"><title>盛事傳城</title></programme>
+<programme start="20250913053500 +0000" stop="20250913054000 +0000" channel="TV 32.hk"><title>政正關你事 - 感激有你</title><sub-title>感激有你 - 香港守望者服務團</sub-title><desc>香港守望者服務團成立了四年，團員已經超過30人，來自各行各業的他們，雖然大多數是全職上班族，但卻願意在工作之餘投入這份無償的搜救工作。創辦人鄭偉軒相信，除了政府救援部門，民間也應該有一支專業且靈活的隊伍，能夠在最短的時間內投入搜救行動，為遇險者爭取寶貴的時間。鄭偉軒分享多年來在搜救過程中見證的人性光輝，感嘆強頑的生命力。</desc></programme>
+<programme start="20250913054000 +0000" stop="20250913110000 +0000" channel="TV 32.hk"><title>生活．健康．資訊．體育．港式速遞</title></programme>
+<programme start="20250910160000 +0000" stop="20250910160100 +0000" channel="TV 33.hk"><title>山河錦繡 32</title></programme>
+<programme start="20250910160100 +0000" stop="20250910164900 +0000" channel="TV 33.hk"><title>山河錦繡 33</title></programme>
+<programme start="20250910164900 +0000" stop="20250910171800 +0000" channel="TV 33.hk"><title>國家記憶</title></programme>
+<programme start="20250910171800 +0000" stop="20250910181300 +0000" channel="TV 33.hk"><title>農耕探文明</title></programme>
+<programme start="20250910181300 +0000" stop="20250910185900 +0000" channel="TV 33.hk"><title>向風而行 23</title></programme>
+<programme start="20250910185900 +0000" stop="20250910194600 +0000" channel="TV 33.hk"><title>向風而行 24</title></programme>
+<programme start="20250910194600 +0000" stop="20250910203200 +0000" channel="TV 33.hk"><title>向風而行 25</title></programme>
+<programme start="20250910203200 +0000" stop="20250910210000 +0000" channel="TV 33.hk"><title>今日說法</title></programme>
+<programme start="20250910210000 +0000" stop="20250910213000 +0000" channel="TV 33.hk"><title>新聞聯播</title></programme>
+<programme start="20250910213000 +0000" stop="20250910220000 +0000" channel="TV 33.hk"><title>國家記憶</title></programme>
+<programme start="20250910220000 +0000" stop="20250911003000 +0000" channel="TV 33.hk"><title>朝聞天下</title></programme>
+<programme start="20250911003000 +0000" stop="20250911011200 +0000" channel="TV 33.hk"><title>生活圈</title></programme>
+<programme start="20250911011200 +0000" stop="20250911015800 +0000" channel="TV 33.hk"><title>青山是故鄉 1</title></programme>
+<programme start="20250911015800 +0000" stop="20250911024400 +0000" channel="TV 33.hk"><title>青山是故鄉 2</title></programme>
+<programme start="20250911024400 +0000" stop="20250911033000 +0000" channel="TV 33.hk"><title>青山是故鄉 3</title></programme>
+<programme start="20250911033000 +0000" stop="20250911040000 +0000" channel="TV 33.hk"><title>農耕探文明</title></programme>
+<programme start="20250911040000 +0000" stop="20250911043200 +0000" channel="TV 33.hk"><title>新聞30分</title></programme>
+<programme start="20250911043200 +0000" stop="20250911050100 +0000" channel="TV 33.hk"><title>今日說法</title></programme>
+<programme start="20250911050100 +0000" stop="20250911054700 +0000" channel="TV 33.hk"><title>天下同心 3</title></programme>
+<programme start="20250911054700 +0000" stop="20250911063300 +0000" channel="TV 33.hk"><title>天下同心 4</title></programme>
+<programme start="20250911063300 +0000" stop="20250911071900 +0000" channel="TV 33.hk"><title>天下同心 5</title></programme>
+<programme start="20250911071900 +0000" stop="20250911080500 +0000" channel="TV 33.hk"><title>天下同心 6</title></programme>
+<programme start="20250911080500 +0000" stop="20250911090200 +0000" channel="TV 33.hk"><title>天下同心 7</title></programme>
+<programme start="20250911090200 +0000" stop="20250911100900 +0000" channel="TV 33.hk"><title>第一動畫樂園</title></programme>
+<programme start="20250911100900 +0000" stop="20250911110000 +0000" channel="TV 33.hk"><title>樣式雷</title></programme>
+<programme start="20250911110000 +0000" stop="20250911113500 +0000" channel="TV 33.hk"><title>新聞聯播</title></programme>
+<programme start="20250911113500 +0000" stop="20250911114100 +0000" channel="TV 33.hk"><title>天氣預報</title></programme>
+<programme start="20250911114100 +0000" stop="20250911122700 +0000" channel="TV 33.hk"><title>我們的河山 31</title></programme>
+<programme start="20250911122700 +0000" stop="20250911131300 +0000" channel="TV 33.hk"><title>我們的河山 32</title></programme>
+<programme start="20250911131300 +0000" stop="20250911134300 +0000" channel="TV 33.hk"><title>國家記憶</title></programme>
+<programme start="20250911134300 +0000" stop="20250911140000 +0000" channel="TV 33.hk"><title>焦點訪談</title></programme>
+<programme start="20250911140000 +0000" stop="20250911143200 +0000" channel="TV 33.hk"><title>晚間新聞</title></programme>
+<programme start="20250911143200 +0000" stop="20250911151500 +0000" channel="TV 33.hk"><title>生活圈</title></programme>
+<programme start="20250911151500 +0000" stop="20250911160100 +0000" channel="TV 33.hk"><title>那山那海 1</title></programme>
+<programme start="20250911160000 +0000" stop="20250912160100 +0000" channel="TV 33.hk"><title>那山那海 1</title></programme>
+<programme start="20250911160100 +0000" stop="20250912164900 +0000" channel="TV 33.hk"><title>那山那海 2</title></programme>
+<programme start="20250911164900 +0000" stop="20250912171800 +0000" channel="TV 33.hk"><title>國家記憶</title></programme>
+<programme start="20250911171800 +0000" stop="20250912181300 +0000" channel="TV 33.hk"><title>農耕探文明</title></programme>
+<programme start="20250911181300 +0000" stop="20250912185900 +0000" channel="TV 33.hk"><title>向風而行 26</title></programme>
+<programme start="20250911185900 +0000" stop="20250912194600 +0000" channel="TV 33.hk"><title>向風而行 27</title></programme>
+<programme start="20250911194600 +0000" stop="20250912203200 +0000" channel="TV 33.hk"><title>向風而行 28</title></programme>
+<programme start="20250911203200 +0000" stop="20250912210000 +0000" channel="TV 33.hk"><title>今日說法</title></programme>
+<programme start="20250911210000 +0000" stop="20250912213000 +0000" channel="TV 33.hk"><title>新聞聯播</title></programme>
+<programme start="20250911213000 +0000" stop="20250912220000 +0000" channel="TV 33.hk"><title>國家記憶</title></programme>
+<programme start="20250911220000 +0000" stop="20250913003000 +0000" channel="TV 33.hk"><title>朝聞天下</title></programme>
+<programme start="20250912003000 +0000" stop="20250913011200 +0000" channel="TV 33.hk"><title>生活圈</title></programme>
+<programme start="20250912011200 +0000" stop="20250913015800 +0000" channel="TV 33.hk"><title>青山是故鄉 4</title></programme>
+<programme start="20250912015800 +0000" stop="20250913024400 +0000" channel="TV 33.hk"><title>青山是故鄉 5</title></programme>
+<programme start="20250912024400 +0000" stop="20250913033000 +0000" channel="TV 33.hk"><title>青山是故鄉 6</title></programme>
+<programme start="20250912033000 +0000" stop="20250913040000 +0000" channel="TV 33.hk"><title>農耕探文明</title></programme>
+<programme start="20250912040000 +0000" stop="20250913043200 +0000" channel="TV 33.hk"><title>新聞30分</title></programme>
+<programme start="20250912043200 +0000" stop="20250913050100 +0000" channel="TV 33.hk"><title>今日說法</title></programme>
+<programme start="20250912050100 +0000" stop="20250913054700 +0000" channel="TV 33.hk"><title>天下同心 8</title></programme>
+<programme start="20250912054700 +0000" stop="20250913063400 +0000" channel="TV 33.hk"><title>天下同心 9</title></programme>
+<programme start="20250912063400 +0000" stop="20250913072000 +0000" channel="TV 33.hk"><title>天下同心 10</title></programme>
+<programme start="20250912072000 +0000" stop="20250913080800 +0000" channel="TV 33.hk"><title>天下同心 11</title></programme>
+<programme start="20250912080800 +0000" stop="20250913090100 +0000" channel="TV 33.hk"><title>天下同心 12</title></programme>
+<programme start="20250912090100 +0000" stop="20250913100800 +0000" channel="TV 33.hk"><title>第一動畫樂園</title></programme>
+<programme start="20250912100800 +0000" stop="20250913110000 +0000" channel="TV 33.hk"><title>樣式雷</title></programme>
+<programme start="20250912110000 +0000" stop="20250913113500 +0000" channel="TV 33.hk"><title>新聞聯播</title></programme>
+<programme start="20250912113500 +0000" stop="20250913114100 +0000" channel="TV 33.hk"><title>天氣預報</title></programme>
+<programme start="20250912114100 +0000" stop="20250913131200 +0000" channel="TV 33.hk"><title>大唐詩人傳</title></programme>
+<programme start="20250912131200 +0000" stop="20250913134300 +0000" channel="TV 33.hk"><title>國家記憶</title></programme>
+<programme start="20250912134300 +0000" stop="20250913140000 +0000" channel="TV 33.hk"><title>焦點訪談</title></programme>
+<programme start="20250912140000 +0000" stop="20250913143600 +0000" channel="TV 33.hk"><title>晚間新聞</title></programme>
+<programme start="20250912143600 +0000" stop="20250913153700 +0000" channel="TV 33.hk"><title>烽火戰歌</title></programme>
+<programme start="20250912153700 +0000" stop="20250913162300 +0000" channel="TV 33.hk"><title>那山那海 3</title></programme>
+<programme start="20250912160000 +0000" stop="20250914162300 +0000" channel="TV 33.hk"><title>那山那海 3</title></programme>
+<programme start="20250912162300 +0000" stop="20250914171100 +0000" channel="TV 33.hk"><title>那山那海 4</title></programme>
+<programme start="20250912171100 +0000" stop="20250914174000 +0000" channel="TV 33.hk"><title>國家記憶</title></programme>
+<programme start="20250912174000 +0000" stop="20250914181300 +0000" channel="TV 33.hk"><title>農耕探文明</title></programme>
+<programme start="20250912181300 +0000" stop="20250914185900 +0000" channel="TV 33.hk"><title>向風而行 29</title></programme>
+<programme start="20250912185900 +0000" stop="20250914194600 +0000" channel="TV 33.hk"><title>向風而行 30</title></programme>
+<programme start="20250912194600 +0000" stop="20250914203200 +0000" channel="TV 33.hk"><title>向風而行 31</title></programme>
+<programme start="20250912203200 +0000" stop="20250914210000 +0000" channel="TV 33.hk"><title>今日說法</title></programme>
+<programme start="20250912210000 +0000" stop="20250914213000 +0000" channel="TV 33.hk"><title>新聞聯播</title></programme>
+<programme start="20250912213000 +0000" stop="20250914220000 +0000" channel="TV 33.hk"><title>國家記憶</title></programme>
+<programme start="20250912220000 +0000" stop="20250915003000 +0000" channel="TV 33.hk"><title>朝聞天下</title></programme>
+<programme start="20250913003000 +0000" stop="20250915011200 +0000" channel="TV 33.hk"><title>生活圈</title></programme>
+<programme start="20250913011200 +0000" stop="20250915015800 +0000" channel="TV 33.hk"><title>青山是故鄉 7</title></programme>
+<programme start="20250913015800 +0000" stop="20250915024400 +0000" channel="TV 33.hk"><title>青山是故鄉 8</title></programme>
+<programme start="20250913024400 +0000" stop="20250915033000 +0000" channel="TV 33.hk"><title>青山是故鄉 9</title></programme>
+<programme start="20250913033000 +0000" stop="20250915040000 +0000" channel="TV 33.hk"><title>農耕探文明</title></programme>
+<programme start="20250913040000 +0000" stop="20250915043200 +0000" channel="TV 33.hk"><title>新聞30分</title></programme>
+<programme start="20250913043200 +0000" stop="20250915050300 +0000" channel="TV 33.hk"><title>本草流芳</title></programme>
+<programme start="20250913050300 +0000" stop="20250915054900 +0000" channel="TV 33.hk"><title>天下同心 13</title></programme>
+<programme start="20250913054900 +0000" stop="20250915063600 +0000" channel="TV 33.hk"><title>天下同心 14</title></programme>
+<programme start="20250913063600 +0000" stop="20250915073000 +0000" channel="TV 33.hk"><title>天下同心 15</title></programme>
+<programme start="20250910160000 +0000" stop="20250910165600 +0000" channel="TV 34.hk"><title>我在故宮600年2</title></programme>
+<programme start="20250910165600 +0000" stop="20250910170000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250910170000 +0000" stop="20250910172700 +0000" channel="TV 34.hk"><title>追尋宋金時代的別樣生活3</title></programme>
+<programme start="20250910172700 +0000" stop="20250910173000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250910173000 +0000" stop="20250910175700 +0000" channel="TV 34.hk"><title>十三年紅樓夢圓荷蘭2</title></programme>
+<programme start="20250910175700 +0000" stop="20250910180000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250910180000 +0000" stop="20250910185600 +0000" channel="TV 34.hk"><title>舌尖上的中國第四季1</title></programme>
+<programme start="20250910185600 +0000" stop="20250910190000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250910190000 +0000" stop="20250910192700 +0000" channel="TV 34.hk"><title>北漂愛情故事3</title></programme>
+<programme start="20250910192700 +0000" stop="20250910193000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250910193000 +0000" stop="20250910195700 +0000" channel="TV 34.hk"><title>山村裡的音樂課5/6</title></programme>
+<programme start="20250910195700 +0000" stop="20250910200000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250910200000 +0000" stop="20250910205600 +0000" channel="TV 34.hk"><title>航拍中國第四季·北京</title></programme>
+<programme start="20250910205600 +0000" stop="20250910210000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250910210000 +0000" stop="20250910212700 +0000" channel="TV 34.hk"><title>跨越時光的高原4</title></programme>
+<programme start="20250910212700 +0000" stop="20250910213000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250910213000 +0000" stop="20250910215700 +0000" channel="TV 34.hk"><title>無畏的旅行9</title></programme>
+<programme start="20250910215700 +0000" stop="20250910220000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250910220000 +0000" stop="20250910225600 +0000" channel="TV 34.hk"><title>我在故宮600年3</title></programme>
+<programme start="20250910225600 +0000" stop="20250910230000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250910230000 +0000" stop="20250910232700 +0000" channel="TV 34.hk"><title>追尋宋金時代的別樣生活4</title></programme>
+<programme start="20250910232700 +0000" stop="20250910233000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250910233000 +0000" stop="20250910235700 +0000" channel="TV 34.hk"><title>蘇州影像志1</title></programme>
+<programme start="20250910235700 +0000" stop="20250911000000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911000000 +0000" stop="20250911005600 +0000" channel="TV 34.hk"><title>舌尖上的中國第四季2</title></programme>
+<programme start="20250911005600 +0000" stop="20250911010000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911010000 +0000" stop="20250911012700 +0000" channel="TV 34.hk"><title>活力中國•我是機長</title></programme>
+<programme start="20250911012700 +0000" stop="20250911013000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911013000 +0000" stop="20250911015700 +0000" channel="TV 34.hk"><title>鋒向標:城市微生物群</title></programme>
+<programme start="20250911015700 +0000" stop="20250911020000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911020000 +0000" stop="20250911025600 +0000" channel="TV 34.hk"><title>航拍中國第四季·北京</title></programme>
+<programme start="20250911025600 +0000" stop="20250911030000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911030000 +0000" stop="20250911032700 +0000" channel="TV 34.hk"><title>跨越時光的高原4</title></programme>
+<programme start="20250911032700 +0000" stop="20250911033000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911033000 +0000" stop="20250911035700 +0000" channel="TV 34.hk"><title>無畏的旅行9</title></programme>
+<programme start="20250911035700 +0000" stop="20250911040000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911040000 +0000" stop="20250911045600 +0000" channel="TV 34.hk"><title>我在故宮600年3</title></programme>
+<programme start="20250911045600 +0000" stop="20250911050000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911050000 +0000" stop="20250911052700 +0000" channel="TV 34.hk"><title>追尋宋金時代的別樣生活4</title></programme>
+<programme start="20250911052700 +0000" stop="20250911053000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911053000 +0000" stop="20250911055700 +0000" channel="TV 34.hk"><title>蘇州影像志1</title></programme>
+<programme start="20250911055700 +0000" stop="20250911060000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911060000 +0000" stop="20250911065600 +0000" channel="TV 34.hk"><title>舌尖上的中國第四季2</title></programme>
+<programme start="20250911065600 +0000" stop="20250911070000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911070000 +0000" stop="20250911072700 +0000" channel="TV 34.hk"><title>活力中國•我是機長</title></programme>
+<programme start="20250911072700 +0000" stop="20250911073000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911073000 +0000" stop="20250911075700 +0000" channel="TV 34.hk"><title>鋒向標:城市微生物群</title></programme>
+<programme start="20250911075700 +0000" stop="20250911080000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911080000 +0000" stop="20250911085600 +0000" channel="TV 34.hk"><title>航拍中國第四季·北京</title></programme>
+<programme start="20250911085600 +0000" stop="20250911090000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911090000 +0000" stop="20250911092700 +0000" channel="TV 34.hk"><title>跨越時光的高原4</title></programme>
+<programme start="20250911092700 +0000" stop="20250911093000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911093000 +0000" stop="20250911095700 +0000" channel="TV 34.hk"><title>無畏的旅行9</title></programme>
+<programme start="20250911095700 +0000" stop="20250911100000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911100000 +0000" stop="20250911105600 +0000" channel="TV 34.hk"><title>我在故宮600年3</title></programme>
+<programme start="20250911105600 +0000" stop="20250911110000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911110000 +0000" stop="20250911112700 +0000" channel="TV 34.hk"><title>追尋宋金時代的別樣生活4</title></programme>
+<programme start="20250911112700 +0000" stop="20250911113000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911113000 +0000" stop="20250911115700 +0000" channel="TV 34.hk"><title>蘇州影像志1</title></programme>
+<programme start="20250911115700 +0000" stop="20250911120000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911120000 +0000" stop="20250911125600 +0000" channel="TV 34.hk"><title>舌尖上的中國第四季2</title></programme>
+<programme start="20250911125600 +0000" stop="20250911130000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911130000 +0000" stop="20250911132700 +0000" channel="TV 34.hk"><title>活力中國•我是機長</title></programme>
+<programme start="20250911132700 +0000" stop="20250911133000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911133000 +0000" stop="20250911135700 +0000" channel="TV 34.hk"><title>鋒向標:城市微生物群</title></programme>
+<programme start="20250911135700 +0000" stop="20250911140000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911140000 +0000" stop="20250911145600 +0000" channel="TV 34.hk"><title>航拍中國第四季·北京</title></programme>
+<programme start="20250911145600 +0000" stop="20250911150000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911150000 +0000" stop="20250911152700 +0000" channel="TV 34.hk"><title>跨越時光的高原4</title></programme>
+<programme start="20250911152700 +0000" stop="20250911153000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911153000 +0000" stop="20250911155700 +0000" channel="TV 34.hk"><title>無畏的旅行9</title></programme>
+<programme start="20250911155700 +0000" stop="20250911160000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911160000 +0000" stop="20250911165600 +0000" channel="TV 34.hk"><title>我在故宮600年3</title></programme>
+<programme start="20250911165600 +0000" stop="20250911170000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911170000 +0000" stop="20250911172700 +0000" channel="TV 34.hk"><title>追尋宋金時代的別樣生活4</title></programme>
+<programme start="20250911172700 +0000" stop="20250911173000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911173000 +0000" stop="20250911175700 +0000" channel="TV 34.hk"><title>蘇州影像志1</title></programme>
+<programme start="20250911175700 +0000" stop="20250911180000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911180000 +0000" stop="20250911185600 +0000" channel="TV 34.hk"><title>舌尖上的中國第四季2</title></programme>
+<programme start="20250911185600 +0000" stop="20250911190000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911190000 +0000" stop="20250911192700 +0000" channel="TV 34.hk"><title>活力中國•我是機長</title></programme>
+<programme start="20250911192700 +0000" stop="20250911193000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911193000 +0000" stop="20250911195700 +0000" channel="TV 34.hk"><title>鋒向標:城市微生物群</title></programme>
+<programme start="20250911195700 +0000" stop="20250911200000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911200000 +0000" stop="20250911205600 +0000" channel="TV 34.hk"><title>航拍中國第四季·遼寧</title></programme>
+<programme start="20250911205600 +0000" stop="20250911210000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911210000 +0000" stop="20250911212700 +0000" channel="TV 34.hk"><title>家住查幹湖1</title></programme>
+<programme start="20250911212700 +0000" stop="20250911213000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911213000 +0000" stop="20250911215700 +0000" channel="TV 34.hk"><title>無畏的旅行10</title></programme>
+<programme start="20250911215700 +0000" stop="20250911220000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911220000 +0000" stop="20250911225600 +0000" channel="TV 34.hk"><title>航拍中國 香港</title></programme>
+<programme start="20250911225600 +0000" stop="20250911230000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911230000 +0000" stop="20250911232700 +0000" channel="TV 34.hk"><title>重返森林1</title></programme>
+<programme start="20250911232700 +0000" stop="20250911233000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250911233000 +0000" stop="20250911235700 +0000" channel="TV 34.hk"><title>蘇州影像志2</title></programme>
+<programme start="20250911235700 +0000" stop="20250912000000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912000000 +0000" stop="20250912005600 +0000" channel="TV 34.hk"><title>舌尖上的中國第四季3</title></programme>
+<programme start="20250912005600 +0000" stop="20250912010000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912010000 +0000" stop="20250912012700 +0000" channel="TV 34.hk"><title>活力中國•我的盔甲夢</title></programme>
+<programme start="20250912012700 +0000" stop="20250912013000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912013000 +0000" stop="20250912015700 +0000" channel="TV 34.hk"><title>我的體育故事1-4/中國藝術家·曹俊</title></programme>
+<programme start="20250912015700 +0000" stop="20250912020000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912020000 +0000" stop="20250912025600 +0000" channel="TV 34.hk"><title>航拍中國第四季·遼寧</title></programme>
+<programme start="20250912025600 +0000" stop="20250912030000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912030000 +0000" stop="20250912032700 +0000" channel="TV 34.hk"><title>家住查幹湖1</title></programme>
+<programme start="20250912032700 +0000" stop="20250912033000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912033000 +0000" stop="20250912035700 +0000" channel="TV 34.hk"><title>無畏的旅行10</title></programme>
+<programme start="20250912035700 +0000" stop="20250912040000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912040000 +0000" stop="20250912045600 +0000" channel="TV 34.hk"><title>航拍中國 香港</title></programme>
+<programme start="20250912045600 +0000" stop="20250912050000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912050000 +0000" stop="20250912052700 +0000" channel="TV 34.hk"><title>重返森林1</title></programme>
+<programme start="20250912052700 +0000" stop="20250912053000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912053000 +0000" stop="20250912055700 +0000" channel="TV 34.hk"><title>蘇州影像志2</title></programme>
+<programme start="20250912055700 +0000" stop="20250912060000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912060000 +0000" stop="20250912065600 +0000" channel="TV 34.hk"><title>舌尖上的中國第四季3</title></programme>
+<programme start="20250912065600 +0000" stop="20250912070000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912070000 +0000" stop="20250912072700 +0000" channel="TV 34.hk"><title>活力中國•我的盔甲夢</title></programme>
+<programme start="20250912072700 +0000" stop="20250912073000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912073000 +0000" stop="20250912075700 +0000" channel="TV 34.hk"><title>我的體育故事1-4/中國藝術家·曹俊</title></programme>
+<programme start="20250912075700 +0000" stop="20250912080000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912080000 +0000" stop="20250912085600 +0000" channel="TV 34.hk"><title>航拍中國第四季·遼寧</title></programme>
+<programme start="20250912085600 +0000" stop="20250912090000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912090000 +0000" stop="20250912092700 +0000" channel="TV 34.hk"><title>家住查幹湖1</title></programme>
+<programme start="20250912092700 +0000" stop="20250912093000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912093000 +0000" stop="20250912095700 +0000" channel="TV 34.hk"><title>無畏的旅行10</title></programme>
+<programme start="20250912095700 +0000" stop="20250912100000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912100000 +0000" stop="20250912105600 +0000" channel="TV 34.hk"><title>航拍中國 香港</title></programme>
+<programme start="20250912105600 +0000" stop="20250912110000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912110000 +0000" stop="20250912112700 +0000" channel="TV 34.hk"><title>重返森林1</title></programme>
+<programme start="20250912112700 +0000" stop="20250912113000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912113000 +0000" stop="20250912115700 +0000" channel="TV 34.hk"><title>蘇州影像志2</title></programme>
+<programme start="20250912115700 +0000" stop="20250912120000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912120000 +0000" stop="20250912125600 +0000" channel="TV 34.hk"><title>舌尖上的中國第四季3</title></programme>
+<programme start="20250912125600 +0000" stop="20250912130000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912130000 +0000" stop="20250912132700 +0000" channel="TV 34.hk"><title>活力中國•我的盔甲夢</title></programme>
+<programme start="20250912132700 +0000" stop="20250912133000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912133000 +0000" stop="20250912135700 +0000" channel="TV 34.hk"><title>我的體育故事1-4/中國藝術家·曹俊</title></programme>
+<programme start="20250912135700 +0000" stop="20250912140000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912140000 +0000" stop="20250912145600 +0000" channel="TV 34.hk"><title>航拍中國第四季·遼寧</title></programme>
+<programme start="20250912145600 +0000" stop="20250912150000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912150000 +0000" stop="20250912152700 +0000" channel="TV 34.hk"><title>家住查幹湖1</title></programme>
+<programme start="20250912152700 +0000" stop="20250912153000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912153000 +0000" stop="20250912155700 +0000" channel="TV 34.hk"><title>無畏的旅行10</title></programme>
+<programme start="20250912155700 +0000" stop="20250912160000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912160000 +0000" stop="20250912165600 +0000" channel="TV 34.hk"><title>航拍中國 香港</title></programme>
+<programme start="20250912165600 +0000" stop="20250912170000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912170000 +0000" stop="20250912172700 +0000" channel="TV 34.hk"><title>重返森林1</title></programme>
+<programme start="20250912172700 +0000" stop="20250912173000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912173000 +0000" stop="20250912175700 +0000" channel="TV 34.hk"><title>蘇州影像志2</title></programme>
+<programme start="20250912175700 +0000" stop="20250912180000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912180000 +0000" stop="20250912185600 +0000" channel="TV 34.hk"><title>舌尖上的中國第四季3</title></programme>
+<programme start="20250912185600 +0000" stop="20250912190000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912190000 +0000" stop="20250912192700 +0000" channel="TV 34.hk"><title>活力中國•我的盔甲夢</title></programme>
+<programme start="20250912192700 +0000" stop="20250912193000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912193000 +0000" stop="20250912195700 +0000" channel="TV 34.hk"><title>我的體育故事1-4/中國藝術家·曹俊</title></programme>
+<programme start="20250912195700 +0000" stop="20250912200000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912200000 +0000" stop="20250912205600 +0000" channel="TV 34.hk"><title>航拍中國第四季·湖北</title></programme>
+<programme start="20250912205600 +0000" stop="20250912210000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912210000 +0000" stop="20250912212700 +0000" channel="TV 34.hk"><title>家住查幹湖2</title></programme>
+<programme start="20250912212700 +0000" stop="20250912213000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912213000 +0000" stop="20250912215700 +0000" channel="TV 34.hk"><title>書店，遇見你1</title></programme>
+<programme start="20250912215700 +0000" stop="20250912220000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912220000 +0000" stop="20250912225600 +0000" channel="TV 34.hk"><title>粵港澳大灣區2</title></programme>
+<programme start="20250912225600 +0000" stop="20250912230000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912230000 +0000" stop="20250912232700 +0000" channel="TV 34.hk"><title>重返森林2</title></programme>
+<programme start="20250912232700 +0000" stop="20250912233000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250912233000 +0000" stop="20250912235700 +0000" channel="TV 34.hk"><title>蘇州影像志3</title></programme>
+<programme start="20250912235700 +0000" stop="20250913000000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250913000000 +0000" stop="20250913005600 +0000" channel="TV 34.hk"><title>舌尖上的中國第四季4</title></programme>
+<programme start="20250913005600 +0000" stop="20250913010000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250913010000 +0000" stop="20250913012700 +0000" channel="TV 34.hk"><title>藝術在田野1/2</title></programme>
+<programme start="20250913012700 +0000" stop="20250913013000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250913013000 +0000" stop="20250913015700 +0000" channel="TV 34.hk"><title>二十一景自然博物館/千年調入畫6/奇妙中國6</title></programme>
+<programme start="20250913015700 +0000" stop="20250913020000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250913020000 +0000" stop="20250913025600 +0000" channel="TV 34.hk"><title>航拍中國第四季·湖北</title></programme>
+<programme start="20250913025600 +0000" stop="20250913030000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250913030000 +0000" stop="20250913032700 +0000" channel="TV 34.hk"><title>家住查幹湖2</title></programme>
+<programme start="20250913032700 +0000" stop="20250913033000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250913033000 +0000" stop="20250913035700 +0000" channel="TV 34.hk"><title>書店，遇見你1</title></programme>
+<programme start="20250913035700 +0000" stop="20250913040000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250913040000 +0000" stop="20250913045600 +0000" channel="TV 34.hk"><title>粵港澳大灣區2</title></programme>
+<programme start="20250913045600 +0000" stop="20250913050000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250913050000 +0000" stop="20250913052700 +0000" channel="TV 34.hk"><title>重返森林2</title></programme>
+<programme start="20250913052700 +0000" stop="20250913053000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250913053000 +0000" stop="20250913055700 +0000" channel="TV 34.hk"><title>蘇州影像志3</title></programme>
+<programme start="20250913055700 +0000" stop="20250913060000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250913060000 +0000" stop="20250913065600 +0000" channel="TV 34.hk"><title>舌尖上的中國第四季4</title></programme>
+<programme start="20250913065600 +0000" stop="20250913070000 +0000" channel="TV 34.hk"><title>頻道導視(英)</title></programme>
+<programme start="20250913070000 +0000" stop="20250913072700 +0000" channel="TV 34.hk"><title>藝術在田野1/2</title></programme>
+<programme start="20250910160000 +0000" stop="20250910170000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250910170000 +0000" stop="20250910180000 +0000" channel="TV 35.hk"><title>Africa Live</title></programme>
+<programme start="20250910180000 +0000" stop="20250910190000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250910190000 +0000" stop="20250910193000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250910193000 +0000" stop="20250910200000 +0000" channel="TV 35.hk"><title>World Insight with Tian Wei</title></programme>
+<programme start="20250910200000 +0000" stop="20250910203000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250910203000 +0000" stop="20250910210000 +0000" channel="TV 35.hk"><title>Dialogue</title></programme>
+<programme start="20250910210000 +0000" stop="20250910213000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250910213000 +0000" stop="20250910220000 +0000" channel="TV 35.hk"><title>The Point with Liu Xin</title></programme>
+<programme start="20250910220000 +0000" stop="20250910223000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250910223000 +0000" stop="20250910230000 +0000" channel="TV 35.hk"><title>Rediscovering China</title></programme>
+<programme start="20250910230000 +0000" stop="20250910233000 +0000" channel="TV 35.hk"><title>The Heat</title></programme>
+<programme start="20250910233000 +0000" stop="20250911000000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911000000 +0000" stop="20250911010000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250911010000 +0000" stop="20250911013000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911013000 +0000" stop="20250911020000 +0000" channel="TV 35.hk"><title>China 24</title></programme>
+<programme start="20250911020000 +0000" stop="20250911023000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911023000 +0000" stop="20250911030000 +0000" channel="TV 35.hk"><title>World Insight with Tian Wei</title></programme>
+<programme start="20250911030000 +0000" stop="20250911031500 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911031500 +0000" stop="20250911033000 +0000" channel="TV 35.hk"><title>Sports Scene</title></programme>
+<programme start="20250911033000 +0000" stop="20250911040000 +0000" channel="TV 35.hk"><title>The Hub With Wang Guan</title></programme>
+<programme start="20250911040000 +0000" stop="20250911050000 +0000" channel="TV 35.hk"><title>Global Watch</title></programme>
+<programme start="20250911050000 +0000" stop="20250911051500 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911051500 +0000" stop="20250911053000 +0000" channel="TV 35.hk"><title>Sports Scene</title></programme>
+<programme start="20250911053000 +0000" stop="20250911060000 +0000" channel="TV 35.hk"><title>Rediscovering China</title></programme>
+<programme start="20250911060000 +0000" stop="20250911063000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911063000 +0000" stop="20250911070000 +0000" channel="TV 35.hk"><title>The Heat</title></programme>
+<programme start="20250911070000 +0000" stop="20250911073000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911073000 +0000" stop="20250911080000 +0000" channel="TV 35.hk"><title>Sports Scene</title></programme>
+<programme start="20250911080000 +0000" stop="20250911081500 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911081500 +0000" stop="20250911090000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250911090000 +0000" stop="20250911093000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911093000 +0000" stop="20250911100000 +0000" channel="TV 35.hk"><title>The Vibe</title></programme>
+<programme start="20250911100000 +0000" stop="20250911101500 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911101500 +0000" stop="20250911110000 +0000" channel="TV 35.hk"><title>Africa Live</title></programme>
+<programme start="20250911110000 +0000" stop="20250911113000 +0000" channel="TV 35.hk"><title>Asia Today</title></programme>
+<programme start="20250911113000 +0000" stop="20250911120000 +0000" channel="TV 35.hk"><title>Dialogue</title></programme>
+<programme start="20250911120000 +0000" stop="20250911121500 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911121500 +0000" stop="20250911130000 +0000" channel="TV 35.hk"><title>China 24</title></programme>
+<programme start="20250911130000 +0000" stop="20250911133000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250911133000 +0000" stop="20250911140000 +0000" channel="TV 35.hk"><title>The Hub With Wang Guan</title></programme>
+<programme start="20250911140000 +0000" stop="20250911143000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911143000 +0000" stop="20250911150000 +0000" channel="TV 35.hk"><title>World Insight with Tian Wei</title></programme>
+<programme start="20250911150000 +0000" stop="20250911153000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911153000 +0000" stop="20250911160000 +0000" channel="TV 35.hk"><title>The Vibe</title></programme>
+<programme start="20250911160000 +0000" stop="20250911170000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250911170000 +0000" stop="20250911180000 +0000" channel="TV 35.hk"><title>Africa Live</title></programme>
+<programme start="20250911180000 +0000" stop="20250911190000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250911190000 +0000" stop="20250911193000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911193000 +0000" stop="20250911200000 +0000" channel="TV 35.hk"><title>World Insight with Tian Wei</title></programme>
+<programme start="20250911200000 +0000" stop="20250911203000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="TV 35.hk"><title>Dialogue</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250911213000 +0000" stop="20250911220000 +0000" channel="TV 35.hk"><title>The Hub With Wang Guan</title></programme>
+<programme start="20250911220000 +0000" stop="20250911223000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250911223000 +0000" stop="20250911230000 +0000" channel="TV 35.hk"><title>Rediscovering China</title></programme>
+<programme start="20250911230000 +0000" stop="20250911233000 +0000" channel="TV 35.hk"><title>The Heat</title></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912000000 +0000" stop="20250912010000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250912010000 +0000" stop="20250912013000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912013000 +0000" stop="20250912020000 +0000" channel="TV 35.hk"><title>China 24</title></programme>
+<programme start="20250912020000 +0000" stop="20250912023000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912023000 +0000" stop="20250912030000 +0000" channel="TV 35.hk"><title>World Insight with Tian Wei</title></programme>
+<programme start="20250912030000 +0000" stop="20250912031500 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912031500 +0000" stop="20250912033000 +0000" channel="TV 35.hk"><title>Sports Scene</title></programme>
+<programme start="20250912033000 +0000" stop="20250912040000 +0000" channel="TV 35.hk"><title>The Point with Liu Xin</title></programme>
+<programme start="20250912040000 +0000" stop="20250912050000 +0000" channel="TV 35.hk"><title>Global Watch</title></programme>
+<programme start="20250912050000 +0000" stop="20250912051500 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912051500 +0000" stop="20250912053000 +0000" channel="TV 35.hk"><title>Sports Scene</title></programme>
+<programme start="20250912053000 +0000" stop="20250912060000 +0000" channel="TV 35.hk"><title>Assignment Asia</title></programme>
+<programme start="20250912060000 +0000" stop="20250912063000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912063000 +0000" stop="20250912070000 +0000" channel="TV 35.hk"><title>The Heat</title></programme>
+<programme start="20250912070000 +0000" stop="20250912073000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912073000 +0000" stop="20250912080000 +0000" channel="TV 35.hk"><title>Sports Scene</title></programme>
+<programme start="20250912080000 +0000" stop="20250912081500 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912081500 +0000" stop="20250912090000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250912090000 +0000" stop="20250912093000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="TV 35.hk"><title>The Vibe</title></programme>
+<programme start="20250912100000 +0000" stop="20250912101500 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912101500 +0000" stop="20250912110000 +0000" channel="TV 35.hk"><title>Africa Live</title></programme>
+<programme start="20250912110000 +0000" stop="20250912113000 +0000" channel="TV 35.hk"><title>Asia Today</title></programme>
+<programme start="20250912113000 +0000" stop="20250912120000 +0000" channel="TV 35.hk"><title>Dialogue</title></programme>
+<programme start="20250912120000 +0000" stop="20250912121500 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912121500 +0000" stop="20250912130000 +0000" channel="TV 35.hk"><title>China 24</title></programme>
+<programme start="20250912130000 +0000" stop="20250912133000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250912133000 +0000" stop="20250912140000 +0000" channel="TV 35.hk"><title>The Point with Liu Xin</title></programme>
+<programme start="20250912140000 +0000" stop="20250912143000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912143000 +0000" stop="20250912150000 +0000" channel="TV 35.hk"><title>World Insight with Tian Wei</title></programme>
+<programme start="20250912150000 +0000" stop="20250912153000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912153000 +0000" stop="20250912160000 +0000" channel="TV 35.hk"><title>The Vibe</title></programme>
+<programme start="20250912160000 +0000" stop="20250912170000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250912170000 +0000" stop="20250912180000 +0000" channel="TV 35.hk"><title>Africa Live</title></programme>
+<programme start="20250912180000 +0000" stop="20250912190000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250912190000 +0000" stop="20250912193000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912193000 +0000" stop="20250912200000 +0000" channel="TV 35.hk"><title>World Insight with Tian Wei</title></programme>
+<programme start="20250912200000 +0000" stop="20250912203000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250912203000 +0000" stop="20250912210000 +0000" channel="TV 35.hk"><title>Dialogue</title></programme>
+<programme start="20250912210000 +0000" stop="20250912213000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250912213000 +0000" stop="20250912220000 +0000" channel="TV 35.hk"><title>The Point with Liu Xin</title></programme>
+<programme start="20250912220000 +0000" stop="20250912230000 +0000" channel="TV 35.hk"><title>Americas Now</title></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="TV 35.hk"><title>The Heat</title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250913000000 +0000" stop="20250913010000 +0000" channel="TV 35.hk"><title>Global Business</title></programme>
+<programme start="20250913010000 +0000" stop="20250913013000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250913013000 +0000" stop="20250913020000 +0000" channel="TV 35.hk"><title>China 24</title></programme>
+<programme start="20250913020000 +0000" stop="20250913023000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250913023000 +0000" stop="20250913030000 +0000" channel="TV 35.hk"><title>World Insight with Tian Wei</title></programme>
+<programme start="20250913030000 +0000" stop="20250913031500 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250913031500 +0000" stop="20250913033000 +0000" channel="TV 35.hk"><title>Sports Scene</title></programme>
+<programme start="20250913033000 +0000" stop="20250913040000 +0000" channel="TV 35.hk"><title>Travelogue</title></programme>
+<programme start="20250913040000 +0000" stop="20250913050000 +0000" channel="TV 35.hk"><title>Global Watch</title></programme>
+<programme start="20250913050000 +0000" stop="20250913060000 +0000" channel="TV 35.hk"><title>Big Story</title></programme>
+<programme start="20250913060000 +0000" stop="20250913063000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+<programme start="20250913063000 +0000" stop="20250913070000 +0000" channel="TV 35.hk"><title>The Heat</title></programme>
+<programme start="20250913070000 +0000" stop="20250913073000 +0000" channel="TV 35.hk"><title>The World Today</title></programme>
+</tv>

@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<channel id="KABCDT.us"><display-name>KABCDT.us</display-name></channel>
+<channel id="KABCDT2.us"><display-name>KABCDT2.us</display-name></channel>
+<channel id="KABCDT3.us"><display-name>KABCDT3.us</display-name></channel>
+<channel id="KABCDT4.us"><display-name>KABCDT4.us</display-name></channel>
+<channel id="KAZADT.us"><display-name>KAZADT.us</display-name></channel>
+<channel id="KAZADT2.us"><display-name>KAZADT2.us</display-name></channel>
+<channel id="KAZADT3.us"><display-name>KAZADT3.us</display-name></channel>
+<channel id="KBEHDT.us"><display-name>KBEHDT.us</display-name></channel>
+<channel id="KBEHDT3.us"><display-name>KBEHDT3.us</display-name></channel>
+<channel id="KBSIDT.us"><display-name>KBSIDT.us</display-name></channel>
+<channel id="KCALDT.us"><display-name>KCALDT.us</display-name></channel>
+<channel id="KCBSDT.us"><display-name>KCBSDT.us</display-name></channel>
+<channel id="KCBSDT2.us"><display-name>KCBSDT2.us</display-name></channel>
+<channel id="KCBSDT3.us"><display-name>KCBSDT3.us</display-name></channel>
+<channel id="KCBSDT4.us"><display-name>KCBSDT4.us</display-name></channel>
+<channel id="KCETDT.us"><display-name>KCETDT.us</display-name></channel>
+<channel id="KCETDT2.us"><display-name>KCETDT2.us</display-name></channel>
+<channel id="KCOPDT.us"><display-name>KCOPDT.us</display-name></channel>
+<channel id="KCOPDT2.us"><display-name>KCOPDT2.us</display-name></channel>
+<channel id="KCOPDT3.us"><display-name>KCOPDT3.us</display-name></channel>
+<channel id="KCOPDT4.us"><display-name>KCOPDT4.us</display-name></channel>
+<channel id="KDLT.us"><display-name>KDLT.us</display-name></channel>
+<channel id="KDLTDT2.us"><display-name>KDLTDT2.us</display-name></channel>
+<channel id="KDLTDT3.us"><display-name>KDLTDT3.us</display-name></channel>
+<channel id="KDLTDT4.us"><display-name>KDLTDT4.us</display-name></channel>
+<channel id="KDNLDT.us"><display-name>KDNLDT.us</display-name></channel>
+<channel id="KELODT.us"><display-name>KELODT.us</display-name></channel>
+<channel id="KELODT2.us"><display-name>KELODT2.us</display-name></channel>
+<channel id="KELODT4.us"><display-name>KELODT4.us</display-name></channel>
+<channel id="KETCDT.us"><display-name>KETCDT.us</display-name></channel>
+<channel id="KFVSDT.us"><display-name>KFVSDT.us</display-name></channel>
+<channel id="KFVSDT2.us"><display-name>KFVSDT2.us</display-name></channel>
+<channel id="KGMBDT.us"><display-name>KGMBDT.us</display-name></channel>
+<channel id="KGMBDT2.us"><display-name>KGMBDT2.us</display-name></channel>
+<channel id="KGMBDT3.us"><display-name>KGMBDT3.us</display-name></channel>
+<channel id="KGMBDT4.us"><display-name>KGMBDT4.us</display-name></channel>
+<channel id="KGMBDT5.us"><display-name>KGMBDT5.us</display-name></channel>
+<channel id="KHIIDT.us"><display-name>KHIIDT.us</display-name></channel>
+<channel id="KHNLDT.us"><display-name>KHNLDT.us</display-name></channel>
+<channel id="KHNLDT2.us"><display-name>KHNLDT2.us</display-name></channel>
+<channel id="KHNLDT3.us"><display-name>KHNLDT3.us</display-name></channel>
+<channel id="KHNLDT4.us"><display-name>KHNLDT4.us</display-name></channel>
+<channel id="KHNLDT6.us"><display-name>KHNLDT6.us</display-name></channel>
+<channel id="KHONDT.us"><display-name>KHONDT.us</display-name></channel>
+<channel id="KHONDT2.us"><display-name>KHONDT2.us</display-name></channel>
+<channel id="KHONDT3.us"><display-name>KHONDT3.us</display-name></channel>
+<channel id="KHONDT4.us"><display-name>KHONDT4.us</display-name></channel>
+<channel id="KIONDT.us"><display-name>KIONDT.us</display-name></channel>
+<channel id="KIONDT2.us"><display-name>KIONDT2.us</display-name></channel>
+<channel id="KITVDT.us"><display-name>KITVDT.us</display-name></channel>
+<channel id="KITVDT2.us"><display-name>KITVDT2.us</display-name></channel>
+<channel id="KITVDT3.us"><display-name>KITVDT3.us</display-name></channel>
+<channel id="KITVDT4.us"><display-name>KITVDT4.us</display-name></channel>
+<channel id="KITVDT5.us"><display-name>KITVDT5.us</display-name></channel>
+<channel id="KITVDT6.us"><display-name>KITVDT6.us</display-name></channel>
+<channel id="KMOVDT.us"><display-name>KMOVDT.us</display-name></channel>
+<channel id="KNBCDT.us"><display-name>KNBCDT.us</display-name></channel>
+<channel id="KNBCDT2.us"><display-name>KNBCDT2.us</display-name></channel>
+<channel id="KNBCDT3.us"><display-name>KNBCDT3.us</display-name></channel>
+<channel id="KNBCDT4.us"><display-name>KNBCDT4.us</display-name></channel>
+<channel id="KNXVDT.us"><display-name>KNXVDT.us</display-name></channel>
+<channel id="KOLODT3.us"><display-name>KOLODT3.us</display-name></channel>
+<channel id="KPHODT.us"><display-name>KPHODT.us</display-name></channel>
+<channel id="KPLRDT.us"><display-name>KPLRDT.us</display-name></channel>
+<channel id="KPNXDT.us"><display-name>KPNXDT.us</display-name></channel>
+<channel id="KPXNDT.us"><display-name>KPXNDT.us</display-name></channel>
+<channel id="KPXNDT2.us"><display-name>KPXNDT2.us</display-name></channel>
+<channel id="KPXNDT3.us"><display-name>KPXNDT3.us</display-name></channel>
+<channel id="KPXNDT4.us"><display-name>KPXNDT4.us</display-name></channel>
+<channel id="KQEDDT.us"><display-name>KQEDDT.us</display-name></channel>
+<channel id="KQEDDT2.us"><display-name>KQEDDT2.us</display-name></channel>
+<channel id="KQEHDT.us"><display-name>KQEHDT.us</display-name></channel>
+<channel id="KQEHDT2.us"><display-name>KQEHDT2.us</display-name></channel>
+<channel id="KQFXLD.us"><display-name>KQFXLD.us</display-name></channel>
+<channel id="KRCGDT.us"><display-name>KRCGDT.us</display-name></channel>
+<channel id="KRCGDT2.us"><display-name>KRCGDT2.us</display-name></channel>
+<channel id="KRCGDT3.us"><display-name>KRCGDT3.us</display-name></channel>
+<channel id="KRCGDT4.us"><display-name>KRCGDT4.us</display-name></channel>
+<channel id="KSAZDT.us"><display-name>KSAZDT.us</display-name></channel>
+<channel id="KSBWDT.us"><display-name>KSBWDT.us</display-name></channel>
+<channel id="KSBWDT2.us"><display-name>KSBWDT2.us</display-name></channel>
+<channel id="KSCEDT2.us"><display-name>KSCEDT2.us</display-name></channel>
+<channel id="KSDKDT.us"><display-name>KSDKDT.us</display-name></channel>
+<channel id="KSFVCD.us"><display-name>KSFVCD.us</display-name></channel>
+<channel id="KSFVCD2.us"><display-name>KSFVCD2.us</display-name></channel>
+<channel id="KSFYDT.us"><display-name>KSFYDT.us</display-name></channel>
+<channel id="KSFYDT2.us"><display-name>KSFYDT2.us</display-name></channel>
+<channel id="KSFYDT3.us"><display-name>KSFYDT3.us</display-name></channel>
+<channel id="KSMN.us"><display-name>KSMN.us</display-name></channel>
+<channel id="KSMODT.us"><display-name>KSMODT.us</display-name></channel>
+<channel id="KSWBDT.us"><display-name>KSWBDT.us</display-name></channel>
+<channel id="KTLADT.us"><display-name>KTLADT.us</display-name></channel>
+<channel id="KTLADT2.us"><display-name>KTLADT2.us</display-name></channel>
+<channel id="KTLADT3.us"><display-name>KTLADT3.us</display-name></channel>
+<channel id="KTLADT4.us"><display-name>KTLADT4.us</display-name></channel>
+<channel id="KTLADT5.us"><display-name>KTLADT5.us</display-name></channel>
+<channel id="KTTVDT.us"><display-name>KTTVDT.us</display-name></channel>
+<channel id="KTTVDT2.us"><display-name>KTTVDT2.us</display-name></channel>
+<channel id="KTTVDT3.us"><display-name>KTTVDT3.us</display-name></channel>
+<channel id="KTTVDT4.us"><display-name>KTTVDT4.us</display-name></channel>
+<channel id="KTVIDT.us"><display-name>KTVIDT.us</display-name></channel>
+<channel id="KTVODT.us"><display-name>KTVODT.us</display-name></channel>
+<channel id="KTVODT2.us"><display-name>KTVODT2.us</display-name></channel>
+<channel id="KTVODT3.us"><display-name>KTVODT3.us</display-name></channel>
+<channel id="KVCWDT.us"><display-name>KVCWDT.us</display-name></channel>
+<channel id="KYOUDT.us"><display-name>KYOUDT.us</display-name></channel>
+<channel id="KYOUDT2.us"><display-name>KYOUDT2.us</display-name></channel>
+<channel id="KYOUDT4.us"><display-name>KYOUDT4.us</display-name></channel>
+<channel id="KYOUDT5.us"><display-name>KYOUDT5.us</display-name></channel>
+<channel id="WBALDT.us"><display-name>WBALDT.us</display-name></channel>
+<channel id="WBFFDT.us"><display-name>WBFFDT.us</display-name></channel>
+<channel id="WBNXDT.us"><display-name>WBNXDT.us</display-name></channel>
+<channel id="WDIVDT.us"><display-name>WDIVDT.us</display-name></channel>
+<channel id="WEWSDT.us"><display-name>WEWSDT.us</display-name></channel>
+<channel id="WFLADT.us"><display-name>WFLADT.us</display-name></channel>
+<channel id="WFNYCD.us"><display-name>WFNYCD.us</display-name></channel>
+<channel id="WFORDT.us"><display-name>WFORDT.us</display-name></channel>
+<channel id="WFTSDT.us"><display-name>WFTSDT.us</display-name></channel>
+<channel id="WJBKDT.us"><display-name>WJBKDT.us</display-name></channel>
+<channel id="WJLADT.us"><display-name>WJLADT.us</display-name></channel>
+<channel id="WJWDT.us"><display-name>WJWDT.us</display-name></channel>
+<channel id="WJZDT.us"><display-name>WJZDT.us</display-name></channel>
+<channel id="WKMJDT.us"><display-name>WKMJDT.us</display-name></channel>
+<channel id="WKPCDT.us"><display-name>WKPCDT.us</display-name></channel>
+<channel id="WKPCDT2.us"><display-name>WKPCDT2.us</display-name></channel>
+<channel id="WKPCDT3.us"><display-name>WKPCDT3.us</display-name></channel>
+<channel id="WKPCDT4.us"><display-name>WKPCDT4.us</display-name></channel>
+<channel id="WKRNDT.us"><display-name>WKRNDT.us</display-name></channel>
+<channel id="WKYCDT.us"><display-name>WKYCDT.us</display-name></channel>
+<channel id="WLNYDT.us"><display-name>WLNYDT.us</display-name></channel>
+<channel id="WMARDT.us"><display-name>WMARDT.us</display-name></channel>
+<channel id="WMYDDT.us"><display-name>WMYDDT.us</display-name></channel>
+<channel id="WNNEDT.us"><display-name>WNNEDT.us</display-name></channel>
+<channel id="WPLGDT.us"><display-name>WPLGDT.us</display-name></channel>
+<channel id="WPSDDT.us"><display-name>WPSDDT.us</display-name></channel>
+<channel id="WRCDT.us"><display-name>WRCDT.us</display-name></channel>
+<channel id="WRICDT.us"><display-name>WRICDT.us</display-name></channel>
+<channel id="WRLHDT.us"><display-name>WRLHDT.us</display-name></channel>
+<channel id="WSILDT.us"><display-name>WSILDT.us</display-name></channel>
+<channel id="WSMVDT.us"><display-name>WSMVDT.us</display-name></channel>
+<channel id="WSVNDT.us"><display-name>WSVNDT.us</display-name></channel>
+<channel id="WSWBDT.us"><display-name>WSWBDT.us</display-name></channel>
+<channel id="WTSPDT.us"><display-name>WTSPDT.us</display-name></channel>
+<channel id="WTTGDT.us"><display-name>WTTGDT.us</display-name></channel>
+<channel id="WTVFDT.us"><display-name>WTVFDT.us</display-name></channel>
+<channel id="WTVJDT.us"><display-name>WTVJDT.us</display-name></channel>
+<channel id="WTVRDT.us"><display-name>WTVRDT.us</display-name></channel>
+<channel id="WTVSDT.us"><display-name>WTVSDT.us</display-name></channel>
+<channel id="WTVTDT.us"><display-name>WTVTDT.us</display-name></channel>
+<channel id="WUABDT.us"><display-name>WUABDT.us</display-name></channel>
+<channel id="WWBTDT.us"><display-name>WWBTDT.us</display-name></channel>
+<channel id="WWJDT.us"><display-name>WWJDT.us</display-name></channel>
+<channel id="WXYZDT.us"><display-name>WXYZDT.us</display-name></channel>
+<channel id="WZMEDT.us"><display-name>WZMEDT.us</display-name></channel>
+<channel id="WZMEDT.us"><display-name>WZMEDT.us</display-name></channel>
+<channel id="WZMEDT2.us"><display-name>WZMEDT2.us</display-name></channel>
+<channel id="WZTVDT.us"><display-name>WZTVDT.us</display-name></channel>
+<programme start="20250911000000 +0000" stop="20250911010000 +0000" channel="KELODT2.us"><title>Dateline</title><sub-title>The House on Badger Lane</sub-title></programme>
+<programme start="20250911010000 +0000" stop="20250911020000 +0000" channel="KELODT2.us"><title>Dateline</title><sub-title>The Collector</sub-title></programme>
+<programme start="20250911020000 +0000" stop="20250911030000 +0000" channel="KELODT2.us"><title>48 Hours</title><sub-title>Death by Eyedrops</sub-title></programme>
+<programme start="20250911030000 +0000" stop="20250911033500 +0000" channel="KELODT2.us"><title>KELOLAND News at Ten</title></programme>
+<programme start="20250911033500 +0000" stop="20250911040500 +0000" channel="KELODT2.us"><title>Young Sheldon</title><sub-title>Little Green Men and a Fellas Marriage Proposal</sub-title></programme>
+<programme start="20250911040500 +0000" stop="20250911043500 +0000" channel="KELODT2.us"><title>Young Sheldon</title><sub-title>Pongo Pygmaeus and a Culture That Encourages Spitting</sub-title></programme>
+<programme start="20250911043500 +0000" stop="20250911050500 +0000" channel="KELODT2.us"><title>Pawn Stars</title><sub-title>Peaches and Pinups</sub-title></programme>
+<programme start="20250911050500 +0000" stop="20250911053500 +0000" channel="KELODT2.us"><title>Pawn Stars</title><sub-title>A Shot and a Shave</sub-title></programme>
+<programme start="20250911053500 +0000" stop="20250911063500 +0000" channel="KELODT2.us"><title>Judge Mathis</title></programme>
+<programme start="20250911063500 +0000" stop="20250911080500 +0000" channel="KELODT2.us"><title>KELOLAND Living</title></programme>
+<programme start="20250911080500 +0000" stop="20250911093000 +0000" channel="KELODT2.us"><title>KELOLAND Weather NOW</title></programme>
+<programme start="20250911093000 +0000" stop="20250911100000 +0000" channel="KELODT2.us"><title>KELOLAND This Morning at 4:30am</title></programme>
+<programme start="20250911100000 +0000" stop="20250911103000 +0000" channel="KELODT2.us"><title>KELOLAND This Morning at 5am</title></programme>
+<programme start="20250911103000 +0000" stop="20250911110000 +0000" channel="KELODT2.us"><title>KELOLAND This Morning Early</title></programme>
+<programme start="20250911110000 +0000" stop="20250911120000 +0000" channel="KELODT2.us"><title>KELOLAND This Morning</title></programme>
+<programme start="20250911120000 +0000" stop="20250911130000 +0000" channel="KELODT2.us"><title>KELOLAND This Morning</title></programme>
+<programme start="20250911130000 +0000" stop="20250911140000 +0000" channel="KELODT2.us"><title>Chicago Fire</title><sub-title>An Officer With Grit</sub-title></programme>
+<programme start="20250911140000 +0000" stop="20250911160000 +0000" channel="KELODT2.us"><title>GMFB: Overtime</title></programme>
+<programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="KELODT2.us"><title>The Neighborhood</title><sub-title>Welcome to the Barbershop</sub-title></programme>
+<programme start="20250911163000 +0000" stop="20250911170000 +0000" channel="KELODT2.us"><title>The Neighborhood</title><sub-title>Welcome to the Stolen Sneakers</sub-title></programme>
+<programme start="20250911170000 +0000" stop="20250911173000 +0000" channel="KELODT2.us"><title>Midday in KELOLAND</title></programme>
+<programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="KELODT2.us"><title>Family Feud</title></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="KELODT2.us"><title>Family Feud</title></programme>
+<programme start="20250911183000 +0000" stop="20250911190000 +0000" channel="KELODT2.us"><title>Family Feud</title></programme>
+<programme start="20250911190000 +0000" stop="20250911200000 +0000" channel="KELODT2.us"><title>The Jennifer Hudson Show</title></programme>
+<programme start="20250911200000 +0000" stop="20250911210000 +0000" channel="KELODT2.us"><title>KELOLAND Living</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="KELODT2.us"><title>Judy Justice</title><sub-title>Tough Love Dad</sub-title></programme>
+<programme start="20250911213000 +0000" stop="20250911220000 +0000" channel="KELODT2.us"><title>Judy Justice</title><sub-title>Thats a Wrap! and Ex-Con; Author Seeks the Sentimental</sub-title></programme>
+<programme start="20250911220000 +0000" stop="20250911223000 +0000" channel="KELODT2.us"><title>KELOLAND News at Five</title></programme>
+<programme start="20250911223000 +0000" stop="20250911230000 +0000" channel="KELODT2.us"><title>Family Feud</title></programme>
+<programme start="20250911230000 +0000" stop="20250911233000 +0000" channel="KELODT2.us"><title>KELOLAND News at Six</title></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="KELODT2.us"><title>Family Feud</title></programme>
+<programme start="20250912000000 +0000" stop="20250912010000 +0000" channel="KELODT2.us"><title>Dateline</title><sub-title>Without a Trace</sub-title></programme>
+<programme start="20250912010000 +0000" stop="20250912020000 +0000" channel="KELODT2.us"><title>Dateline</title><sub-title>Before the Storm</sub-title></programme>
+<programme start="20250912020000 +0000" stop="20250912030000 +0000" channel="KELODT2.us"><title>48 Hours</title><sub-title>The Alternate Suspects</sub-title></programme>
+<programme start="20250912030000 +0000" stop="20250912033500 +0000" channel="KELODT2.us"><title>KELOLAND News at Ten</title></programme>
+<programme start="20250912033500 +0000" stop="20250912040500 +0000" channel="KELODT2.us"><title>Young Sheldon</title><sub-title>A New Weather Girl and a Stay-at-Home Coddler</sub-title></programme>
+<programme start="20250912040500 +0000" stop="20250912043500 +0000" channel="KELODT2.us"><title>Young Sheldon</title><sub-title>A Party Invitation, Football Grapes and an Earth Chicken</sub-title></programme>
+<programme start="20250912043500 +0000" stop="20250912050500 +0000" channel="KELODT2.us"><title>Pawn Stars</title><sub-title>Old Mans Gamble</sub-title></programme>
+<programme start="20250912050500 +0000" stop="20250912053500 +0000" channel="KELODT2.us"><title>Pawn Stars</title><sub-title>Hot Air Buffoon</sub-title></programme>
+<programme start="20250912053500 +0000" stop="20250912063500 +0000" channel="KELODT2.us"><title>Judge Mathis</title></programme>
+<programme start="20250912063500 +0000" stop="20250912080500 +0000" channel="KELODT2.us"><title>KELOLAND Living</title></programme>
+<programme start="20250912080500 +0000" stop="20250912093000 +0000" channel="KELODT2.us"><title>KELOLAND Weather NOW</title></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="KELODT2.us"><title>KELOLAND This Morning at 4:30am</title></programme>
+<programme start="20250912100000 +0000" stop="20250912103000 +0000" channel="KELODT2.us"><title>KELOLAND This Morning at 5am</title></programme>
+<programme start="20250912103000 +0000" stop="20250912110000 +0000" channel="KELODT2.us"><title>KELOLAND This Morning Early</title></programme>
+<programme start="20250912110000 +0000" stop="20250912120000 +0000" channel="KELODT2.us"><title>KELOLAND This Morning</title></programme>
+<programme start="20250912120000 +0000" stop="20250912130000 +0000" channel="KELODT2.us"><title>KELOLAND This Morning</title></programme>
+<programme start="20250912130000 +0000" stop="20250912140000 +0000" channel="KELODT2.us"><title>Chicago Fire</title><sub-title>The Missing Piece</sub-title></programme>
+<programme start="20250912140000 +0000" stop="20250912160000 +0000" channel="KELODT2.us"><title>GMFB: Overtime</title></programme>
+<programme start="20250912160000 +0000" stop="20250912163000 +0000" channel="KELODT2.us"><title>The Neighborhood</title><sub-title>Welcome to the Fundraiser</sub-title></programme>
+<programme start="20250912163000 +0000" stop="20250912170000 +0000" channel="KELODT2.us"><title>The Neighborhood</title><sub-title>Welcome to Grovers Birthday</sub-title></programme>
+<programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="KELODT2.us"><title>Midday in KELOLAND</title></programme>
+<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="KELODT2.us"><title>Family Feud</title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="KELODT2.us"><title>Family Feud</title></programme>
+<programme start="20250912183000 +0000" stop="20250912190000 +0000" channel="KELODT2.us"><title>Family Feud</title></programme>
+<programme start="20250912190000 +0000" stop="20250912200000 +0000" channel="KELODT2.us"><title>The Jennifer Hudson Show</title></programme>
+<programme start="20250912200000 +0000" stop="20250912210000 +0000" channel="KELODT2.us"><title>KELOLAND Living</title></programme>
+<programme start="20250912210000 +0000" stop="20250912213000 +0000" channel="KELODT2.us"><title>Judy Justice</title><sub-title>To Lease or Not to Lease</sub-title></programme>
+<programme start="20250912213000 +0000" stop="20250912220000 +0000" channel="KELODT2.us"><title>Judy Justice</title><sub-title>Water Damage Control</sub-title></programme>
+<programme start="20250912220000 +0000" stop="20250912223000 +0000" channel="KELODT2.us"><title>KELOLAND News at Five</title></programme>
+<programme start="20250912223000 +0000" stop="20250912230000 +0000" channel="KELODT2.us"><title>Family Feud</title></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="KELODT2.us"><title>KELOLAND News at Six</title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="KELODT2.us"><title>Family Feud</title></programme>
+<programme start="20250911000000 +0000" stop="20250911010000 +0000" channel="KTVODT.us"><title>Match Game</title><sub-title>Adam Pally, Randall Park, Kal Penn, Ana Gasteyer, DaVine Joy Randolph, Beanie Feldstein</sub-title></programme>
+<programme start="20250911010000 +0000" stop="20250911020000 +0000" channel="KTVODT.us"><title>Match Game</title><sub-title>Thomas Lennon, Andrea Martin, Tituss Burgess, Ego Nwodim, Pete Holmes, Von Miller</sub-title></programme>
+<programme start="20250911020000 +0000" stop="20250911030000 +0000" channel="KTVODT.us"><title>Shark Tank</title></programme>
+<programme start="20250911030000 +0000" stop="20250911033500 +0000" channel="KTVODT.us"><title>Tri-State Trusted</title></programme>
+<programme start="20250911033500 +0000" stop="20250911043700 +0000" channel="KTVODT.us"><title>Jimmy Kimmel Live!</title><sub-title>Bryan Cranston; Christopher Lloyd; Say She She</sub-title></programme>
+<programme start="20250911043700 +0000" stop="20250911050600 +0000" channel="KTVODT.us"><title>Nightline</title></programme>
+<programme start="20250911050600 +0000" stop="20250911054100 +0000" channel="KTVODT.us"><title>Tri-State Trusted</title></programme>
+<programme start="20250911054100 +0000" stop="20250911064100 +0000" channel="KTVODT.us"><title>Live with Kelly and Mark</title><sub-title>"Kelly and Mark Do It" Week</sub-title></programme>
+<programme start="20250911064100 +0000" stop="20250911090000 +0000" channel="KTVODT.us"><title>ABC World News Now</title></programme>
+<programme start="20250911090000 +0000" stop="20250911093000 +0000" channel="KTVODT.us"><title>AgDay</title></programme>
+<programme start="20250911093000 +0000" stop="20250911100000 +0000" channel="KTVODT.us"><title>Good Morning America First Look</title></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="KTVODT.us"><title>Tri-State Trusted</title></programme>
+<programme start="20250911120000 +0000" stop="20250911140000 +0000" channel="KTVODT.us"><title>Good Morning America</title></programme>
+<programme start="20250911140000 +0000" stop="20250911150000 +0000" channel="KTVODT.us"><title>Live with Kelly and Mark</title><sub-title>"Kelly and Mark Do It" Week</sub-title></programme>
+<programme start="20250911150000 +0000" stop="20250911160000 +0000" channel="KTVODT.us"><title>The View</title></programme>
+<programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="KTVODT.us"><title>Extra</title></programme>
+<programme start="20250911163000 +0000" stop="20250911170000 +0000" channel="KTVODT.us"><title>Access Hollywood</title></programme>
+<programme start="20250911170000 +0000" stop="20250911180000 +0000" channel="KTVODT.us"><title>GMA3</title></programme>
+<programme start="20250911180000 +0000" stop="20250911190000 +0000" channel="KTVODT.us"><title>General Hospital</title></programme>
+<programme start="20250911190000 +0000" stop="20250911193000 +0000" channel="KTVODT.us"><title>Daytime Jeopardy</title></programme>
+<programme start="20250911193000 +0000" stop="20250911200000 +0000" channel="KTVODT.us"><title>Jeopardy!</title></programme>
+<programme start="20250911200000 +0000" stop="20250911203000 +0000" channel="KTVODT.us"><title>The Perfect Line</title><sub-title>Here We Come!</sub-title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="KTVODT.us"><title>The Perfect Line</title><sub-title>Youre Smokin!</sub-title></programme>
+<programme start="20250911210000 +0000" stop="20250911220000 +0000" channel="KTVODT.us"><title>The Kelly Clarkson Show</title></programme>
+<programme start="20250911220000 +0000" stop="20250911223000 +0000" channel="KTVODT.us"><title>Tri-State Trusted</title></programme>
+<programme start="20250911223000 +0000" stop="20250911230000 +0000" channel="KTVODT.us"><title>ABC World News Tonight With David Muir</title></programme>
+<programme start="20250911230000 +0000" stop="20250911233000 +0000" channel="KTVODT.us"><title>Tri-State Trusted</title></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="KTVODT.us"><title>Wheel of Fortune</title><sub-title>WTF (What the Fun)</sub-title></programme>
+<programme start="20250912000000 +0000" stop="20250912010000 +0000" channel="KTVODT.us"><title>Celebrity Family Feud</title><sub-title>Lainey Wilson vs. Leanne Morgan and Jordan Chiles vs. Stephen Nedoroscik</sub-title></programme>
+<programme start="20250912010000 +0000" stop="20250912020000 +0000" channel="KTVODT.us"><title>Celebrity Family Feud</title><sub-title>Normani vs. Michelle Buteau and Andy Richter vs. Jason Ritter</sub-title></programme>
+<programme start="20250912020000 +0000" stop="20250912030000 +0000" channel="KTVODT.us"><title>Celebrity Family Feud</title><sub-title>Robin Thicke vs. Anthony Anderson and Walker Hayes vs. Rachel Bilson</sub-title></programme>
+<programme start="20250912030000 +0000" stop="20250912033500 +0000" channel="KTVODT.us"><title>Tri-State Trusted</title></programme>
+<programme start="20250912033500 +0000" stop="20250912043700 +0000" channel="KTVODT.us"><title>Jimmy Kimmel Live!</title><sub-title>Sean Penn; Owen Cooper; Amaarae</sub-title></programme>
+<programme start="20250912043700 +0000" stop="20250912050600 +0000" channel="KTVODT.us"><title>Nightline</title></programme>
+<programme start="20250912050600 +0000" stop="20250912054100 +0000" channel="KTVODT.us"><title>Tri-State Trusted</title></programme>
+<programme start="20250912054100 +0000" stop="20250912064100 +0000" channel="KTVODT.us"><title>Live with Kelly and Mark</title><sub-title>"Kelly and Mark Do It" Week</sub-title></programme>
+<programme start="20250912064100 +0000" stop="20250912090000 +0000" channel="KTVODT.us"><title>ABC World News Now</title></programme>
+<programme start="20250912090000 +0000" stop="20250912093000 +0000" channel="KTVODT.us"><title>AgDay</title></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="KTVODT.us"><title>Good Morning America First Look</title></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="KTVODT.us"><title>Tri-State Trusted</title></programme>
+<programme start="20250912120000 +0000" stop="20250912140000 +0000" channel="KTVODT.us"><title>Good Morning America</title></programme>
+<programme start="20250912140000 +0000" stop="20250912150000 +0000" channel="KTVODT.us"><title>Live with Kelly and Mark</title><sub-title>"Kelly and Mark Do It" Week; Shopping Day at Live</sub-title></programme>
+<programme start="20250912150000 +0000" stop="20250912160000 +0000" channel="KTVODT.us"><title>The View</title></programme>
+<programme start="20250912160000 +0000" stop="20250912163000 +0000" channel="KTVODT.us"><title>Extra</title></programme>
+<programme start="20250912163000 +0000" stop="20250912170000 +0000" channel="KTVODT.us"><title>Access Hollywood</title></programme>
+<programme start="20250912170000 +0000" stop="20250912180000 +0000" channel="KTVODT.us"><title>GMA3</title></programme>
+<programme start="20250912180000 +0000" stop="20250912190000 +0000" channel="KTVODT.us"><title>General Hospital</title></programme>
+<programme start="20250912190000 +0000" stop="20250912193000 +0000" channel="KTVODT.us"><title>Daytime Jeopardy</title></programme>
+<programme start="20250912193000 +0000" stop="20250912200000 +0000" channel="KTVODT.us"><title>Jeopardy!</title></programme>
+<programme start="20250912200000 +0000" stop="20250912203000 +0000" channel="KTVODT.us"><title>The Perfect Line</title><sub-title>Anything Can Happen</sub-title></programme>
+<programme start="20250912203000 +0000" stop="20250912210000 +0000" channel="KTVODT.us"><title>The Perfect Line</title><sub-title>Happy Dance</sub-title></programme>
+<programme start="20250912210000 +0000" stop="20250912220000 +0000" channel="KTVODT.us"><title>The Kelly Clarkson Show</title></programme>
+<programme start="20250912220000 +0000" stop="20250912223000 +0000" channel="KTVODT.us"><title>Tri-State Trusted</title></programme>
+<programme start="20250912223000 +0000" stop="20250912230000 +0000" channel="KTVODT.us"><title>ABC World News Tonight With David Muir</title></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="KTVODT.us"><title>Tri-State Trusted</title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="KTVODT.us"><title>Wheel of Fortune</title><sub-title>WTF (What the Fun)</sub-title></programme>
+<programme start="20250913000000 +0000" stop="20250913010100 +0000" channel="KTVODT.us"><title>Shark Tank</title></programme>
+<programme start="20250913010100 +0000" stop="20250913030000 +0000" channel="KTVODT.us"><title>20/20</title></programme>
+<programme start="20250911000000 +0000" stop="20250911013000 +0000" channel="KTVODT2.us"><title>Big Brother</title></programme>
+<programme start="20250911013000 +0000" stop="20250911020000 +0000" channel="KTVODT2.us"><title>Hollywood Squares</title><sub-title>Its a Dysfunctional Family Show</sub-title></programme>
+<programme start="20250911020000 +0000" stop="20250911030000 +0000" channel="KTVODT2.us"><title>Elsbeth</title><sub-title>I See... Murder</sub-title></programme>
+<programme start="20250911030000 +0000" stop="20250911033000 +0000" channel="KTVODT2.us"><title>Access Hollywood</title></programme>
+<programme start="20250911033000 +0000" stop="20250911033500 +0000" channel="KTVODT2.us"><title>Judge Judy</title><sub-title>Vandalism Caught on Tape!; Two Moms Sue One Child</sub-title></programme>
+<programme start="20250911033500 +0000" stop="20250911043700 +0000" channel="KTVODT2.us"><title>The Late Show With Stephen Colbert</title><sub-title>Jennifer Aniston; Cooper Hoffman</sub-title></programme>
+<programme start="20250911043700 +0000" stop="20250911053700 +0000" channel="KTVODT2.us"><title>After Midnight</title><sub-title>Jen Tullock; Michael Chernus; Sunita Mani</sub-title></programme>
+<programme start="20250911053700 +0000" stop="20250911063700 +0000" channel="KTVODT2.us"><title>The Kelly Clarkson Show</title></programme>
+<programme start="20250911063700 +0000" stop="20250911070700 +0000" channel="KTVODT2.us"><title>Extra</title></programme>
+<programme start="20250911070700 +0000" stop="20250911100000 +0000" channel="KTVODT2.us"><title>CBS News Roundup</title></programme>
+<programme start="20250911100000 +0000" stop="20250911103000 +0000" channel="KTVODT2.us"><title>AgDay</title></programme>
+<programme start="20250911103000 +0000" stop="20250911110000 +0000" channel="KTVODT2.us"><title>CBS News Roundup</title></programme>
+<programme start="20250911110000 +0000" stop="20250911113000 +0000" channel="KTVODT2.us"><title>CBS News Mornings</title></programme>
+<programme start="20250911113000 +0000" stop="20250911120000 +0000" channel="KTVODT2.us"><title>CBS News Mornings</title></programme>
+<programme start="20250911120000 +0000" stop="20250911140000 +0000" channel="KTVODT2.us"><title>CBS Mornings</title></programme>
+<programme start="20250911140000 +0000" stop="20250911150000 +0000" channel="KTVODT2.us"><title>48 Hours</title><sub-title>The Alternate Suspects</sub-title></programme>
+<programme start="20250911150000 +0000" stop="20250911160000 +0000" channel="KTVODT2.us"><title>The Price Is Right</title></programme>
+<programme start="20250911160000 +0000" stop="20250911170000 +0000" channel="KTVODT2.us"><title>The Young and the Restless</title></programme>
+<programme start="20250911170000 +0000" stop="20250911173000 +0000" channel="KTVODT2.us"><title>Family Feud</title></programme>
+<programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="KTVODT2.us"><title>The Bold and the Beautiful</title></programme>
+<programme start="20250911180000 +0000" stop="20250911190000 +0000" channel="KTVODT2.us"><title>Beyond the Gates</title></programme>
+<programme start="20250911190000 +0000" stop="20250911200000 +0000" channel="KTVODT2.us"><title>Lets Make a Deal</title></programme>
+<programme start="20250911200000 +0000" stop="20250911210000 +0000" channel="KTVODT2.us"><title>The Jennifer Hudson Show</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="KTVODT2.us"><title>iCRIME With Elizabeth Vargas</title></programme>
+<programme start="20250911213000 +0000" stop="20250911220000 +0000" channel="KTVODT2.us"><title>iCRIME With Elizabeth Vargas</title></programme>
+<programme start="20250911220000 +0000" stop="20250911223000 +0000" channel="KTVODT2.us"><title>Family Feud</title></programme>
+<programme start="20250911223000 +0000" stop="20250911230000 +0000" channel="KTVODT2.us"><title>Family Feud</title></programme>
+<programme start="20250911230000 +0000" stop="20250911233000 +0000" channel="KTVODT2.us"><title>CBS Evening News</title></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="KTVODT2.us"><title>KTVO News at 6:30pm</title></programme>
+<programme start="20250912000000 +0000" stop="20250912010000 +0000" channel="KTVODT2.us"><title>Big Brother</title></programme>
+<programme start="20250912010000 +0000" stop="20250912013100 +0000" channel="KTVODT2.us"><title>Georgie and Mandys First Marriage</title><sub-title>Some New York Nonsense</sub-title></programme>
+<programme start="20250912013100 +0000" stop="20250912020100 +0000" channel="KTVODT2.us"><title>Ghosts</title><sub-title>I Know What You Did Thirty-Seven Summers Ago</sub-title></programme>
+<programme start="20250912020100 +0000" stop="20250912030000 +0000" channel="KTVODT2.us"><title>Matlock</title><sub-title>Game Day</sub-title></programme>
+<programme start="20250912030000 +0000" stop="20250912033000 +0000" channel="KTVODT2.us"><title>Access Hollywood</title></programme>
+<programme start="20250912033000 +0000" stop="20250912033500 +0000" channel="KTVODT2.us"><title>Judge Judy</title><sub-title>Hidden Camera Catches a Thief?; Unwed Parents Parking Ticket Plight</sub-title></programme>
+<programme start="20250912033500 +0000" stop="20250912043700 +0000" channel="KTVODT2.us"><title>The Late Show With Stephen Colbert</title><sub-title>Usher; Mac DeMarco</sub-title></programme>
+<programme start="20250912043700 +0000" stop="20250912053700 +0000" channel="KTVODT2.us"><title>After Midnight</title><sub-title>Melissa Rauch; Jessica St. Clair; Nico Santos</sub-title></programme>
+<programme start="20250912053700 +0000" stop="20250912063700 +0000" channel="KTVODT2.us"><title>The Kelly Clarkson Show</title></programme>
+<programme start="20250912063700 +0000" stop="20250912070700 +0000" channel="KTVODT2.us"><title>Extra</title></programme>
+<programme start="20250912070700 +0000" stop="20250912100000 +0000" channel="KTVODT2.us"><title>CBS News Roundup</title></programme>
+<programme start="20250912100000 +0000" stop="20250912103000 +0000" channel="KTVODT2.us"><title>AgDay</title></programme>
+<programme start="20250912103000 +0000" stop="20250912110000 +0000" channel="KTVODT2.us"><title>CBS News Roundup</title></programme>
+<programme start="20250912110000 +0000" stop="20250912113000 +0000" channel="KTVODT2.us"><title>CBS News Mornings</title></programme>
+<programme start="20250912113000 +0000" stop="20250912120000 +0000" channel="KTVODT2.us"><title>CBS News Mornings</title></programme>
+<programme start="20250912120000 +0000" stop="20250912140000 +0000" channel="KTVODT2.us"><title>CBS Mornings</title></programme>
+<programme start="20250912140000 +0000" stop="20250912150000 +0000" channel="KTVODT2.us"><title>48 Hours</title><sub-title>The Killing of Officer Green</sub-title></programme>
+<programme start="20250912150000 +0000" stop="20250912160000 +0000" channel="KTVODT2.us"><title>The Price Is Right</title></programme>
+<programme start="20250912160000 +0000" stop="20250912170000 +0000" channel="KTVODT2.us"><title>The Young and the Restless</title></programme>
+<programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="KTVODT2.us"><title>Family Feud</title></programme>
+<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="KTVODT2.us"><title>The Bold and the Beautiful</title></programme>
+<programme start="20250912180000 +0000" stop="20250912190000 +0000" channel="KTVODT2.us"><title>Beyond the Gates</title></programme>
+<programme start="20250912190000 +0000" stop="20250912200000 +0000" channel="KTVODT2.us"><title>Lets Make a Deal</title></programme>
+<programme start="20250912200000 +0000" stop="20250912210000 +0000" channel="KTVODT2.us"><title>The Jennifer Hudson Show</title></programme>
+<programme start="20250912210000 +0000" stop="20250912213000 +0000" channel="KTVODT2.us"><title>iCRIME With Elizabeth Vargas</title></programme>
+<programme start="20250912213000 +0000" stop="20250912220000 +0000" channel="KTVODT2.us"><title>iCRIME With Elizabeth Vargas</title></programme>
+<programme start="20250912220000 +0000" stop="20250912223000 +0000" channel="KTVODT2.us"><title>Family Feud</title></programme>
+<programme start="20250912223000 +0000" stop="20250912230000 +0000" channel="KTVODT2.us"><title>Family Feud</title></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="KTVODT2.us"><title>CBS Evening News</title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="KTVODT2.us"><title>KTVO News at 6:30pm</title></programme>
+<programme start="20250913000000 +0000" stop="20250913010000 +0000" channel="KTVODT2.us"><title>Fire Country</title><sub-title>Keep Your Cool</sub-title></programme>
+<programme start="20250913010000 +0000" stop="20250913020000 +0000" channel="KTVODT2.us"><title>Fire Country</title><sub-title>Edgewaters About to Get Real Cozy</sub-title></programme>
+<programme start="20250913020000 +0000" stop="20250913030000 +0000" channel="KTVODT2.us"><title>Blue Bloods</title><sub-title>Close Calls</sub-title></programme>
+<programme start="20250911000000 +0000" stop="20250911010000 +0000" channel="KTVODT3.us"><title>Grimm</title><sub-title>Woman in Black</sub-title></programme>
+<programme start="20250911010000 +0000" stop="20250911020000 +0000" channel="KTVODT3.us"><title>The X-Files</title><sub-title>The Post-Modern Prometheus</sub-title></programme>
+<programme start="20250911020000 +0000" stop="20250911030000 +0000" channel="KTVODT3.us"><title>The X-Files</title><sub-title>Christmas Carol</sub-title></programme>
+<programme start="20250911030000 +0000" stop="20250911040000 +0000" channel="KTVODT3.us"><title>The X-Files</title><sub-title>Emily</sub-title></programme>
+<programme start="20250911040000 +0000" stop="20250911050000 +0000" channel="KTVODT3.us"><title>The X-Files</title><sub-title>Kitsunegari</sub-title></programme>
+<programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="KTVODT3.us"><title>The Outer Limits</title><sub-title>The Shroud</sub-title></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="KTVODT3.us"><title>The Final Countdown</title><sub-title>(1980, Science fiction)</sub-title></programme>
+<programme start="20250911080000 +0000" stop="20250911083000 +0000" channel="KTVODT3.us"><title>Hope for Pain Sufferers</title></programme>
+<programme start="20250911083000 +0000" stop="20250911090000 +0000" channel="KTVODT3.us"><title>Paid Programming</title></programme>
+<programme start="20250911090000 +0000" stop="20250911110000 +0000" channel="KTVODT3.us"><title>Inspiration Ministries</title></programme>
+<programme start="20250911110000 +0000" stop="20250911113000 +0000" channel="KTVODT3.us"><title>NEW! Shark PowerDetect with DuoClean Detect Technology</title></programme>
+<programme start="20250911113000 +0000" stop="20250911120000 +0000" channel="KTVODT3.us"><title>Health and Wellness Insights for Older Adults Dr. Roberts</title></programme>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="KTVODT3.us"><title>Looking for a Medicare plan? Tune in now!</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="KTVODT3.us"><title>Tales From the Darkside</title><sub-title>The Devils Advocate</sub-title></programme>
+<programme start="20250911130000 +0000" stop="20250911140000 +0000" channel="KTVODT3.us"><title>The Outer Limits</title><sub-title>Something About Harry</sub-title></programme>
+<programme start="20250911140000 +0000" stop="20250911150000 +0000" channel="KTVODT3.us"><title>The Outer Limits</title><sub-title>Zig Zag</sub-title></programme>
+<programme start="20250911150000 +0000" stop="20250911160000 +0000" channel="KTVODT3.us"><title>The Outer Limits</title><sub-title>The Nest</sub-title></programme>
+<programme start="20250911160000 +0000" stop="20250911170000 +0000" channel="KTVODT3.us"><title>The Outer Limits</title><sub-title>Final Appeal</sub-title></programme>
+<programme start="20250911170000 +0000" stop="20250911180000 +0000" channel="KTVODT3.us"><title>Stargate SG-1</title><sub-title>Unnatural Selection</sub-title></programme>
+<programme start="20250911180000 +0000" stop="20250911190000 +0000" channel="KTVODT3.us"><title>Stargate SG-1</title><sub-title>Sight Unseen</sub-title></programme>
+<programme start="20250911190000 +0000" stop="20250911200000 +0000" channel="KTVODT3.us"><title>Stargate SG-1</title><sub-title>Smoke and Mirrors</sub-title></programme>
+<programme start="20250911200000 +0000" stop="20250911210000 +0000" channel="KTVODT3.us"><title>Stargate SG-1</title><sub-title>Paradise Lost</sub-title></programme>
+<programme start="20250911210000 +0000" stop="20250911220000 +0000" channel="KTVODT3.us"><title>Grimm</title><sub-title>Bad Teeth</sub-title></programme>
+<programme start="20250911220000 +0000" stop="20250911230000 +0000" channel="KTVODT3.us"><title>Grimm</title><sub-title>The Kiss</sub-title></programme>
+<programme start="20250911230000 +0000" stop="20250912000000 +0000" channel="KTVODT3.us"><title>Grimm</title><sub-title>Bad Moon Rising</sub-title></programme>
+<programme start="20250912000000 +0000" stop="20250912010000 +0000" channel="KTVODT3.us"><title>Grimm</title><sub-title>Quill</sub-title></programme>
+<programme start="20250912010000 +0000" stop="20250912020000 +0000" channel="KTVODT3.us"><title>The X-Files</title><sub-title>Schizogeny</sub-title></programme>
+<programme start="20250912020000 +0000" stop="20250912030000 +0000" channel="KTVODT3.us"><title>The X-Files</title><sub-title>Chinga</sub-title></programme>
+<programme start="20250912030000 +0000" stop="20250912040000 +0000" channel="KTVODT3.us"><title>The X-Files</title><sub-title>Kill Switch</sub-title></programme>
+<programme start="20250912040000 +0000" stop="20250912050000 +0000" channel="KTVODT3.us"><title>The X-Files</title><sub-title>Bad Blood</sub-title></programme>
+<programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="KTVODT3.us"><title>The Outer Limits</title><sub-title>The Tribunal</sub-title></programme>
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="KTVODT3.us"><title>Day of the Dead</title><sub-title>(1985, Horror)</sub-title></programme>
+<programme start="20250912080000 +0000" stop="20250912083000 +0000" channel="KTVODT3.us"><title>NECTAR TRI-PILLOW -Cooler, Comfy, Better Sleep! Buy One Get One FREE!</title></programme>
+<programme start="20250912083000 +0000" stop="20250912090000 +0000" channel="KTVODT3.us"><title>POOF! Bye Bye Under Eye Bags!</title></programme>
+<programme start="20250912090000 +0000" stop="20250912110000 +0000" channel="KTVODT3.us"><title>Inspiration Ministries</title></programme>
+<programme start="20250912110000 +0000" stop="20250912113000 +0000" channel="KTVODT3.us"><title>RateEscape: Stop Overpaying For Cellular</title></programme>
+<programme start="20250912113000 +0000" stop="20250912120000 +0000" channel="KTVODT3.us"><title>Paid Programming</title></programme>
+<programme start="20250912120000 +0000" stop="20250912123000 +0000" channel="KTVODT3.us"><title>Looking for a Medicare plan? Tune in now!</title></programme>
+<programme start="20250912123000 +0000" stop="20250912130000 +0000" channel="KTVODT3.us"><title>Tales From the Darkside</title><sub-title>Distant Signals</sub-title></programme>
+<programme start="20250912130000 +0000" stop="20250912150000 +0000" channel="KTVODT3.us"><title>Mega Shark vs Crocosaurus</title><sub-title>(2010, Horror)</sub-title></programme>
+<programme start="20250912150000 +0000" stop="20250912170000 +0000" channel="KTVODT3.us"><title>Mega Shark vs. Kolossus</title><sub-title>(2015, Horror)</sub-title></programme>
+<programme start="20250912170000 +0000" stop="20250912190000 +0000" channel="KTVODT3.us"><title>Mega Shark vs. Mecha Shark</title><sub-title>(2013, Science fiction)</sub-title></programme>
+<programme start="20250912190000 +0000" stop="20250912210000 +0000" channel="KTVODT3.us"><title>The Running Man</title><sub-title>(1987, Science fiction)</sub-title></programme>
+<programme start="20250912210000 +0000" stop="20250912220000 +0000" channel="KTVODT3.us"><title>Grimm</title><sub-title>The Good Shepherd</sub-title></programme>
+<programme start="20250912220000 +0000" stop="20250912230000 +0000" channel="KTVODT3.us"><title>Grimm</title><sub-title>Over My Dead Body</sub-title></programme>
+<programme start="20250912230000 +0000" stop="20250913000000 +0000" channel="KTVODT3.us"><title>Grimm</title><sub-title>The Bottle Imp</sub-title></programme>
+<programme start="20250913000000 +0000" stop="20250913030000 +0000" channel="KTVODT3.us"><title>Terminator 2: Judgment Day</title><sub-title>(1991, Science fiction)</sub-title></programme>
+<programme start="20250911000000 +0000" stop="20250911010000 +0000" channel="WDIVDT.us"><title>Americas Got Talent</title><sub-title>Quarterfinals 4 Results</sub-title></programme>
+<programme start="20250911010000 +0000" stop="20250911020000 +0000" channel="WDIVDT.us"><title>Downton Abbey Celebrates the Grand Finale</title></programme>
+<programme start="20250911020000 +0000" stop="20250911030000 +0000" channel="WDIVDT.us"><title>Chicago P.D.</title><sub-title>Open Casket</sub-title></programme>
+<programme start="20250911030000 +0000" stop="20250911033400 +0000" channel="WDIVDT.us"><title>Local 4 News at 11</title></programme>
+<programme start="20250911033400 +0000" stop="20250911043700 +0000" channel="WDIVDT.us"><title>The Tonight Show Starring Jimmy Fallon</title><sub-title>Stephen Curry; Billy Crudup, Steven Bartlett, Kali Uchis</sub-title></programme>
+<programme start="20250911043700 +0000" stop="20250911053700 +0000" channel="WDIVDT.us"><title>Late Night With Seth Meyers</title><sub-title>Josh Gad; Tom Pelphrey</sub-title></programme>
+<programme start="20250911053700 +0000" stop="20250911060600 +0000" channel="WDIVDT.us"><title>Local 4 News at 11</title></programme>
+<programme start="20250911060600 +0000" stop="20250911063400 +0000" channel="WDIVDT.us"><title>Pain Relief TV</title></programme>
+<programme start="20250911063400 +0000" stop="20250911070200 +0000" channel="WDIVDT.us"><title>Local 4 News at 11</title></programme>
+<programme start="20250911070200 +0000" stop="20250911073100 +0000" channel="WDIVDT.us"><title>The Aging Brain</title></programme>
+<programme start="20250911073100 +0000" stop="20250911080000 +0000" channel="WDIVDT.us"><title>Inside Edition</title></programme>
+<programme start="20250911080000 +0000" stop="20250911083000 +0000" channel="WDIVDT.us"><title>Early Today</title></programme>
+<programme start="20250911083000 +0000" stop="20250911090000 +0000" channel="WDIVDT.us"><title>Local 4 News at 4:30</title></programme>
+<programme start="20250911090000 +0000" stop="20250911100000 +0000" channel="WDIVDT.us"><title>Local 4 News at 5AM</title></programme>
+<programme start="20250911100000 +0000" stop="20250911110000 +0000" channel="WDIVDT.us"><title>Local 4 News at 6AM</title></programme>
+<programme start="20250911110000 +0000" stop="20250911130000 +0000" channel="WDIVDT.us"><title>Today</title></programme>
+<programme start="20250911130000 +0000" stop="20250911140000 +0000" channel="WDIVDT.us"><title>Today 3rd Hour</title></programme>
+<programme start="20250911140000 +0000" stop="20250911150000 +0000" channel="WDIVDT.us"><title>Today With Jenna and Friends</title></programme>
+<programme start="20250911150000 +0000" stop="20250911160000 +0000" channel="WDIVDT.us"><title>Live in the D</title></programme>
+<programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="WDIVDT.us"><title>Local 4 News at Noon</title></programme>
+<programme start="20250911163000 +0000" stop="20250911170000 +0000" channel="WDIVDT.us"><title>The MAIN Money Show</title></programme>
+<programme start="20250911170000 +0000" stop="20250911180000 +0000" channel="WDIVDT.us"><title>NBC News Daily</title></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="WDIVDT.us"><title>The Drew Barrymore Show</title><sub-title>David Letterman</sub-title></programme>
+<programme start="20250911183000 +0000" stop="20250911190000 +0000" channel="WDIVDT.us"><title>The Drew Barrymore Show</title><sub-title>Sunny Anderson</sub-title></programme>
+<programme start="20250911190000 +0000" stop="20250911200000 +0000" channel="WDIVDT.us"><title>The Jennifer Hudson Show</title></programme>
+<programme start="20250911200000 +0000" stop="20250911203000 +0000" channel="WDIVDT.us"><title>Local 4 News at 4</title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="WDIVDT.us"><title>Inside Edition</title></programme>
+<programme start="20250911210000 +0000" stop="20250911220000 +0000" channel="WDIVDT.us"><title>Local 4 News at 5</title></programme>
+<programme start="20250911220000 +0000" stop="20250911223000 +0000" channel="WDIVDT.us"><title>Local 4 News at 6</title></programme>
+<programme start="20250911223000 +0000" stop="20250911230000 +0000" channel="WDIVDT.us"><title>NBC Nightly News With Tom Llamas</title></programme>
+<programme start="20250911230000 +0000" stop="20250911233000 +0000" channel="WDIVDT.us"><title>Wheel of Fortune</title><sub-title>WTF (What the Fun)</sub-title></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="WDIVDT.us"><title>Jeopardy!</title></programme>
+<programme start="20250912000000 +0000" stop="20250912010000 +0000" channel="WDIVDT.us"><title>Law and Order</title><sub-title>Tough Love</sub-title></programme>
+<programme start="20250912010000 +0000" stop="20250912020000 +0000" channel="WDIVDT.us"><title>Law and Order: Special Victims Unit</title><sub-title>Shock Collar</sub-title></programme>
+<programme start="20250912020000 +0000" stop="20250912030000 +0000" channel="WDIVDT.us"><title>Law and Order</title><sub-title>Enemy of the State</sub-title></programme>
+<programme start="20250912030000 +0000" stop="20250912033400 +0000" channel="WDIVDT.us"><title>Local 4 News at 11</title></programme>
+<programme start="20250912033400 +0000" stop="20250912043700 +0000" channel="WDIVDT.us"><title>The Tonight Show Starring Jimmy Fallon</title><sub-title>Reese Witherspoon; Mark Ronson; Gianmarco Soresi</sub-title></programme>
+<programme start="20250912043700 +0000" stop="20250912053700 +0000" channel="WDIVDT.us"><title>Late Night With Seth Meyers</title><sub-title>America Ferrera; Hugh Bonneville</sub-title></programme>
+<programme start="20250912053700 +0000" stop="20250912060600 +0000" channel="WDIVDT.us"><title>Local 4 News at 11</title></programme>
+<programme start="20250912060600 +0000" stop="20250912063400 +0000" channel="WDIVDT.us"><title>Paid Programming</title></programme>
+<programme start="20250912063400 +0000" stop="20250912070200 +0000" channel="WDIVDT.us"><title>Local 4 News at 11</title></programme>
+<programme start="20250912070200 +0000" stop="20250912073100 +0000" channel="WDIVDT.us"><title>DraftKings Casino Report</title></programme>
+<programme start="20250912073100 +0000" stop="20250912080000 +0000" channel="WDIVDT.us"><title>Inside Edition</title></programme>
+<programme start="20250912080000 +0000" stop="20250912083000 +0000" channel="WDIVDT.us"><title>Early Today</title></programme>
+<programme start="20250912083000 +0000" stop="20250912090000 +0000" channel="WDIVDT.us"><title>Local 4 News at 4:30</title></programme>
+<programme start="20250912090000 +0000" stop="20250912100000 +0000" channel="WDIVDT.us"><title>Local 4 News at 5AM</title></programme>
+<programme start="20250912100000 +0000" stop="20250912110000 +0000" channel="WDIVDT.us"><title>Local 4 News at 6AM</title></programme>
+<programme start="20250912110000 +0000" stop="20250912130000 +0000" channel="WDIVDT.us"><title>Today</title></programme>
+<programme start="20250912130000 +0000" stop="20250912140000 +0000" channel="WDIVDT.us"><title>Today 3rd Hour</title></programme>
+<programme start="20250912140000 +0000" stop="20250912150000 +0000" channel="WDIVDT.us"><title>Today With Jenna and Friends</title></programme>
+<programme start="20250912150000 +0000" stop="20250912160000 +0000" channel="WDIVDT.us"><title>Live in the D</title></programme>
+<programme start="20250912160000 +0000" stop="20250912163000 +0000" channel="WDIVDT.us"><title>Local 4 News at Noon</title></programme>
+<programme start="20250912163000 +0000" stop="20250912170000 +0000" channel="WDIVDT.us"><title>Wounded Warrior Project: No Warrior is Left Behind</title></programme>
+<programme start="20250912170000 +0000" stop="20250912180000 +0000" channel="WDIVDT.us"><title>NBC News Daily</title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="WDIVDT.us"><title>The Drew Barrymore Show</title><sub-title>Sunny Anderson; Emeril Lagasse</sub-title></programme>
+<programme start="20250912183000 +0000" stop="20250912190000 +0000" channel="WDIVDT.us"><title>The Drew Barrymore Show</title><sub-title>Jennifer Aniston</sub-title></programme>
+<programme start="20250912190000 +0000" stop="20250912200000 +0000" channel="WDIVDT.us"><title>The Jennifer Hudson Show</title></programme>
+<programme start="20250912200000 +0000" stop="20250912203000 +0000" channel="WDIVDT.us"><title>Local 4 News at 4</title></programme>
+<programme start="20250912203000 +0000" stop="20250912210000 +0000" channel="WDIVDT.us"><title>Inside Edition</title><sub-title>Denise Richards Divorce</sub-title></programme>
+<programme start="20250912210000 +0000" stop="20250912220000 +0000" channel="WDIVDT.us"><title>Local 4 News at 5</title></programme>
+<programme start="20250912220000 +0000" stop="20250912223000 +0000" channel="WDIVDT.us"><title>Local 4 News at 6</title></programme>
+<programme start="20250912223000 +0000" stop="20250912230000 +0000" channel="WDIVDT.us"><title>NBC Nightly News With Tom Llamas</title></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="WDIVDT.us"><title>Wheel of Fortune</title><sub-title>WTF (What the Fun)</sub-title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="WDIVDT.us"><title>Jeopardy!</title></programme>
+<programme start="20250911000000 +0000" stop="20250911010200 +0000" channel="WJBKDT.us"><title>MasterChef</title><sub-title>Road to the Finale</sub-title></programme>
+<programme start="20250911010200 +0000" stop="20250911020000 +0000" channel="WJBKDT.us"><title>Gordon Ramsays Secret Service</title><sub-title>Crazy Burger</sub-title></programme>
+<programme start="20250911020000 +0000" stop="20250911030000 +0000" channel="WJBKDT.us"><title>FOX 2 News at 10pm</title></programme>
+<programme start="20250911030000 +0000" stop="20250911033000 +0000" channel="WJBKDT.us"><title>FOX 2 Newsedge at 11pm</title></programme>
+<programme start="20250911033000 +0000" stop="20250911040000 +0000" channel="WJBKDT.us"><title>FOX 2: The Pulse</title></programme>
+<programme start="20250911040000 +0000" stop="20250911043000 +0000" channel="WJBKDT.us"><title>Extra</title></programme>
+<programme start="20250911043000 +0000" stop="20250911050000 +0000" channel="WJBKDT.us"><title>TMZ</title></programme>
+<programme start="20250911050000 +0000" stop="20250911053000 +0000" channel="WJBKDT.us"><title>Dish Nation</title></programme>
+<programme start="20250911053000 +0000" stop="20250911063000 +0000" channel="WJBKDT.us"><title>Sherri</title><sub-title>Gabourey Sidibe</sub-title></programme>
+<programme start="20250911063000 +0000" stop="20250911070000 +0000" channel="WJBKDT.us"><title>FOX 2 Newsedge at 11pm</title></programme>
+<programme start="20250911070000 +0000" stop="20250911080000 +0000" channel="WJBKDT.us"><title>FOX 2 News at 10pm</title></programme>
+<programme start="20250911080000 +0000" stop="20250911130000 +0000" channel="WJBKDT.us"><title>FOX 2 News Morning</title></programme>
+<programme start="20250911130000 +0000" stop="20250911150000 +0000" channel="WJBKDT.us"><title>FOX 2 News Morning: The Nine</title></programme>
+<programme start="20250911150000 +0000" stop="20250911160000 +0000" channel="WJBKDT.us"><title>FOX 2 News: Live at 11am</title></programme>
+<programme start="20250911160000 +0000" stop="20250911170000 +0000" channel="WJBKDT.us"><title>FOX2 News: The Noon</title></programme>
+<programme start="20250911170000 +0000" stop="20250911180000 +0000" channel="WJBKDT.us"><title>Sherri</title><sub-title>ReLiving Single Podcast, Countess Luann de Lesseps</sub-title></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="WJBKDT.us"><title>Raw Travel</title><sub-title>Road Trip: Northern Nicaragua</sub-title></programme>
+<programme start="20250911183000 +0000" stop="20250911190000 +0000" channel="WJBKDT.us"><title>Extra</title></programme>
+<programme start="20250911190000 +0000" stop="20250911200000 +0000" channel="WJBKDT.us"><title>TMZ Live</title></programme>
+<programme start="20250911200000 +0000" stop="20250911203000 +0000" channel="WJBKDT.us"><title>Judge Judy</title><sub-title>Hidden Camera Catches a Thief?; Unwed Parents Parking Ticket Plight</sub-title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="WJBKDT.us"><title>Judge Judy</title><sub-title>Eyewitness Perjury?!; Twice-Kidnapped Puppy</sub-title></programme>
+<programme start="20250911210000 +0000" stop="20250911220000 +0000" channel="WJBKDT.us"><title>FOX 2 News at 5pm</title></programme>
+<programme start="20250911220000 +0000" stop="20250911223000 +0000" channel="WJBKDT.us"><title>FOX 2 News at 6pm</title></programme>
+<programme start="20250911223000 +0000" stop="20250911230000 +0000" channel="WJBKDT.us"><title>MLB on FOX Pregame</title></programme>
+<programme start="20250911230000 +0000" stop="20250912000100 +0000" channel="WJBKDT.us"><title>MLB Baseball</title><sub-title>Kansas City Royals at Cleveland Guardians</sub-title></programme>
+<programme start="20250912020000 +0000" stop="20250912030000 +0000" channel="WJBKDT.us"><title>FOX 2 News at 10pm</title></programme>
+<programme start="20250912030000 +0000" stop="20250912033000 +0000" channel="WJBKDT.us"><title>FOX 2 Newsedge at 11pm</title></programme>
+<programme start="20250912033000 +0000" stop="20250912040000 +0000" channel="WJBKDT.us"><title>FOX 2: The Pulse</title></programme>
+<programme start="20250912040000 +0000" stop="20250912043000 +0000" channel="WJBKDT.us"><title>Extra</title></programme>
+<programme start="20250912043000 +0000" stop="20250912050000 +0000" channel="WJBKDT.us"><title>TMZ</title></programme>
+<programme start="20250912050000 +0000" stop="20250912053000 +0000" channel="WJBKDT.us"><title>Dish Nation</title></programme>
+<programme start="20250912053000 +0000" stop="20250912063000 +0000" channel="WJBKDT.us"><title>Sherri</title><sub-title>Christie Brinkley</sub-title></programme>
+<programme start="20250912063000 +0000" stop="20250912070000 +0000" channel="WJBKDT.us"><title>FOX 2 Newsedge at 11pm</title></programme>
+<programme start="20250912070000 +0000" stop="20250912080000 +0000" channel="WJBKDT.us"><title>FOX 2 News at 10pm</title></programme>
+<programme start="20250912080000 +0000" stop="20250912130000 +0000" channel="WJBKDT.us"><title>FOX 2 News Morning</title></programme>
+<programme start="20250912130000 +0000" stop="20250912150000 +0000" channel="WJBKDT.us"><title>FOX 2 News Morning: The Nine</title></programme>
+<programme start="20250912150000 +0000" stop="20250912160000 +0000" channel="WJBKDT.us"><title>FOX 2 News: Live at 11am</title></programme>
+<programme start="20250912160000 +0000" stop="20250912170000 +0000" channel="WJBKDT.us"><title>FOX2 News: The Noon</title></programme>
+<programme start="20250912170000 +0000" stop="20250912180000 +0000" channel="WJBKDT.us"><title>Sherri</title><sub-title>Wilmer Valderrama</sub-title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="WJBKDT.us"><title>FOX2 Movies: CriticLee Speaking</title></programme>
+<programme start="20250912183000 +0000" stop="20250912190000 +0000" channel="WJBKDT.us"><title>Extra</title></programme>
+<programme start="20250912190000 +0000" stop="20250912200000 +0000" channel="WJBKDT.us"><title>TMZ Live</title></programme>
+<programme start="20250912200000 +0000" stop="20250912203000 +0000" channel="WJBKDT.us"><title>Judge Judy</title><sub-title>Incriminating Facebook Photos; Scissors vs. Shoes!</sub-title></programme>
+<programme start="20250912203000 +0000" stop="20250912210000 +0000" channel="WJBKDT.us"><title>Judge Judy</title><sub-title>Dad Calls Police on Daughter; Voicemail Vengeance</sub-title></programme>
+<programme start="20250912210000 +0000" stop="20250912220000 +0000" channel="WJBKDT.us"><title>FOX 2 News at 5pm</title></programme>
+<programme start="20250912220000 +0000" stop="20250912230000 +0000" channel="WJBKDT.us"><title>FOX 2 News at 6pm</title></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="WJBKDT.us"><title>TMZ</title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="WJBKDT.us"><title>Extra</title></programme>
+<programme start="20250913000000 +0000" stop="20250913010000 +0000" channel="WJBKDT.us"><title>MasterChef</title><sub-title>Road to the Finale</sub-title></programme>
+<programme start="20250913010000 +0000" stop="20250913043000 +0000" channel="WJBKDT.us"><title>College Football</title><sub-title>Kansas State at Arizona</sub-title></programme>
+</tv>

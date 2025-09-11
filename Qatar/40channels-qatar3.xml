@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<channel id="2023 Alkass 1.qa"><display-name>2023 Alkass 1.qa</display-name></channel>
+<channel id="2023 Alkass 2.qa"><display-name>2023 Alkass 2.qa</display-name></channel>
+<channel id="2023 Alkass 3.qa"><display-name>2023 Alkass 3.qa</display-name></channel>
+<channel id="2023 Alkass 4.qa"><display-name>2023 Alkass 4.qa</display-name></channel>
+<channel id="2023 Alkass 5.qa"><display-name>2023 Alkass 5.qa</display-name></channel>
+<channel id="2023 Alkass 6.qa"><display-name>2023 Alkass 6.qa</display-name></channel>
+<channel id="2023 Alkass 7.qa"><display-name>2023 Alkass 7.qa</display-name></channel>
+<channel id="2023 Alkass 8.qa"><display-name>2023 Alkass 8.qa</display-name></channel>
+<channel id="4k DIGITAL.qa"><display-name>4k DIGITAL.qa</display-name></channel>
+<channel id="AFC 4.qa"><display-name>AFC 4.qa</display-name></channel>
+<channel id="AFC 5.qa"><display-name>AFC 5.qa</display-name></channel>
+<channel id="afc-6 8-copy.qa"><display-name>afc-6 8-copy.qa</display-name></channel>
+<channel id="bein SPORTS FTA DIGITAL.qa"><display-name>bein SPORTS FTA DIGITAL.qa</display-name></channel>
+<channel id="beIN SPORTS MAX1 DIGITAL.qa"><display-name>beIN SPORTS MAX1 DIGITAL.qa</display-name></channel>
+<channel id="beIN SPORTS MAX2 DIGITAL.qa"><display-name>beIN SPORTS MAX2 DIGITAL.qa</display-name></channel>
+<channel id="beIN SPORTS MAX3 DIGITAL.qa"><display-name>beIN SPORTS MAX3 DIGITAL.qa</display-name></channel>
+<channel id="beIN SPORTS MAX4 DIGITAL.qa"><display-name>beIN SPORTS MAX4 DIGITAL.qa</display-name></channel>
+<channel id="beIN SPORTS MAX5 DIGITAL.qa"><display-name>beIN SPORTS MAX5 DIGITAL.qa</display-name></channel>
+<channel id="beIN SPORTS XTRA1 Digital.qa"><display-name>beIN SPORTS XTRA1 Digital.qa</display-name></channel>
+<channel id="beIN SPORTS XTRA2 Digital.qa"><display-name>beIN SPORTS XTRA2 Digital.qa</display-name></channel>
+<channel id="beIN SPORTS1 DIGITAL.qa"><display-name>beIN SPORTS1 DIGITAL.qa</display-name></channel>
+<channel id="beIN SPORTS1 ENGLISH Digital.qa"><display-name>beIN SPORTS1 ENGLISH Digital.qa</display-name></channel>
+<channel id="beIN SPORTS1 FRENCH Digital.qa"><display-name>beIN SPORTS1 FRENCH Digital.qa</display-name></channel>
+<channel id="beIN SPORTS2 DIGITAL.qa"><display-name>beIN SPORTS2 DIGITAL.qa</display-name></channel>
+<channel id="beIN SPORTS2 ENGLISH Digital.qa"><display-name>beIN SPORTS2 ENGLISH Digital.qa</display-name></channel>
+<channel id="beIN SPORTS2 FRENCH Digital.qa"><display-name>beIN SPORTS2 FRENCH Digital.qa</display-name></channel>
+<channel id="beIN SPORTS3 DIGITAL.qa"><display-name>beIN SPORTS3 DIGITAL.qa</display-name></channel>
+<channel id="beIN SPORTS4 DIGITAL.qa"><display-name>beIN SPORTS4 DIGITAL.qa</display-name></channel>
+<channel id="beIN SPORTS5 DIGITAL.qa"><display-name>beIN SPORTS5 DIGITAL.qa</display-name></channel>
+<channel id="beIN SPORTS66 DIGITAL -01.qa"><display-name>beIN SPORTS66 DIGITAL -01.qa</display-name></channel>
+<channel id="beIN SPORTS7 DIGITAL.qa"><display-name>beIN SPORTS7 DIGITAL.qa</display-name></channel>
+<channel id="bein.com-05.qa"><display-name>bein.com-05.qa</display-name></channel>
+<channel id="bein.com-06.qa"><display-name>bein.com-06.qa</display-name></channel>
+<channel id="bein.com-07.qa"><display-name>bein.com-07.qa</display-name></channel>
+<channel id="bein.com-08.qa"><display-name>bein.com-08.qa</display-name></channel>
+<channel id="beINSPORTS8.qa"><display-name>beINSPORTS8.qa</display-name></channel>
+<channel id="beINSPORTS9.qa"><display-name>beINSPORTS9.qa</display-name></channel>
+<channel id="beINSPORTSXTRA3.qa"><display-name>beINSPORTSXTRA3.qa</display-name></channel>
+<channel id="NBA DIGITAL.qa"><display-name>NBA DIGITAL.qa</display-name></channel>
+<channel id="NEWS DIGITAL.qa"><display-name>NEWS DIGITAL.qa</display-name></channel>
+<programme start="20250911030000 +0000" stop="20250911050000 +0000" channel="2023 Alkass 1.qa"><title>The Council</title></programme>
+<programme start="20250911050000 +0000" stop="20250911054500 +0000" channel="2023 Alkass 1.qa"><title>Asian Beach Volleyball Championship</title></programme>
+<programme start="20250911054500 +0000" stop="20250911073000 +0000" channel="2023 Alkass 1.qa"><title>Kuwaits Derby</title></programme>
+<programme start="20250911073000 +0000" stop="20250911081500 +0000" channel="2023 Alkass 1.qa"><title>Asian Beach Volleyball Championship</title></programme>
+<programme start="20250911081500 +0000" stop="20250911110000 +0000" channel="2023 Alkass 1.qa"><title>Tunis Derby</title></programme>
+<programme start="20250911110000 +0000" stop="20250911120000 +0000" channel="2023 Alkass 1.qa"><title>Al Galayel</title></programme>
+<programme start="20250911120000 +0000" stop="20250911160000 +0000" channel="2023 Alkass 1.qa"><title>Qatar Camel Festival</title></programme>
+<programme start="20250911160000 +0000" stop="20250911161500 +0000" channel="2023 Alkass 1.qa"><title>News</title></programme>
+<programme start="20250911161500 +0000" stop="20250911190000 +0000" channel="2023 Alkass 1.qa"><title>IJF World Tour</title></programme>
+<programme start="20250911190000 +0000" stop="20250911204500 +0000" channel="2023 Alkass 1.qa"><title>Tunis Derby</title></programme>
+<programme start="20250911204500 +0000" stop="20250911210000 +0000" channel="2023 Alkass 1.qa"><title>Goals</title></programme>
+<programme start="20250911210000 +0000" stop="20250911223000 +0000" channel="2023 Alkass 1.qa"><title>Qatar Camel Festival</title></programme>
+<programme start="20250911223000 +0000" stop="20250911230000 +0000" channel="2023 Alkass 1.qa"><title>The Inside Line</title></programme>
+<programme start="20250911230000 +0000" stop="20250911233000 +0000" channel="2023 Alkass 1.qa"><title>Golmania</title></programme>
+<programme start="20250911233000 +0000" stop="20250912030000 +0000" channel="2023 Alkass 1.qa"><title>Asian Beach Volleyball Championship</title></programme>
+<programme start="20250912030000 +0000" stop="20250912050000 +0000" channel="2023 Alkass 1.qa"><title>The Council</title></programme>
+<programme start="20250912050000 +0000" stop="20250912054500 +0000" channel="2023 Alkass 1.qa"><title>Asian Beach Volleyball Championship</title></programme>
+<programme start="20250912054500 +0000" stop="20250912073000 +0000" channel="2023 Alkass 1.qa"><title>Kuwaits Derby</title></programme>
+<programme start="20250912073000 +0000" stop="20250912081500 +0000" channel="2023 Alkass 1.qa"><title>Asian Beach Volleyball Championship</title></programme>
+<programme start="20250912081500 +0000" stop="20250912110000 +0000" channel="2023 Alkass 1.qa"><title>Tunis Derby</title></programme>
+<programme start="20250912110000 +0000" stop="20250912120000 +0000" channel="2023 Alkass 1.qa"><title>Al Galayel</title></programme>
+<programme start="20250912120000 +0000" stop="20250912160000 +0000" channel="2023 Alkass 1.qa"><title>Qatar Camel Festival</title></programme>
+<programme start="20250912160000 +0000" stop="20250912161500 +0000" channel="2023 Alkass 1.qa"><title>News</title></programme>
+<programme start="20250912161500 +0000" stop="20250912190000 +0000" channel="2023 Alkass 1.qa"><title>IJF World Tour</title></programme>
+<programme start="20250912190000 +0000" stop="20250912204500 +0000" channel="2023 Alkass 1.qa"><title>Tunis Derby</title></programme>
+<programme start="20250912204500 +0000" stop="20250912210000 +0000" channel="2023 Alkass 1.qa"><title>Goals</title></programme>
+<programme start="20250912210000 +0000" stop="20250912223000 +0000" channel="2023 Alkass 1.qa"><title>Qatar Camel Festival</title></programme>
+<programme start="20250912223000 +0000" stop="20250912230000 +0000" channel="2023 Alkass 1.qa"><title>The Inside Line</title></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="2023 Alkass 1.qa"><title>Golmania</title></programme>
+<programme start="20250912233000 +0000" stop="20250913030000 +0000" channel="2023 Alkass 1.qa"><title>Asian Beach Volleyball Championship</title></programme>
+<programme start="20250911030000 +0000" stop="20250911053000 +0000" channel="2023 Alkass 2.qa"><title>Local horse racing</title></programme>
+<programme start="20250911053000 +0000" stop="20250911060000 +0000" channel="2023 Alkass 2.qa"><title>TAWAASL</title></programme>
+<programme start="20250911060000 +0000" stop="20250911063000 +0000" channel="2023 Alkass 2.qa"><title>NEWS.</title></programme>
+<programme start="20250911063000 +0000" stop="20250911070000 +0000" channel="2023 Alkass 2.qa"><title>Documentary Asia 23</title></programme>
+<programme start="20250911070000 +0000" stop="20250911073000 +0000" channel="2023 Alkass 2.qa"><title>FOOTBALL REVIEW.</title></programme>
+<programme start="20250911073000 +0000" stop="20250911093000 +0000" channel="2023 Alkass 2.qa"><title>ALMAJLES.</title></programme>
+<programme start="20250911093000 +0000" stop="20250911100000 +0000" channel="2023 Alkass 2.qa"><title>Global Champions Arabians Tour.</title></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="2023 Alkass 2.qa"><title>Murbat Al - faras</title></programme>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="2023 Alkass 2.qa"><title>NEWS.</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="2023 Alkass 2.qa"><title>JARAYED.</title></programme>
+<programme start="20250911130000 +0000" stop="20250911133000 +0000" channel="2023 Alkass 2.qa"><title>THE Referee.</title></programme>
+<programme start="20250911133000 +0000" stop="20250911140000 +0000" channel="2023 Alkass 2.qa"><title>SPORT CONFIDENTIAL.</title></programme>
+<programme start="20250911140000 +0000" stop="20250911153000 +0000" channel="2023 Alkass 2.qa"><title>Documentary Asia 23</title></programme>
+<programme start="20250911153000 +0000" stop="20250911160000 +0000" channel="2023 Alkass 2.qa"><title>MARINEMAGAZINE</title></programme>
+<programme start="20250911160000 +0000" stop="20250911161500 +0000" channel="2023 Alkass 2.qa"><title>NEWS.</title></programme>
+<programme start="20250911161500 +0000" stop="20250911163000 +0000" channel="2023 Alkass 2.qa"><title>GOALS</title></programme>
+<programme start="20250911163000 +0000" stop="20250911192000 +0000" channel="2023 Alkass 2.qa"><title>FOOTBALL REVIEW.</title></programme>
+<programme start="20250911192000 +0000" stop="20250911200000 +0000" channel="2023 Alkass 2.qa"><title>Documentary Asia 23</title></programme>
+<programme start="20250911200000 +0000" stop="20250911210000 +0000" channel="2023 Alkass 2.qa"><title>FADFAD.</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="2023 Alkass 2.qa"><title>NEWS.</title></programme>
+<programme start="20250911213000 +0000" stop="20250911230000 +0000" channel="2023 Alkass 2.qa"><title>90 minutes.</title></programme>
+<programme start="20250911230000 +0000" stop="20250911233000 +0000" channel="2023 Alkass 2.qa"><title>Documentary Asia 23</title></programme>
+<programme start="20250911233000 +0000" stop="20250912051500 +0000" channel="2023 Alkass 2.qa"><title>QSL MAGAZINE.</title></programme>
+<programme start="20250912030000 +0000" stop="20250912053000 +0000" channel="2023 Alkass 2.qa"><title>Local horse racing</title></programme>
+<programme start="20250912053000 +0000" stop="20250912060000 +0000" channel="2023 Alkass 2.qa"><title>TAWAASL</title></programme>
+<programme start="20250912060000 +0000" stop="20250912063000 +0000" channel="2023 Alkass 2.qa"><title>NEWS.</title></programme>
+<programme start="20250912063000 +0000" stop="20250912070000 +0000" channel="2023 Alkass 2.qa"><title>Documentary Asia 23</title></programme>
+<programme start="20250912070000 +0000" stop="20250912073000 +0000" channel="2023 Alkass 2.qa"><title>FOOTBALL REVIEW.</title></programme>
+<programme start="20250912073000 +0000" stop="20250912093000 +0000" channel="2023 Alkass 2.qa"><title>ALMAJLES.</title></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="2023 Alkass 2.qa"><title>Global Champions Arabians Tour.</title></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="2023 Alkass 2.qa"><title>Murbat Al - faras</title></programme>
+<programme start="20250912120000 +0000" stop="20250912123000 +0000" channel="2023 Alkass 2.qa"><title>NEWS.</title></programme>
+<programme start="20250912123000 +0000" stop="20250912130000 +0000" channel="2023 Alkass 2.qa"><title>JARAYED.</title></programme>
+<programme start="20250912130000 +0000" stop="20250912133000 +0000" channel="2023 Alkass 2.qa"><title>THE Referee.</title></programme>
+<programme start="20250912133000 +0000" stop="20250912140000 +0000" channel="2023 Alkass 2.qa"><title>SPORT CONFIDENTIAL.</title></programme>
+<programme start="20250912140000 +0000" stop="20250912153000 +0000" channel="2023 Alkass 2.qa"><title>Documentary Asia 23</title></programme>
+<programme start="20250912153000 +0000" stop="20250912160000 +0000" channel="2023 Alkass 2.qa"><title>MARINEMAGAZINE</title></programme>
+<programme start="20250912160000 +0000" stop="20250912161500 +0000" channel="2023 Alkass 2.qa"><title>NEWS.</title></programme>
+<programme start="20250912161500 +0000" stop="20250912163000 +0000" channel="2023 Alkass 2.qa"><title>GOALS</title></programme>
+<programme start="20250912163000 +0000" stop="20250912192000 +0000" channel="2023 Alkass 2.qa"><title>FOOTBALL REVIEW.</title></programme>
+<programme start="20250912192000 +0000" stop="20250912200000 +0000" channel="2023 Alkass 2.qa"><title>Documentary Asia 23</title></programme>
+<programme start="20250912200000 +0000" stop="20250912210000 +0000" channel="2023 Alkass 2.qa"><title>FADFAD.</title></programme>
+<programme start="20250912210000 +0000" stop="20250912213000 +0000" channel="2023 Alkass 2.qa"><title>NEWS.</title></programme>
+<programme start="20250912213000 +0000" stop="20250912230000 +0000" channel="2023 Alkass 2.qa"><title>90 minutes.</title></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="2023 Alkass 2.qa"><title>Documentary Asia 23</title></programme>
+<programme start="20250912233000 +0000" stop="20250913051500 +0000" channel="2023 Alkass 2.qa"><title>QSL MAGAZINE.</title></programme>
+<programme start="20250911000500 +0000" stop="20250911015500 +0000" channel="4k DIGITAL.qa"><title>Newcastle United vs. Liverpool - English Premier League 2025/2026</title></programme>
+<programme start="20250911015500 +0000" stop="20250911034500 +0000" channel="4k DIGITAL.qa"><title>Liverpool vs. Arsenal - English Premier League 2025/2026</title></programme>
+<programme start="20250911034500 +0000" stop="20250911054000 +0000" channel="4k DIGITAL.qa"><title>Chelsea vs. Fulham - English Premier League 2025/2026</title></programme>
+<programme start="20250911054000 +0000" stop="20250911074500 +0000" channel="4k DIGITAL.qa"><title>Main Race - F1 Italian Grand Prix</title></programme>
+<programme start="20250911074500 +0000" stop="20250911093500 +0000" channel="4k DIGITAL.qa"><title>Newcastle United vs. Liverpool - English Premier League 2025/2026</title></programme>
+<programme start="20250911093500 +0000" stop="20250911112500 +0000" channel="4k DIGITAL.qa"><title>Liverpool vs. Arsenal - English Premier League 2025/2026</title></programme>
+<programme start="20250911112500 +0000" stop="20250911131500 +0000" channel="4k DIGITAL.qa"><title>Chelsea vs. Fulham - English Premier League 2025/2026</title></programme>
+<programme start="20250911131500 +0000" stop="20250911152000 +0000" channel="4k DIGITAL.qa"><title>Main Race - F1 Italian Grand Prix</title></programme>
+<programme start="20250911152000 +0000" stop="20250911171000 +0000" channel="4k DIGITAL.qa"><title>Newcastle United vs. Liverpool - English Premier League 2025/2026</title></programme>
+<programme start="20250911171000 +0000" stop="20250911190000 +0000" channel="4k DIGITAL.qa"><title>Liverpool vs. Arsenal - English Premier League 2025/2026</title></programme>
+<programme start="20250911190000 +0000" stop="20250911205000 +0000" channel="4k DIGITAL.qa"><title>Chelsea vs. Fulham - English Premier League 2025/2026</title></programme>
+<programme start="20250911205000 +0000" stop="20250911225500 +0000" channel="4k DIGITAL.qa"><title>Main Race - F1 Italian Grand Prix</title></programme>
+<programme start="20250911225500 +0000" stop="20250912004000 +0000" channel="4k DIGITAL.qa"><title>Newcastle United vs. Liverpool - English Premier League 2025/2026</title></programme>
+<programme start="20250912000500 +0000" stop="20250912015500 +0000" channel="4k DIGITAL.qa"><title>Newcastle United vs. Liverpool - English Premier League 2025/2026</title></programme>
+<programme start="20250912015500 +0000" stop="20250912034500 +0000" channel="4k DIGITAL.qa"><title>Liverpool vs. Arsenal - English Premier League 2025/2026</title></programme>
+<programme start="20250912034500 +0000" stop="20250912054000 +0000" channel="4k DIGITAL.qa"><title>Chelsea vs. Fulham - English Premier League 2025/2026</title></programme>
+<programme start="20250912054000 +0000" stop="20250912074500 +0000" channel="4k DIGITAL.qa"><title>Main Race - F1 Italian Grand Prix</title></programme>
+<programme start="20250912074500 +0000" stop="20250912093500 +0000" channel="4k DIGITAL.qa"><title>Newcastle United vs. Liverpool - English Premier League 2025/2026</title></programme>
+<programme start="20250912093500 +0000" stop="20250912112500 +0000" channel="4k DIGITAL.qa"><title>Liverpool vs. Arsenal - English Premier League 2025/2026</title></programme>
+<programme start="20250912112500 +0000" stop="20250912131500 +0000" channel="4k DIGITAL.qa"><title>Chelsea vs. Fulham - English Premier League 2025/2026</title></programme>
+<programme start="20250912131500 +0000" stop="20250912152000 +0000" channel="4k DIGITAL.qa"><title>Main Race - F1 Italian Grand Prix</title></programme>
+<programme start="20250912152000 +0000" stop="20250912171000 +0000" channel="4k DIGITAL.qa"><title>Newcastle United vs. Liverpool - English Premier League 2025/2026</title></programme>
+<programme start="20250912171000 +0000" stop="20250912190000 +0000" channel="4k DIGITAL.qa"><title>Liverpool vs. Arsenal - English Premier League 2025/2026</title></programme>
+<programme start="20250912190000 +0000" stop="20250912205000 +0000" channel="4k DIGITAL.qa"><title>Chelsea vs. Fulham - English Premier League 2025/2026</title></programme>
+<programme start="20250912205000 +0000" stop="20250912225500 +0000" channel="4k DIGITAL.qa"><title>Main Race - F1 Italian Grand Prix</title></programme>
+<programme start="20250912225500 +0000" stop="20250913004000 +0000" channel="4k DIGITAL.qa"><title>Newcastle United vs. Liverpool - English Premier League 2025/2026</title></programme>
+<programme start="20250913000500 +0000" stop="20250913015500 +0000" channel="4k DIGITAL.qa"><title>Newcastle United vs. Liverpool - English Premier League 2025/2026</title></programme>
+<programme start="20250913015500 +0000" stop="20250913034500 +0000" channel="4k DIGITAL.qa"><title>Liverpool vs. Arsenal - English Premier League 2025/2026</title></programme>
+<programme start="20250911010000 +0000" stop="20250911020000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911020000 +0000" stop="20250911030000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911030000 +0000" stop="20250911040000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911040000 +0000" stop="20250911050000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911060000 +0000" stop="20250911070000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911070000 +0000" stop="20250911080000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911080000 +0000" stop="20250911090000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911090000 +0000" stop="20250911100000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911100000 +0000" stop="20250911110000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911110000 +0000" stop="20250911120000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911120000 +0000" stop="20250911130000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911130000 +0000" stop="20250911140000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911140000 +0000" stop="20250911150000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911150000 +0000" stop="20250911160000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911160000 +0000" stop="20250911170000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911170000 +0000" stop="20250911180000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911180000 +0000" stop="20250911190000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911190000 +0000" stop="20250911200000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911200000 +0000" stop="20250911210000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911210000 +0000" stop="20250911220000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911220000 +0000" stop="20250911230000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911230000 +0000" stop="20250912000000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912010000 +0000" stop="20250912020000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912020000 +0000" stop="20250912030000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912030000 +0000" stop="20250912040000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912040000 +0000" stop="20250912050000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912060000 +0000" stop="20250912070000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912070000 +0000" stop="20250912080000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912080000 +0000" stop="20250912090000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912090000 +0000" stop="20250912100000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912100000 +0000" stop="20250912110000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912110000 +0000" stop="20250912120000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912120000 +0000" stop="20250912130000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912130000 +0000" stop="20250912140000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912140000 +0000" stop="20250912150000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912150000 +0000" stop="20250912160000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912160000 +0000" stop="20250912170000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912170000 +0000" stop="20250912180000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912180000 +0000" stop="20250912190000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912190000 +0000" stop="20250912200000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912200000 +0000" stop="20250912210000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912210000 +0000" stop="20250912220000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912220000 +0000" stop="20250912230000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912230000 +0000" stop="20250913000000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250913010000 +0000" stop="20250913020000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250913020000 +0000" stop="20250913030000 +0000" channel="AFC 4.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911010000 +0000" stop="20250911020000 +0000" channel="afc-6 8-copy.qa"><title>Open Court</title></programme>
+<programme start="20250911020000 +0000" stop="20250911030000 +0000" channel="afc-6 8-copy.qa"><title>Open Court</title></programme>
+<programme start="20250911030000 +0000" stop="20250911050000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250911050000 +0000" stop="20250911070000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250911070000 +0000" stop="20250911080000 +0000" channel="afc-6 8-copy.qa"><title>Larry Birds 50 Greatest Moments</title></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250911100000 +0000" stop="20250911110000 +0000" channel="afc-6 8-copy.qa"><title>Open Court</title></programme>
+<programme start="20250911110000 +0000" stop="20250911130000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250911130000 +0000" stop="20250911150000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250911150000 +0000" stop="20250911160000 +0000" channel="afc-6 8-copy.qa"><title>Open Court</title></programme>
+<programme start="20250911160000 +0000" stop="20250911180000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250911180000 +0000" stop="20250911200000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250911200000 +0000" stop="20250911210000 +0000" channel="afc-6 8-copy.qa"><title>The Big O Oscar Robertson</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="afc-6 8-copy.qa"><title>WNBA Weekly (S2025, Ep4)</title></programme>
+<programme start="20250911213000 +0000" stop="20250911220000 +0000" channel="afc-6 8-copy.qa"><title>WNBA Weekly (S2025, Ep5)</title></programme>
+<programme start="20250911220000 +0000" stop="20250911230000 +0000" channel="afc-6 8-copy.qa"><title>WNBA Weekly (S2025, Ep6)</title></programme>
+<programme start="20250911230000 +0000" stop="20250911233000 +0000" channel="afc-6 8-copy.qa"><title>WNBA Weekly (S2025, Ep7)</title></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="afc-6 8-copy.qa"><title>WNBA Weekly (S2025, Ep8)</title></programme>
+<programme start="20250912010000 +0000" stop="20250912020000 +0000" channel="afc-6 8-copy.qa"><title>Open Court</title></programme>
+<programme start="20250912020000 +0000" stop="20250912030000 +0000" channel="afc-6 8-copy.qa"><title>Open Court</title></programme>
+<programme start="20250912030000 +0000" stop="20250912050000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250912050000 +0000" stop="20250912070000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250912070000 +0000" stop="20250912080000 +0000" channel="afc-6 8-copy.qa"><title>Larry Birds 50 Greatest Moments</title></programme>
+<programme start="20250912080000 +0000" stop="20250912100000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250912100000 +0000" stop="20250912110000 +0000" channel="afc-6 8-copy.qa"><title>Open Court</title></programme>
+<programme start="20250912110000 +0000" stop="20250912130000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250912130000 +0000" stop="20250912150000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250912150000 +0000" stop="20250912160000 +0000" channel="afc-6 8-copy.qa"><title>Open Court</title></programme>
+<programme start="20250912160000 +0000" stop="20250912180000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250912180000 +0000" stop="20250912200000 +0000" channel="afc-6 8-copy.qa"><title>Marquee Matchup</title></programme>
+<programme start="20250912200000 +0000" stop="20250912210000 +0000" channel="afc-6 8-copy.qa"><title>The Big O Oscar Robertson</title></programme>
+<programme start="20250912210000 +0000" stop="20250912213000 +0000" channel="afc-6 8-copy.qa"><title>WNBA Weekly (S2025, Ep4)</title></programme>
+<programme start="20250912213000 +0000" stop="20250912220000 +0000" channel="afc-6 8-copy.qa"><title>WNBA Weekly (S2025, Ep5)</title></programme>
+<programme start="20250912220000 +0000" stop="20250912230000 +0000" channel="afc-6 8-copy.qa"><title>WNBA Weekly (S2025, Ep6)</title></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="afc-6 8-copy.qa"><title>WNBA Weekly (S2025, Ep7)</title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="afc-6 8-copy.qa"><title>WNBA Weekly (S2025, Ep8)</title></programme>
+<programme start="20250913010000 +0000" stop="20250913020000 +0000" channel="afc-6 8-copy.qa"><title>Open Court</title></programme>
+<programme start="20250913020000 +0000" stop="20250913030000 +0000" channel="afc-6 8-copy.qa"><title>Open Court</title></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Al Rayyan vs Al Duhail - Qatar Stars League 2025/26</title></programme>
+<programme start="20250911040000 +0000" stop="20250911060000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Al Sadd vs Al Gharafa - Qatar Stars League 2025/26</title></programme>
+<programme start="20250911060000 +0000" stop="20250911073000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Montpellier vs Dijon - LNH Division 1</title></programme>
+<programme start="20250911073000 +0000" stop="20250911091500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Equestrian Longines Global Champions Tour - Valkenswaard Netherlands</title></programme>
+<programme start="20250911091500 +0000" stop="20250911104500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Equestrian Longines Global Champions Tour - Valkenswaard Netherlands</title></programme>
+<programme start="20250911104500 +0000" stop="20250911130000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Equestrian Longines Global Champions Tour - Valkenswaard Netherlands</title></programme>
+<programme start="20250911130000 +0000" stop="20250911150000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Equestrian Longines Global Champions Tour - Valkenswaard Netherlands</title></programme>
+<programme start="20250911150000 +0000" stop="20250911162000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Montpellier vs Dijon - LNH Division 1</title></programme>
+<programme start="20250911162000 +0000" stop="20250911171500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Qatar Prix de lArc de Triomphe 2024 Highlight</title></programme>
+<programme start="20250911171500 +0000" stop="20250911191500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Al Rayyan vs Al Duhail - Qatar Stars League 2025/26</title></programme>
+<programme start="20250911191500 +0000" stop="20250911211500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Al Sadd vs Al Gharafa - Qatar Stars League 2025/26</title></programme>
+<programme start="20250911211500 +0000" stop="20250911231500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Al Arabi vs Umm Salal - Qatar Stars League 2025/26</title></programme>
+<programme start="20250911231500 +0000" stop="20250912004500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Montpellier vs Dijon - LNH Division 1</title></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Al Rayyan vs Al Duhail - Qatar Stars League 2025/26</title></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Al Sadd vs Al Gharafa - Qatar Stars League 2025/26</title></programme>
+<programme start="20250912060000 +0000" stop="20250912073000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Montpellier vs Dijon - LNH Division 1</title></programme>
+<programme start="20250912073000 +0000" stop="20250912091500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Equestrian Longines Global Champions Tour - Valkenswaard Netherlands</title></programme>
+<programme start="20250912091500 +0000" stop="20250912104500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Equestrian Longines Global Champions Tour - Valkenswaard Netherlands</title></programme>
+<programme start="20250912104500 +0000" stop="20250912130000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Equestrian Longines Global Champions Tour - Valkenswaard Netherlands</title></programme>
+<programme start="20250912130000 +0000" stop="20250912150000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Equestrian Longines Global Champions Tour - Valkenswaard Netherlands</title></programme>
+<programme start="20250912150000 +0000" stop="20250912162000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Montpellier vs Dijon - LNH Division 1</title></programme>
+<programme start="20250912162000 +0000" stop="20250912171500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Qatar Prix de lArc de Triomphe 2024 Highlight</title></programme>
+<programme start="20250912171500 +0000" stop="20250912191500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Al Rayyan vs Al Duhail - Qatar Stars League 2025/26</title></programme>
+<programme start="20250912191500 +0000" stop="20250912211500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Al Sadd vs Al Gharafa - Qatar Stars League 2025/26</title></programme>
+<programme start="20250912211500 +0000" stop="20250912231500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Al Arabi vs Umm Salal - Qatar Stars League 2025/26</title></programme>
+<programme start="20250912231500 +0000" stop="20250913004500 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Montpellier vs Dijon - LNH Division 1</title></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="bein SPORTS FTA DIGITAL.qa"><title>Al Rayyan vs Al Duhail - Qatar Stars League 2025/26</title></programme>
+<programme start="20250911070000 +0000" stop="20250911073000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>The Inside Line</title></programme>
+<programme start="20250911073000 +0000" stop="20250911080000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Golmania</title></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Kass Al Omam Al Asiawya Lelkorah Al Taerah</title></programme>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Jarayed</title></programme>
+<programme start="20250911130000 +0000" stop="20250911143000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Mahrajan Waly Al Ahd Al Saudi Lel Hejen</title></programme>
+<programme start="20250911143000 +0000" stop="20250911153000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Thenteen Wa Nos</title></programme>
+<programme start="20250911153000 +0000" stop="20250911160000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>The Greats of All Time</title></programme>
+<programme start="20250911160000 +0000" stop="20250911161500 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250911161500 +0000" stop="20250911164500 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Asrar Al Riadah</title></programme>
+<programme start="20250911164500 +0000" stop="20250911180000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Arab Handball Championship Of Champions</title></programme>
+<programme start="20250911180000 +0000" stop="20250911210000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Derby Al Iraq</title></programme>
+<programme start="20250911210000 +0000" stop="20250911231500 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Derby Al Iraq</title></programme>
+<programme start="20250911231500 +0000" stop="20250911233000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Ahdaf</title></programme>
+<programme start="20250911233000 +0000" stop="20250912043000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>The Football Review</title></programme>
+<programme start="20250912070000 +0000" stop="20250912073000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>The Inside Line</title></programme>
+<programme start="20250912073000 +0000" stop="20250912080000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Golmania</title></programme>
+<programme start="20250912080000 +0000" stop="20250912100000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Kass Al Omam Al Asiawya Lelkorah Al Taerah</title></programme>
+<programme start="20250912120000 +0000" stop="20250912123000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250912123000 +0000" stop="20250912130000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Jarayed</title></programme>
+<programme start="20250912130000 +0000" stop="20250912143000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Mahrajan Waly Al Ahd Al Saudi Lel Hejen</title></programme>
+<programme start="20250912143000 +0000" stop="20250912153000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Thenteen Wa Nos</title></programme>
+<programme start="20250912153000 +0000" stop="20250912160000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>The Greats of All Time</title></programme>
+<programme start="20250912160000 +0000" stop="20250912161500 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250912161500 +0000" stop="20250912164500 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Asrar Al Riadah</title></programme>
+<programme start="20250912164500 +0000" stop="20250912180000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Arab Handball Championship Of Champions</title></programme>
+<programme start="20250912180000 +0000" stop="20250912210000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Derby Al Iraq</title></programme>
+<programme start="20250912210000 +0000" stop="20250912231500 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Derby Al Iraq</title></programme>
+<programme start="20250912231500 +0000" stop="20250912233000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>Ahdaf</title></programme>
+<programme start="20250912233000 +0000" stop="20250913043000 +0000" channel="beIN SPORTS MAX1 DIGITAL.qa"><title>The Football Review</title></programme>
+<programme start="20250911030000 +0000" stop="20250911050000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Kass Al Omam Al Asiawya Lelkorah Al Taerah</title></programme>
+<programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Thenteen Wa Nos</title></programme>
+<programme start="20250911060000 +0000" stop="20250911063000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250911063000 +0000" stop="20250911080000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Dawry Korat Al Sallah Al Qatary</title></programme>
+<programme start="20250911080000 +0000" stop="20250911083000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Asrar Al Riadah</title></programme>
+<programme start="20250911083000 +0000" stop="20250911100000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Mahrajan Waly Al Ahd Al Saudi Lel Hejen</title></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Jarayed</title></programme>
+<programme start="20250911130000 +0000" stop="20250911150000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250911150000 +0000" stop="20250911153000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>The Football Review</title></programme>
+<programme start="20250911153000 +0000" stop="20250911160000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>The Inside Line</title></programme>
+<programme start="20250911160000 +0000" stop="20250911161500 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250911161500 +0000" stop="20250911163000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Ahdaf</title></programme>
+<programme start="20250911163000 +0000" stop="20250911183000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Dawry Al Darajah Al Thanya Al Qatary</title></programme>
+<programme start="20250911183000 +0000" stop="20250911190000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Invincible</title></programme>
+<programme start="20250911190000 +0000" stop="20250911203000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Kass Al Omam Al Asiawya Lelkorah Al Taerah</title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Tawasol</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250911213000 +0000" stop="20250911223000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Panorama Al Galayel</title></programme>
+<programme start="20250911223000 +0000" stop="20250911224500 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Ahdaf</title></programme>
+<programme start="20250911224500 +0000" stop="20250912050000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Arab Handball Championship Of Champions</title></programme>
+<programme start="20250912030000 +0000" stop="20250913050000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Kass Al Omam Al Asiawya Lelkorah Al Taerah</title></programme>
+<programme start="20250912050000 +0000" stop="20250913060000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Thenteen Wa Nos</title></programme>
+<programme start="20250912060000 +0000" stop="20250913063000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250912063000 +0000" stop="20250913080000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Dawry Korat Al Sallah Al Qatary</title></programme>
+<programme start="20250912080000 +0000" stop="20250913083000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Asrar Al Riadah</title></programme>
+<programme start="20250912083000 +0000" stop="20250913100000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Mahrajan Waly Al Ahd Al Saudi Lel Hejen</title></programme>
+<programme start="20250912100000 +0000" stop="20250913120000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250912120000 +0000" stop="20250913123000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250912123000 +0000" stop="20250913130000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Jarayed</title></programme>
+<programme start="20250912130000 +0000" stop="20250913150000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250912150000 +0000" stop="20250913153000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>The Football Review</title></programme>
+<programme start="20250912153000 +0000" stop="20250913160000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>The Inside Line</title></programme>
+<programme start="20250912160000 +0000" stop="20250913161500 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250912161500 +0000" stop="20250913163000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Ahdaf</title></programme>
+<programme start="20250912163000 +0000" stop="20250913183000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Dawry Al Darajah Al Thanya Al Qatary</title></programme>
+<programme start="20250912183000 +0000" stop="20250913190000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Invincible</title></programme>
+<programme start="20250912190000 +0000" stop="20250913203000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Kass Al Omam Al Asiawya Lelkorah Al Taerah</title></programme>
+<programme start="20250912203000 +0000" stop="20250913210000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Tawasol</title></programme>
+<programme start="20250912210000 +0000" stop="20250913213000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250912213000 +0000" stop="20250913223000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Panorama Al Galayel</title></programme>
+<programme start="20250912223000 +0000" stop="20250913224500 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Ahdaf</title></programme>
+<programme start="20250912224500 +0000" stop="20250914050000 +0000" channel="beIN SPORTS MAX2 DIGITAL.qa"><title>Arab Handball Championship Of Champions</title></programme>
+<programme start="20250911003000 +0000" stop="20250911020000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Mahrajan Waly Al Ahd Al Saudi Lel Hejen</title></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250911040000 +0000" stop="20250911043000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>The Greats of All Time</title></programme>
+<programme start="20250911043000 +0000" stop="20250911063000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250911063000 +0000" stop="20250911074500 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Arab Handball Championship Of Champions</title></programme>
+<programme start="20250911074500 +0000" stop="20250911080000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Auto Mundial</title></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Kass Al Omam Al Asiawya Lelkorah Al Taerah</title></programme>
+<programme start="20250911100000 +0000" stop="20250911103000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>The Football Review</title></programme>
+<programme start="20250911103000 +0000" stop="20250911104500 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Ahdaf</title></programme>
+<programme start="20250911104500 +0000" stop="20250911120000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Arab Handball Championship Of Champions</title></programme>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Jarayed</title></programme>
+<programme start="20250911130000 +0000" stop="20250911150000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Derby Tunis</title></programme>
+<programme start="20250911150000 +0000" stop="20250911190000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Longines Hathab</title></programme>
+<programme start="20250911190000 +0000" stop="20250911193000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Golmania</title></programme>
+<programme start="20250911193000 +0000" stop="20250911203000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Thenteen Wa Nos</title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Tawasol</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250911213000 +0000" stop="20250911220000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>FIBA World Basketball</title></programme>
+<programme start="20250911220000 +0000" stop="20250912033000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250912003000 +0000" stop="20250913020000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Mahrajan Waly Al Ahd Al Saudi Lel Hejen</title></programme>
+<programme start="20250912020000 +0000" stop="20250913040000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250912040000 +0000" stop="20250913043000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>The Greats of All Time</title></programme>
+<programme start="20250912043000 +0000" stop="20250913063000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250912063000 +0000" stop="20250913074500 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Arab Handball Championship Of Champions</title></programme>
+<programme start="20250912074500 +0000" stop="20250913080000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Auto Mundial</title></programme>
+<programme start="20250912080000 +0000" stop="20250913100000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Kass Al Omam Al Asiawya Lelkorah Al Taerah</title></programme>
+<programme start="20250912100000 +0000" stop="20250913103000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>The Football Review</title></programme>
+<programme start="20250912103000 +0000" stop="20250913104500 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Ahdaf</title></programme>
+<programme start="20250912104500 +0000" stop="20250913120000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Arab Handball Championship Of Champions</title></programme>
+<programme start="20250912120000 +0000" stop="20250913123000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250912123000 +0000" stop="20250913130000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Jarayed</title></programme>
+<programme start="20250912130000 +0000" stop="20250913150000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Derby Tunis</title></programme>
+<programme start="20250912150000 +0000" stop="20250913190000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Longines Hathab</title></programme>
+<programme start="20250912190000 +0000" stop="20250913193000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Golmania</title></programme>
+<programme start="20250912193000 +0000" stop="20250913203000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Thenteen Wa Nos</title></programme>
+<programme start="20250912203000 +0000" stop="20250913210000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Tawasol</title></programme>
+<programme start="20250912210000 +0000" stop="20250913213000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250912213000 +0000" stop="20250913220000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>FIBA World Basketball</title></programme>
+<programme start="20250912220000 +0000" stop="20250914033000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250913003000 +0000" stop="20250915020000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>Mahrajan Waly Al Ahd Al Saudi Lel Hejen</title></programme>
+<programme start="20250913020000 +0000" stop="20250915040000 +0000" channel="beIN SPORTS MAX3 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250911070000 +0000" stop="20250911073000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>The Inside Line</title></programme>
+<programme start="20250911073000 +0000" stop="20250911080000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Golmania</title></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Kass Al Omam Al Asiawya Lelkorah Al Taerah</title></programme>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Jarayed</title></programme>
+<programme start="20250911130000 +0000" stop="20250911143000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Mahrajan Waly Al Ahd Al Saudi Lel Hejen</title></programme>
+<programme start="20250911143000 +0000" stop="20250911153000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Thenteen Wa Nos</title></programme>
+<programme start="20250911153000 +0000" stop="20250911160000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>The Greats of All Time</title></programme>
+<programme start="20250911160000 +0000" stop="20250911161500 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250911161500 +0000" stop="20250911164500 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Asrar Al Riadah</title></programme>
+<programme start="20250911164500 +0000" stop="20250911180000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Arab Handball Championship Of Champions</title></programme>
+<programme start="20250911180000 +0000" stop="20250911210000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Derby Al Iraq</title></programme>
+<programme start="20250911210000 +0000" stop="20250911231500 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Derby Al Iraq</title></programme>
+<programme start="20250911231500 +0000" stop="20250911233000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Ahdaf</title></programme>
+<programme start="20250911233000 +0000" stop="20250912043000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>The Football Review</title></programme>
+<programme start="20250912070000 +0000" stop="20250912073000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>The Inside Line</title></programme>
+<programme start="20250912073000 +0000" stop="20250912080000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Golmania</title></programme>
+<programme start="20250912080000 +0000" stop="20250912100000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>QSL CUP</title></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Kass Al Omam Al Asiawya Lelkorah Al Taerah</title></programme>
+<programme start="20250912120000 +0000" stop="20250912123000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250912123000 +0000" stop="20250912130000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Jarayed</title></programme>
+<programme start="20250912130000 +0000" stop="20250912143000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Mahrajan Waly Al Ahd Al Saudi Lel Hejen</title></programme>
+<programme start="20250912143000 +0000" stop="20250912153000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Thenteen Wa Nos</title></programme>
+<programme start="20250912153000 +0000" stop="20250912160000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>The Greats of All Time</title></programme>
+<programme start="20250912160000 +0000" stop="20250912161500 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Akhbar</title></programme>
+<programme start="20250912161500 +0000" stop="20250912164500 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Asrar Al Riadah</title></programme>
+<programme start="20250912164500 +0000" stop="20250912180000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Arab Handball Championship Of Champions</title></programme>
+<programme start="20250912180000 +0000" stop="20250912210000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Derby Al Iraq</title></programme>
+<programme start="20250912210000 +0000" stop="20250912231500 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Derby Al Iraq</title></programme>
+<programme start="20250912231500 +0000" stop="20250912233000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>Ahdaf</title></programme>
+<programme start="20250912233000 +0000" stop="20250913043000 +0000" channel="beIN SPORTS MAX4 DIGITAL.qa"><title>The Football Review</title></programme>
+<programme start="20250911043000 +0000" stop="20250911060000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>wasl Basketball Manama of Bahrain vs. Al - Arabi of Qatar</title></programme>
+<programme start="20250911060000 +0000" stop="20250911063000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250911063000 +0000" stop="20250911083000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>Iraq Derby Zakho vs. Al - Quwa Al</title></programme>
+<programme start="20250911083000 +0000" stop="20250911100000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>The 23rd Arab Volleyball Championship Kuwait vs. Saudi Arabia</title></programme>
+<programme start="20250911100000 +0000" stop="20250911101500 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>GOALS</title></programme>
+<programme start="20250911101500 +0000" stop="20250911104500 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>FOOTBALL REVIEW.</title></programme>
+<programme start="20250911104500 +0000" stop="20250911120000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>The 10th Asian Youth Handball Championship Qatar vs Jordan</title></programme>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>JARAYED.</title></programme>
+<programme start="20250911130000 +0000" stop="20250911133000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>INSIDELINE</title></programme>
+<programme start="20250911133000 +0000" stop="20250911153000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>Ooredoo Stars League Qatar vs. Al - Arabi</title></programme>
+<programme start="20250911153000 +0000" stop="20250911160000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>THE GREATS OF ALL TIME</title></programme>
+<programme start="20250911160000 +0000" stop="20250911161500 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250911161500 +0000" stop="20250911183000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>Ooredoo Stars League Al Shamal vs. Al Shahaniya</title></programme>
+<programme start="20250911183000 +0000" stop="20250911203000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>wasl Basketball Shabab Al Ahli of the UAE vs. Kuwait SC of Kuwait</title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>FOOTBALL REVIEW.</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250911213000 +0000" stop="20250911233000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>Al - Qalail</title></programme>
+<programme start="20250911233000 +0000" stop="20250912073000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>GOLMNIA</title></programme>
+<programme start="20250912043000 +0000" stop="20250913060000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>wasl Basketball Manama of Bahrain vs. Al - Arabi of Qatar</title></programme>
+<programme start="20250912060000 +0000" stop="20250913063000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250912063000 +0000" stop="20250913083000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>Iraq Derby Zakho vs. Al - Quwa Al</title></programme>
+<programme start="20250912083000 +0000" stop="20250913100000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>The 23rd Arab Volleyball Championship Kuwait vs. Saudi Arabia</title></programme>
+<programme start="20250912100000 +0000" stop="20250913101500 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>GOALS</title></programme>
+<programme start="20250912101500 +0000" stop="20250913104500 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>FOOTBALL REVIEW.</title></programme>
+<programme start="20250912104500 +0000" stop="20250913120000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>The 10th Asian Youth Handball Championship Qatar vs Jordan</title></programme>
+<programme start="20250912120000 +0000" stop="20250913123000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250912123000 +0000" stop="20250913130000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>JARAYED.</title></programme>
+<programme start="20250912130000 +0000" stop="20250913133000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>INSIDELINE</title></programme>
+<programme start="20250912133000 +0000" stop="20250913153000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>Ooredoo Stars League Qatar vs. Al - Arabi</title></programme>
+<programme start="20250912153000 +0000" stop="20250913160000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>THE GREATS OF ALL TIME</title></programme>
+<programme start="20250912160000 +0000" stop="20250913161500 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250912161500 +0000" stop="20250913183000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>Ooredoo Stars League Al Shamal vs. Al Shahaniya</title></programme>
+<programme start="20250912183000 +0000" stop="20250913203000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>wasl Basketball Shabab Al Ahli of the UAE vs. Kuwait SC of Kuwait</title></programme>
+<programme start="20250912203000 +0000" stop="20250913210000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>FOOTBALL REVIEW.</title></programme>
+<programme start="20250912210000 +0000" stop="20250913213000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250912213000 +0000" stop="20250913233000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>Al - Qalail</title></programme>
+<programme start="20250912233000 +0000" stop="20250914073000 +0000" channel="beIN SPORTS MAX5 DIGITAL.qa"><title>GOLMNIA</title></programme>
+<programme start="20250911012000 +0000" stop="20250911013000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911013000 +0000" stop="20250911014000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911014000 +0000" stop="20250911015000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911015000 +0000" stop="20250911020000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911020000 +0000" stop="20250911030000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911030000 +0000" stop="20250911040000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911040000 +0000" stop="20250911050000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911060000 +0000" stop="20250911070000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911070000 +0000" stop="20250911080000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911080000 +0000" stop="20250911090000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911090000 +0000" stop="20250911100000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911100000 +0000" stop="20250911110000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911110000 +0000" stop="20250911120000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911120000 +0000" stop="20250911130000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911130000 +0000" stop="20250911140000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911140000 +0000" stop="20250911150000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911150000 +0000" stop="20250911160000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911160000 +0000" stop="20250911170000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911170000 +0000" stop="20250911180000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911180000 +0000" stop="20250911190000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911190000 +0000" stop="20250911200000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911200000 +0000" stop="20250911210000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911210000 +0000" stop="20250911211000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911211000 +0000" stop="20250911212000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911212000 +0000" stop="20250911213000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911213000 +0000" stop="20250911214000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911214000 +0000" stop="20250911220000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911220000 +0000" stop="20250911235900 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>HOU vs TOR - MLB</title></programme>
+<programme start="20250912012000 +0000" stop="20250912013000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912013000 +0000" stop="20250912014000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912014000 +0000" stop="20250912015000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912015000 +0000" stop="20250912020000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912020000 +0000" stop="20250912030000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912030000 +0000" stop="20250912040000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912040000 +0000" stop="20250912050000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912060000 +0000" stop="20250912070000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912070000 +0000" stop="20250912080000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912080000 +0000" stop="20250912090000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912090000 +0000" stop="20250912100000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912100000 +0000" stop="20250912110000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912110000 +0000" stop="20250912120000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912120000 +0000" stop="20250912130000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912130000 +0000" stop="20250912140000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912140000 +0000" stop="20250912150000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912150000 +0000" stop="20250912160000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912160000 +0000" stop="20250912170000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912170000 +0000" stop="20250912180000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912180000 +0000" stop="20250912190000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912190000 +0000" stop="20250912200000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912200000 +0000" stop="20250912210000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912210000 +0000" stop="20250912211000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912211000 +0000" stop="20250912212000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912212000 +0000" stop="20250912213000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912213000 +0000" stop="20250912214000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912214000 +0000" stop="20250912220000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912220000 +0000" stop="20250912235900 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>HOU vs TOR - MLB</title></programme>
+<programme start="20250913012000 +0000" stop="20250913013000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250913013000 +0000" stop="20250913014000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250913014000 +0000" stop="20250913015000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250913015000 +0000" stop="20250913020000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250913020000 +0000" stop="20250913030000 +0000" channel="beIN SPORTS XTRA2 Digital.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911003000 +0000" stop="20250911010000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Serbia vs England - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911010000 +0000" stop="20250911013000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Mexico City - Stories From the City</title></programme>
+<programme start="20250911013000 +0000" stop="20250911023000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>EPL Review - 2025/2026</title></programme>
+<programme start="20250911023000 +0000" stop="20250911030000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>La Liga Highlights 2025/2026</title></programme>
+<programme start="20250911030000 +0000" stop="20250911033000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Ligue 1 Weekly Review - 2025/2026</title></programme>
+<programme start="20250911033000 +0000" stop="20250911040000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>EPL The Big Interview 2025/2026</title></programme>
+<programme start="20250911040000 +0000" stop="20250911043100 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Germany vs Northern Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911043100 +0000" stop="20250911050000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Turkey vs Spain - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911050000 +0000" stop="20250911053000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>France vs Icleand - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911053000 +0000" stop="20250911060000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Serbia vs England - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911060000 +0000" stop="20250911063000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>La Liga World 2025/2026</title></programme>
+<programme start="20250911063000 +0000" stop="20250911083000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Armenia vs Rep Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911083000 +0000" stop="20250911085700 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>UEFA UCL Magazine 2025/2026 - Play</title></programme>
+<programme start="20250911085700 +0000" stop="20250911110000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Turkey vs spain - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911110000 +0000" stop="20250911124700 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Croatia vs Montenegro UEFA European Qualifiers World Cup 2026 - MD6</title></programme>
+<programme start="20250911124700 +0000" stop="20250911143400 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>France vs Icleand - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911143400 +0000" stop="20250911150000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Mexico City - Stories From the City</title></programme>
+<programme start="20250911150000 +0000" stop="20250911153000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>EPL Stories 2025/2026</title></programme>
+<programme start="20250911153000 +0000" stop="20250911160000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>La Liga World 2025/2026</title></programme>
+<programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>UEFA UCL Magazine 2025/2026 - Play</title></programme>
+<programme start="20250911163000 +0000" stop="20250911170000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>GP Confidential 2025 Magazine</title></programme>
+<programme start="20250911170000 +0000" stop="20250911173000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Germany vs Northern Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Turkey vs Spain - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>France vs Icleand - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911183000 +0000" stop="20250911190000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Serbia vs England - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911190000 +0000" stop="20250911193000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>La Liga Highlights 2025/2026</title></programme>
+<programme start="20250911193000 +0000" stop="20250911200000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Ligue 1 Weekly Review - 2025/2026</title></programme>
+<programme start="20250911200000 +0000" stop="20250911203000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Fast Zone 2025</title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>EPL The Big Interview 2025/2026</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>ATP Tour - Magazine 2025</title></programme>
+<programme start="20250911213000 +0000" stop="20250911233000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Brighton and Hove Albion vs Manchester City - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>UEFA UCL Magazine 2025/2026 - Play</title></programme>
+<programme start="20250912003000 +0000" stop="20250912010000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Serbia vs England - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912010000 +0000" stop="20250912013000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Mexico City - Stories From the City</title></programme>
+<programme start="20250912013000 +0000" stop="20250912023000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>EPL Review - 2025/2026</title></programme>
+<programme start="20250912023000 +0000" stop="20250912030000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>La Liga Highlights 2025/2026</title></programme>
+<programme start="20250912030000 +0000" stop="20250912033000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Ligue 1 Weekly Review - 2025/2026</title></programme>
+<programme start="20250912033000 +0000" stop="20250912040000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>EPL The Big Interview 2025/2026</title></programme>
+<programme start="20250912040000 +0000" stop="20250912043100 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Germany vs Northern Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912043100 +0000" stop="20250912050000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Turkey vs Spain - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912050000 +0000" stop="20250912053000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>France vs Icleand - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912053000 +0000" stop="20250912060000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Serbia vs England - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912060000 +0000" stop="20250912063000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>La Liga World 2025/2026</title></programme>
+<programme start="20250912063000 +0000" stop="20250912083000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Armenia vs Rep Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912083000 +0000" stop="20250912085700 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>UEFA UCL Magazine 2025/2026 - Play</title></programme>
+<programme start="20250912085700 +0000" stop="20250912110000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Turkey vs spain - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912110000 +0000" stop="20250912124700 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Croatia vs Montenegro UEFA European Qualifiers World Cup 2026 - MD6</title></programme>
+<programme start="20250912124700 +0000" stop="20250912143400 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>France vs Icleand - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912143400 +0000" stop="20250912150000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Mexico City - Stories From the City</title></programme>
+<programme start="20250912150000 +0000" stop="20250912153000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>EPL Stories 2025/2026</title></programme>
+<programme start="20250912153000 +0000" stop="20250912160000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>La Liga World 2025/2026</title></programme>
+<programme start="20250912160000 +0000" stop="20250912163000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>UEFA UCL Magazine 2025/2026 - Play</title></programme>
+<programme start="20250912163000 +0000" stop="20250912170000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>GP Confidential 2025 Magazine</title></programme>
+<programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Germany vs Northern Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Turkey vs Spain - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>France vs Icleand - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912183000 +0000" stop="20250912190000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Serbia vs England - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912190000 +0000" stop="20250912193000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>La Liga Highlights 2025/2026</title></programme>
+<programme start="20250912193000 +0000" stop="20250912200000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Ligue 1 Weekly Review - 2025/2026</title></programme>
+<programme start="20250912200000 +0000" stop="20250912203000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Fast Zone 2025</title></programme>
+<programme start="20250912203000 +0000" stop="20250912210000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>EPL The Big Interview 2025/2026</title></programme>
+<programme start="20250912210000 +0000" stop="20250912213000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>ATP Tour - Magazine 2025</title></programme>
+<programme start="20250912213000 +0000" stop="20250912233000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Brighton and Hove Albion vs Manchester City - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>UEFA UCL Magazine 2025/2026 - Play</title></programme>
+<programme start="20250913003000 +0000" stop="20250913010000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Serbia vs England - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250913010000 +0000" stop="20250913013000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>Mexico City - Stories From the City</title></programme>
+<programme start="20250913013000 +0000" stop="20250913023000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>EPL Review - 2025/2026</title></programme>
+<programme start="20250913023000 +0000" stop="20250913030000 +0000" channel="beIN SPORTS1 DIGITAL.qa"><title>La Liga Highlights 2025/2026</title></programme>
+<programme start="20250911021500 +0000" stop="20250911050000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Chicago Bears vs Minnesota Vikings - NFL</title></programme>
+<programme start="20250911050000 +0000" stop="20250911053000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Blue 85</title></programme>
+<programme start="20250911053000 +0000" stop="20250911073000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Green Bay Packers vs Detroit Lions - NFL</title></programme>
+<programme start="20250911073000 +0000" stop="20250911094500 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Philadelphia Eagles vs Dallas Cowboys - NFL</title></programme>
+<programme start="20250911094500 +0000" stop="20250911113000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>France vs Icleand - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911113000 +0000" stop="20250911120000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>England vs Andorra - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Armenia vs Portugal - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911123000 +0000" stop="20250911133000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>UEL Magazine 2024/25 - Season Review</title></programme>
+<programme start="20250911133000 +0000" stop="20250911140000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Germany vs Northern Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911140000 +0000" stop="20250911143000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Turkey vs Spain - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911143000 +0000" stop="20250911150000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>My Faith in Sport - Ummah</title></programme>
+<programme start="20250911150000 +0000" stop="20250911153000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>UEFA Champions League Stories</title></programme>
+<programme start="20250911153000 +0000" stop="20250911180000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>New York Jets vs Pittsburgh Steelers - NFL</title></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Manchester United vs Burnley - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250911183000 +0000" stop="20250911190000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>EPL Stories 2025/26 - Edwin Van Der Sar</title></programme>
+<programme start="20250911190000 +0000" stop="20250911193000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>EN Ligue 1 Show 2025/26 Ep.4</title></programme>
+<programme start="20250911193000 +0000" stop="20250911200000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Brighton and Hove Albion vs Manchester City - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250911200000 +0000" stop="20250911203000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Liverpool vs Arsenal - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>EN EPL The Big Interview 2025/26 | E5 - Claude Makelele</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>EPL Stories 2025/26 - Olivier Giroud</title></programme>
+<programme start="20250911213000 +0000" stop="20250911220000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>England vs Andorra - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911220000 +0000" stop="20250911223000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Armenia vs Portugal - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911223000 +0000" stop="20250911230000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>EPL Stories 2025/26 - Edwin Van Der Sar</title></programme>
+<programme start="20250911230000 +0000" stop="20250911233000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Germany vs Northern Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Turkey vs Spain - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912021500 +0000" stop="20250912050000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Chicago Bears vs Minnesota Vikings - NFL</title></programme>
+<programme start="20250912050000 +0000" stop="20250912053000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Blue 85</title></programme>
+<programme start="20250912053000 +0000" stop="20250912073000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Green Bay Packers vs Detroit Lions - NFL</title></programme>
+<programme start="20250912073000 +0000" stop="20250912094500 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Philadelphia Eagles vs Dallas Cowboys - NFL</title></programme>
+<programme start="20250912094500 +0000" stop="20250912113000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>France vs Icleand - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912113000 +0000" stop="20250912120000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>England vs Andorra - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912120000 +0000" stop="20250912123000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Armenia vs Portugal - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912123000 +0000" stop="20250912133000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>UEL Magazine 2024/25 - Season Review</title></programme>
+<programme start="20250912133000 +0000" stop="20250912140000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Germany vs Northern Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912140000 +0000" stop="20250912143000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Turkey vs Spain - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912143000 +0000" stop="20250912150000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>My Faith in Sport - Ummah</title></programme>
+<programme start="20250912150000 +0000" stop="20250912153000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>UEFA Champions League Stories</title></programme>
+<programme start="20250912153000 +0000" stop="20250912180000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>New York Jets vs Pittsburgh Steelers - NFL</title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Manchester United vs Burnley - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250912183000 +0000" stop="20250912190000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>EPL Stories 2025/26 - Edwin Van Der Sar</title></programme>
+<programme start="20250912190000 +0000" stop="20250912193000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>EN Ligue 1 Show 2025/26 Ep.4</title></programme>
+<programme start="20250912193000 +0000" stop="20250912200000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Brighton and Hove Albion vs Manchester City - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250912200000 +0000" stop="20250912203000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Liverpool vs Arsenal - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250912203000 +0000" stop="20250912210000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>EN EPL The Big Interview 2025/26 | E5 - Claude Makelele</title></programme>
+<programme start="20250912210000 +0000" stop="20250912213000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>EPL Stories 2025/26 - Olivier Giroud</title></programme>
+<programme start="20250912213000 +0000" stop="20250912220000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>England vs Andorra - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912220000 +0000" stop="20250912223000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Armenia vs Portugal - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912223000 +0000" stop="20250912230000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>EPL Stories 2025/26 - Edwin Van Der Sar</title></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Germany vs Northern Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Turkey vs Spain - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250913021500 +0000" stop="20250913050000 +0000" channel="beIN SPORTS1 ENGLISH Digital.qa"><title>Chicago Bears vs Minnesota Vikings - NFL</title></programme>
+<programme start="20250911010000 +0000" stop="20250911030000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Le Mans vs Reims - Ligue 2</title></programme>
+<programme start="20250911030000 +0000" stop="20250911050000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Real Madrid vs Majorque - Liga</title></programme>
+<programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Doc Presidents Proprietaires La Fin D Une Ere - Football 2024</title></programme>
+<programme start="20250911060000 +0000" stop="20250911063000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Gardien Ou Rien Du Tout - Football</title></programme>
+<programme start="20250911063000 +0000" stop="20250911070000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Doc Gasquet - Tennis</title></programme>
+<programme start="20250911070000 +0000" stop="20250911090000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Maroc vs Madagascar - Championnat dAfrique des nations</title></programme>
+<programme start="20250911090000 +0000" stop="20250911110000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Toulouse vs PSG - Ligue 1</title></programme>
+<programme start="20250911110000 +0000" stop="20250911130000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Lorient vs Lille - Ligue 1</title></programme>
+<programme start="20250911130000 +0000" stop="20250911150000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Rayo vs Barcelonne - Liga</title></programme>
+<programme start="20250911150000 +0000" stop="20250911170000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Manchester Utd vs Grimsby - Coupe de la Ligue Anglaise</title></programme>
+<programme start="20250911170000 +0000" stop="20250911190000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Real Madrid vs Majorque - Liga</title></programme>
+<programme start="20250911190000 +0000" stop="20250911193000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Ep 4 Inside Fra - This is Paris</title></programme>
+<programme start="20250911193000 +0000" stop="20250911220000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Blue Jays Yankees - MLB</title></programme>
+<programme start="20250911220000 +0000" stop="20250912010000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Astros Blue Jays - MLB</title></programme>
+<programme start="20250912010000 +0000" stop="20250912030000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Le Mans vs Reims - Ligue 2</title></programme>
+<programme start="20250912030000 +0000" stop="20250912050000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Real Madrid vs Majorque - Liga</title></programme>
+<programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Doc Presidents Proprietaires La Fin D Une Ere - Football 2024</title></programme>
+<programme start="20250912060000 +0000" stop="20250912063000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Gardien Ou Rien Du Tout - Football</title></programme>
+<programme start="20250912063000 +0000" stop="20250912070000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Doc Gasquet - Tennis</title></programme>
+<programme start="20250912070000 +0000" stop="20250912090000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Maroc vs Madagascar - Championnat dAfrique des nations</title></programme>
+<programme start="20250912090000 +0000" stop="20250912110000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Toulouse vs PSG - Ligue 1</title></programme>
+<programme start="20250912110000 +0000" stop="20250912130000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Lorient vs Lille - Ligue 1</title></programme>
+<programme start="20250912130000 +0000" stop="20250912150000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Rayo vs Barcelonne - Liga</title></programme>
+<programme start="20250912150000 +0000" stop="20250912170000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Manchester Utd vs Grimsby - Coupe de la Ligue Anglaise</title></programme>
+<programme start="20250912170000 +0000" stop="20250912190000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Real Madrid vs Majorque - Liga</title></programme>
+<programme start="20250912190000 +0000" stop="20250912193000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Ep 4 Inside Fra - This is Paris</title></programme>
+<programme start="20250912193000 +0000" stop="20250912220000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Blue Jays Yankees - MLB</title></programme>
+<programme start="20250912220000 +0000" stop="20250913010000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Astros Blue Jays - MLB</title></programme>
+<programme start="20250913010000 +0000" stop="20250913030000 +0000" channel="beIN SPORTS1 FRENCH Digital.qa"><title>Le Mans vs Reims - Ligue 2</title></programme>
+<programme start="20250911013000 +0000" stop="20250911020000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Brighton and Hove Albion vs Manchester City - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250911020000 +0000" stop="20250911023000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Liverpool vs Arsenal - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250911023000 +0000" stop="20250911030000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Manchester United vs Burnley - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250911030000 +0000" stop="20250911033000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Chelsea vs Fulham - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250911033000 +0000" stop="20250911053000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Serbia vs England - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911053000 +0000" stop="20250911073000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Azerbaidjan vs Ukraine - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911073000 +0000" stop="20250911080000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>EPL Stories 2025/2026</title></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Lithuania vs Netherlands - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Germany vs Northern Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Liverpool vs Arsenal - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Manchester United vs Burnley - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250911130000 +0000" stop="20250911150000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Azerbaidjan vs Ukraine - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911150000 +0000" stop="20250911170000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Serbia vs England - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911170000 +0000" stop="20250911173000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>EPL Stories 2025/2026</title></programme>
+<programme start="20250911173000 +0000" stop="20250911193000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Georgia vs Bulgaria - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911193000 +0000" stop="20250911213000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Lithuania vs Netherlands - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911213000 +0000" stop="20250911233000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Azerbaidjan vs Ukraine - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>EPL Stories 2025/2026</title></programme>
+<programme start="20250912013000 +0000" stop="20250912020000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Brighton and Hove Albion vs Manchester City - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250912020000 +0000" stop="20250912023000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Liverpool vs Arsenal - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250912023000 +0000" stop="20250912030000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Manchester United vs Burnley - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250912030000 +0000" stop="20250912033000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Chelsea vs Fulham - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250912033000 +0000" stop="20250912053000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Serbia vs England - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912053000 +0000" stop="20250912073000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Azerbaidjan vs Ukraine - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912073000 +0000" stop="20250912080000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>EPL Stories 2025/2026</title></programme>
+<programme start="20250912080000 +0000" stop="20250912100000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Lithuania vs Netherlands - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Germany vs Northern Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912120000 +0000" stop="20250912123000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Liverpool vs Arsenal - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250912123000 +0000" stop="20250912130000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Manchester United vs Burnley - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250912130000 +0000" stop="20250912150000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Azerbaidjan vs Ukraine - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912150000 +0000" stop="20250912170000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Serbia vs England - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>EPL Stories 2025/2026</title></programme>
+<programme start="20250912173000 +0000" stop="20250912193000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Georgia vs Bulgaria - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912193000 +0000" stop="20250912213000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Lithuania vs Netherlands - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912213000 +0000" stop="20250912233000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Azerbaidjan vs Ukraine - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>EPL Stories 2025/2026</title></programme>
+<programme start="20250913013000 +0000" stop="20250913020000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Brighton and Hove Albion vs Manchester City - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250913020000 +0000" stop="20250913023000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Liverpool vs Arsenal - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250913023000 +0000" stop="20250913030000 +0000" channel="beIN SPORTS2 DIGITAL.qa"><title>Manchester United vs Burnley - English Premier League 2025/2026 Week 3</title></programme>
+<programme start="20250911013000 +0000" stop="20250911030000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M2 - Men</title></programme>
+<programme start="20250911030000 +0000" stop="20250911043000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M3 - Men</title></programme>
+<programme start="20250911043000 +0000" stop="20250911060000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M4 - Women</title></programme>
+<programme start="20250911060000 +0000" stop="20250911073000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M5 - Men</title></programme>
+<programme start="20250911073000 +0000" stop="20250911083000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>Giannis Antetokounmpo Best of the 2024 - 25 Regular Season</title></programme>
+<programme start="20250911083000 +0000" stop="20250911100000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M1 - Women</title></programme>
+<programme start="20250911100000 +0000" stop="20250911113000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M2 - Men</title></programme>
+<programme start="20250911113000 +0000" stop="20250911120000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>The Sports Rundown 2025</title></programme>
+<programme start="20250911120000 +0000" stop="20250911133000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M1 - Men</title></programme>
+<programme start="20250911133000 +0000" stop="20250911150000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M2 - Men</title></programme>
+<programme start="20250911150000 +0000" stop="20250911163000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M3 - Women</title></programme>
+<programme start="20250911163000 +0000" stop="20250911183000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>Katerina Siniakova / Taylor Townsend vs Gabriela Dabrowski / Erin Routliffe - Womens Doubles Final</title></programme>
+<programme start="20250911183000 +0000" stop="20250911190000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>ATP Tour this week 2025</title></programme>
+<programme start="20250911190000 +0000" stop="20250911203000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M4 - Women</title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>Gran Turismo World Series 2025 - London</title></programme>
+<programme start="20250911210000 +0000" stop="20250911223000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M5 - Men</title></programme>
+<programme start="20250911223000 +0000" stop="20250911233000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>FIM Superbike World Championship 2025 - France</title></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>Gearing Up 2025</title></programme>
+<programme start="20250912013000 +0000" stop="20250912030000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M2 - Men</title></programme>
+<programme start="20250912030000 +0000" stop="20250912043000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M3 - Men</title></programme>
+<programme start="20250912043000 +0000" stop="20250912060000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M4 - Women</title></programme>
+<programme start="20250912060000 +0000" stop="20250912073000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M5 - Men</title></programme>
+<programme start="20250912073000 +0000" stop="20250912083000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>Giannis Antetokounmpo Best of the 2024 - 25 Regular Season</title></programme>
+<programme start="20250912083000 +0000" stop="20250912100000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M1 - Women</title></programme>
+<programme start="20250912100000 +0000" stop="20250912113000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M2 - Men</title></programme>
+<programme start="20250912113000 +0000" stop="20250912120000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>The Sports Rundown 2025</title></programme>
+<programme start="20250912120000 +0000" stop="20250912133000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M1 - Men</title></programme>
+<programme start="20250912133000 +0000" stop="20250912150000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M2 - Men</title></programme>
+<programme start="20250912150000 +0000" stop="20250912163000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M3 - Women</title></programme>
+<programme start="20250912163000 +0000" stop="20250912183000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>Katerina Siniakova / Taylor Townsend vs Gabriela Dabrowski / Erin Routliffe - Womens Doubles Final</title></programme>
+<programme start="20250912183000 +0000" stop="20250912190000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>ATP Tour this week 2025</title></programme>
+<programme start="20250912190000 +0000" stop="20250912203000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M4 - Women</title></programme>
+<programme start="20250912203000 +0000" stop="20250912210000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>Gran Turismo World Series 2025 - London</title></programme>
+<programme start="20250912210000 +0000" stop="20250912223000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M5 - Men</title></programme>
+<programme start="20250912223000 +0000" stop="20250912233000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>FIM Superbike World Championship 2025 - France</title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>Gearing Up 2025</title></programme>
+<programme start="20250913013000 +0000" stop="20250913030000 +0000" channel="beIN SPORTS2 ENGLISH Digital.qa"><title>M2 - Men</title></programme>
+<programme start="20250911030000 +0000" stop="20250911050000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Bastia vs Guingamp - Ligue 2</title></programme>
+<programme start="20250911050000 +0000" stop="20250911070000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>PSG vs Tottenham - Supercoupe</title></programme>
+<programme start="20250911070000 +0000" stop="20250911083000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>J01 Paris USL Dunkerque - Championnat De France Masculin</title></programme>
+<programme start="20250911083000 +0000" stop="20250911103000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Real Madrid vs Majorque - Liga</title></programme>
+<programme start="20250911103000 +0000" stop="20250911110000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Ep 4 Inside Fra - This is Paris</title></programme>
+<programme start="20250911110000 +0000" stop="20250911130000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Bastia vs Guingamp - Ligue 2</title></programme>
+<programme start="20250911130000 +0000" stop="20250911150000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Toulouse vs PSG - Ligue 1</title></programme>
+<programme start="20250911150000 +0000" stop="20250911170000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Maroc vs Madagascar - Championnat dAfrique des nations</title></programme>
+<programme start="20250911170000 +0000" stop="20250911190000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Lorient vs Lille - Ligue 1</title></programme>
+<programme start="20250911190000 +0000" stop="20250911213000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>West Ham vs Wolverhampton - Coupe de la Ligue Anglaise</title></programme>
+<programme start="20250911213000 +0000" stop="20250911230000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Doc Novak Djokovic "le Reve Dune Vie" - Tennis</title></programme>
+<programme start="20250911230000 +0000" stop="20250912010000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Lorient vs Lille - Ligue 1</title></programme>
+<programme start="20250912030000 +0000" stop="20250912050000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Bastia vs Guingamp - Ligue 2</title></programme>
+<programme start="20250912050000 +0000" stop="20250912070000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>PSG vs Tottenham - Supercoupe</title></programme>
+<programme start="20250912070000 +0000" stop="20250912083000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>J01 Paris USL Dunkerque - Championnat De France Masculin</title></programme>
+<programme start="20250912083000 +0000" stop="20250912103000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Real Madrid vs Majorque - Liga</title></programme>
+<programme start="20250912103000 +0000" stop="20250912110000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Ep 4 Inside Fra - This is Paris</title></programme>
+<programme start="20250912110000 +0000" stop="20250912130000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Bastia vs Guingamp - Ligue 2</title></programme>
+<programme start="20250912130000 +0000" stop="20250912150000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Toulouse vs PSG - Ligue 1</title></programme>
+<programme start="20250912150000 +0000" stop="20250912170000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Maroc vs Madagascar - Championnat dAfrique des nations</title></programme>
+<programme start="20250912170000 +0000" stop="20250912190000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Lorient vs Lille - Ligue 1</title></programme>
+<programme start="20250912190000 +0000" stop="20250912213000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>West Ham vs Wolverhampton - Coupe de la Ligue Anglaise</title></programme>
+<programme start="20250912213000 +0000" stop="20250912230000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Doc Novak Djokovic "le Reve Dune Vie" - Tennis</title></programme>
+<programme start="20250912230000 +0000" stop="20250913010000 +0000" channel="beIN SPORTS2 FRENCH Digital.qa"><title>Lorient vs Lille - Ligue 1</title></programme>
+<programme start="20250911015000 +0000" stop="20250911033500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Rayo Vallecano vs Barcelona - Spanish LaLiga 2025/26</title></programme>
+<programme start="20250911033500 +0000" stop="20250911040000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Real Oviedo vs Real Madrid - Spanish LaLiga 2025/26</title></programme>
+<programme start="20250911040000 +0000" stop="20250911043000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>La Liga Highlights 2025/2026</title></programme>
+<programme start="20250911043000 +0000" stop="20250911061500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Slovakia vs Germany - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911061500 +0000" stop="20250911080000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Poland vs Finland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911080000 +0000" stop="20250911095000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Real Oviedo vs Real Sociedad - Spanish LaLiga 2025/26</title></programme>
+<programme start="20250911095000 +0000" stop="20250911114500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Real Betis vs Athletic Club - Spanish LaLiga 2025/26</title></programme>
+<programme start="20250911114500 +0000" stop="20250911133000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Armenia vs Rep Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911133000 +0000" stop="20250911151500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Hungary vs Portugal - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911151500 +0000" stop="20250911170000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Slovakia vs Germany - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911170000 +0000" stop="20250911184500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Poland vs Finland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911184500 +0000" stop="20250911203000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>North Macedonia vs Liechtenstein - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911203000 +0000" stop="20250911221500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Turkey vs spain - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911221500 +0000" stop="20250912000000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Luxemburg vs Slovakia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912015000 +0000" stop="20250912033500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Rayo Vallecano vs Barcelona - Spanish LaLiga 2025/26</title></programme>
+<programme start="20250912033500 +0000" stop="20250912040000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Real Oviedo vs Real Madrid - Spanish LaLiga 2025/26</title></programme>
+<programme start="20250912040000 +0000" stop="20250912043000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>La Liga Highlights 2025/2026</title></programme>
+<programme start="20250912043000 +0000" stop="20250912061500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Slovakia vs Germany - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912061500 +0000" stop="20250912080000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Poland vs Finland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912080000 +0000" stop="20250912095000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Real Oviedo vs Real Sociedad - Spanish LaLiga 2025/26</title></programme>
+<programme start="20250912095000 +0000" stop="20250912114500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Real Betis vs Athletic Club - Spanish LaLiga 2025/26</title></programme>
+<programme start="20250912114500 +0000" stop="20250912133000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Armenia vs Rep Ireland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912133000 +0000" stop="20250912151500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Hungary vs Portugal - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912151500 +0000" stop="20250912170000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Slovakia vs Germany - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912170000 +0000" stop="20250912184500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Poland vs Finland - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912184500 +0000" stop="20250912203000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>North Macedonia vs Liechtenstein - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912203000 +0000" stop="20250912221500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Turkey vs spain - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912221500 +0000" stop="20250913000000 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Luxemburg vs Slovakia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250913015000 +0000" stop="20250913033500 +0000" channel="beIN SPORTS3 DIGITAL.qa"><title>Rayo Vallecano vs Barcelona - Spanish LaLiga 2025/26</title></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Lens vs Brest - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250911040000 +0000" stop="20250911060000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Greece vs Denmark - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Norway vs Moldova - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911080000 +0000" stop="20250911101500 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Luxemburg vs Slovakia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911101500 +0000" stop="20250911123000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Toulouse vs PSG - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250911123000 +0000" stop="20250911143000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Le Havre vs Nice - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250911143000 +0000" stop="20250911163000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Greece vs Denmark - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911163000 +0000" stop="20250911183000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Norway vs Moldova - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911183000 +0000" stop="20250911203000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Luxemburg vs Slovakia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>PSG Champions of UEFA Super Cup 2025</title></programme>
+<programme start="20250911210000 +0000" stop="20250911230000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Paris FC vs Metz - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250911230000 +0000" stop="20250911233000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Toulouse vs PSG - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Olympique Lyonnais vs Olympique Marseille - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Lens vs Brest - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Greece vs Denmark - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Norway vs Moldova - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912080000 +0000" stop="20250912101500 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Luxemburg vs Slovakia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912101500 +0000" stop="20250912123000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Toulouse vs PSG - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250912123000 +0000" stop="20250912143000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Le Havre vs Nice - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250912143000 +0000" stop="20250912163000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Greece vs Denmark - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912163000 +0000" stop="20250912183000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Norway vs Moldova - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912183000 +0000" stop="20250912203000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Luxemburg vs Slovakia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912203000 +0000" stop="20250912210000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>PSG Champions of UEFA Super Cup 2025</title></programme>
+<programme start="20250912210000 +0000" stop="20250912230000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Paris FC vs Metz - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Toulouse vs PSG - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Olympique Lyonnais vs Olympique Marseille - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="beIN SPORTS4 DIGITAL.qa"><title>Lens vs Brest - French Ligue 1 2025/2026 Week 3</title></programme>
+<programme start="20250911003000 +0000" stop="20250911031500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Taawoun (KSA) vs Al Wakrah (QAT) - AFC Champions League Two</title></programme>
+<programme start="20250911031500 +0000" stop="20250911051500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Shabab Al Ahli (UAE) vs Al Wehdat (JOR) - AFC Champions League Two</title></programme>
+<programme start="20250911051500 +0000" stop="20250911054500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Ahly vs Al Rayyan - Mini Match</title></programme>
+<programme start="20250911054500 +0000" stop="20250911073000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Cyprus vs Romania - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911073000 +0000" stop="20250911091500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Belgium vs Kazakhstan - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911091500 +0000" stop="20250911094500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Sadd vs Al Wasl - Mini Match</title></programme>
+<programme start="20250911094500 +0000" stop="20250911114500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Kawasaki Frontale (JPN) vs Shanghai Shenhua FC (CHN) - AFC Champions League Elite 2024/25</title></programme>
+<programme start="20250911114500 +0000" stop="20250911143000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Gwangju (KOR) vs Vissel Kobe (JPN) - AFC Champions League Elite 2024/25</title></programme>
+<programme start="20250911143000 +0000" stop="20250911150000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Ahly vs Al Rayyan - Mini Match</title></programme>
+<programme start="20250911150000 +0000" stop="20250911170000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Jeonbuk Motors FC (KOR) vs Port FC (THA) - AFC Champions League Two</title></programme>
+<programme start="20250911170000 +0000" stop="20250911184500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Lion City Sailors FC (SGP) vs Muangthong United (THA) - AFC Champions League Two</title></programme>
+<programme start="20250911184500 +0000" stop="20250911191500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Sadd vs Al Wasl - Mini Match</title></programme>
+<programme start="20250911191500 +0000" stop="20250911210000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Switzerland vs Slovenia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911210000 +0000" stop="20250911230000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Cyprus vs Romania - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911230000 +0000" stop="20250911233000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Ahly vs Al Rayyan - Mini Match</title></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Jordan Road to FIFA World Cup 2026</title></programme>
+<programme start="20250912003000 +0000" stop="20250912031500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Taawoun (KSA) vs Al Wakrah (QAT) - AFC Champions League Two</title></programme>
+<programme start="20250912031500 +0000" stop="20250912051500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Shabab Al Ahli (UAE) vs Al Wehdat (JOR) - AFC Champions League Two</title></programme>
+<programme start="20250912051500 +0000" stop="20250912054500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Ahly vs Al Rayyan - Mini Match</title></programme>
+<programme start="20250912054500 +0000" stop="20250912073000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Cyprus vs Romania - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912073000 +0000" stop="20250912091500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Belgium vs Kazakhstan - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912091500 +0000" stop="20250912094500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Sadd vs Al Wasl - Mini Match</title></programme>
+<programme start="20250912094500 +0000" stop="20250912114500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Kawasaki Frontale (JPN) vs Shanghai Shenhua FC (CHN) - AFC Champions League Elite 2024/25</title></programme>
+<programme start="20250912114500 +0000" stop="20250912143000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Gwangju (KOR) vs Vissel Kobe (JPN) - AFC Champions League Elite 2024/25</title></programme>
+<programme start="20250912143000 +0000" stop="20250912150000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Ahly vs Al Rayyan - Mini Match</title></programme>
+<programme start="20250912150000 +0000" stop="20250912170000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Jeonbuk Motors FC (KOR) vs Port FC (THA) - AFC Champions League Two</title></programme>
+<programme start="20250912170000 +0000" stop="20250912184500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Lion City Sailors FC (SGP) vs Muangthong United (THA) - AFC Champions League Two</title></programme>
+<programme start="20250912184500 +0000" stop="20250912191500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Sadd vs Al Wasl - Mini Match</title></programme>
+<programme start="20250912191500 +0000" stop="20250912210000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Switzerland vs Slovenia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912210000 +0000" stop="20250912230000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Cyprus vs Romania - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Ahly vs Al Rayyan - Mini Match</title></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Jordan Road to FIFA World Cup 2026</title></programme>
+<programme start="20250913003000 +0000" stop="20250913031500 +0000" channel="beIN SPORTS5 DIGITAL.qa"><title>Al Taawoun (KSA) vs Al Wakrah (QAT) - AFC Champions League Two</title></programme>
+<programme start="20250911003000 +0000" stop="20250911013000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Qualifying - Catalonia GP</title></programme>
+<programme start="20250911013000 +0000" stop="20250911021500 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Sprint Race - Catalonia GP</title></programme>
+<programme start="20250911021500 +0000" stop="20250911033000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Main Race - Catalonia GP</title></programme>
+<programme start="20250911033000 +0000" stop="20250911043000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>More than a Match - Derby Of Tunis</title></programme>
+<programme start="20250911043000 +0000" stop="20250911061500 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Bosnia vs Austria - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911061500 +0000" stop="20250911080000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Kosovo vs Sweden - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911080000 +0000" stop="20250911083000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>African Nations Championship - CHAN 2024 Goals</title></programme>
+<programme start="20250911083000 +0000" stop="20250911113000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Gemma TRIAY PONS ESP Delfina BREA SENESI ARG vs Claudia FERNANDEZ SANCHEZ ESP Beatriz GONZALEZ FERNA</title></programme>
+<programme start="20250911113000 +0000" stop="20250911141500 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Arturo COELLO ESP Agustin TAPIA ARG vs Martin DI NENNO ARG Leandro ROMAN AUGSBURGUER ARG - Men’s Fin</title></programme>
+<programme start="20250911141500 +0000" stop="20250911160000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Canada vs USA - 3rd Place</title></programme>
+<programme start="20250911160000 +0000" stop="20250911180000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Argentina vs Brazil - Final</title></programme>
+<programme start="20250911180000 +0000" stop="20250911190000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>More than a Match - Derby Of Tunis</title></programme>
+<programme start="20250911190000 +0000" stop="20250911204500 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Bosnia vs Austria - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911204500 +0000" stop="20250911223000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Kosovo vs Sweden - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911223000 +0000" stop="20250911231500 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Qualifying - Catalonia GP</title></programme>
+<programme start="20250911231500 +0000" stop="20250912000000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Sprint Race - Catalonia GP</title></programme>
+<programme start="20250912003000 +0000" stop="20250912013000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Qualifying - Catalonia GP</title></programme>
+<programme start="20250912013000 +0000" stop="20250912021500 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Sprint Race - Catalonia GP</title></programme>
+<programme start="20250912021500 +0000" stop="20250912033000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Main Race - Catalonia GP</title></programme>
+<programme start="20250912033000 +0000" stop="20250912043000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>More than a Match - Derby Of Tunis</title></programme>
+<programme start="20250912043000 +0000" stop="20250912061500 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Bosnia vs Austria - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912061500 +0000" stop="20250912080000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Kosovo vs Sweden - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912080000 +0000" stop="20250912083000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>African Nations Championship - CHAN 2024 Goals</title></programme>
+<programme start="20250912083000 +0000" stop="20250912113000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Gemma TRIAY PONS ESP Delfina BREA SENESI ARG vs Claudia FERNANDEZ SANCHEZ ESP Beatriz GONZALEZ FERNA</title></programme>
+<programme start="20250912113000 +0000" stop="20250912141500 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Arturo COELLO ESP Agustin TAPIA ARG vs Martin DI NENNO ARG Leandro ROMAN AUGSBURGUER ARG - Men’s Fin</title></programme>
+<programme start="20250912141500 +0000" stop="20250912160000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Canada vs USA - 3rd Place</title></programme>
+<programme start="20250912160000 +0000" stop="20250912180000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Argentina vs Brazil - Final</title></programme>
+<programme start="20250912180000 +0000" stop="20250912190000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>More than a Match - Derby Of Tunis</title></programme>
+<programme start="20250912190000 +0000" stop="20250912204500 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Bosnia vs Austria - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912204500 +0000" stop="20250912223000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Kosovo vs Sweden - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912223000 +0000" stop="20250912231500 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Qualifying - Catalonia GP</title></programme>
+<programme start="20250912231500 +0000" stop="20250913000000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Sprint Race - Catalonia GP</title></programme>
+<programme start="20250913003000 +0000" stop="20250913013000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Qualifying - Catalonia GP</title></programme>
+<programme start="20250913013000 +0000" stop="20250913021500 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Sprint Race - Catalonia GP</title></programme>
+<programme start="20250913021500 +0000" stop="20250913033000 +0000" channel="beIN SPORTS66 DIGITAL -01.qa"><title>Main Race - Catalonia GP</title></programme>
+<programme start="20250911001500 +0000" stop="20250911020000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Albania vs Latvia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911020000 +0000" stop="20250911034500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Gibraltar vs Faroe islands - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911034500 +0000" stop="20250911041500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Jannik Sinner vs Carlos Alcaraz - Men’s Singles Final</title></programme>
+<programme start="20250911041500 +0000" stop="20250911061500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>SuperTri Chicago - Super Tri</title></programme>
+<programme start="20250911061500 +0000" stop="20250911074500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Novak Djokovic - The dream of a lifetime</title></programme>
+<programme start="20250911074500 +0000" stop="20250911094500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Aryna Sabalenka vs Amanda Anisimova - Women’s Singles Final</title></programme>
+<programme start="20250911094500 +0000" stop="20250911130000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Jannik Sinner vs Carlos Alcaraz - Men’s Singles Final</title></programme>
+<programme start="20250911130000 +0000" stop="20250911133000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Aryna Sabalenka vs Amanda Anisimova - Women’s Singles Final</title></programme>
+<programme start="20250911133000 +0000" stop="20250911151500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Albania vs Latvia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911151500 +0000" stop="20250911170000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Gibraltar vs Faroe islands - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911170000 +0000" stop="20250911190000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>SuperTri Chicago - Super Tri</title></programme>
+<programme start="20250911190000 +0000" stop="20250911193000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Jannik Sinner vs Carlos Alcaraz - Men’s Singles Final</title></programme>
+<programme start="20250911193000 +0000" stop="20250911213000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Aryna Sabalenka vs Amanda Anisimova - Women’s Singles Final</title></programme>
+<programme start="20250911213000 +0000" stop="20250911220000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Inspiration and Legacy: Billie Jean King’s Story</title></programme>
+<programme start="20250911220000 +0000" stop="20250911223000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Marcel Granollers / Horacio Zeballos vs Joe Salisbury / Neal Skupski - Men’s Doubles Final</title></programme>
+<programme start="20250911223000 +0000" stop="20250911230000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Aryna Sabalenka vs Amanda Anisimova - Women’s Singles Final</title></programme>
+<programme start="20250911230000 +0000" stop="20250912000000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>DTM Show 2025 - Sachsenring</title></programme>
+<programme start="20250912001500 +0000" stop="20250912020000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Albania vs Latvia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912020000 +0000" stop="20250912034500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Gibraltar vs Faroe islands - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912034500 +0000" stop="20250912041500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Jannik Sinner vs Carlos Alcaraz - Men’s Singles Final</title></programme>
+<programme start="20250912041500 +0000" stop="20250912061500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>SuperTri Chicago - Super Tri</title></programme>
+<programme start="20250912061500 +0000" stop="20250912074500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Novak Djokovic - The dream of a lifetime</title></programme>
+<programme start="20250912074500 +0000" stop="20250912094500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Aryna Sabalenka vs Amanda Anisimova - Women’s Singles Final</title></programme>
+<programme start="20250912094500 +0000" stop="20250912130000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Jannik Sinner vs Carlos Alcaraz - Men’s Singles Final</title></programme>
+<programme start="20250912130000 +0000" stop="20250912133000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Aryna Sabalenka vs Amanda Anisimova - Women’s Singles Final</title></programme>
+<programme start="20250912133000 +0000" stop="20250912151500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Albania vs Latvia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912151500 +0000" stop="20250912170000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Gibraltar vs Faroe islands - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250912170000 +0000" stop="20250912190000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>SuperTri Chicago - Super Tri</title></programme>
+<programme start="20250912190000 +0000" stop="20250912193000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Jannik Sinner vs Carlos Alcaraz - Men’s Singles Final</title></programme>
+<programme start="20250912193000 +0000" stop="20250912213000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Aryna Sabalenka vs Amanda Anisimova - Women’s Singles Final</title></programme>
+<programme start="20250912213000 +0000" stop="20250912220000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Inspiration and Legacy: Billie Jean King’s Story</title></programme>
+<programme start="20250912220000 +0000" stop="20250912223000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Marcel Granollers / Horacio Zeballos vs Joe Salisbury / Neal Skupski - Men’s Doubles Final</title></programme>
+<programme start="20250912223000 +0000" stop="20250912230000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Aryna Sabalenka vs Amanda Anisimova - Women’s Singles Final</title></programme>
+<programme start="20250912230000 +0000" stop="20250913000000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>DTM Show 2025 - Sachsenring</title></programme>
+<programme start="20250913001500 +0000" stop="20250913020000 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Albania vs Latvia - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250913020000 +0000" stop="20250913034500 +0000" channel="beIN SPORTS7 DIGITAL.qa"><title>Gibraltar vs Faroe islands - UEFA European Qualifiers World Cup 2026</title></programme>
+<programme start="20250911010000 +0000" stop="20250911020000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911020000 +0000" stop="20250911030000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911030000 +0000" stop="20250911040000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911040000 +0000" stop="20250911050000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911060000 +0000" stop="20250911070000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911070000 +0000" stop="20250911080000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911080000 +0000" stop="20250911090000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911090000 +0000" stop="20250911100000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911100000 +0000" stop="20250911110000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911110000 +0000" stop="20250911120000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911120000 +0000" stop="20250911130000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911130000 +0000" stop="20250911140000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911140000 +0000" stop="20250911150000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911150000 +0000" stop="20250911160000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911160000 +0000" stop="20250911170000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911170000 +0000" stop="20250911180000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911180000 +0000" stop="20250911190000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911190000 +0000" stop="20250911200000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911200000 +0000" stop="20250911210000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911210000 +0000" stop="20250911220000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911220000 +0000" stop="20250911230000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911230000 +0000" stop="20250912000000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912010000 +0000" stop="20250912020000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912020000 +0000" stop="20250912030000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912030000 +0000" stop="20250912040000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912040000 +0000" stop="20250912050000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912060000 +0000" stop="20250912070000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912070000 +0000" stop="20250912080000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912080000 +0000" stop="20250912090000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912090000 +0000" stop="20250912100000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912100000 +0000" stop="20250912110000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912110000 +0000" stop="20250912120000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912120000 +0000" stop="20250912130000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912130000 +0000" stop="20250912140000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912140000 +0000" stop="20250912150000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912150000 +0000" stop="20250912160000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912160000 +0000" stop="20250912170000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912170000 +0000" stop="20250912180000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912180000 +0000" stop="20250912190000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912190000 +0000" stop="20250912200000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912200000 +0000" stop="20250912210000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912210000 +0000" stop="20250912220000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912220000 +0000" stop="20250912230000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250912230000 +0000" stop="20250913000000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250913010000 +0000" stop="20250913020000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250913020000 +0000" stop="20250913030000 +0000" channel="bein.com-08.qa"><title>beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events - Sep</title></programme>
+<programme start="20250911004500 +0000" stop="20250911015700 +0000" channel="beINSPORTS8.qa"><title>Letizia Maria MANQUILLO ALARZA ESP Laura LUJAN RODRIGUEZ ESP vs Marta ORTEGA GALLEGO ESP Tamara ICAR</title></programme>
+<programme start="20250911015700 +0000" stop="20250911031200 +0000" channel="beINSPORTS8.qa"><title>Arturo COELLO ESP Agustin TAPIA ARG vs Luciano CAPRA ARG Aimar GOÑI LACABE ESP - Men</title></programme>
+<programme start="20250911031200 +0000" stop="20250911041300 +0000" channel="beINSPORTS8.qa"><title>Flavio ABBATE ITA Manuel CASTAÑO SALGUERO ESP vs Franco STUPACZUK ARG Juan LEBRON ESP - Men</title></programme>
+<programme start="20250911041300 +0000" stop="20250911055700 +0000" channel="beINSPORTS8.qa"><title>Miguel DEUS POR Nuno DEUS POR vs Alejandro GALAN ESP Federico CHINGOTTO ARG - Men</title></programme>
+<programme start="20250911055700 +0000" stop="20250911072500 +0000" channel="beINSPORTS8.qa"><title>Alix COLLOMBON FRA Araceli MARTINEZ ESP vs Aida MARTINEZ SANJUAN ESP Ana DOMINGUEZ GRACIA ESP - Wome</title></programme>
+<programme start="20250911072500 +0000" stop="20250911091800 +0000" channel="beINSPORTS8.qa"><title>Gutierrez (ARG) / Alfonso (ARG) vs Di Nenno (ARG) / Augsburger (ARG) - Men</title></programme>
+<programme start="20250911091800 +0000" stop="20250911103000 +0000" channel="beINSPORTS8.qa"><title>Letizia Maria MANQUILLO ALARZA ESP Laura LUJAN RODRIGUEZ ESP vs Marta ORTEGA GALLEGO ESP Tamara ICAR</title></programme>
+<programme start="20250911103000 +0000" stop="20250911120000 +0000" channel="beINSPORTS8.qa"><title>Arturo COELLO ESP Agustin TAPIA ARG vs Luciano CAPRA ARG Aimar GOÑI LACABE ESP - Men</title></programme>
+<programme start="20250911120000 +0000" stop="20250911133000 +0000" channel="beINSPORTS8.qa"><title>M1 - Men</title></programme>
+<programme start="20250911133000 +0000" stop="20250911150000 +0000" channel="beINSPORTS8.qa"><title>M2 - Men</title></programme>
+<programme start="20250911150000 +0000" stop="20250911163000 +0000" channel="beINSPORTS8.qa"><title>M3 - Women</title></programme>
+<programme start="20250911163000 +0000" stop="20250911170000 +0000" channel="beINSPORTS8.qa"><title>Inspiration and Legacy: Billie Jean King’s Story</title></programme>
+<programme start="20250911170000 +0000" stop="20250911183000 +0000" channel="beINSPORTS8.qa"><title>Alix COLLOMBON FRA Araceli MARTINEZ ESP vs Aida MARTINEZ SANJUAN ESP Ana DOMINGUEZ GRACIA ESP - Wome</title></programme>
+<programme start="20250911183000 +0000" stop="20250911190000 +0000" channel="beINSPORTS8.qa"><title>ATP Tour - Magazine 2025</title></programme>
+<programme start="20250911190000 +0000" stop="20250911210000 +0000" channel="beINSPORTS8.qa"><title>M4 - Women</title></programme>
+<programme start="20250911210000 +0000" stop="20250911223000 +0000" channel="beINSPORTS8.qa"><title>M5 - Men</title></programme>
+<programme start="20250911223000 +0000" stop="20250912000000 +0000" channel="beINSPORTS8.qa"><title>M1 - Men</title></programme>
+<programme start="20250912004500 +0000" stop="20250912015700 +0000" channel="beINSPORTS8.qa"><title>Letizia Maria MANQUILLO ALARZA ESP Laura LUJAN RODRIGUEZ ESP vs Marta ORTEGA GALLEGO ESP Tamara ICAR</title></programme>
+<programme start="20250912015700 +0000" stop="20250912031200 +0000" channel="beINSPORTS8.qa"><title>Arturo COELLO ESP Agustin TAPIA ARG vs Luciano CAPRA ARG Aimar GOÑI LACABE ESP - Men</title></programme>
+<programme start="20250912031200 +0000" stop="20250912041300 +0000" channel="beINSPORTS8.qa"><title>Flavio ABBATE ITA Manuel CASTAÑO SALGUERO ESP vs Franco STUPACZUK ARG Juan LEBRON ESP - Men</title></programme>
+<programme start="20250912041300 +0000" stop="20250912055700 +0000" channel="beINSPORTS8.qa"><title>Miguel DEUS POR Nuno DEUS POR vs Alejandro GALAN ESP Federico CHINGOTTO ARG - Men</title></programme>
+<programme start="20250912055700 +0000" stop="20250912072500 +0000" channel="beINSPORTS8.qa"><title>Alix COLLOMBON FRA Araceli MARTINEZ ESP vs Aida MARTINEZ SANJUAN ESP Ana DOMINGUEZ GRACIA ESP - Wome</title></programme>
+<programme start="20250912072500 +0000" stop="20250912091800 +0000" channel="beINSPORTS8.qa"><title>Gutierrez (ARG) / Alfonso (ARG) vs Di Nenno (ARG) / Augsburger (ARG) - Men</title></programme>
+<programme start="20250912091800 +0000" stop="20250912103000 +0000" channel="beINSPORTS8.qa"><title>Letizia Maria MANQUILLO ALARZA ESP Laura LUJAN RODRIGUEZ ESP vs Marta ORTEGA GALLEGO ESP Tamara ICAR</title></programme>
+<programme start="20250912103000 +0000" stop="20250912120000 +0000" channel="beINSPORTS8.qa"><title>Arturo COELLO ESP Agustin TAPIA ARG vs Luciano CAPRA ARG Aimar GOÑI LACABE ESP - Men</title></programme>
+<programme start="20250912120000 +0000" stop="20250912133000 +0000" channel="beINSPORTS8.qa"><title>M1 - Men</title></programme>
+<programme start="20250912133000 +0000" stop="20250912150000 +0000" channel="beINSPORTS8.qa"><title>M2 - Men</title></programme>
+<programme start="20250912150000 +0000" stop="20250912163000 +0000" channel="beINSPORTS8.qa"><title>M3 - Women</title></programme>
+<programme start="20250912163000 +0000" stop="20250912170000 +0000" channel="beINSPORTS8.qa"><title>Inspiration and Legacy: Billie Jean King’s Story</title></programme>
+<programme start="20250912170000 +0000" stop="20250912183000 +0000" channel="beINSPORTS8.qa"><title>Alix COLLOMBON FRA Araceli MARTINEZ ESP vs Aida MARTINEZ SANJUAN ESP Ana DOMINGUEZ GRACIA ESP - Wome</title></programme>
+<programme start="20250912183000 +0000" stop="20250912190000 +0000" channel="beINSPORTS8.qa"><title>ATP Tour - Magazine 2025</title></programme>
+<programme start="20250912190000 +0000" stop="20250912210000 +0000" channel="beINSPORTS8.qa"><title>M4 - Women</title></programme>
+<programme start="20250912210000 +0000" stop="20250912223000 +0000" channel="beINSPORTS8.qa"><title>M5 - Men</title></programme>
+<programme start="20250912223000 +0000" stop="20250913000000 +0000" channel="beINSPORTS8.qa"><title>M1 - Men</title></programme>
+<programme start="20250913004500 +0000" stop="20250913015700 +0000" channel="beINSPORTS8.qa"><title>Letizia Maria MANQUILLO ALARZA ESP Laura LUJAN RODRIGUEZ ESP vs Marta ORTEGA GALLEGO ESP Tamara ICAR</title></programme>
+<programme start="20250913015700 +0000" stop="20250913031200 +0000" channel="beINSPORTS8.qa"><title>Arturo COELLO ESP Agustin TAPIA ARG vs Luciano CAPRA ARG Aimar GOÑI LACABE ESP - Men</title></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="beINSPORTS9.qa"><title>Germany vs Slovenia - QF 4</title></programme>
+<programme start="20250911040000 +0000" stop="20250911043000 +0000" channel="beINSPORTS9.qa"><title>My Faith in Sport</title></programme>
+<programme start="20250911043000 +0000" stop="20250911074500 +0000" channel="beINSPORTS9.qa"><title>Day 1 - World Athletics Relays 2025</title></programme>
+<programme start="20250911074500 +0000" stop="20250911105000 +0000" channel="beINSPORTS9.qa"><title>Day 2 - World Athletics Relays 2025</title></programme>
+<programme start="20250911105000 +0000" stop="20250911113000 +0000" channel="beINSPORTS9.qa"><title>Gold Standard Ep1</title></programme>
+<programme start="20250911113000 +0000" stop="20250911123000 +0000" channel="beINSPORTS9.qa"><title>Restored - Official Film Wimbledon 2005</title></programme>
+<programme start="20250911123000 +0000" stop="20250911143000 +0000" channel="beINSPORTS9.qa"><title>Finland vs Georgia - QF 3</title></programme>
+<programme start="20250911143000 +0000" stop="20250911161500 +0000" channel="beINSPORTS9.qa"><title>Germany vs Slovenia - QF 4</title></programme>
+<programme start="20250911161500 +0000" stop="20250911164300 +0000" channel="beINSPORTS9.qa"><title>My Faith in Sport</title></programme>
+<programme start="20250911164300 +0000" stop="20250911183000 +0000" channel="beINSPORTS9.qa"><title>Lithuania vs Greece - QF 2</title></programme>
+<programme start="20250911183000 +0000" stop="20250911190500 +0000" channel="beINSPORTS9.qa"><title>Gold Standard Ep1</title></programme>
+<programme start="20250911190500 +0000" stop="20250911205000 +0000" channel="beINSPORTS9.qa"><title>Finland vs Georgia - QF 3</title></programme>
+<programme start="20250911205000 +0000" stop="20250911223100 +0000" channel="beINSPORTS9.qa"><title>Germany vs Portugal - 2025 FIBA EuroBasket</title></programme>
+<programme start="20250911223100 +0000" stop="20250911230000 +0000" channel="beINSPORTS9.qa"><title>My Faith in Sport</title></programme>
+<programme start="20250911230000 +0000" stop="20250912000000 +0000" channel="beINSPORTS9.qa"><title>Gold Standard Ep5</title></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="beINSPORTS9.qa"><title>Germany vs Slovenia - QF 4</title></programme>
+<programme start="20250912040000 +0000" stop="20250912043000 +0000" channel="beINSPORTS9.qa"><title>My Faith in Sport</title></programme>
+<programme start="20250912043000 +0000" stop="20250912074500 +0000" channel="beINSPORTS9.qa"><title>Day 1 - World Athletics Relays 2025</title></programme>
+<programme start="20250912074500 +0000" stop="20250912105000 +0000" channel="beINSPORTS9.qa"><title>Day 2 - World Athletics Relays 2025</title></programme>
+<programme start="20250912105000 +0000" stop="20250912113000 +0000" channel="beINSPORTS9.qa"><title>Gold Standard Ep1</title></programme>
+<programme start="20250912113000 +0000" stop="20250912123000 +0000" channel="beINSPORTS9.qa"><title>Restored - Official Film Wimbledon 2005</title></programme>
+<programme start="20250912123000 +0000" stop="20250912143000 +0000" channel="beINSPORTS9.qa"><title>Finland vs Georgia - QF 3</title></programme>
+<programme start="20250912143000 +0000" stop="20250912161500 +0000" channel="beINSPORTS9.qa"><title>Germany vs Slovenia - QF 4</title></programme>
+<programme start="20250912161500 +0000" stop="20250912164300 +0000" channel="beINSPORTS9.qa"><title>My Faith in Sport</title></programme>
+<programme start="20250912164300 +0000" stop="20250912183000 +0000" channel="beINSPORTS9.qa"><title>Lithuania vs Greece - QF 2</title></programme>
+<programme start="20250912183000 +0000" stop="20250912190500 +0000" channel="beINSPORTS9.qa"><title>Gold Standard Ep1</title></programme>
+<programme start="20250912190500 +0000" stop="20250912205000 +0000" channel="beINSPORTS9.qa"><title>Finland vs Georgia - QF 3</title></programme>
+<programme start="20250912205000 +0000" stop="20250912223100 +0000" channel="beINSPORTS9.qa"><title>Germany vs Portugal - 2025 FIBA EuroBasket</title></programme>
+<programme start="20250912223100 +0000" stop="20250912230000 +0000" channel="beINSPORTS9.qa"><title>My Faith in Sport</title></programme>
+<programme start="20250912230000 +0000" stop="20250913000000 +0000" channel="beINSPORTS9.qa"><title>Gold Standard Ep5</title></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="beINSPORTS9.qa"><title>Germany vs Slovenia - QF 4</title></programme>
+<programme start="20250911053000 +0000" stop="20250911060000 +0000" channel="NBA DIGITAL.qa"><title>GOLMNIA</title></programme>
+<programme start="20250911060000 +0000" stop="20250911063000 +0000" channel="NBA DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250911063000 +0000" stop="20250911080000 +0000" channel="NBA DIGITAL.qa"><title>10th Asian Junior Handball Championship Bahrain vs. Iran</title></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="NBA DIGITAL.qa"><title>Panorama of the Founder Festival for Purebred Arabian Camels 2024</title></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="NBA DIGITAL.qa"><title>Iraq Derby Nowruz vs Duhok</title></programme>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="NBA DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="NBA DIGITAL.qa"><title>JARAYED.</title></programme>
+<programme start="20250911130000 +0000" stop="20250911143000 +0000" channel="NBA DIGITAL.qa"><title>The 23rd Arab Volleyball Championship Oman x Iraq</title></programme>
+<programme start="20250911143000 +0000" stop="20250911210000 +0000" channel="NBA DIGITAL.qa"><title>The 4th local Qatar Cup for producers of purebred Arabian horses</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="NBA DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250911213000 +0000" stop="20250911220000 +0000" channel="NBA DIGITAL.qa"><title>SPORT CONFIDENTIAL.</title></programme>
+<programme start="20250911220000 +0000" stop="20250911233000 +0000" channel="NBA DIGITAL.qa"><title>The 23rd Arab Volleyball Championship Kuwait x Qatar</title></programme>
+<programme start="20250911233000 +0000" stop="20250912030000 +0000" channel="NBA DIGITAL.qa"><title>TAWAASL</title></programme>
+<programme start="20250912053000 +0000" stop="20250912060000 +0000" channel="NBA DIGITAL.qa"><title>GOLMNIA</title></programme>
+<programme start="20250912060000 +0000" stop="20250912063000 +0000" channel="NBA DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250912063000 +0000" stop="20250912080000 +0000" channel="NBA DIGITAL.qa"><title>10th Asian Junior Handball Championship Bahrain vs. Iran</title></programme>
+<programme start="20250912080000 +0000" stop="20250912100000 +0000" channel="NBA DIGITAL.qa"><title>Panorama of the Founder Festival for Purebred Arabian Camels 2024</title></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="NBA DIGITAL.qa"><title>Iraq Derby Nowruz vs Duhok</title></programme>
+<programme start="20250912120000 +0000" stop="20250912123000 +0000" channel="NBA DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250912123000 +0000" stop="20250912130000 +0000" channel="NBA DIGITAL.qa"><title>JARAYED.</title></programme>
+<programme start="20250912130000 +0000" stop="20250912143000 +0000" channel="NBA DIGITAL.qa"><title>The 23rd Arab Volleyball Championship Oman x Iraq</title></programme>
+<programme start="20250912143000 +0000" stop="20250912210000 +0000" channel="NBA DIGITAL.qa"><title>The 4th local Qatar Cup for producers of purebred Arabian horses</title></programme>
+<programme start="20250912210000 +0000" stop="20250912213000 +0000" channel="NBA DIGITAL.qa"><title>NEWS.</title></programme>
+<programme start="20250912213000 +0000" stop="20250912220000 +0000" channel="NBA DIGITAL.qa"><title>SPORT CONFIDENTIAL.</title></programme>
+<programme start="20250912220000 +0000" stop="20250912233000 +0000" channel="NBA DIGITAL.qa"><title>The 23rd Arab Volleyball Championship Kuwait x Qatar</title></programme>
+<programme start="20250912233000 +0000" stop="20250913030000 +0000" channel="NBA DIGITAL.qa"><title>TAWAASL</title></programme>
+<programme start="20250911010000 +0000" stop="20250911020000 +0000" channel="NEWS DIGITAL.qa"><title>Al Hassad</title></programme>
+<programme start="20250911020000 +0000" stop="20250911025000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250911025000 +0000" stop="20250911030000 +0000" channel="NEWS DIGITAL.qa"><title>The summary 1 - 11/09/25</title></programme>
+<programme start="20250911030000 +0000" stop="20250911040000 +0000" channel="NEWS DIGITAL.qa"><title>The Issue of The Day</title></programme>
+<programme start="20250911040000 +0000" stop="20250911050000 +0000" channel="NEWS DIGITAL.qa"><title>Al Hassad</title></programme>
+<programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250911060000 +0000" stop="20250911070000 +0000" channel="NEWS DIGITAL.qa"><title>Al Hassad</title></programme>
+<programme start="20250911070000 +0000" stop="20250911073000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250911073000 +0000" stop="20250911074500 +0000" channel="NEWS DIGITAL.qa"><title>Special Interview - 10/09/25</title></programme>
+<programme start="20250911074500 +0000" stop="20250911080000 +0000" channel="NEWS DIGITAL.qa"><title>The summary 1 - 11/09/25</title></programme>
+<programme start="20250911080000 +0000" stop="20250911084500 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250911084500 +0000" stop="20250911090000 +0000" channel="NEWS DIGITAL.qa"><title>Special Report - 10/09/25</title></programme>
+<programme start="20250911090000 +0000" stop="20250911100000 +0000" channel="NEWS DIGITAL.qa"><title>The Issue of The Day</title></programme>
+<programme start="20250911100000 +0000" stop="20250911110000 +0000" channel="NEWS DIGITAL.qa"><title>Al Hassad</title></programme>
+<programme start="20250911110000 +0000" stop="20250911120000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250911120000 +0000" stop="20250911130000 +0000" channel="NEWS DIGITAL.qa"><title>The Issue of The Day</title></programme>
+<programme start="20250911130000 +0000" stop="20250911140000 +0000" channel="NEWS DIGITAL.qa"><title>Al Hassad</title></programme>
+<programme start="20250911140000 +0000" stop="20250911143000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250911143000 +0000" stop="20250911144500 +0000" channel="NEWS DIGITAL.qa"><title>Special Interview - 11/09/25</title></programme>
+<programme start="20250911144500 +0000" stop="20250911150000 +0000" channel="NEWS DIGITAL.qa"><title>Special Report - 11/09/25</title></programme>
+<programme start="20250911150000 +0000" stop="20250911160000 +0000" channel="NEWS DIGITAL.qa"><title>The Issue of The Day</title></programme>
+<programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250911163000 +0000" stop="20250911164500 +0000" channel="NEWS DIGITAL.qa"><title>Stats - 11/09/25</title></programme>
+<programme start="20250911164500 +0000" stop="20250911170000 +0000" channel="NEWS DIGITAL.qa"><title>Special Report - 11/09/25</title></programme>
+<programme start="20250911170000 +0000" stop="20250911173000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - @17:00</title></programme>
+<programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="NEWS DIGITAL.qa"><title>The summary 1 - 11/09/25</title></programme>
+<programme start="20250911180000 +0000" stop="20250911190000 +0000" channel="NEWS DIGITAL.qa"><title>Six OClock bulletin</title></programme>
+<programme start="20250911190000 +0000" stop="20250911191500 +0000" channel="NEWS DIGITAL.qa"><title>Al Jawla - Live Studio @19:00</title></programme>
+<programme start="20250911191500 +0000" stop="20250911193000 +0000" channel="NEWS DIGITAL.qa"><title>Stats - 11/09/25</title></programme>
+<programme start="20250911193000 +0000" stop="20250911194500 +0000" channel="NEWS DIGITAL.qa"><title>Special Interview - 11/09/25</title></programme>
+<programme start="20250911194500 +0000" stop="20250911200000 +0000" channel="NEWS DIGITAL.qa"><title>The summary 1 - 11/09/25</title></programme>
+<programme start="20250911200000 +0000" stop="20250911210000 +0000" channel="NEWS DIGITAL.qa"><title>Sign Language Bulletin @20:00</title></programme>
+<programme start="20250911210000 +0000" stop="20250911220000 +0000" channel="NEWS DIGITAL.qa"><title>Nine OClock bulletin - NEWS</title></programme>
+<programme start="20250911220000 +0000" stop="20250911221500 +0000" channel="NEWS DIGITAL.qa"><title>Al Jawla - Live Studio @23:00</title></programme>
+<programme start="20250911221500 +0000" stop="20250911223000 +0000" channel="NEWS DIGITAL.qa"><title>Stats - 11/09/25</title></programme>
+<programme start="20250911223000 +0000" stop="20250911224500 +0000" channel="NEWS DIGITAL.qa"><title>Special Interview - 11/09/25</title></programme>
+<programme start="20250911224500 +0000" stop="20250911230000 +0000" channel="NEWS DIGITAL.qa"><title>Special Report - 11/09/25</title></programme>
+<programme start="20250911230000 +0000" stop="20250912000000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - @23:00</title></programme>
+<programme start="20250912010000 +0000" stop="20250912020000 +0000" channel="NEWS DIGITAL.qa"><title>Al Hassad</title></programme>
+<programme start="20250912020000 +0000" stop="20250912025000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250912025000 +0000" stop="20250912030000 +0000" channel="NEWS DIGITAL.qa"><title>The summary 1 - 11/09/25</title></programme>
+<programme start="20250912030000 +0000" stop="20250912040000 +0000" channel="NEWS DIGITAL.qa"><title>The Issue of The Day</title></programme>
+<programme start="20250912040000 +0000" stop="20250912050000 +0000" channel="NEWS DIGITAL.qa"><title>Al Hassad</title></programme>
+<programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250912060000 +0000" stop="20250912070000 +0000" channel="NEWS DIGITAL.qa"><title>Al Hassad</title></programme>
+<programme start="20250912070000 +0000" stop="20250912073000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250912073000 +0000" stop="20250912074500 +0000" channel="NEWS DIGITAL.qa"><title>Special Interview - 10/09/25</title></programme>
+<programme start="20250912074500 +0000" stop="20250912080000 +0000" channel="NEWS DIGITAL.qa"><title>The summary 1 - 11/09/25</title></programme>
+<programme start="20250912080000 +0000" stop="20250912084500 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250912084500 +0000" stop="20250912090000 +0000" channel="NEWS DIGITAL.qa"><title>Special Report - 10/09/25</title></programme>
+<programme start="20250912090000 +0000" stop="20250912100000 +0000" channel="NEWS DIGITAL.qa"><title>The Issue of The Day</title></programme>
+<programme start="20250912100000 +0000" stop="20250912110000 +0000" channel="NEWS DIGITAL.qa"><title>Al Hassad</title></programme>
+<programme start="20250912110000 +0000" stop="20250912120000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250912120000 +0000" stop="20250912130000 +0000" channel="NEWS DIGITAL.qa"><title>The Issue of The Day</title></programme>
+<programme start="20250912130000 +0000" stop="20250912140000 +0000" channel="NEWS DIGITAL.qa"><title>Al Hassad</title></programme>
+<programme start="20250912140000 +0000" stop="20250912143000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250912143000 +0000" stop="20250912144500 +0000" channel="NEWS DIGITAL.qa"><title>Special Interview - 11/09/25</title></programme>
+<programme start="20250912144500 +0000" stop="20250912150000 +0000" channel="NEWS DIGITAL.qa"><title>Special Report - 11/09/25</title></programme>
+<programme start="20250912150000 +0000" stop="20250912160000 +0000" channel="NEWS DIGITAL.qa"><title>The Issue of The Day</title></programme>
+<programme start="20250912160000 +0000" stop="20250912163000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+<programme start="20250912163000 +0000" stop="20250912164500 +0000" channel="NEWS DIGITAL.qa"><title>Stats - 11/09/25</title></programme>
+<programme start="20250912164500 +0000" stop="20250912170000 +0000" channel="NEWS DIGITAL.qa"><title>Special Report - 11/09/25</title></programme>
+<programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - @17:00</title></programme>
+<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="NEWS DIGITAL.qa"><title>The summary 1 - 11/09/25</title></programme>
+<programme start="20250912180000 +0000" stop="20250912190000 +0000" channel="NEWS DIGITAL.qa"><title>Six OClock bulletin</title></programme>
+<programme start="20250912190000 +0000" stop="20250912191500 +0000" channel="NEWS DIGITAL.qa"><title>Al Jawla - Live Studio @19:00</title></programme>
+<programme start="20250912191500 +0000" stop="20250912193000 +0000" channel="NEWS DIGITAL.qa"><title>Stats - 11/09/25</title></programme>
+<programme start="20250912193000 +0000" stop="20250912194500 +0000" channel="NEWS DIGITAL.qa"><title>Special Interview - 11/09/25</title></programme>
+<programme start="20250912194500 +0000" stop="20250912200000 +0000" channel="NEWS DIGITAL.qa"><title>The summary 1 - 11/09/25</title></programme>
+<programme start="20250912200000 +0000" stop="20250912210000 +0000" channel="NEWS DIGITAL.qa"><title>Sign Language Bulletin @20:00</title></programme>
+<programme start="20250912210000 +0000" stop="20250912220000 +0000" channel="NEWS DIGITAL.qa"><title>Nine OClock bulletin - NEWS</title></programme>
+<programme start="20250912220000 +0000" stop="20250912221500 +0000" channel="NEWS DIGITAL.qa"><title>Al Jawla - Live Studio @23:00</title></programme>
+<programme start="20250912221500 +0000" stop="20250912223000 +0000" channel="NEWS DIGITAL.qa"><title>Stats - 11/09/25</title></programme>
+<programme start="20250912223000 +0000" stop="20250912224500 +0000" channel="NEWS DIGITAL.qa"><title>Special Interview - 11/09/25</title></programme>
+<programme start="20250912224500 +0000" stop="20250912230000 +0000" channel="NEWS DIGITAL.qa"><title>Special Report - 11/09/25</title></programme>
+<programme start="20250912230000 +0000" stop="20250913000000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - @23:00</title></programme>
+<programme start="20250913010000 +0000" stop="20250913020000 +0000" channel="NEWS DIGITAL.qa"><title>Al Hassad</title></programme>
+<programme start="20250913020000 +0000" stop="20250913025000 +0000" channel="NEWS DIGITAL.qa"><title>News Bulletin - Live Studio @02:00</title></programme>
+</tv>

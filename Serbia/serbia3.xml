@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<channel id="arena1premium.rs"><display-name>Arena 1 Premium.rs</display-name></channel>
+<channel id="arena2premium.rs"><display-name>Arena 2 Premium.rs</display-name></channel>
+<channel id="arena3premium.rs"><display-name>Arena 3 Premium.rs</display-name></channel>
+<channel id="arena4premium.rs"><display-name>Arena 4 Premium.rs</display-name></channel>
+<channel id="arena5premium.rs"><display-name>Arena 5 Premium.rs</display-name></channel>
+<channel id="arena-adrenalin.rs"><display-name>Arena adrenalin.rs</display-name></channel>
+<channel id="arenasport01.rs"><display-name>Arena Sport 01.rs</display-name></channel>
+<channel id="arenasport02.rs"><display-name>Arena Sport 02.rs</display-name></channel>
+<channel id="arenasport03.rs"><display-name>Arena Sport 03.rs</display-name></channel>
+<channel id="arenasport04.rs"><display-name>Arena Sport 04.rs</display-name></channel>
+<channel id="arenasport05.rs"><display-name>Arena Sport 05.rs</display-name></channel>
+<channel id="arenasport06.rs"><display-name>Arena Sport 06.rs</display-name></channel>
+<channel id="arenasport07.rs"><display-name>Arena Sport 07.rs</display-name></channel>
+<channel id="arenasport08.rs"><display-name>Arena Sport 08.rs</display-name></channel>
+<channel id="arenasport09.rs"><display-name>Arena Sport 09.rs</display-name></channel>
+<channel id="arenasport10.rs"><display-name>Arena Sport 10.rs</display-name></channel>
+<channel id="arenasport1x2.rs"><display-name>Arena Sport 1x2.rs</display-name></channel>
+<channel id="arena-tenis.rs"><display-name>Arena tenis.rs</display-name></channel>
+<programme start="20250910013000 +0000" stop="20250910033000 +0000" channel="arena1premium.rs"><title>FUDBAL: Čile - Urugvaj</title><desc>UŽIVO</desc></programme>
+<programme start="20250910033000 +0000" stop="20250910040000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Pregled 12. dana</title><desc>EUROBASKET</desc></programme>
+<programme start="20250910040000 +0000" stop="20250910060000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Litvanija - Grčka</title><desc>EUROBASKET</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910080000 +0000" channel="arena1premium.rs"><title>FUDBAL: Mađarska - Portugal</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910100000 +0000" channel="arena1premium.rs"><title>FUDBAL: Kipar - Rumunija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910100000 +0000" stop="20250910121500 +0000" channel="arena1premium.rs"><title>MALI FUDBAL: Novi Beograd</title><desc>UŽIVO</desc></programme>
+<programme start="20250910121500 +0000" stop="20250910141500 +0000" channel="arena1premium.rs"><title>FUDBAL: Srbija - Engleska</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910141500 +0000" stop="20250910160000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Turska - Poljska</title><desc>EUROBASKET</desc></programme>
+<programme start="20250910160000 +0000" stop="20250910180000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Finska - Gruzija</title><desc>UŽIVO</desc></programme>
+<programme start="20250910180000 +0000" stop="20250910183000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Pregled 12. dana</title><desc>EUROBASKET</desc></programme>
+<programme start="20250910183000 +0000" stop="20250910190000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Pregled 13. dana</title><desc>EUROBASKET</desc></programme>
+<programme start="20250910190000 +0000" stop="20250910200000 +0000" channel="arena1premium.rs"><title>KOŠARKA: STUDIO</title><desc>EUROBASKET</desc></programme>
+<programme start="20250910200000 +0000" stop="20250910220000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Nemačka - Slovenija</title><desc>UŽIVO</desc></programme>
+<programme start="20250910220000 +0000" stop="20250910230000 +0000" channel="arena1premium.rs"><title>KOŠARKA: STUDIO</title><desc>EUROBASKET</desc></programme>
+<programme start="20250910230000 +0000" stop="20250910230500 +0000" channel="arena1premium.rs"><title>: Sportska infrastruktura EP28</title><desc>: Sportska infrastruktura EP28</desc></programme>
+<programme start="20250910230500 +0000" stop="20250911010000 +0000" channel="arena1premium.rs"><title>FUDBAL: Ekvador - Argentina</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911010000 +0000" stop="20250911030000 +0000" channel="arena1premium.rs"><title>FUDBAL: Brazil - Čile</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911030000 +0000" stop="20250911043000 +0000" channel="arena1premium.rs"><title>RUKOMET: Aalborg - Veszprem</title><desc>EHF LIGA ŠAMPIONA</desc></programme>
+<programme start="20250911043000 +0000" stop="20250911060000 +0000" channel="arena1premium.rs"><title>RUKOMET: Pelister - Zagreb</title><desc>EHF LIGA ŠAMPIONA</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Turska - Poljska</title><desc>EUROBASKET</desc></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Nemačka - Slovenija</title><desc>EUROBASKET</desc></programme>
+<programme start="20250911100000 +0000" stop="20250911103000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Pregled 14. dana</title><desc>EUROBASKET</desc></programme>
+<programme start="20250911103000 +0000" stop="20250911123000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Finska - Gruzija</title><desc>EUROBASKET</desc></programme>
+<programme start="20250911123000 +0000" stop="20250911143000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Četvrtfinale 4</title><desc>EVROPSKO PRVENSTVO</desc></programme>
+<programme start="20250911143000 +0000" stop="20250911150000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Pregled 14. dana</title><desc>EUROBASKET</desc></programme>
+<programme start="20250911150000 +0000" stop="20250911170000 +0000" channel="arena1premium.rs"><title>FUDBAL: Ekvador - Argentina</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911170000 +0000" stop="20250911180000 +0000" channel="arena1premium.rs"><title>FUDBAL: Pregled 6. kola</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911180000 +0000" stop="20250911200000 +0000" channel="arena1premium.rs"><title>FUDBAL: Srbija - Engleska</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911200000 +0000" stop="20250911204500 +0000" channel="arena1premium.rs"><title>RUKOMET: Dokumentarni film: Usudi se - trenutak za šampione</title><desc>EHF</desc></programme>
+<programme start="20250911204500 +0000" stop="20250911223000 +0000" channel="arena1premium.rs"><title>RUKOMET: Nantes - Fuchse Berlin</title><desc>UŽIVO</desc></programme>
+<programme start="20250911223000 +0000" stop="20250911223500 +0000" channel="arena1premium.rs"><title>: Sportska infrastruktura EP29</title><desc>: Sportska infrastruktura EP29</desc></programme>
+<programme start="20250911223500 +0000" stop="20250912003000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Turska - Poljska</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912003000 +0000" stop="20250912010000 +0000" channel="arena1premium.rs"><title>AMERIČKI FUDBAL: NFL Game Day</title><desc>NFL</desc></programme>
+<programme start="20250912010000 +0000" stop="20250912020000 +0000" channel="arena1premium.rs"><title>AMERIČKI FUDBAL: Američki fudbal: NFL Arena</title><desc>NFL</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912021500 +0000" channel="arena1premium.rs"><title>AMERIČKI FUDBAL: NFL Extra</title><desc>NFL</desc></programme>
+<programme start="20250912021500 +0000" stop="20250912053000 +0000" channel="arena1premium.rs"><title>AMERIČKI FUDBAL: Washington Commanders - Green Bay Packers</title><desc>UŽIVO</desc></programme>
+<programme start="20250912053000 +0000" stop="20250912060000 +0000" channel="arena1premium.rs"><title>AMERIČKI FUDBAL: NFL Game Day</title><desc>NFL</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912074500 +0000" channel="arena1premium.rs"><title>KOŠARKA: Letonija - Srbija</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912074500 +0000" stop="20250912093000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Srbija - Češka</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912093000 +0000" stop="20250912113000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Turska - Poljska</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912113000 +0000" stop="20250912133000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Litvanija - Grčka</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912133000 +0000" stop="20250912140000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Pregled 14. dana</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912140000 +0000" stop="20250912160000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Nemačka - Slovenija</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912160000 +0000" stop="20250912180000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Polufinala</title><desc>UŽIVO</desc></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Pregled 13. dana</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912183000 +0000" stop="20250912190000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Pregled 14. dana</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912190000 +0000" stop="20250912200000 +0000" channel="arena1premium.rs"><title>KOŠARKA: STUDIO</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912200000 +0000" stop="20250912220000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Polufinala</title><desc>UŽIVO</desc></programme>
+<programme start="20250912220000 +0000" stop="20250912230000 +0000" channel="arena1premium.rs"><title>KOŠARKA: STUDIO</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912230000 +0000" stop="20250912230500 +0000" channel="arena1premium.rs"><title>: Sportska infrastruktura EP30</title><desc>: Sportska infrastruktura EP30</desc></programme>
+<programme start="20250912230500 +0000" stop="20250912233000 +0000" channel="arena1premium.rs"><title>FUDBAL: Liga Šampiona: Magazin ep. 2</title><desc>UEFA LIGA ŠAMPIONA</desc></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="arena1premium.rs"><title>FUDBAL: Najava 4. kola</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250913000000 +0000" stop="20250913020000 +0000" channel="arena1premium.rs"><title>FUDBAL: Bayer Leverkusen - Eintracht Frankfurt</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="arena1premium.rs"><title>FUDBAL: Sevilla - Elche</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250913040000 +0000" stop="20250913060000 +0000" channel="arena1premium.rs"><title>FUDBAL: Benfica - Santa Clara</title><desc>PORTUGALSKA LIGA</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913080000 +0000" channel="arena1premium.rs"><title>KOŠARKA: Polufinala</title><desc>EUROBASKET</desc></programme>
+<programme start="20250910010000 +0000" stop="20250910030000 +0000" channel="arena2premium.rs"><title>FUDBAL: Ekvador - Argentina</title><desc>UŽIVO</desc></programme>
+<programme start="20250910030000 +0000" stop="20250910040000 +0000" channel="arena2premium.rs"><title>FUDBAL: Pregled 8.9.</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910040000 +0000" stop="20250910060000 +0000" channel="arena2premium.rs"><title>FUDBAL: Kipar - Rumunija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910083000 +0000" channel="arena2premium.rs"><title>AMERIČKI FUDBAL: Green Bay Packers - Detroit Lions</title><desc>NFL</desc></programme>
+<programme start="20250910083000 +0000" stop="20250910110000 +0000" channel="arena2premium.rs"><title>AMERIČKI FUDBAL: Chicago Bears - Minnesota Vikings</title><desc>NFL</desc></programme>
+<programme start="20250910110000 +0000" stop="20250910113000 +0000" channel="arena2premium.rs"><title>RUKOMET: Pregled 1. kola</title><desc>EHF LIGA ŠAMPIONA (Ž)</desc></programme>
+<programme start="20250910113000 +0000" stop="20250910133000 +0000" channel="arena2premium.rs"><title>ODBOJKA: Finale</title><desc>SVETSKO PRVENSTVO (Ž)</desc></programme>
+<programme start="20250910133000 +0000" stop="20250910140000 +0000" channel="arena2premium.rs"><title>KOŠARKA: Pregled 13. dana</title><desc>EUROBASKET</desc></programme>
+<programme start="20250910140000 +0000" stop="20250910160000 +0000" channel="arena2premium.rs"><title>FUDBAL: Izrael - Italija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910160000 +0000" stop="20250910175500 +0000" channel="arena2premium.rs"><title>FUDBAL: Grčka - Danska</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910175500 +0000" stop="20250910184500 +0000" channel="arena2premium.rs"><title>RUKOMET: Dokumentarni film: Usudi se - trenutak za šampione</title><desc>EHF</desc></programme>
+<programme start="20250910184500 +0000" stop="20250910204500 +0000" channel="arena2premium.rs"><title>RUKOMET: Aalborg - Veszprem</title><desc>UŽIVO</desc></programme>
+<programme start="20250910204500 +0000" stop="20250910223000 +0000" channel="arena2premium.rs"><title>RUKOMET: Pelister - Zagreb</title><desc>UŽIVO</desc></programme>
+<programme start="20250910223000 +0000" stop="20250910230000 +0000" channel="arena2premium.rs"><title>FUDBAL: Ligue 1 Show ep. 4</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250910230000 +0000" stop="20250911010000 +0000" channel="arena2premium.rs"><title>KOŠARKA: Finska - Gruzija</title><desc>EUROBASKET</desc></programme>
+<programme start="20250911010000 +0000" stop="20250911030000 +0000" channel="arena2premium.rs"><title>KOŠARKA: Četvrtfinale 4</title><desc>EVROPSKO PRVENSTVO</desc></programme>
+<programme start="20250911030000 +0000" stop="20250911040000 +0000" channel="arena2premium.rs"><title>FUDBAL: Pregled 2. kola</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911060000 +0000" channel="arena2premium.rs"><title>FUDBAL: Mađarska - Portugal</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911083000 +0000" channel="arena2premium.rs"><title>AMERIČKI FUDBAL: Chicago Bears - Minnesota Vikings</title><desc>NFL</desc></programme>
+<programme start="20250911083000 +0000" stop="20250911110000 +0000" channel="arena2premium.rs"><title>AMERIČKI FUDBAL: Buffalo Bills - Baltimore Ravens</title><desc>NFL</desc></programme>
+<programme start="20250911110000 +0000" stop="20250911113000 +0000" channel="arena2premium.rs"><title>FUDBAL: Ligue 1 Show ep. 4</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250911113000 +0000" stop="20250911133000 +0000" channel="arena2premium.rs"><title>FUDBAL: Francuska - Island</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911133000 +0000" stop="20250911153000 +0000" channel="arena2premium.rs"><title>FUDBAL: Srbija - Engleska</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911153000 +0000" stop="20250911173000 +0000" channel="arena2premium.rs"><title>FUDBAL: Mađarska - Portugal</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911173000 +0000" stop="20250911193000 +0000" channel="arena2premium.rs"><title>FUDBAL: Kipar - Rumunija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911193000 +0000" stop="20250911200000 +0000" channel="arena2premium.rs"><title>FUDBAL: Bundesliga magazin</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250911200000 +0000" stop="20250911203000 +0000" channel="arena2premium.rs"><title>AMERIČKI FUDBAL: NFL Game Day</title><desc>NFL</desc></programme>
+<programme start="20250911203000 +0000" stop="20250911230000 +0000" channel="arena2premium.rs"><title>AMERIČKI FUDBAL: Chicago Bears - Minnesota Vikings</title><desc>NFL</desc></programme>
+<programme start="20250911230000 +0000" stop="20250912000000 +0000" channel="arena2premium.rs"><title>AMERIČKI FUDBAL: Američki fudbal: NFL Arena</title><desc>UŽIVO</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912020000 +0000" channel="arena2premium.rs"><title>KOŠARKA: Finska - Gruzija</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="arena2premium.rs"><title>KOŠARKA: Četvrtfinale 4</title><desc>EVROPSKO PRVENSTVO</desc></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="arena2premium.rs"><title>FUDBAL: Venecuela - Kolumbija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912083000 +0000" channel="arena2premium.rs"><title>AMERIČKI FUDBAL: Kansas City Chiefs - Los Angeles Chargers</title><desc>NFL</desc></programme>
+<programme start="20250912083000 +0000" stop="20250912110000 +0000" channel="arena2premium.rs"><title>AMERIČKI FUDBAL: Washington Commanders - Green Bay Packers</title><desc>NFL</desc></programme>
+<programme start="20250912110000 +0000" stop="20250912120000 +0000" channel="arena2premium.rs"><title>AMERIČKI FUDBAL: Američki fudbal: NFL Arena</title><desc>NFL</desc></programme>
+<programme start="20250912120000 +0000" stop="20250912141500 +0000" channel="arena2premium.rs"><title>ODBOJKA: Filipini - Tunis</title><desc>UŽIVO</desc></programme>
+<programme start="20250912141500 +0000" stop="20250912161500 +0000" channel="arena2premium.rs"><title>FUDBAL: Francuska - Island</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250912161500 +0000" stop="20250912174500 +0000" channel="arena2premium.rs"><title>MOTO SPORT: Katalonija: Trka</title><desc>MOTO GP</desc></programme>
+<programme start="20250912174500 +0000" stop="20250912200000 +0000" channel="arena2premium.rs"><title>KOŠARKA: Crvena zvezda - Paris</title><desc>UŽIVO</desc></programme>
+<programme start="20250912200000 +0000" stop="20250912203000 +0000" channel="arena2premium.rs"><title>FUDBAL: Najava 3. kola</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250912203000 +0000" stop="20250912210000 +0000" channel="arena2premium.rs"><title>FUDBAL: Pregled 3. kola</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250912210000 +0000" stop="20250912230000 +0000" channel="arena2premium.rs"><title>FUDBAL: Sevilla - Elche</title><desc>UŽIVO</desc></programme>
+<programme start="20250912230000 +0000" stop="20250913010000 +0000" channel="arena2premium.rs"><title>KOŠARKA: Polufinala</title><desc>EUROBASKET</desc></programme>
+<programme start="20250913010000 +0000" stop="20250913030000 +0000" channel="arena2premium.rs"><title>KOŠARKA: Polufinala</title><desc>EUROBASKET</desc></programme>
+<programme start="20250913030000 +0000" stop="20250913060000 +0000" channel="arena2premium.rs"><title>FUDBAL: Lech - Zaglebie</title><desc>POLJSKA LIGA</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913080000 +0000" channel="arena2premium.rs"><title>FUDBAL: ...</title><desc>MB SUPERLIGA</desc></programme>
+<programme start="20250910013000 +0000" stop="20250910033000 +0000" channel="arena3premium.rs"><title>FUDBAL: Peru - Paragvaj</title><desc>UŽIVO</desc></programme>
+<programme start="20250910033000 +0000" stop="20250910060000 +0000" channel="arena3premium.rs"><title>HOKEJ: Spartak - Dinamo Mn</title><desc>KHL</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910080000 +0000" channel="arena3premium.rs"><title>FUDBAL: Srbija - Engleska</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910090000 +0000" channel="arena3premium.rs"><title>FUDBAL: Pregled 7. kola</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250910090000 +0000" stop="20250910110000 +0000" channel="arena3premium.rs"><title>FUDBAL: Jermenija - Irska</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910110000 +0000" stop="20250910130000 +0000" channel="arena3premium.rs"><title>FUDBAL: Ekvador - Argentina</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910130000 +0000" stop="20250910150000 +0000" channel="arena3premium.rs"><title>FUDBAL: Peru - Paragvaj</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910150000 +0000" stop="20250910153000 +0000" channel="arena3premium.rs"><title>FUDBAL: Liga Šampiona: Magazin ep. 1</title><desc>UEFA LIGA ŠAMPIONA</desc></programme>
+<programme start="20250910153000 +0000" stop="20250910173000 +0000" channel="arena3premium.rs"><title>FUDBAL: Čile - Urugvaj</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910173000 +0000" stop="20250910193000 +0000" channel="arena3premium.rs"><title>FUDBAL: Venecuela - Kolumbija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910193000 +0000" stop="20250910200000 +0000" channel="arena3premium.rs"><title>FUDBAL: Pregled 4. kola</title><desc>CHAMPIONSHIP</desc></programme>
+<programme start="20250910200000 +0000" stop="20250910220000 +0000" channel="arena3premium.rs"><title>FUDBAL: Južna Afrika - Nigerija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910220000 +0000" stop="20250911000000 +0000" channel="arena3premium.rs"><title>FUDBAL: Kongo - Senegal</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911020000 +0000" channel="arena3premium.rs"><title>FUDBAL: Gabon - Obala Slonovače</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="arena3premium.rs"><title>FUDBAL: Burkina Faso - Egipat</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911060000 +0000" channel="arena3premium.rs"><title>FUDBAL: Gana - Mali</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911063000 +0000" channel="arena3premium.rs"><title>: Oni vole Srbiju - Janis Karabeljov</title><desc>: Oni vole Srbiju - Janis Karabeljov</desc></programme>
+<programme start="20250911063000 +0000" stop="20250911083000 +0000" channel="arena3premium.rs"><title>FUDBAL: Portugal - Srbija</title><desc>PRIJATELJSKE UTAKMICE</desc></programme>
+<programme start="20250911083000 +0000" stop="20250911103000 +0000" channel="arena3premium.rs"><title>FUDBAL: BiH - Austrija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911103000 +0000" stop="20250911110000 +0000" channel="arena3premium.rs"><title>FUDBAL: Liga Šampiona: Magazin ep. 1</title><desc>UEFA LIGA ŠAMPIONA</desc></programme>
+<programme start="20250911110000 +0000" stop="20250911130000 +0000" channel="arena3premium.rs"><title>FUDBAL: Venecuela - Kolumbija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911130000 +0000" stop="20250911150000 +0000" channel="arena3premium.rs"><title>FUDBAL: Peru - Paragvaj</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911150000 +0000" stop="20250911153000 +0000" channel="arena3premium.rs"><title>FUDBAL: Pregled 3. kola</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250911153000 +0000" stop="20250911173000 +0000" channel="arena3premium.rs"><title>ODBOJKA: Meč za 3. mesto</title><desc>SVETSKO PRVENSTVO (Ž)</desc></programme>
+<programme start="20250911173000 +0000" stop="20250911200000 +0000" channel="arena3premium.rs"><title>ODBOJKA: Finale</title><desc>SVETSKO PRVENSTVO (Ž)</desc></programme>
+<programme start="20250911200000 +0000" stop="20250911220000 +0000" channel="arena3premium.rs"><title>FUDBAL: Liverpool - Arsenal</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911220000 +0000" stop="20250912000000 +0000" channel="arena3premium.rs"><title>FUDBAL: Rangers - Celtic</title><desc>ŠKOTSKA LIGA</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912020000 +0000" channel="arena3premium.rs"><title>FUDBAL: Novi Pazar - Crvena zvezda</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="arena3premium.rs"><title>FUDBAL: Real Madrid - Mallorca</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="arena3premium.rs"><title>FUDBAL: Augsburg - Bayern</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912063000 +0000" channel="arena3premium.rs"><title>FUDBAL: Bundesliga specijal: Best of August</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250912063000 +0000" stop="20250912083000 +0000" channel="arena3premium.rs"><title>FUDBAL: HSV - St. Pauli</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250912083000 +0000" stop="20250912103000 +0000" channel="arena3premium.rs"><title>FUDBAL: Lecce - Milan</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250912103000 +0000" stop="20250912123000 +0000" channel="arena3premium.rs"><title>FUDBAL: Alaves - Atletico</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250912123000 +0000" stop="20250912130000 +0000" channel="arena3premium.rs"><title>FUDBAL: Full Impact ep. 2</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250912130000 +0000" stop="20250912133000 +0000" channel="arena3premium.rs"><title>RUKOMET: Pregled 1. kola</title><desc>EHF LIGA ŠAMPIONA</desc></programme>
+<programme start="20250912133000 +0000" stop="20250912153000 +0000" channel="arena3premium.rs"><title>FUDBAL: Partizan - Radnik</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250912153000 +0000" stop="20250912173000 +0000" channel="arena3premium.rs"><title>FUDBAL: Novi Pazar - Crvena zvezda</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="arena3premium.rs"><title>FUDBAL: Najava 8. kola</title><desc>FUDBAL: Najava 8. kola</desc></programme>
+<programme start="20250912180000 +0000" stop="20250912200000 +0000" channel="arena3premium.rs"><title>FUDBAL: Rubin - Dynamo Makhachkala</title><desc>UŽIVO</desc></programme>
+<programme start="20250912200000 +0000" stop="20250912203000 +0000" channel="arena3premium.rs"><title>FUDBAL: Najava 3. kola</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250912203000 +0000" stop="20250912223000 +0000" channel="arena3premium.rs"><title>FUDBAL: Bayer Leverkusen - Eintracht Frankfurt</title><desc>UŽIVO</desc></programme>
+<programme start="20250912223000 +0000" stop="20250913000000 +0000" channel="arena3premium.rs"><title>KOŠARKA: Crvena zvezda - Paris</title><desc>PRIJATELJSKA UTAKMICA</desc></programme>
+<programme start="20250913000000 +0000" stop="20250913020000 +0000" channel="arena3premium.rs"><title>FUDBAL: Armenia Bielefeld - Magdeburg</title><desc>NEMAČKA 2. LIGA</desc></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="arena3premium.rs"><title>FUDBAL: Paderborn - Bochum</title><desc>NEMAČKA 2. LIGA</desc></programme>
+<programme start="20250913040000 +0000" stop="20250913063000 +0000" channel="arena3premium.rs"><title>FUDBAL: Rubin - Dynamo Makhachkala</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250910013000 +0000" stop="20250910033000 +0000" channel="arena4premium.rs"><title>FUDBAL: Venecuela - Kolumbija</title><desc>UŽIVO</desc></programme>
+<programme start="20250910033000 +0000" stop="20250910040000 +0000" channel="arena4premium.rs"><title>FUDBAL: Pregled 3. kola</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250910040000 +0000" stop="20250910060000 +0000" channel="arena4premium.rs"><title>FUDBAL: Portugal - Srbija</title><desc>PRIJATELJSKE UTAKMICE</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910063000 +0000" channel="arena4premium.rs"><title>FUDBAL: Bundesliga specijal: Best of August</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250910063000 +0000" stop="20250910070000 +0000" channel="arena4premium.rs"><title>: Oni vole Srbiju - Janis Karabeljov</title><desc>: Oni vole Srbiju - Janis Karabeljov</desc></programme>
+<programme start="20250910070000 +0000" stop="20250910090000 +0000" channel="arena4premium.rs"><title>KOŠARKA: Turska - Poljska</title><desc>EUROBASKET</desc></programme>
+<programme start="20250910090000 +0000" stop="20250910110000 +0000" channel="arena4premium.rs"><title>KOŠARKA: Litvanija - Grčka</title><desc>EUROBASKET</desc></programme>
+<programme start="20250910110000 +0000" stop="20250910113000 +0000" channel="arena4premium.rs"><title>MOTO SPORT: Emisija: Mobil Auto ep. 36</title><desc>MOTO SPORT: Emisija: Mobil Auto ep. 36</desc></programme>
+<programme start="20250910113000 +0000" stop="20250910140000 +0000" channel="arena4premium.rs"><title>MOTO SPORT: Italija: Trka</title><desc>FORMULA 1</desc></programme>
+<programme start="20250910140000 +0000" stop="20250910153000 +0000" channel="arena4premium.rs"><title>MOTO SPORT: Katalonija: Trka</title><desc>MOTO GP</desc></programme>
+<programme start="20250910153000 +0000" stop="20250910170000 +0000" channel="arena4premium.rs"><title>RUKOMET: Minden - Flensburg</title><desc>BUNDESLIGA</desc></programme>
+<programme start="20250910170000 +0000" stop="20250910190000 +0000" channel="arena4premium.rs"><title>FUDBAL: Portugal - Srbija</title><desc>PRIJATELJSKE UTAKMICE</desc></programme>
+<programme start="20250910190000 +0000" stop="20250910200000 +0000" channel="arena4premium.rs"><title>: Otvoreno sa Anđusom</title><desc>: Otvoreno sa Anđusom</desc></programme>
+<programme start="20250910200000 +0000" stop="20250910223000 +0000" channel="arena4premium.rs"><title>AMERIČKI FUDBAL: Chicago Bears - Minnesota Vikings</title><desc>NFL</desc></programme>
+<programme start="20250910223000 +0000" stop="20250911010000 +0000" channel="arena4premium.rs"><title>AMERIČKI FUDBAL: New York Jets - Pittsburgh Steelers</title><desc>NFL</desc></programme>
+<programme start="20250911010000 +0000" stop="20250911033000 +0000" channel="arena4premium.rs"><title>AMERIČKI FUDBAL: Buffalo Bills - Baltimore Ravens</title><desc>NFL</desc></programme>
+<programme start="20250911033000 +0000" stop="20250911060000 +0000" channel="arena4premium.rs"><title>AMERIČKI FUDBAL: Green Bay Packers - Detroit Lions</title><desc>NFL</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911070000 +0000" channel="arena4premium.rs"><title>FUDBAL: Pregled 8.9.</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911070000 +0000" stop="20250911090000 +0000" channel="arena4premium.rs"><title>MOTO SPORT: Italija: Trka</title><desc>FORMULA 1</desc></programme>
+<programme start="20250911090000 +0000" stop="20250911093000 +0000" channel="arena4premium.rs"><title>MOTO SPORT: Emisija: Mobil Auto ep. 36</title><desc>MOTO SPORT: Emisija: Mobil Auto ep. 36</desc></programme>
+<programme start="20250911093000 +0000" stop="20250911110000 +0000" channel="arena4premium.rs"><title>MOTO SPORT: Katalonija: Trka</title><desc>MOTO GP</desc></programme>
+<programme start="20250911110000 +0000" stop="20250911113000 +0000" channel="arena4premium.rs"><title>AMERIČKI FUDBAL: NFL Game Day</title><desc>NFL</desc></programme>
+<programme start="20250911113000 +0000" stop="20250911140000 +0000" channel="arena4premium.rs"><title>AMERIČKI FUDBAL: Philadelphia Eagles - Dallas Cowboys</title><desc>NFL</desc></programme>
+<programme start="20250911140000 +0000" stop="20250911143000 +0000" channel="arena4premium.rs"><title>AMERIČKI FUDBAL: NFL Extra</title><desc>NFL</desc></programme>
+<programme start="20250911143000 +0000" stop="20250911160000 +0000" channel="arena4premium.rs"><title>AMERIČKI FUDBAL: Pregled nedelje Week 1</title><desc>NFL</desc></programme>
+<programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="arena4premium.rs"><title>KOŠARKA: Specijal: NBA Igrači</title><desc>NBA</desc></programme>
+<programme start="20250911163000 +0000" stop="20250911183000 +0000" channel="arena4premium.rs"><title>KOŠARKA: The Best of</title><desc>EVROPSKO PRVENSTVO</desc></programme>
+<programme start="20250911183000 +0000" stop="20250911190000 +0000" channel="arena4premium.rs"><title>FUDBAL: Klasici Premijer Lige: Everton - Aston Villa, 2008/09</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911190000 +0000" stop="20250911193000 +0000" channel="arena4premium.rs"><title>FUDBAL: Klasici Premijer Lige: Manchester City - Manchester United, 2003/04</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911193000 +0000" stop="20250911200000 +0000" channel="arena4premium.rs"><title>FUDBAL: Liga Šampiona: Magazin ep. 1</title><desc>UEFA LIGA ŠAMPIONA</desc></programme>
+<programme start="20250911200000 +0000" stop="20250911213000 +0000" channel="arena4premium.rs"><title>RUKOMET: Fuchse Berlin - Magdeburg</title><desc>BUNDESLIGA</desc></programme>
+<programme start="20250911213000 +0000" stop="20250911223000 +0000" channel="arena4premium.rs"><title>MOTO SPORT: FIA WEC Lone Star Le Mans : Pregled</title><desc>WORLD ENDURANCE CHAMPIONSHIP</desc></programme>
+<programme start="20250911223000 +0000" stop="20250912003000 +0000" channel="arena4premium.rs"><title>ODBOJKA: The Best of</title><desc>SP ZA ODBOJKAŠICE</desc></programme>
+<programme start="20250912003000 +0000" stop="20250912023000 +0000" channel="arena4premium.rs"><title>ODBOJKA: The Best of</title><desc>SP ZA ODBOJKAŠICE</desc></programme>
+<programme start="20250912023000 +0000" stop="20250912050000 +0000" channel="arena4premium.rs"><title>BEJZBOL: Milwaukee Brewers - Philadephia Phillies</title><desc>MAJOR LEAGUE BASEBALL</desc></programme>
+<programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="arena4premium.rs"><title>FUDBAL: Pregled 8.9.</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912070000 +0000" channel="arena4premium.rs"><title>FUDBAL: Pregled 3. kola</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912070000 +0000" stop="20250912090000 +0000" channel="arena4premium.rs"><title>KOŠARKA: Nemačka - Slovenija</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912090000 +0000" stop="20250912110000 +0000" channel="arena4premium.rs"><title>KOŠARKA: Finska - Gruzija</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912110000 +0000" stop="20250912130000 +0000" channel="arena4premium.rs"><title>KOŠARKA: Finska - Gruzija</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912130000 +0000" stop="20250912153000 +0000" channel="arena4premium.rs"><title>BEJZBOL: Toronto Blue Jays - Houston Astros</title><desc>MAJOR LEAGUE BASEBALL</desc></programme>
+<programme start="20250912153000 +0000" stop="20250912160000 +0000" channel="arena4premium.rs"><title>BEJZBOL: MLB Plays of the Week ep. 23</title><desc>MAJOR LEAGUE BASEBALL</desc></programme>
+<programme start="20250912160000 +0000" stop="20250912180000 +0000" channel="arena4premium.rs"><title>ODBOJKA: Filipini - Tunis</title><desc>SVETSKO PRVENSTVO (M)</desc></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="arena4premium.rs"><title>FUDBAL: Najava 4. kola</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250912183000 +0000" stop="20250912204500 +0000" channel="arena4premium.rs"><title>FUDBAL: Armenia Bielefeld - Magdeburg</title><desc>UŽIVO</desc></programme>
+<programme start="20250912204500 +0000" stop="20250912230000 +0000" channel="arena4premium.rs"><title>FUDBAL: Marseille - Lorient</title><desc>UŽIVO</desc></programme>
+<programme start="20250912230000 +0000" stop="20250913013000 +0000" channel="arena4premium.rs"><title>AMERIČKI FUDBAL: Washington Commanders - Green Bay Packers</title><desc>NFL</desc></programme>
+<programme start="20250913013000 +0000" stop="20250913020000 +0000" channel="arena4premium.rs"><title>FUDBAL: Najava kola</title><desc>MB SUPERLIGA</desc></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="arena4premium.rs"><title>ODBOJKA: Filipini - Tunis</title><desc>SVETSKO PRVENSTVO (M)</desc></programme>
+<programme start="20250913040000 +0000" stop="20250913060000 +0000" channel="arena4premium.rs"><title>FUDBAL: Armenia Bielefeld - Magdeburg</title><desc>NEMAČKA 2. LIGA</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913080000 +0000" channel="arena4premium.rs"><title>ODBOJKA: Filipini - Tunis</title><desc>SP ZA ODBOJKAŠE</desc></programme>
+<programme start="20250910010000 +0000" stop="20250910030000 +0000" channel="arena5premium.rs"><title>FUDBAL: Južna Afrika - Nigerija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910030000 +0000" stop="20250910050000 +0000" channel="arena5premium.rs"><title>FUDBAL: Gabon - Obala Slonovače</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910050000 +0000" stop="20250910060000 +0000" channel="arena5premium.rs"><title>FUDBAL: Pregled 8.9.</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910080000 +0000" channel="arena5premium.rs"><title>FUDBAL: Gana - Mali</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910100000 +0000" channel="arena5premium.rs"><title>FUDBAL: Gvineja - Alžir</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910100000 +0000" stop="20250910110000 +0000" channel="arena5premium.rs"><title>FUDBAL: Pregled 2. kola</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250910110000 +0000" stop="20250910130000 +0000" channel="arena5premium.rs"><title>FUDBAL: Zelenortska Ostrva - Kamerun</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910130000 +0000" stop="20250910150000 +0000" channel="arena5premium.rs"><title>FUDBAL: Kongo - Senegal</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910150000 +0000" stop="20250910170000 +0000" channel="arena5premium.rs"><title>FUDBAL: Gabon - Obala Slonovače</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910170000 +0000" stop="20250910180000 +0000" channel="arena5premium.rs"><title>FUDBAL: Pregled 3. kola</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250910180000 +0000" stop="20250910200000 +0000" channel="arena5premium.rs"><title>FUDBAL: Burkina Faso - Egipat</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250910200000 +0000" stop="20250910203000 +0000" channel="arena5premium.rs"><title>FUDBAL: Full Impact ep. 2</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250910203000 +0000" stop="20250910233000 +0000" channel="arena5premium.rs"><title>BEJZBOL: Texas Rangers - Milwaukee Brewers</title><desc>UŽIVO</desc></programme>
+<programme start="20250910233000 +0000" stop="20250911013000 +0000" channel="arena5premium.rs"><title>FUDBAL: Srbija - Engleska</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911013000 +0000" stop="20250911033000 +0000" channel="arena5premium.rs"><title>FUDBAL: Albanija - Letonija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911033000 +0000" stop="20250911053000 +0000" channel="arena5premium.rs"><title>ATLETIKA: World Athletics Continental Tour – Beijing</title><desc>WORLD ATHLETICS CONTINENTAL TOUR</desc></programme>
+<programme start="20250911053000 +0000" stop="20250911060000 +0000" channel="arena5premium.rs"><title>FUDBAL: Ligue 1 Show ep. 4</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="arena5premium.rs"><title>FUDBAL: Ekvador - Argentina</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="arena5premium.rs"><title>FUDBAL: Čile - Urugvaj</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911100000 +0000" stop="20250911113000 +0000" channel="arena5premium.rs"><title>RUKOMET: Aalborg - Veszprem</title><desc>EHF LIGA ŠAMPIONA</desc></programme>
+<programme start="20250911113000 +0000" stop="20250911120000 +0000" channel="arena5premium.rs"><title>FUDBAL: Bundesliga magazin</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250911120000 +0000" stop="20250911140000 +0000" channel="arena5premium.rs"><title>FUDBAL: Gana - Mali</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911140000 +0000" stop="20250911160000 +0000" channel="arena5premium.rs"><title>FUDBAL: Gvineja - Alžir</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911160000 +0000" stop="20250911180000 +0000" channel="arena5premium.rs"><title>FUDBAL: Kongo - Senegal</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="arena5premium.rs"><title>BEJZBOL: MLB Plays of the Week ep. 23</title><desc>MAJOR LEAGUE BASEBALL</desc></programme>
+<programme start="20250911183000 +0000" stop="20250911210000 +0000" channel="arena5premium.rs"><title>HOKEJ: SKA - Traktor</title><desc>UŽIVO</desc></programme>
+<programme start="20250911210000 +0000" stop="20250912000000 +0000" channel="arena5premium.rs"><title>BEJZBOL: Toronto Blue Jays - Houston Astros</title><desc>UŽIVO</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912020000 +0000" channel="arena5premium.rs"><title>FUDBAL: Nemačka - Severna Irska</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="arena5premium.rs"><title>FUDBAL: Turska - Španija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="arena5premium.rs"><title>FUDBAL: Poljska - Finska</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="arena5premium.rs"><title>FUDBAL: Izrael - Italija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250912080000 +0000" stop="20250912100000 +0000" channel="arena5premium.rs"><title>FUDBAL: Belorusija - Škotska</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="arena5premium.rs"><title>FUDBAL: Grčka - Danska</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250912120000 +0000" stop="20250912140000 +0000" channel="arena5premium.rs"><title>FUDBAL: Srbija - Engleska</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250912140000 +0000" stop="20250912160000 +0000" channel="arena5premium.rs"><title>FUDBAL: Ekvador - Argentina</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250912160000 +0000" stop="20250912180000 +0000" channel="arena5premium.rs"><title>FUDBAL: Čile - Urugvaj</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="arena5premium.rs"><title>FUDBAL: Najava 3. kola</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250912183000 +0000" stop="20250912203000 +0000" channel="arena5premium.rs"><title>FUDBAL: Paderborn - Bochum</title><desc>UŽIVO</desc></programme>
+<programme start="20250912203000 +0000" stop="20250912211500 +0000" channel="arena5premium.rs"><title>FUDBAL: PL Stories - Edwin van der Sar</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912211500 +0000" stop="20250913000000 +0000" channel="arena5premium.rs"><title>FUDBAL: Benfica - Santa Clara</title><desc>UŽIVO</desc></programme>
+<programme start="20250913000000 +0000" stop="20250913020000 +0000" channel="arena5premium.rs"><title>FUDBAL: Burkina Faso - Egipat</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="arena5premium.rs"><title>FUDBAL: Zelenortska Ostrva - Kamerun</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250913040000 +0000" stop="20250913060000 +0000" channel="arena5premium.rs"><title>FUDBAL: Južna Afrika - Nigerija</title><desc>KVALIFIKACIJE ZA SVETSKO PRVENSTVO</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913080000 +0000" channel="arena5premium.rs"><title>FUDBAL: Ipswich - Sheffield Utd</title><desc>CHAMPIONSHIP</desc></programme>
+<programme start="20250910000000 +0000" stop="20250910003000 +0000" channel="arena-adrenalin.rs"><title>: The Sports Rundown ep. 2</title><desc>: The Sports Rundown ep. 2</desc></programme>
+<programme start="20250910003000 +0000" stop="20250910010000 +0000" channel="arena-adrenalin.rs"><title>EKSTREMNI SPORTOVI: Explorers Documentaries S04E06 - My own Private Monster</title><desc>EKSTREMNI SPORTOVI: Explorers Documentaries S04E06 - My own Private Monster</desc></programme>
+<programme start="20250910010000 +0000" stop="20250910033000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Watkins Glen</title><desc>NASCAR CUP SERIES</desc></programme>
+<programme start="20250910033000 +0000" stop="20250910060000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Illinois 300</title><desc>NASCAR CUP SERIES</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910070000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Le Castellet, Trka 1</title><desc>F4 - E4 CHAMPIONSHIP</desc></programme>
+<programme start="20250910070000 +0000" stop="20250910080000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Le Castellet, Trka 2</title><desc>F4 - E4 CHAMPIONSHIP</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910090000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Le Castellet, Trka 3</title><desc>F4 - E4 CHAMPIONSHIP</desc></programme>
+<programme start="20250910090000 +0000" stop="20250910100000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Islas Canarias - Live Stage 2</title><desc>WRC</desc></programme>
+<programme start="20250910100000 +0000" stop="20250910110000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Islas Canarias - Live Stage 3</title><desc>WRC</desc></programme>
+<programme start="20250910110000 +0000" stop="20250910123000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Islas Canarias - Live Stage 4</title><desc>WRC</desc></programme>
+<programme start="20250910123000 +0000" stop="20250910133000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Italija: Sprint</title><desc>FORMULA 3</desc></programme>
+<programme start="20250910133000 +0000" stop="20250910140000 +0000" channel="arena-adrenalin.rs"><title>EKSTREMNI SPORTOVI: Explorers Documentaries S04E09 - Cerro Torre</title><desc>EKSTREMNI SPORTOVI: Explorers Documentaries S04E09 - Cerro Torre</desc></programme>
+<programme start="20250910140000 +0000" stop="20250910150000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Mađarska: Trka</title><desc>FORMULA 3</desc></programme>
+<programme start="20250910150000 +0000" stop="20250910163000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Mađarska: Trka</title><desc>FORMULA 2</desc></programme>
+<programme start="20250910163000 +0000" stop="20250910184500 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Mađarska: Trka</title><desc>FORMULA 1</desc></programme>
+<programme start="20250910184500 +0000" stop="20250910194500 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Mađarska: Sprint</title><desc>MOTO GP</desc></programme>
+<programme start="20250910194500 +0000" stop="20250910204500 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Španija: Trka</title><desc>MOTO 3</desc></programme>
+<programme start="20250910204500 +0000" stop="20250910220000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Španija: Trka</title><desc>MOTO 2</desc></programme>
+<programme start="20250910220000 +0000" stop="20250910233000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Španija: Trka</title><desc>MOTO GP</desc></programme>
+<programme start="20250910233000 +0000" stop="20250911000000 +0000" channel="arena-adrenalin.rs"><title>: Sportovi na otvorenom ep. 3</title><desc>: Sportovi na otvorenom ep. 3</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911003000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Reli Ceredigion, pregled</title><desc>EUROPEAN RALLY CHAMPIONSHIP</desc></programme>
+<programme start="20250911003000 +0000" stop="20250911010000 +0000" channel="arena-adrenalin.rs"><title>EKSTREMNI SPORTOVI: Explorers Documentaries S04E07 - Onekotan - The Lost Island</title><desc>EKSTREMNI SPORTOVI: Explorers Documentaries S04E07 - Onekotan - The Lost Island</desc></programme>
+<programme start="20250911010000 +0000" stop="20250911043000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Richmond 400</title><desc>NASCAR CUP SERIES</desc></programme>
+<programme start="20250911043000 +0000" stop="20250911050000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Reli Ceredigion, pregled</title><desc>EUROPEAN RALLY CHAMPIONSHIP</desc></programme>
+<programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="arena-adrenalin.rs"><title>EKSTREMNI SPORTOVI: Explorers Documentaries S05E01 - North of Known</title><desc>EKSTREMNI SPORTOVI: Explorers Documentaries S05E01 - North of Known</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911070000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Imola, Trka 1</title><desc>F4 - ITALIAN CHAMPIONSHIP</desc></programme>
+<programme start="20250911070000 +0000" stop="20250911080000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Portugal - Live Stage 1</title><desc>WRC</desc></programme>
+<programme start="20250911080000 +0000" stop="20250911090000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Portugal - Live Stage 2</title><desc>WRC</desc></programme>
+<programme start="20250911090000 +0000" stop="20250911100000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Portugal - Live Stage 4</title><desc>WRC</desc></programme>
+<programme start="20250911100000 +0000" stop="20250911110000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Portugal - Live Stage 4</title><desc>WRC</desc></programme>
+<programme start="20250911110000 +0000" stop="20250911120000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Portugal - Live Stage 5</title><desc>WRC</desc></programme>
+<programme start="20250911120000 +0000" stop="20250911133000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Portugal - Live Stage 6</title><desc>WRC</desc></programme>
+<programme start="20250911133000 +0000" stop="20250911140000 +0000" channel="arena-adrenalin.rs"><title>EKSTREMNI SPORTOVI: Explorers Documentaries S04E10 - Mission to the Edge of Space</title><desc>EKSTREMNI SPORTOVI: Explorers Documentaries S04E10 - Mission to the Edge of Space</desc></programme>
+<programme start="20250911140000 +0000" stop="20250911150000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Belgija: Trka</title><desc>FORMULA 3</desc></programme>
+<programme start="20250911150000 +0000" stop="20250911163000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Belgija: Trka</title><desc>FORMULA 2</desc></programme>
+<programme start="20250911163000 +0000" stop="20250911184500 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Belgija: Trka</title><desc>FORMULA 1</desc></programme>
+<programme start="20250911184500 +0000" stop="20250911194500 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Belgija: Sprint</title><desc>FORMULA 1</desc></programme>
+<programme start="20250911194500 +0000" stop="20250911204500 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Francuska: Trka</title><desc>MOTO 3</desc></programme>
+<programme start="20250911204500 +0000" stop="20250911220000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Francuska: Trka</title><desc>MOTO 2</desc></programme>
+<programme start="20250911220000 +0000" stop="20250911233000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Francuska: Trka</title><desc>MOTO GP</desc></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="arena-adrenalin.rs"><title>: The Sports Rundown ep. 3</title><desc>: The Sports Rundown ep. 3</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912010000 +0000" channel="arena-adrenalin.rs"><title>EKSTREMNI SPORTOVI: One Water Race 2025</title><desc>EKSTREMNI SPORTOVI: One Water Race 2025</desc></programme>
+<programme start="20250912010000 +0000" stop="20250912050000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Daytona 400</title><desc>NASCAR CUP SERIES</desc></programme>
+<programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="arena-adrenalin.rs"><title>EKSTREMNI SPORTOVI: Explorers Documentaries S05E02 - Voyage of the Finnmen</title><desc>EKSTREMNI SPORTOVI: Explorers Documentaries S05E02 - Voyage of the Finnmen</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912070000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Imola, Trka 2</title><desc>F4 - ITALIAN CHAMPIONSHIP</desc></programme>
+<programme start="20250912070000 +0000" stop="20250912080000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Katalonija: Sprint</title><desc>MOTO GP</desc></programme>
+<programme start="20250912080000 +0000" stop="20250912090000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Katalonija: Trka</title><desc>MOTO 3</desc></programme>
+<programme start="20250912090000 +0000" stop="20250912095000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: San Marino: Slobodan Trening 1</title><desc>UŽIVO</desc></programme>
+<programme start="20250912095000 +0000" stop="20250912104500 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: San Marino: Slobodan Trening 1</title><desc>UŽIVO</desc></programme>
+<programme start="20250912104500 +0000" stop="20250912113000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: San Marino: Slobodan Trening 1</title><desc>UŽIVO</desc></programme>
+<programme start="20250912113000 +0000" stop="20250912131500 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Katalonija: Trka</title><desc>MOTO GP</desc></programme>
+<programme start="20250912131500 +0000" stop="20250912140500 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: San Marino: Trening</title><desc>UŽIVO</desc></programme>
+<programme start="20250912140500 +0000" stop="20250912150000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: San Marino: Trening</title><desc>UŽIVO</desc></programme>
+<programme start="20250912150000 +0000" stop="20250912160000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: San Marino: Trening</title><desc>UŽIVO</desc></programme>
+<programme start="20250912160000 +0000" stop="20250912163000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Reli Ceredigion, pregled</title><desc>EUROPEAN RALLY CHAMPIONSHIP</desc></programme>
+<programme start="20250912163000 +0000" stop="20250912184500 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Italija: Trka</title><desc>FORMULA 1</desc></programme>
+<programme start="20250912184500 +0000" stop="20250912194500 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Italija: Sprint</title><desc>FORMULA 3</desc></programme>
+<programme start="20250912194500 +0000" stop="20250912204500 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Velika Britanija: Trka</title><desc>MOTO 3</desc></programme>
+<programme start="20250912204500 +0000" stop="20250912220000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Velika Britanija: Trka</title><desc>MOTO 2</desc></programme>
+<programme start="20250912220000 +0000" stop="20250912233000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Velika Britanija: Trka</title><desc>MOTO GP</desc></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="arena-adrenalin.rs"><title>: Pure Action ep. 1</title><desc>: Pure Action ep. 1</desc></programme>
+<programme start="20250913000000 +0000" stop="20250913010000 +0000" channel="arena-adrenalin.rs"><title>EKSTREMNI SPORTOVI: K2: The Impossible Descent</title><desc>EKSTREMNO SKIJANJE</desc></programme>
+<programme start="20250913010000 +0000" stop="20250913043000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Darlington 500</title><desc>NASCAR CUP SERIES</desc></programme>
+<programme start="20250913043000 +0000" stop="20250913050000 +0000" channel="arena-adrenalin.rs"><title>: Pure Action ep. 1</title><desc>: Pure Action ep. 1</desc></programme>
+<programme start="20250913050000 +0000" stop="20250913060000 +0000" channel="arena-adrenalin.rs"><title>EKSTREMNI SPORTOVI: Explorers Documentaries S05E03 - Calm in the Dark</title><desc>EKSTREMNI SPORTOVI: Explorers Documentaries S05E03 - Calm in the Dark</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913070000 +0000" channel="arena-adrenalin.rs"><title>MOTO SPORT: Imola, Trka 3</title><desc>F4 - ITALIAN CHAMPIONSHIP</desc></programme>
+<programme start="20250910000000 +0000" stop="20250910020000 +0000" channel="arenasport01.rs"><title>FUDBAL: Liverpool - Arsenal</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250910020000 +0000" stop="20250910040000 +0000" channel="arenasport01.rs"><title>FUDBAL: Middlesbrough - Sheffield Utd</title><desc>CHAMPIONSHIP</desc></programme>
+<programme start="20250910040000 +0000" stop="20250910060000 +0000" channel="arenasport01.rs"><title>FUDBAL: Bournemouth - Wolves</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910080000 +0000" channel="arenasport01.rs"><title>FUDBAL: Brentford - Aston Villa</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910100000 +0000" channel="arenasport01.rs"><title>FUDBAL: Sunderland - Brentford</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250910100000 +0000" stop="20250910103000 +0000" channel="arenasport01.rs"><title>FUDBAL: PL Stories - Sunderland - The return of the Black Cats</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250910103000 +0000" stop="20250910110000 +0000" channel="arenasport01.rs"><title>FUDBAL: The Big Interview - Cole Palmer</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250910110000 +0000" stop="20250910130000 +0000" channel="arenasport01.rs"><title>FUDBAL: Chelsea - Fulham</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250910130000 +0000" stop="20250910150000 +0000" channel="arenasport01.rs"><title>FUDBAL: Manchester City - Tottenham</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250910150000 +0000" stop="20250910170000 +0000" channel="arenasport01.rs"><title>FUDBAL: Nottingham Forest - Brentford</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250910170000 +0000" stop="20250910190000 +0000" channel="arenasport01.rs"><title>FUDBAL: Aston Villa - Crystal Palace</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250910190000 +0000" stop="20250910200000 +0000" channel="arenasport01.rs"><title>FUDBAL: Pregled 2. kola</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250910200000 +0000" stop="20250910220000 +0000" channel="arenasport01.rs"><title>FUDBAL: Zrinjski - Sarajevo</title><desc>UŽIVO</desc></programme>
+<programme start="20250910220000 +0000" stop="20250911000000 +0000" channel="arenasport01.rs"><title>FUDBAL: Wolverhampton - Everton</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911020000 +0000" channel="arenasport01.rs"><title>FUDBAL: Shefffield Wednesday - Leeds</title><desc>ENGLESKI LIGA KUP</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="arenasport01.rs"><title>FUDBAL: Derby - Bristol City</title><desc>CHAMPIONSHIP</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911060000 +0000" channel="arenasport01.rs"><title>FUDBAL: Grimsby - Manchester United</title><desc>ENGLESKI LIGA KUP</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="arenasport01.rs"><title>FUDBAL: Tottenham - Bournemouth</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="arenasport01.rs"><title>FUDBAL: Crystal Palace - Nottingham Forest</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911100000 +0000" stop="20250911103000 +0000" channel="arenasport01.rs"><title>FUDBAL: NETBUSTERS ep. 1</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911103000 +0000" stop="20250911110000 +0000" channel="arenasport01.rs"><title>FUDBAL: Klasici Premijer Lige: Arsenal - Leed United 2002/03</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911110000 +0000" stop="20250911130000 +0000" channel="arenasport01.rs"><title>FUDBAL: West Ham - Chelsea</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911130000 +0000" stop="20250911150000 +0000" channel="arenasport01.rs"><title>FUDBAL: Rangers - Celtic</title><desc>ŠKOTSKA LIGA</desc></programme>
+<programme start="20250911150000 +0000" stop="20250911170000 +0000" channel="arenasport01.rs"><title>FUDBAL: Liverpool - Bournemouth</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911170000 +0000" stop="20250911190000 +0000" channel="arenasport01.rs"><title>FUDBAL: Manchester United - Arsenal</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911190000 +0000" stop="20250911210000 +0000" channel="arenasport01.rs"><title>FUDBAL: Burnley - Sunderland</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911210000 +0000" stop="20250911230000 +0000" channel="arenasport01.rs"><title>FUDBAL: Wolverhampton - Manchester City</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250911230000 +0000" stop="20250911233000 +0000" channel="arenasport01.rs"><title>: Mi živimo za košarku ep. 38 - KK Srem, 1. deo</title><desc>: Mi živimo za košarku ep. 38 - KK Srem, 1. deo</desc></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="arenasport01.rs"><title>FUDBAL: NETBUSTERS ep. 2</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912020000 +0000" channel="arenasport01.rs"><title>FUDBAL: Leeds - Newcastle</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="arenasport01.rs"><title>FUDBAL: Dundee - Dundee United</title><desc>ŠKOTSKA LIGA</desc></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="arenasport01.rs"><title>FUDBAL: Fulham - Manchester United</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="arenasport01.rs"><title>FUDBAL: Leeds - Newcastle</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912080000 +0000" stop="20250912100000 +0000" channel="arenasport01.rs"><title>FUDBAL: Brighton - Fulham</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912100000 +0000" stop="20250912103000 +0000" channel="arenasport01.rs"><title>FUDBAL: NETBUSTERS ep. 2</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912103000 +0000" stop="20250912110000 +0000" channel="arenasport01.rs"><title>FUDBAL: PL Stories : Jose Antonio Reyes</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912110000 +0000" stop="20250912130000 +0000" channel="arenasport01.rs"><title>FUDBAL: Liverpool - Arsenal</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912130000 +0000" stop="20250912150000 +0000" channel="arenasport01.rs"><title>FUDBAL: Aston Villa - Crystal Palace</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912150000 +0000" stop="20250912170000 +0000" channel="arenasport01.rs"><title>FUDBAL: Brighton - Manchester City</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="arenasport01.rs"><title>FUDBAL: The Big Interview - Micky van de Ven</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912173000 +0000" stop="20250912183000 +0000" channel="arenasport01.rs"><title>FUDBAL: Pregled 3. kola</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250912183000 +0000" stop="20250912190000 +0000" channel="arenasport01.rs"><title>FUDBAL: Oni žive za fudbal ep. 193</title><desc>FUDBAL: Oni žive za fudbal ep. 193</desc></programme>
+<programme start="20250912190000 +0000" stop="20250912210000 +0000" channel="arenasport01.rs"><title>FUDBAL: Bodo/Glimt - Kristiansund</title><desc>UŽIVO</desc></programme>
+<programme start="20250912210000 +0000" stop="20250912230000 +0000" channel="arenasport01.rs"><title>FUDBAL: Ipswich - Sheffield Utd</title><desc>UŽIVO</desc></programme>
+<programme start="20250912230000 +0000" stop="20250912233000 +0000" channel="arenasport01.rs"><title>: Zona zdravog sporta</title><desc>: Zona zdravog sporta</desc></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="arenasport01.rs"><title>FUDBAL: NETBUSTERS ep. 3</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250913000000 +0000" stop="20250913020000 +0000" channel="arenasport01.rs"><title>FUDBAL: Chelsea - Crystal Palace</title><desc>ENGLESKA LIGA</desc></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="arenasport01.rs"><title>FUDBAL: Ipswich - Sheffield Utd</title><desc>CHAMPIONSHIP</desc></programme>
+<programme start="20250913040000 +0000" stop="20250913060000 +0000" channel="arenasport01.rs"><title>FUDBAL: Bolton - Reading</title><desc>LEAGUE ONE</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913080000 +0000" channel="arenasport01.rs"><title>FUDBAL: Rangers - Celtic</title><desc>ŠKOTSKA LIGA</desc></programme>
+<programme start="20250910010000 +0000" stop="20250910030000 +0000" channel="arenasport02.rs"><title>FUDBAL: Parma - Atalanta</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250910030000 +0000" stop="20250910033000 +0000" channel="arenasport02.rs"><title>FUDBAL: Full Impact ep. 2</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250910033000 +0000" stop="20250910040000 +0000" channel="arenasport02.rs"><title>FUDBAL: LaLiga Best11 ep. 6 - Luis Garcia</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250910040000 +0000" stop="20250910060000 +0000" channel="arenasport02.rs"><title>FUDBAL: Elche - Levante</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910080000 +0000" channel="arenasport02.rs"><title>FUDBAL: Cremonese - Sassuolo</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910100000 +0000" channel="arenasport02.rs"><title>FUDBAL: Villarreal - Girona</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250910100000 +0000" stop="20250910103000 +0000" channel="arenasport02.rs"><title>: Buduće zvezde Arene - Galeb tekvondo kamp</title><desc>: Buduće zvezde Arene - Galeb tekvondo kamp</desc></programme>
+<programme start="20250910103000 +0000" stop="20250910123000 +0000" channel="arenasport02.rs"><title>FUDBAL: Pisa - Roma</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250910123000 +0000" stop="20250910143000 +0000" channel="arenasport02.rs"><title>FUDBAL: Sevilla - Getafe</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250910143000 +0000" stop="20250910163000 +0000" channel="arenasport02.rs"><title>FUDBAL: Sassuolo - Napoli</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250910163000 +0000" stop="20250910183000 +0000" channel="arenasport02.rs"><title>FUDBAL: Rayo Vallecano - Barcelona</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250910183000 +0000" stop="20250910203000 +0000" channel="arenasport02.rs"><title>FUDBAL: Inter - Udinese</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250910203000 +0000" stop="20250910223000 +0000" channel="arenasport02.rs"><title>FUDBAL: Lazio - Verona</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250910223000 +0000" stop="20250910230000 +0000" channel="arenasport02.rs"><title>FUDBAL: Full Impact ep. 2</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250910230000 +0000" stop="20250911010000 +0000" channel="arenasport02.rs"><title>FUDBAL: Athletic - Sevilla</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250911010000 +0000" stop="20250911030000 +0000" channel="arenasport02.rs"><title>FUDBAL: Genoa - Lecce</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250911030000 +0000" stop="20250911040000 +0000" channel="arenasport02.rs"><title>: Otvoreno sa Anđusom</title><desc>: Otvoreno sa Anđusom</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911060000 +0000" channel="arenasport02.rs"><title>FUDBAL: Albacete - Mirandes</title><desc>ŠPANSKA 2. LIGA</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="arenasport02.rs"><title>FUDBAL: Atalanta - Pisa</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="arenasport02.rs"><title>FUDBAL: Levante - Barcelona</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250911100000 +0000" stop="20250911103000 +0000" channel="arenasport02.rs"><title>: Mali sportovi - veliki sportisti ep. 23 - BHC Student, 1. deo</title><desc>: Mali sportovi - veliki sportisti ep. 23 - BHC Student, 1. deo</desc></programme>
+<programme start="20250911103000 +0000" stop="20250911123000 +0000" channel="arenasport02.rs"><title>FUDBAL: Milan - Cremonese</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250911123000 +0000" stop="20250911143000 +0000" channel="arenasport02.rs"><title>FUDBAL: Atletico - Elche</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250911143000 +0000" stop="20250911163000 +0000" channel="arenasport02.rs"><title>FUDBAL: Parma - Atalanta</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250911163000 +0000" stop="20250911183000 +0000" channel="arenasport02.rs"><title>FUDBAL: Girona - Sevilla</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250911183000 +0000" stop="20250911203000 +0000" channel="arenasport02.rs"><title>FUDBAL: Roma - Bologna</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250911203000 +0000" stop="20250911230000 +0000" channel="arenasport02.rs"><title>FUDBAL: Lecce - Milan</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250911230000 +0000" stop="20250912010000 +0000" channel="arenasport02.rs"><title>FUDBAL: Real Sociedad - Espanyol</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250912010000 +0000" stop="20250912020000 +0000" channel="arenasport02.rs"><title>FUDBAL: Pregled 2. kola</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="arenasport02.rs"><title>FUDBAL: Bologna - Como</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="arenasport02.rs"><title>FUDBAL: Villarreal - Girona</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="arenasport02.rs"><title>FUDBAL: Inter - Torino</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250912080000 +0000" stop="20250912100000 +0000" channel="arenasport02.rs"><title>FUDBAL: Osasuna - Valencia</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250912100000 +0000" stop="20250912103000 +0000" channel="arenasport02.rs"><title>FUDBAL: Full Impact ep. 2</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250912103000 +0000" stop="20250912123000 +0000" channel="arenasport02.rs"><title>FUDBAL: Juventus - Parma</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250912123000 +0000" stop="20250912143000 +0000" channel="arenasport02.rs"><title>FUDBAL: Athletic - Rayo Vallecano</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250912143000 +0000" stop="20250912180000 +0000" channel="arenasport02.rs"><title>FUDBAL: Torino - Fiorentina</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250912180000 +0000" stop="20250912203000 +0000" channel="arenasport02.rs"><title>FUDBAL: Kolubara - Zvezdara</title><desc>UŽIVO</desc></programme>
+<programme start="20250912203000 +0000" stop="20250912230000 +0000" channel="arenasport02.rs"><title>FUDBAL: Las Palmas - Real Sociedad B</title><desc>UŽIVO</desc></programme>
+<programme start="20250912230000 +0000" stop="20250913010000 +0000" channel="arenasport02.rs"><title>FUDBAL: Real Madrid - Mallorca</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250913010000 +0000" stop="20250913040000 +0000" channel="arenasport02.rs"><title>FUDBAL: Pisa - Roma</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250913040000 +0000" stop="20250913140000 +0000" channel="arenasport02.rs"><title>FUDBAL: Espanyol - Osasuna</title><desc>ŠPANSKA LIGA</desc></programme>
+<programme start="20250910000000 +0000" stop="20250910020000 +0000" channel="arenasport03.rs"><title>FUDBAL: Midtjylland - Silkeborg</title><desc>DANSKA LIGA</desc></programme>
+<programme start="20250910020000 +0000" stop="20250910040000 +0000" channel="arenasport03.rs"><title>FUDBAL: Saint-Etienne - Grenoble</title><desc>FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20250910040000 +0000" stop="20250910060000 +0000" channel="arenasport03.rs"><title>FUDBAL: Stuttgart - B.Monchengladbach</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910080000 +0000" channel="arenasport03.rs"><title>FUDBAL: Midtjylland - Silkeborg</title><desc>DANSKA LIGA</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910100000 +0000" channel="arenasport03.rs"><title>FUDBAL: PSV - Telstar</title><desc>HOLANDSKA LIGA</desc></programme>
+<programme start="20250910100000 +0000" stop="20250910120000 +0000" channel="arenasport03.rs"><title>FUDBAL: Kaiserslautern - Darmstadt</title><desc>NEMAČKA 2. LIGA</desc></programme>
+<programme start="20250910120000 +0000" stop="20250910140000 +0000" channel="arenasport03.rs"><title>FUDBAL: Toulouse - PSG</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250910140000 +0000" stop="20250910150000 +0000" channel="arenasport03.rs"><title>FUDBAL: Pregled 2. kola</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250910150000 +0000" stop="20250910170000 +0000" channel="arenasport03.rs"><title>FUDBAL: Augsburg - Bayern</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250910170000 +0000" stop="20250910190000 +0000" channel="arenasport03.rs"><title>FUDBAL: Angers - Rennes</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250910190000 +0000" stop="20250910210000 +0000" channel="arenasport03.rs"><title>FUDBAL: HSV - St. Pauli</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250910210000 +0000" stop="20250910220000 +0000" channel="arenasport03.rs"><title>FUDBAL: Pregled 4. kola</title><desc>HOLANDSKA LIGA</desc></programme>
+<programme start="20250910220000 +0000" stop="20250911000000 +0000" channel="arenasport03.rs"><title>FUDBAL: Sparta - Feyenoord</title><desc>HOLANDSKA LIGA</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911020000 +0000" channel="arenasport03.rs"><title>FUDBAL: Copenhagen - OB</title><desc>DANSKA LIGA</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="arenasport03.rs"><title>FUDBAL: Kiel - Hannover</title><desc>NEMAČKA 2. LIGA</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911060000 +0000" channel="arenasport03.rs"><title>FUDBAL: Angers - Rennes</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="arenasport03.rs"><title>FUDBAL: Copenhagen - OB</title><desc>DANSKA LIGA</desc></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="arenasport03.rs"><title>FUDBAL: Volendam - Ajax</title><desc>HOLANDSKA LIGA</desc></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="arenasport03.rs"><title>FUDBAL: Saint-Etienne - Grenoble</title><desc>FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20250911120000 +0000" stop="20250911140000 +0000" channel="arenasport03.rs"><title>FUDBAL: Le Havre - Nice</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250911140000 +0000" stop="20250911143000 +0000" channel="arenasport03.rs"><title>FUDBAL: Pregled 3. kola</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250911143000 +0000" stop="20250911150000 +0000" channel="arenasport03.rs"><title>FUDBAL: Ligue 1 Show ep. 3</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250911150000 +0000" stop="20250911170000 +0000" channel="arenasport03.rs"><title>FUDBAL: Werder Bremen - Bayer Leverkusen</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250911170000 +0000" stop="20250911173000 +0000" channel="arenasport03.rs"><title>: Oni vole Srbiju - Aleks Marić, 1. deo</title><desc>: Oni vole Srbiju - Aleks Marić, 1. deo</desc></programme>
+<programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="arenasport03.rs"><title>: Oni vole Srbiju - Aleks Marić, 2. deo</title><desc>: Oni vole Srbiju - Aleks Marić, 2. deo</desc></programme>
+<programme start="20250911180000 +0000" stop="20250911200000 +0000" channel="arenasport03.rs"><title>FUDBAL: Lens - Brest</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250911200000 +0000" stop="20250911220000 +0000" channel="arenasport03.rs"><title>FUDBAL: Dortmund - Union Berlin</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250911220000 +0000" stop="20250912000000 +0000" channel="arenasport03.rs"><title>FUDBAL: Breda - AZ Alkmaar</title><desc>HOLANDSKA LIGA</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912020000 +0000" channel="arenasport03.rs"><title>FUDBAL: WAC - Rapid</title><desc>AUSTRIJSKA LIGA</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="arenasport03.rs"><title>FUDBAL: Reims - Le Mans</title><desc>FRANCUSKA 2. LIGA</desc></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="arenasport03.rs"><title>FUDBAL: Dortmund - Union Berlin</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="arenasport03.rs"><title>FUDBAL: Nordsjelland - Viborg</title><desc>DANSKA LIGA</desc></programme>
+<programme start="20250912080000 +0000" stop="20250912100000 +0000" channel="arenasport03.rs"><title>FUDBAL: Breda - AZ Alkmaar</title><desc>HOLANDSKA LIGA</desc></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="arenasport03.rs"><title>FUDBAL: Fortuna - Karlsruhe</title><desc>NEMAČKA 2. LIGA</desc></programme>
+<programme start="20250912120000 +0000" stop="20250912140000 +0000" channel="arenasport03.rs"><title>FUDBAL: Angers - Rennes</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250912140000 +0000" stop="20250912144500 +0000" channel="arenasport03.rs"><title>FUDBAL: Pregled 4. kola</title><desc>PORTUGALSKA LIGA</desc></programme>
+<programme start="20250912144500 +0000" stop="20250912150000 +0000" channel="arenasport03.rs"><title>FUDBAL: Season of greatness : Lille OSC 2010/11</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250912150000 +0000" stop="20250912170000 +0000" channel="arenasport03.rs"><title>FUDBAL: Leipzig - Heidenheim</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250912170000 +0000" stop="20250912190000 +0000" channel="arenasport03.rs"><title>FUDBAL: Lyon - Marseille</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250912190000 +0000" stop="20250912210000 +0000" channel="arenasport03.rs"><title>RUKOMET: Bekament BB - Bor</title><desc>UŽIVO</desc></programme>
+<programme start="20250912210000 +0000" stop="20250912230000 +0000" channel="arenasport03.rs"><title>FUDBAL: Radnik - Sloga</title><desc>UŽIVO</desc></programme>
+<programme start="20250912230000 +0000" stop="20250913000000 +0000" channel="arenasport03.rs"><title>FUDBAL: Bundesliga specijal: Rurska dolina - srce nemačkog fudbala, 2. deo</title><desc>NEMAČKA LIGA</desc></programme>
+<programme start="20250913000000 +0000" stop="20250913020000 +0000" channel="arenasport03.rs"><title>FUDBAL: Nordsjelland - Viborg</title><desc>DANSKA LIGA</desc></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="arenasport03.rs"><title>FUDBAL: Hertha - Elversberg</title><desc>NEMAČKA 2. LIGA</desc></programme>
+<programme start="20250913040000 +0000" stop="20250913153000 +0000" channel="arenasport03.rs"><title>FUDBAL: Nantes - Auxerre</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250910000000 +0000" stop="20250910020000 +0000" channel="arenasport04.rs"><title>FUDBAL: Bayern - Inter</title><desc>UEFA LIGA ŠAMPIONA</desc></programme>
+<programme start="20250910020000 +0000" stop="20250910040000 +0000" channel="arenasport04.rs"><title>FUDBAL: Anderlecht - AEK</title><desc>UEFA LIGA KONFERENCIJA - KVALIFIKACIJE</desc></programme>
+<programme start="20250910040000 +0000" stop="20250910060000 +0000" channel="arenasport04.rs"><title>FUDBAL: Celje - APOEL</title><desc>UEFA LIGA KONFERENCIJA</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910080000 +0000" channel="arenasport04.rs"><title>FUDBAL: Dynamo Kyiv - Pafos</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910100000 +0000" channel="arenasport04.rs"><title>FUDBAL: PAOK - Wolfsberger</title><desc>UEFA LIGA EVROPE - KVALIFIKACIJE</desc></programme>
+<programme start="20250910100000 +0000" stop="20250910110000 +0000" channel="arenasport04.rs"><title>FUDBAL: Liga Šampiona: Pregled sezone</title><desc>UEFA LIGA ŠAMPIONA</desc></programme>
+<programme start="20250910110000 +0000" stop="20250910130000 +0000" channel="arenasport04.rs"><title>FUDBAL: Fenerbahce - Benfica</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250910130000 +0000" stop="20250910150000 +0000" channel="arenasport04.rs"><title>FUDBAL: Roma - Porto</title><desc>UEFA LIGA EVROPE</desc></programme>
+<programme start="20250910150000 +0000" stop="20250910170000 +0000" channel="arenasport04.rs"><title>FUDBAL: Qarabag - Ferencvaros</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250910170000 +0000" stop="20250910190000 +0000" channel="arenasport04.rs"><title>FUDBAL: Fredrikstad - Crystal Palace</title><desc>UEFA LIGA KONFERENCIJA - KVALIFIKACIJE</desc></programme>
+<programme start="20250910190000 +0000" stop="20250910193000 +0000" channel="arenasport04.rs"><title>FUDBAL: Pregled dana 26.8.</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250910193000 +0000" stop="20250910200000 +0000" channel="arenasport04.rs"><title>FUDBAL: Pregled dana 27.8.</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250910200000 +0000" stop="20250910220000 +0000" channel="arenasport04.rs"><title>FUDBAL: Lech - Crvena zvezda</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250910220000 +0000" stop="20250911000000 +0000" channel="arenasport04.rs"><title>FUDBAL: Club Brugge - Rangers</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911020000 +0000" channel="arenasport04.rs"><title>FUDBAL: Legia - AEK Larnaca</title><desc>UEFA LIGA EVROPE - KVALIFIKACIJE</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="arenasport04.rs"><title>FUDBAL: Gyori - Rapid</title><desc>UEFA LIGA KONFERENCIJA - KVALIFIKACIJE</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911060000 +0000" channel="arenasport04.rs"><title>FUDBAL: AZ Alkmaar - Galatasaray</title><desc>UEFA LIGA EVROPE</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="arenasport04.rs"><title>FUDBAL: Lincoln Red Imps - Crvena zvezda</title><desc>FUDBAL: Lincoln Red Imps - Crvena zvezda</desc></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="arenasport04.rs"><title>FUDBAL: Legia - Hibernian</title><desc>UEFA LIGA KONFERENCIJA - KVALIFIKACIJE</desc></programme>
+<programme start="20250911100000 +0000" stop="20250911103000 +0000" channel="arenasport04.rs"><title>FUDBAL: Pregled dana 19.8.</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250911103000 +0000" stop="20250911110000 +0000" channel="arenasport04.rs"><title>FUDBAL: Pregled dana 20.8.</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250911110000 +0000" stop="20250911133000 +0000" channel="arenasport04.rs"><title>FUDBAL: Kairat - Celtic</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250911133000 +0000" stop="20250911153000 +0000" channel="arenasport04.rs"><title>FUDBAL: Ferencvaros - Qarabag</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250911153000 +0000" stop="20250911173000 +0000" channel="arenasport04.rs"><title>FUDBAL: Club Brugge - Salzburg</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250911173000 +0000" stop="20250911193000 +0000" channel="arenasport04.rs"><title>FUDBAL: Pafos - Crvena zvezda</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250911193000 +0000" stop="20250911200000 +0000" channel="arenasport04.rs"><title>FUDBAL: Pregled dana 26.8.</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250911200000 +0000" stop="20250911220000 +0000" channel="arenasport04.rs"><title>FUDBAL: PSG - Tottenham</title><desc>UEFA SUPERKUP</desc></programme>
+<programme start="20250911220000 +0000" stop="20250912000000 +0000" channel="arenasport04.rs"><title>FUDBAL: Brondby - Strasbourg</title><desc>UEFA LIGA KONFERENCIJA - KVALIFIKACIJE</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912020000 +0000" channel="arenasport04.rs"><title>FUDBAL: Rangers - Club Brugge</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="arenasport04.rs"><title>FUDBAL: Slovan - Young Boys</title><desc>UEFA LIGA EVROPE - KVALIFIKACIJE</desc></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="arenasport04.rs"><title>FUDBAL: Omonia - Pafos</title><desc>UEFA LIGA KONFERENCIJA</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="arenasport04.rs"><title>FUDBAL: Novi Pazar - Jagiellonia</title><desc>UEFA LIGA KONFERENCIJA - KVALIFIKACIJE</desc></programme>
+<programme start="20250912080000 +0000" stop="20250912100000 +0000" channel="arenasport04.rs"><title>FUDBAL: Crvena zvezda - Lincoln Red Imps</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250912100000 +0000" stop="20250912110000 +0000" channel="arenasport04.rs"><title>FUDBAL: Pregled 8. kola</title><desc>UEFA LIGA EVROPE</desc></programme>
+<programme start="20250912110000 +0000" stop="20250912130000 +0000" channel="arenasport04.rs"><title>FUDBAL: Crystal Palace - Fredrikstad</title><desc>UEFA LIGA KONFERENCIJA - KVALIFIKACIJE</desc></programme>
+<programme start="20250912130000 +0000" stop="20250912150000 +0000" channel="arenasport04.rs"><title>FUDBAL: Club Brugge - Rangers</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250912150000 +0000" stop="20250912170000 +0000" channel="arenasport04.rs"><title>FUDBAL: PSG - Inter, finale</title><desc>UEFA LIGA ŠAMPIONA</desc></programme>
+<programme start="20250912170000 +0000" stop="20250912190000 +0000" channel="arenasport04.rs"><title>FUDBAL: Betis - Chelsea, finale</title><desc>UEFA LIGA KONFERENCIJA</desc></programme>
+<programme start="20250912190000 +0000" stop="20250912200000 +0000" channel="arenasport04.rs"><title>FUDBAL: Liga Evrope, pregled sezone</title><desc>UEFA LIGA EVROPE</desc></programme>
+<programme start="20250912200000 +0000" stop="20250912203000 +0000" channel="arenasport04.rs"><title>FUDBAL: Pregled dana 26.8.</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250912203000 +0000" stop="20250912223000 +0000" channel="arenasport04.rs"><title>FUDBAL: Lech - Zaglebie</title><desc>UŽIVO</desc></programme>
+<programme start="20250912223000 +0000" stop="20250913010000 +0000" channel="arenasport04.rs"><title>FUDBAL: Tottenham - Man. United, finale</title><desc>UEFA LIGA EVROPE</desc></programme>
+<programme start="20250913010000 +0000" stop="20250913013000 +0000" channel="arenasport04.rs"><title>FUDBAL: Pregled dana 19.8.</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250913013000 +0000" stop="20250913020000 +0000" channel="arenasport04.rs"><title>FUDBAL: Pregled dana 20.8.</title><desc>UEFA LIGA ŠAMPIONA - KVALIFIKACIJE</desc></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="arenasport04.rs"><title>FUDBAL: PAOK - Wolfsberger</title><desc>UEFA LIGA EVROPE - KVALIFIKACIJE</desc></programme>
+<programme start="20250913040000 +0000" stop="20250913060000 +0000" channel="arenasport04.rs"><title>FUDBAL: Gyori - Rapid</title><desc>UEFA LIGA KONFERENCIJA - KVALIFIKACIJE</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913080000 +0000" channel="arenasport04.rs"><title>FUDBAL: Oleksandrija - Partizan</title><desc>UEFA LIGA KONFERENCIJA - KVALIFIKACIJE</desc></programme>
+<programme start="20250910000000 +0000" stop="20250910003000 +0000" channel="arenasport05.rs"><title>: Košarkaška pravila - Božidar Maljković</title><desc>: Košarkaška pravila - Božidar Maljković</desc></programme>
+<programme start="20250910003000 +0000" stop="20250910023000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Reggio Emilia - Trapani, G3</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250910023000 +0000" stop="20250910060000 +0000" channel="arenasport05.rs"><title>BASKET 3X3: Amsterdam, četvrtfinala</title><desc>FIBA 3X3 WORLD TOUR</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910074500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Besiktas - Karsiyaka</title><desc>TURSKA LIGA</desc></programme>
+<programme start="20250910074500 +0000" stop="20250910094500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Monaco - Barcelona, G5</title><desc>EVROLIGA</desc></programme>
+<programme start="20250910094500 +0000" stop="20250910114500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Turska - Poljska</title><desc>EUROBASKET</desc></programme>
+<programme start="20250910114500 +0000" stop="20250910121500 +0000" channel="arenasport05.rs"><title>: Mi živimo za košarku ep. 10 KK Borac - Zemun</title><desc>: Mi živimo za košarku ep. 10 KK Borac - Zemun</desc></programme>
+<programme start="20250910121500 +0000" stop="20250910141500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Paris - Monaco, finale G2</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250910141500 +0000" stop="20250910160000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Panathinaikos - Olympiacos, G1</title><desc>GRČKA LIGA</desc></programme>
+<programme start="20250910160000 +0000" stop="20250910180000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Žalgiris - Rytas, finale G3</title><desc>LITVANSKA LIGA</desc></programme>
+<programme start="20250910180000 +0000" stop="20250910200000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Fenerbahce - Besiktas, finale G1</title><desc>TURSKA LIGA</desc></programme>
+<programme start="20250910200000 +0000" stop="20250910220000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Gran Canaria - Hapoel Tel-Aviv, finale G2</title><desc>EVROKUP</desc></programme>
+<programme start="20250910220000 +0000" stop="20250911000000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Efes - Besiktas, polufinale G3</title><desc>TURSKA LIGA</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911003000 +0000" channel="arenasport05.rs"><title>: Košarkaška pravila - Žarko Paspalj</title><desc>: Košarkaška pravila - Žarko Paspalj</desc></programme>
+<programme start="20250911003000 +0000" stop="20250911023000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Armani - Trentino, G3</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250911023000 +0000" stop="20250911030000 +0000" channel="arenasport05.rs"><title>BASKET 3X3: Finale</title><desc>FIBA 3X3 EUROPE CUP</desc></programme>
+<programme start="20250911030000 +0000" stop="20250911060000 +0000" channel="arenasport05.rs"><title>BASKET 3X3: Marseille, četvrtfinala, polufinala i finale</title><desc>FIBA 3X3 WORLD TOUR</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911074500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Darussafaka - Fenerbahce</title><desc>TURSKA LIGA</desc></programme>
+<programme start="20250911074500 +0000" stop="20250911094500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Panathinaikos - Efes, G5</title><desc>EVROLIGA</desc></programme>
+<programme start="20250911094500 +0000" stop="20250911114500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Litvanija - Grčka</title><desc>EUROBASKET</desc></programme>
+<programme start="20250911114500 +0000" stop="20250911121500 +0000" channel="arenasport05.rs"><title>: Mi živimo za košarku ep. 11 KK Sveti Đorđe - Žitište</title><desc>: Mi živimo za košarku ep. 11 KK Sveti Đorđe - Žitište</desc></programme>
+<programme start="20250911121500 +0000" stop="20250911141500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Monaco - Paris, finale G3</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250911141500 +0000" stop="20250911160000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Olympiacos - Panathinaikos, G2</title><desc>GRČKA LIGA</desc></programme>
+<programme start="20250911160000 +0000" stop="20250911180000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Rytas - Žalgiris, finale G4</title><desc>LITVANSKA LIGA</desc></programme>
+<programme start="20250911180000 +0000" stop="20250911200000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Fenerbahce - Besiktas, finale G2</title><desc>TURSKA LIGA</desc></programme>
+<programme start="20250911200000 +0000" stop="20250911220000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Hapoel Tel-Aviv - Gran Canaria, finale G3</title><desc>EVROKUP</desc></programme>
+<programme start="20250911220000 +0000" stop="20250912000000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Efes - Besiktas, polufinale G4</title><desc>TURSKA LIGA</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912003000 +0000" channel="arenasport05.rs"><title>: Košarkaška pravila - Mihajlo Grušanović</title><desc>: Košarkaška pravila - Mihajlo Grušanović</desc></programme>
+<programme start="20250912003000 +0000" stop="20250912023000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Trieste - Brescia, G3</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250912023000 +0000" stop="20250912060000 +0000" channel="arenasport05.rs"><title>BASKET 3X3: Vienna, četvrtfinala, polufinala i finale</title><desc>FIBA 3X3 WORLD TOUR</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912074500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Bahcesehir - Yalovaspor</title><desc>TURSKA LIGA</desc></programme>
+<programme start="20250912074500 +0000" stop="20250912094500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Grčka - Izrael</title><desc>EUROBASKET</desc></programme>
+<programme start="20250912094500 +0000" stop="20250912114500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Fenerbahce - Panathinaikos</title><desc>EVROLIGA</desc></programme>
+<programme start="20250912114500 +0000" stop="20250912121500 +0000" channel="arenasport05.rs"><title>: Mi živimo za košarku ep. 12 KK Mladost - Veba</title><desc>: Mi živimo za košarku ep. 12 KK Mladost - Veba</desc></programme>
+<programme start="20250912121500 +0000" stop="20250912141500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Monaco - Paris, finale G4</title><desc>FRANCUSKA LIGA</desc></programme>
+<programme start="20250912141500 +0000" stop="20250912160000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Panathinaikos - Olympiacos, G3</title><desc>GRČKA LIGA</desc></programme>
+<programme start="20250912160000 +0000" stop="20250912200000 +0000" channel="arenasport05.rs"><title>BASKET 3X3: Novi Sad - BG League x Bulut hoop - grupna faza</title><desc>UŽIVO</desc></programme>
+<programme start="20250912200000 +0000" stop="20250912220000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Žalgiris - Rytas, finale G5</title><desc>LITVANSKA LIGA</desc></programme>
+<programme start="20250912220000 +0000" stop="20250912223000 +0000" channel="arenasport05.rs"><title>BASKET 3X3: Finale</title><desc>FIBA 3X3 EUROPE CUP</desc></programme>
+<programme start="20250912223000 +0000" stop="20250912230000 +0000" channel="arenasport05.rs"><title>BASKET 3X3: Finale Ž</title><desc>FIBA 3X3 EUROPE CUP Ž</desc></programme>
+<programme start="20250912230000 +0000" stop="20250913010000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Besiktas - Efes, polufinale G5</title><desc>TURSKA LIGA</desc></programme>
+<programme start="20250913010000 +0000" stop="20250913013000 +0000" channel="arenasport05.rs"><title>: Košarkaška pravila - Nemanja Aleksandrov</title><desc>: Košarkaška pravila - Nemanja Aleksandrov</desc></programme>
+<programme start="20250913013000 +0000" stop="20250913033000 +0000" channel="arenasport05.rs"><title>KOŠARKA: Venezia - Virtus, G3</title><desc>ITALIJANSKA LIGA</desc></programme>
+<programme start="20250913033000 +0000" stop="20250913060000 +0000" channel="arenasport05.rs"><title>BASKET 3X3: Edmonton, četvrtfinala, polufinala i finale</title><desc>FIBA 3X3 WORLD TOUR</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913074500 +0000" channel="arenasport05.rs"><title>KOŠARKA: Darussafaka - Tofas</title><desc>TURSKA LIGA</desc></programme>
+<programme start="20250910003000 +0000" stop="20250910020000 +0000" channel="arenasport06.rs"><title>RUKOMET: BVB Dortmund - Gyor</title><desc>EHF LIGA ŠAMPIONA (Ž)</desc></programme>
+<programme start="20250910020000 +0000" stop="20250910040000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Turska - Slovenija</title><desc>SVETSKO PRVENSTVO (Ž)</desc></programme>
+<programme start="20250910040000 +0000" stop="20250910060000 +0000" channel="arenasport06.rs"><title>ATLETIKA: Doha</title><desc>DIJAMANTSKA LIGA</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910073000 +0000" channel="arenasport06.rs"><title>RUKOMET: HSV Hamburg - RNL</title><desc>BUNDESLIGA</desc></programme>
+<programme start="20250910073000 +0000" stop="20250910080000 +0000" channel="arenasport06.rs"><title>: Homage ep. 4</title><desc>: Homage ep. 4</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910093000 +0000" channel="arenasport06.rs"><title>RUKOMET: Budućnost - Schaeffler</title><desc>EHF LIGA ŠAMPIONA (Ž)</desc></programme>
+<programme start="20250910093000 +0000" stop="20250910113000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Meč za 3. mesto</title><desc>SVETSKO PRVENSTVO (Ž)</desc></programme>
+<programme start="20250910113000 +0000" stop="20250910130000 +0000" channel="arenasport06.rs"><title>RUKOMET: Minden - Flensburg</title><desc>BUNDESLIGA</desc></programme>
+<programme start="20250910130000 +0000" stop="20250910150000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Eczacibasi - Vakifbank</title><desc>TURSKA LIGA Ž</desc></programme>
+<programme start="20250910150000 +0000" stop="20250910170000 +0000" channel="arenasport06.rs"><title>ATLETIKA: World Athletics Continental Tour – Beijing</title><desc>WORLD ATHLETICS CONTINENTAL TOUR</desc></programme>
+<programme start="20250910170000 +0000" stop="20250910193000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Spor Toto - Ziraat</title><desc>TURSKA LIGA</desc></programme>
+<programme start="20250910193000 +0000" stop="20250910210000 +0000" channel="arenasport06.rs"><title>RUKOMET: Fuchse Berlin - Magdeburg</title><desc>BUNDESLIGA</desc></programme>
+<programme start="20250910210000 +0000" stop="20250910223000 +0000" channel="arenasport06.rs"><title>RUKOMET: Brest - Krim Ljubljana</title><desc>EHF LIGA ŠAMPIONA (Ž)</desc></programme>
+<programme start="20250910223000 +0000" stop="20250911000000 +0000" channel="arenasport06.rs"><title>RUKOMET: Aalborg - Veszprem</title><desc>EHF LIGA ŠAMPIONA</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911020000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Finale</title><desc>SVETSKO PRVENSTVO (Ž)</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Holandija - Japan</title><desc>SVETSKO PRVENSTVO (Ž)</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911060000 +0000" channel="arenasport06.rs"><title>ATLETIKA: Shanghai/Keqiao</title><desc>DIJAMANTSKA LIGA</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911073000 +0000" channel="arenasport06.rs"><title>RUKOMET: Minden - Flensburg</title><desc>BUNDESLIGA</desc></programme>
+<programme start="20250911073000 +0000" stop="20250911080000 +0000" channel="arenasport06.rs"><title>: Homage ep. 5</title><desc>: Homage ep. 5</desc></programme>
+<programme start="20250911080000 +0000" stop="20250911093000 +0000" channel="arenasport06.rs"><title>RUKOMET: BVB Dortmund - Gyor</title><desc>EHF LIGA ŠAMPIONA (Ž)</desc></programme>
+<programme start="20250911093000 +0000" stop="20250911113000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Finale</title><desc>SVETSKO PRVENSTVO (Ž)</desc></programme>
+<programme start="20250911113000 +0000" stop="20250911130000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Fenerbahce - Zeren</title><desc>TURSKA LIGA Ž</desc></programme>
+<programme start="20250911130000 +0000" stop="20250911190000 +0000" channel="arenasport06.rs"><title>GOLF: BMW PGA CHAMPIONSHIP - Dan 1</title><desc>UŽIVO</desc></programme>
+<programme start="20250911190000 +0000" stop="20250911210000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Poljska - Japan, meč za 3. mesto</title><desc>LIGA NACIJA (Ž)</desc></programme>
+<programme start="20250911210000 +0000" stop="20250911223000 +0000" channel="arenasport06.rs"><title>RUKOMET: Budućnost - Schaeffler</title><desc>EHF LIGA ŠAMPIONA (Ž)</desc></programme>
+<programme start="20250911223000 +0000" stop="20250912000000 +0000" channel="arenasport06.rs"><title>RUKOMET: Pelister - Zagreb</title><desc>EHF LIGA ŠAMPIONA</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912020000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Conegliano - Milano, finale G1</title><desc>ITALIJANSKA LIGA Ž</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Italija - Poljska</title><desc>SVETSKO PRVENSTVO (Ž)</desc></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="arenasport06.rs"><title>ATLETIKA: Irena Szewinska Memorial</title><desc>WORLD ATHLETICS CONTINENTAL TOUR</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912073000 +0000" channel="arenasport06.rs"><title>RUKOMET: Ferencvaros - Odense</title><desc>EHF LIGA ŠAMPIONA (Ž)</desc></programme>
+<programme start="20250912073000 +0000" stop="20250912090000 +0000" channel="arenasport06.rs"><title>RUKOMET: Aalborg - Veszprem</title><desc>EHF LIGA ŠAMPIONA</desc></programme>
+<programme start="20250912090000 +0000" stop="20250912103000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Fenerbahce - THY</title><desc>TURSKI KUP Ž</desc></programme>
+<programme start="20250912103000 +0000" stop="20250912130000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Galatasaray - Fenerbahce, polufinale 1</title><desc>TURSKA LIGA Ž</desc></programme>
+<programme start="20250912130000 +0000" stop="20250912190000 +0000" channel="arenasport06.rs"><title>GOLF: BMW PGA CHAMPIONSHIP - Dan 2</title><desc>UŽIVO</desc></programme>
+<programme start="20250912190000 +0000" stop="20250912210000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Italija - Brazil, finale</title><desc>LIGA NACIJA (Ž)</desc></programme>
+<programme start="20250912210000 +0000" stop="20250912223000 +0000" channel="arenasport06.rs"><title>RUKOMET: BVB Dortmund - Gyor</title><desc>EHF LIGA ŠAMPIONA (Ž)</desc></programme>
+<programme start="20250912223000 +0000" stop="20250913000000 +0000" channel="arenasport06.rs"><title>RUKOMET: Nantes - Fuchse Berlin</title><desc>EHF LIGA ŠAMPIONA</desc></programme>
+<programme start="20250913000000 +0000" stop="20250913020000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Milano - Conegliano, finale G2</title><desc>ITALIJANSKA LIGA Ž</desc></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="arenasport06.rs"><title>ODBOJKA: Brazil - Francuska</title><desc>SVETSKO PRVENSTVO (Ž)</desc></programme>
+<programme start="20250913040000 +0000" stop="20250913060000 +0000" channel="arenasport06.rs"><title>ATLETIKA: World Athletics Continental Tour – Beijing</title><desc>WORLD ATHLETICS CONTINENTAL TOUR</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913073000 +0000" channel="arenasport06.rs"><title>RUKOMET: Brest - Krim Ljubljana</title><desc>EHF LIGA ŠAMPIONA (Ž)</desc></programme>
+<programme start="20250910010000 +0000" stop="20250910030000 +0000" channel="arenasport07.rs"><title>ODBOJKA: Zenit - Dinamo</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250910030000 +0000" stop="20250910053000 +0000" channel="arenasport07.rs"><title>ODBOJKA: Odinstovo - Dynamo Moscow</title><desc>RUSKA LIGA (Ž)</desc></programme>
+<programme start="20250910053000 +0000" stop="20250910060000 +0000" channel="arenasport07.rs"><title>: I očevi su šampioni ep. 21 - Srđan Milovanović</title><desc>: I očevi su šampioni ep. 21 - Srđan Milovanović</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910080000 +0000" channel="arenasport07.rs"><title>HOKEJ: Spartak - Dinamo Mn</title><desc>KHL</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910094500 +0000" channel="arenasport07.rs"><title>KOŠARKA: Lokomotiv - UNICS</title><desc>VTB LIGA</desc></programme>
+<programme start="20250910094500 +0000" stop="20250910113000 +0000" channel="arenasport07.rs"><title>KOŠARKA: Pari NN - CSKA</title><desc>VTB LIGA</desc></programme>
+<programme start="20250910113000 +0000" stop="20250910120000 +0000" channel="arenasport07.rs"><title>: Padel u Srbiji ep. 2 - Uvod u padel</title><desc>: Padel u Srbiji ep. 2 - Uvod u padel</desc></programme>
+<programme start="20250910120000 +0000" stop="20250910140000 +0000" channel="arenasport07.rs"><title>FUDBAL: Krylya Sovetov - Krasnodar</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250910140000 +0000" stop="20250910160000 +0000" channel="arenasport07.rs"><title>FUDBAL: Spartak - Sochi</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250910160000 +0000" stop="20250910163000 +0000" channel="arenasport07.rs"><title>FUDBAL: Oni žive za fudbal ep. 172 FK JEDINSTVO 1936 - Kruševac</title><desc>FUDBAL: Oni žive za fudbal ep. 172 FK JEDINSTVO 1936 - Kruševac</desc></programme>
+<programme start="20250910163000 +0000" stop="20250910183000 +0000" channel="arenasport07.rs"><title>FUDBAL: CSKA - Krasnodar</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250910183000 +0000" stop="20250910203000 +0000" channel="arenasport07.rs"><title>FUDBAL: Zenit - Nizhny Novgorod</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250910203000 +0000" stop="20250910210000 +0000" channel="arenasport07.rs"><title>MOTO SPORT: Emisija: Mobil Auto ep. 36</title><desc>MOTO SPORT: Emisija: Mobil Auto ep. 36</desc></programme>
+<programme start="20250910210000 +0000" stop="20250910230000 +0000" channel="arenasport07.rs"><title>FUDBAL: Spartak - Sochi</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250910230000 +0000" stop="20250911010000 +0000" channel="arenasport07.rs"><title>FUDBAL: Lokomotiv - Krylya Sovetov</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250911010000 +0000" stop="20250911013000 +0000" channel="arenasport07.rs"><title>: Buduće zvezde Arene ep. 51</title><desc>: Buduće zvezde Arene ep. 51</desc></programme>
+<programme start="20250911013000 +0000" stop="20250911033000 +0000" channel="arenasport07.rs"><title>ODBOJKA: Zenit - Dinamo</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250911033000 +0000" stop="20250911053000 +0000" channel="arenasport07.rs"><title>ODBOJKA: Lokomotiv - Leningradka</title><desc>RUSKA LIGA (Ž)</desc></programme>
+<programme start="20250911053000 +0000" stop="20250911060000 +0000" channel="arenasport07.rs"><title>: I očevi su šampioni ep. 22 - Boriša Milenković</title><desc>: I očevi su šampioni ep. 22 - Boriša Milenković</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="arenasport07.rs"><title>HOKEJ: Lokomotiv - Traktor</title><desc>KHL</desc></programme>
+<programme start="20250911080000 +0000" stop="20250911094500 +0000" channel="arenasport07.rs"><title>KOŠARKA: UNICS - CSKA</title><desc>VTB LIGA</desc></programme>
+<programme start="20250911094500 +0000" stop="20250911113000 +0000" channel="arenasport07.rs"><title>KOŠARKA: Lokomotiv - Zenit</title><desc>VTB LIGA</desc></programme>
+<programme start="20250911113000 +0000" stop="20250911120000 +0000" channel="arenasport07.rs"><title>: Padel u Srbiji ep. 3 - Šta je sve potrebno za padel</title><desc>: Padel u Srbiji ep. 3 - Šta je sve potrebno za padel</desc></programme>
+<programme start="20250911120000 +0000" stop="20250911140000 +0000" channel="arenasport07.rs"><title>FUDBAL: CSKA - Akron</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250911140000 +0000" stop="20250911160000 +0000" channel="arenasport07.rs"><title>FUDBAL: Lokomotiv - Krylya Sovetov</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="arenasport07.rs"><title>FUDBAL: Oni žive za fudbal ep. 173 FK ZLATIBOR</title><desc>FUDBAL: Oni žive za fudbal ep. 173 FK ZLATIBOR</desc></programme>
+<programme start="20250911163000 +0000" stop="20250911183000 +0000" channel="arenasport07.rs"><title>FUDBAL: Krylya Sovetov - Krasnodar</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250911183000 +0000" stop="20250911203000 +0000" channel="arenasport07.rs"><title>FUDBAL: Spartak - Sochi</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="arenasport07.rs"><title>: Zona zdravog sporta</title><desc>: Zona zdravog sporta</desc></programme>
+<programme start="20250911210000 +0000" stop="20250911230000 +0000" channel="arenasport07.rs"><title>FUDBAL: Zenit - Nizhny Novgorod</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250911230000 +0000" stop="20250912010000 +0000" channel="arenasport07.rs"><title>HOKEJ: SKA - Traktor</title><desc>KHL</desc></programme>
+<programme start="20250912010000 +0000" stop="20250912013000 +0000" channel="arenasport07.rs"><title>: Teme do Arene - Jelena Todorović</title><desc>: Teme do Arene - Jelena Todorović</desc></programme>
+<programme start="20250912013000 +0000" stop="20250912033000 +0000" channel="arenasport07.rs"><title>ODBOJKA: Zenit - Dinamo-LO</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250912033000 +0000" stop="20250912053000 +0000" channel="arenasport07.rs"><title>ODBOJKA: Odinstovo - Dynamo Moscow</title><desc>RUSKA LIGA (Ž)</desc></programme>
+<programme start="20250912053000 +0000" stop="20250912060000 +0000" channel="arenasport07.rs"><title>: I očevi su šampioni ep. 23 - Dragutin Topić</title><desc>: I očevi su šampioni ep. 23 - Dragutin Topić</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="arenasport07.rs"><title>HOKEJ: SKA - Traktor</title><desc>KHL</desc></programme>
+<programme start="20250912080000 +0000" stop="20250912094500 +0000" channel="arenasport07.rs"><title>KOŠARKA: Zenit - Parma, G1</title><desc>VTB LIGA</desc></programme>
+<programme start="20250912094500 +0000" stop="20250912113000 +0000" channel="arenasport07.rs"><title>KOŠARKA: CSKA - UNICS</title><desc>VTB LIGA</desc></programme>
+<programme start="20250912113000 +0000" stop="20250912120000 +0000" channel="arenasport07.rs"><title>: Padel u Srbiji ep. 4 - Druga strana padela</title><desc>: Padel u Srbiji ep. 4 - Druga strana padela</desc></programme>
+<programme start="20250912120000 +0000" stop="20250912140000 +0000" channel="arenasport07.rs"><title>FUDBAL: Lokomotiv - Krylya Sovetov</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250912140000 +0000" stop="20250912160000 +0000" channel="arenasport07.rs"><title>FUDBAL: CSKA - Krasnodar</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250912160000 +0000" stop="20250912180000 +0000" channel="arenasport07.rs"><title>FUDBAL: Zenit - Nizhny Novgorod</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="arenasport07.rs"><title>FUDBAL: Oni žive za fudbal ep. 174 FK JEDINSTVO 1976 - Smederevo</title><desc>FUDBAL: Oni žive za fudbal ep. 174 FK JEDINSTVO 1976 - Smederevo</desc></programme>
+<programme start="20250912183000 +0000" stop="20250912203000 +0000" channel="arenasport07.rs"><title>HOKEJ: Lokomotiv - Traktor</title><desc>KHL</desc></programme>
+<programme start="20250912203000 +0000" stop="20250912210000 +0000" channel="arenasport07.rs"><title>: Mali sportovi - veliki sportisti ep. 23 - BHC Student, 1. deo</title><desc>: Mali sportovi - veliki sportisti ep. 23 - BHC Student, 1. deo</desc></programme>
+<programme start="20250912210000 +0000" stop="20250912230000 +0000" channel="arenasport07.rs"><title>FUDBAL: Dinamo - CSKA</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250912230000 +0000" stop="20250913010000 +0000" channel="arenasport07.rs"><title>FUDBAL: Rubin - Dynamo Makhachkala</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250913010000 +0000" stop="20250913013000 +0000" channel="arenasport07.rs"><title>: Zona zdravog sporta</title><desc>: Zona zdravog sporta</desc></programme>
+<programme start="20250913013000 +0000" stop="20250913033000 +0000" channel="arenasport07.rs"><title>ODBOJKA: Zenit Kazan - Lokomotiv</title><desc>RUSKA LIGA</desc></programme>
+<programme start="20250913033000 +0000" stop="20250913053000 +0000" channel="arenasport07.rs"><title>ODBOJKA: Odinstovo - Dinamo Kazan</title><desc>RUSKA LIGA (Ž)</desc></programme>
+<programme start="20250913053000 +0000" stop="20250913060000 +0000" channel="arenasport07.rs"><title>: I očevi su šampioni ep. 24 - Mileta Prijović</title><desc>: I očevi su šampioni ep. 24 - Mileta Prijović</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913080000 +0000" channel="arenasport07.rs"><title>HOKEJ: CSKA - Dynamo</title><desc>KHL</desc></programme>
+<programme start="20250910000000 +0000" stop="20250910023000 +0000" channel="arenasport08.rs"><title>AMERIČKI FUDBAL: Green Bay Packers - Detroit Lions</title><desc>NFL</desc></programme>
+<programme start="20250910023000 +0000" stop="20250910050000 +0000" channel="arenasport08.rs"><title>BEJZBOL: Minnesota Twins - Athletics</title><desc>MAJOR LEAGUE BASEBALL</desc></programme>
+<programme start="20250910050000 +0000" stop="20250910060000 +0000" channel="arenasport08.rs"><title>KOŠARKA: NBA Chasing History 4. deo</title><desc>NBA</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910080000 +0000" channel="arenasport08.rs"><title>KOŠARKA: Boston - New York</title><desc>NBA</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910100000 +0000" channel="arenasport08.rs"><title>KOŠARKA: LA Lakers - LA Clippers</title><desc>NBA</desc></programme>
+<programme start="20250910100000 +0000" stop="20250910120000 +0000" channel="arenasport08.rs"><title>HOKEJ: New York Rangers - New York Islanders</title><desc>NHL</desc></programme>
+<programme start="20250910120000 +0000" stop="20250910143000 +0000" channel="arenasport08.rs"><title>AMERIČKI FUDBAL: New York Jets - Pittsburgh Steelers</title><desc>NFL</desc></programme>
+<programme start="20250910143000 +0000" stop="20250910170000 +0000" channel="arenasport08.rs"><title>BEJZBOL: Detroit Tigers - Houston Astros</title><desc>MAJOR LEAGUE BASEBALL</desc></programme>
+<programme start="20250910170000 +0000" stop="20250910193000 +0000" channel="arenasport08.rs"><title>AMERIČKI FUDBAL: Philadelphia Eagles - Dallas Cowboys</title><desc>NFL</desc></programme>
+<programme start="20250910193000 +0000" stop="20250910213000 +0000" channel="arenasport08.rs"><title>KOŠARKA: Denver - LA Clippers, G7</title><desc>NBA</desc></programme>
+<programme start="20250910213000 +0000" stop="20250910220000 +0000" channel="arenasport08.rs"><title>KOŠARKA: Specijal: NBA Igrači</title><desc>NBA</desc></programme>
+<programme start="20250910220000 +0000" stop="20250911000000 +0000" channel="arenasport08.rs"><title>KOŠARKA: LA Lakers - Golden State</title><desc>NBA</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911023000 +0000" channel="arenasport08.rs"><title>AMERIČKI FUDBAL: Chicago Bears - Minnesota Vikings</title><desc>NFL</desc></programme>
+<programme start="20250911023000 +0000" stop="20250911050000 +0000" channel="arenasport08.rs"><title>BEJZBOL: Detroit Tigers - New York Mets</title><desc>MAJOR LEAGUE BASEBALL</desc></programme>
+<programme start="20250911050000 +0000" stop="20250911060000 +0000" channel="arenasport08.rs"><title>KOŠARKA: NBA Chasing History 1. deo</title><desc>NBA</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="arenasport08.rs"><title>KOŠARKA: Oklahoma - Minnesota</title><desc>NBA</desc></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="arenasport08.rs"><title>KOŠARKA: Boston - Denver</title><desc>NBA</desc></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="arenasport08.rs"><title>HOKEJ: Buffalo Sabres - Calgary Flames</title><desc>NHL</desc></programme>
+<programme start="20250911120000 +0000" stop="20250911143000 +0000" channel="arenasport08.rs"><title>AMERIČKI FUDBAL: Green Bay Packers - Detroit Lions</title><desc>NFL</desc></programme>
+<programme start="20250911143000 +0000" stop="20250911170000 +0000" channel="arenasport08.rs"><title>BEJZBOL: Texas Rangers - Milwaukee Brewers</title><desc>MAJOR LEAGUE BASEBALL</desc></programme>
+<programme start="20250911170000 +0000" stop="20250911193000 +0000" channel="arenasport08.rs"><title>AMERIČKI FUDBAL: Chicago Bears - Minnesota Vikings</title><desc>NFL</desc></programme>
+<programme start="20250911193000 +0000" stop="20250911213000 +0000" channel="arenasport08.rs"><title>KOŠARKA: Denver - Minnesota</title><desc>NBA</desc></programme>
+<programme start="20250911213000 +0000" stop="20250911220000 +0000" channel="arenasport08.rs"><title>: Emisija: Direkt</title><desc>: Emisija: Direkt</desc></programme>
+<programme start="20250911220000 +0000" stop="20250912000000 +0000" channel="arenasport08.rs"><title>KOŠARKA: Houston - Oklahoma</title><desc>NBA</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912023000 +0000" channel="arenasport08.rs"><title>AMERIČKI FUDBAL: Philadelphia Eagles - Dallas Cowboys</title><desc>NFL</desc></programme>
+<programme start="20250912023000 +0000" stop="20250912050000 +0000" channel="arenasport08.rs"><title>BEJZBOL: Detroit Tigers - Houston Astros</title><desc>MAJOR LEAGUE BASEBALL</desc></programme>
+<programme start="20250912050000 +0000" stop="20250912060000 +0000" channel="arenasport08.rs"><title>KOŠARKA: NBA Chasing History 2. deo</title><desc>NBA</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="arenasport08.rs"><title>KOŠARKA: Cleveland - Portland</title><desc>NBA</desc></programme>
+<programme start="20250912080000 +0000" stop="20250912100000 +0000" channel="arenasport08.rs"><title>KOŠARKA: Denver - Sacramento</title><desc>NBA</desc></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="arenasport08.rs"><title>HOKEJ: New York Rangers - Montreal Canadiens</title><desc>NHL</desc></programme>
+<programme start="20250912120000 +0000" stop="20250912143000 +0000" channel="arenasport08.rs"><title>AMERIČKI FUDBAL: Buffalo Bills - Baltimore Ravens</title><desc>NFL</desc></programme>
+<programme start="20250912143000 +0000" stop="20250912170000 +0000" channel="arenasport08.rs"><title>BEJZBOL: Detroit Tigers - New York Mets</title><desc>MAJOR LEAGUE BASEBALL</desc></programme>
+<programme start="20250912170000 +0000" stop="20250912193000 +0000" channel="arenasport08.rs"><title>AMERIČKI FUDBAL: LA Chargers - Kansas City Chiefs</title><desc>NFL</desc></programme>
+<programme start="20250912193000 +0000" stop="20250912213000 +0000" channel="arenasport08.rs"><title>KOŠARKA: Denver - Indiana</title><desc>NBA</desc></programme>
+<programme start="20250912213000 +0000" stop="20250912220000 +0000" channel="arenasport08.rs"><title>BEJZBOL: MLB Plays of the Week ep. 23</title><desc>MAJOR LEAGUE BASEBALL</desc></programme>
+<programme start="20250912220000 +0000" stop="20250913000000 +0000" channel="arenasport08.rs"><title>KOŠARKA: Atlanta - New York</title><desc>NBA</desc></programme>
+<programme start="20250913000000 +0000" stop="20250913023000 +0000" channel="arenasport08.rs"><title>AMERIČKI FUDBAL: New York Jets - Pittsburgh Steelers</title><desc>NFL</desc></programme>
+<programme start="20250913023000 +0000" stop="20250913050000 +0000" channel="arenasport08.rs"><title>BEJZBOL: Toronto Blue Jays - Houston Astros</title><desc>MAJOR LEAGUE BASEBALL</desc></programme>
+<programme start="20250913050000 +0000" stop="20250913060000 +0000" channel="arenasport08.rs"><title>KOŠARKA: NBA Chasing History 3. deo</title><desc>NBA</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913080000 +0000" channel="arenasport08.rs"><title>KOŠARKA: New York - Golden State</title><desc>NBA</desc></programme>
+<programme start="20250910000000 +0000" stop="20250910020000 +0000" channel="arenasport09.rs"><title>FUDBAL: Borac - Sarajevo</title><desc>WWIN LIGA BIH</desc></programme>
+<programme start="20250910020000 +0000" stop="20250910034500 +0000" channel="arenasport09.rs"><title>KOŠARKA: Partizan - Mornar</title><desc>ABA LIGA</desc></programme>
+<programme start="20250910034500 +0000" stop="20250910053000 +0000" channel="arenasport09.rs"><title>KOŠARKA: Spartak - Cedevita Olimpija</title><desc>ABA LIGA</desc></programme>
+<programme start="20250910053000 +0000" stop="20250910060000 +0000" channel="arenasport09.rs"><title>: Majke šampioni ep. 6 - Jelena Brooks</title><desc>: Majke šampioni ep. 6 - Jelena Brooks</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910080000 +0000" channel="arenasport09.rs"><title>FUDBAL: Široki Brijeg - Sloga</title><desc>WWIN LIGA BIH</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910094500 +0000" channel="arenasport09.rs"><title>KOŠARKA: Buducnost - Dubai</title><desc>ABA LIGA</desc></programme>
+<programme start="20250910094500 +0000" stop="20250910113000 +0000" channel="arenasport09.rs"><title>KOŠARKA: Partizan - Spartak</title><desc>ABA LIGA</desc></programme>
+<programme start="20250910113000 +0000" stop="20250910120000 +0000" channel="arenasport09.rs"><title>: Maratonac ep. 3 - Heroji maratona</title><desc>: Maratonac ep. 3 - Heroji maratona</desc></programme>
+<programme start="20250910120000 +0000" stop="20250910140000 +0000" channel="arenasport09.rs"><title>FUDBAL: Radnik - Velež</title><desc>WWIN LIGA BIH</desc></programme>
+<programme start="20250910140000 +0000" stop="20250910154500 +0000" channel="arenasport09.rs"><title>KOŠARKA: Buducnost - Zadar</title><desc>ABA LIGA</desc></programme>
+<programme start="20250910154500 +0000" stop="20250910173000 +0000" channel="arenasport09.rs"><title>KOŠARKA: Spartak - Dubai</title><desc>ABA LIGA</desc></programme>
+<programme start="20250910173000 +0000" stop="20250910180000 +0000" channel="arenasport09.rs"><title>: Emisija: Kraljevska igra ep. 3 - U školi</title><desc>: Emisija: Kraljevska igra ep. 3 - U školi</desc></programme>
+<programme start="20250910180000 +0000" stop="20250910200000 +0000" channel="arenasport09.rs"><title>FUDBAL: Borac - Sarajevo</title><desc>WWIN LIGA BIH</desc></programme>
+<programme start="20250910200000 +0000" stop="20250910214500 +0000" channel="arenasport09.rs"><title>KOŠARKA: Igokea - Mega Superbet</title><desc>ABA LIGA</desc></programme>
+<programme start="20250910214500 +0000" stop="20250910233000 +0000" channel="arenasport09.rs"><title>KOŠARKA: Buducnost - Borac</title><desc>ABA LIGA</desc></programme>
+<programme start="20250910233000 +0000" stop="20250911000000 +0000" channel="arenasport09.rs"><title>: Buduće zvezde Arene ep. 51</title><desc>: Buduće zvezde Arene ep. 51</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911020000 +0000" channel="arenasport09.rs"><title>FUDBAL: Mladost - Budućnost</title><desc>CRNOGORSKA LIGA</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911034500 +0000" channel="arenasport09.rs"><title>KOŠARKA: SC Derby - Split</title><desc>ABA LIGA</desc></programme>
+<programme start="20250911034500 +0000" stop="20250911053000 +0000" channel="arenasport09.rs"><title>KOŠARKA: Cibona - Crvena zvezda</title><desc>ABA LIGA</desc></programme>
+<programme start="20250911053000 +0000" stop="20250911060000 +0000" channel="arenasport09.rs"><title>: Majke šampioni ep. 7 - Miribana Maksimović</title><desc>: Majke šampioni ep. 7 - Miribana Maksimović</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="arenasport09.rs"><title>FUDBAL: Radnik - Velež</title><desc>WWIN LIGA BIH</desc></programme>
+<programme start="20250911080000 +0000" stop="20250911094500 +0000" channel="arenasport09.rs"><title>KOŠARKA: Spartak - Cibona</title><desc>ABA LIGA</desc></programme>
+<programme start="20250911094500 +0000" stop="20250911113000 +0000" channel="arenasport09.rs"><title>KOŠARKA: FMP - Mega Superbet</title><desc>ABA LIGA</desc></programme>
+<programme start="20250911113000 +0000" stop="20250911120000 +0000" channel="arenasport09.rs"><title>: Maratonac ep. 4 - Priprema maratona</title><desc>: Maratonac ep. 4 - Priprema maratona</desc></programme>
+<programme start="20250911120000 +0000" stop="20250911140000 +0000" channel="arenasport09.rs"><title>FUDBAL: Borac - Sarajevo</title><desc>WWIN LIGA BIH</desc></programme>
+<programme start="20250911140000 +0000" stop="20250911154500 +0000" channel="arenasport09.rs"><title>KOŠARKA: Igokea - Crvena zvezda</title><desc>ABA LIGA</desc></programme>
+<programme start="20250911154500 +0000" stop="20250911173000 +0000" channel="arenasport09.rs"><title>KOŠARKA: Buducnost - Cedevita Olimpija</title><desc>ABA LIGA</desc></programme>
+<programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="arenasport09.rs"><title>: Emisija: Kraljevska igra ep. 4 - Takmičenje</title><desc>: Emisija: Kraljevska igra ep. 4 - Takmičenje</desc></programme>
+<programme start="20250911180000 +0000" stop="20250911200000 +0000" channel="arenasport09.rs"><title>FUDBAL: Mladost - Budućnost</title><desc>CRNOGORSKA LIGA</desc></programme>
+<programme start="20250911200000 +0000" stop="20250911214500 +0000" channel="arenasport09.rs"><title>KOŠARKA: Dubai - SC Derby</title><desc>ABA LIGA</desc></programme>
+<programme start="20250911214500 +0000" stop="20250911233000 +0000" channel="arenasport09.rs"><title>KOŠARKA: Crvena zvezda - Mega Superbet</title><desc>ABA LIGA</desc></programme>
+<programme start="20250911233000 +0000" stop="20250912000000 +0000" channel="arenasport09.rs"><title>FUDBAL: Oni žive za fudbal ep. 192</title><desc>FUDBAL: Oni žive za fudbal ep. 192</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912020000 +0000" channel="arenasport09.rs"><title>FUDBAL: Borac - Široki Brijeg</title><desc>WWIN LIGA BIH</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912034500 +0000" channel="arenasport09.rs"><title>KOŠARKA: Cibona - Budućnost</title><desc>ABA LIGA</desc></programme>
+<programme start="20250912034500 +0000" stop="20250912053000 +0000" channel="arenasport09.rs"><title>KOŠARKA: Igokea - Krka</title><desc>ABA LIGA</desc></programme>
+<programme start="20250912053000 +0000" stop="20250912060000 +0000" channel="arenasport09.rs"><title>: Majke šampioni ep. 8 - Gospođa Lučić</title><desc>: Majke šampioni ep. 8 - Gospođa Lučić</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="arenasport09.rs"><title>FUDBAL: Borac - Sarajevo</title><desc>WWIN LIGA BIH</desc></programme>
+<programme start="20250912080000 +0000" stop="20250912094500 +0000" channel="arenasport09.rs"><title>KOŠARKA: Mega Superbet - Partizan</title><desc>ABA LIGA</desc></programme>
+<programme start="20250912094500 +0000" stop="20250912113000 +0000" channel="arenasport09.rs"><title>KOŠARKA: Mornar - Crvena zvezda</title><desc>ABA LIGA</desc></programme>
+<programme start="20250912113000 +0000" stop="20250912120000 +0000" channel="arenasport09.rs"><title>: Maratonac ep. 5 - Uživo maraton</title><desc>: Maratonac ep. 5 - Uživo maraton</desc></programme>
+<programme start="20250912120000 +0000" stop="20250912140000 +0000" channel="arenasport09.rs"><title>FUDBAL: Zrinjski - Sarajevo</title><desc>WWIN LIGA BIH</desc></programme>
+<programme start="20250912140000 +0000" stop="20250912154500 +0000" channel="arenasport09.rs"><title>KOŠARKA: Dubai - Borac</title><desc>ABA LIGA</desc></programme>
+<programme start="20250912154500 +0000" stop="20250912173000 +0000" channel="arenasport09.rs"><title>KOŠARKA: Crvena zvezda - Buducnost</title><desc>ABA LIGA</desc></programme>
+<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="arenasport09.rs"><title>: Emisija: Kraljevska igra ep. 5 - Digitalizacija</title><desc>: Emisija: Kraljevska igra ep. 5 - Digitalizacija</desc></programme>
+<programme start="20250912180000 +0000" stop="20250912200000 +0000" channel="arenasport09.rs"><title>FUDBAL: Borac - Široki Brijeg</title><desc>WWIN LIGA BIH</desc></programme>
+<programme start="20250912200000 +0000" stop="20250912214500 +0000" channel="arenasport09.rs"><title>KOŠARKA: Cedevita Olimpija - Crvena zvezda</title><desc>ABA LIGA</desc></programme>
+<programme start="20250912214500 +0000" stop="20250912233000 +0000" channel="arenasport09.rs"><title>KOŠARKA: Dubai - Partizan</title><desc>ABA LIGA</desc></programme>
+<programme start="20250912233000 +0000" stop="20250913000000 +0000" channel="arenasport09.rs"><title>: Teme do Arene - Jelena Todorović</title><desc>: Teme do Arene - Jelena Todorović</desc></programme>
+<programme start="20250913000000 +0000" stop="20250913020000 +0000" channel="arenasport09.rs"><title>FUDBAL: Sarajevo - Rudar</title><desc>WWIN LIGA BIH</desc></programme>
+<programme start="20250913020000 +0000" stop="20250913034500 +0000" channel="arenasport09.rs"><title>KOŠARKA: Split - Partizan</title><desc>ABA LIGA</desc></programme>
+<programme start="20250913034500 +0000" stop="20250913053000 +0000" channel="arenasport09.rs"><title>KOŠARKA: Mornar - Dubai</title><desc>ABA LIGA</desc></programme>
+<programme start="20250913053000 +0000" stop="20250913060000 +0000" channel="arenasport09.rs"><title>: Majke šampioni ep. 9 - Gospođa Petrović</title><desc>: Majke šampioni ep. 9 - Gospođa Petrović</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913080000 +0000" channel="arenasport09.rs"><title>FUDBAL: Mladost - Budućnost</title><desc>CRNOGORSKA LIGA</desc></programme>
+<programme start="20250910000000 +0000" stop="20250910020000 +0000" channel="arenasport10.rs"><title>KOŠARKA: Mega - FMP</title><desc>KLS</desc></programme>
+<programme start="20250910020000 +0000" stop="20250910040000 +0000" channel="arenasport10.rs"><title>FUDBAL: TSC - Javor</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250910040000 +0000" stop="20250910060000 +0000" channel="arenasport10.rs"><title>FUDBAL: Napredak - IMT</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910080000 +0000" channel="arenasport10.rs"><title>KOŠARKA: Zlatibor - Vojvodina</title><desc>KLS</desc></programme>
+<programme start="20250910080000 +0000" stop="20250910100000 +0000" channel="arenasport10.rs"><title>FUDBAL: Železničar - Spartak</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250910100000 +0000" stop="20250910120000 +0000" channel="arenasport10.rs"><title>FUDBAL: Mladost - Vojvodina</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250910120000 +0000" stop="20250910140000 +0000" channel="arenasport10.rs"><title>ODBOJKA: Crvena zvezda - Vojvodina</title><desc>SUPERLIGA</desc></programme>
+<programme start="20250910140000 +0000" stop="20250910160000 +0000" channel="arenasport10.rs"><title>FUDBAL: Novi Pazar - Crvena zvezda</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250910160000 +0000" stop="20250910180000 +0000" channel="arenasport10.rs"><title>FUDBAL: Partizan - Radnik</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250910180000 +0000" stop="20250910200000 +0000" channel="arenasport10.rs"><title>KOŠARKA: Crvena zvezda - Partizan, finale</title><desc>KUP RADIVOJA KORAĆA</desc></programme>
+<programme start="20250910200000 +0000" stop="20250910220000 +0000" channel="arenasport10.rs"><title>FUDBAL: TSC - Javor</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250910220000 +0000" stop="20250911000000 +0000" channel="arenasport10.rs"><title>FUDBAL: Napredak - IMT</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250911000000 +0000" stop="20250911020000 +0000" channel="arenasport10.rs"><title>KOŠARKA: Vršac - Spartak, G2</title><desc>KLS</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="arenasport10.rs"><title>FUDBAL: Čukarički - OFK Beograd</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250911040000 +0000" stop="20250911060000 +0000" channel="arenasport10.rs"><title>FUDBAL: Radnički 1923 - Radnički Niš</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911080000 +0000" channel="arenasport10.rs"><title>KOŠARKA: Joker - Tamiš</title><desc>KLS</desc></programme>
+<programme start="20250911080000 +0000" stop="20250911100000 +0000" channel="arenasport10.rs"><title>FUDBAL: Novi Pazar - Crvena zvezda</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="arenasport10.rs"><title>FUDBAL: Partizan - Radnik</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250911120000 +0000" stop="20250911140000 +0000" channel="arenasport10.rs"><title>ODBOJKA: Dubočica - Radnički, polufinale 2</title><desc>SUPERLIGA</desc></programme>
+<programme start="20250911140000 +0000" stop="20250911160000 +0000" channel="arenasport10.rs"><title>FUDBAL: Mladost - Vojvodina</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250911160000 +0000" stop="20250911180000 +0000" channel="arenasport10.rs"><title>FUDBAL: TSC - Javor</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250911180000 +0000" stop="20250911200000 +0000" channel="arenasport10.rs"><title>KOŠARKA: FMP Soccerbet - Partizan Mozzart bet G2</title><desc>KLS</desc></programme>
+<programme start="20250911200000 +0000" stop="20250911220000 +0000" channel="arenasport10.rs"><title>FUDBAL: Čukarički - OFK Beograd</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250911220000 +0000" stop="20250912000000 +0000" channel="arenasport10.rs"><title>FUDBAL: Radnički 1923 - Radnički Niš</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250912000000 +0000" stop="20250912020000 +0000" channel="arenasport10.rs"><title>KOŠARKA: FMP - Mega, G2</title><desc>KLS</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="arenasport10.rs"><title>FUDBAL: Napredak - IMT</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="arenasport10.rs"><title>FUDBAL: Železničar - Spartak</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912080000 +0000" channel="arenasport10.rs"><title>KOŠARKA: Joker - Zlatibor</title><desc>KLS</desc></programme>
+<programme start="20250912080000 +0000" stop="20250912100000 +0000" channel="arenasport10.rs"><title>FUDBAL: Mladost - Vojvodina</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="arenasport10.rs"><title>FUDBAL: TSC - Javor</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250912120000 +0000" stop="20250912140000 +0000" channel="arenasport10.rs"><title>ODBOJKA: TENT - Ub, polufinale 3</title><desc>SUPERLIGA (Ž)</desc></programme>
+<programme start="20250912140000 +0000" stop="20250912160000 +0000" channel="arenasport10.rs"><title>FUDBAL: Čukarički - OFK Beograd</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250912160000 +0000" stop="20250912180000 +0000" channel="arenasport10.rs"><title>FUDBAL: Partizan - Radnik</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250912180000 +0000" stop="20250912200000 +0000" channel="arenasport10.rs"><title>KOŠARKA: Partizan Mozzart bet - FMP Soccerbet, G3</title><desc>KLS</desc></programme>
+<programme start="20250912200000 +0000" stop="20250912220000 +0000" channel="arenasport10.rs"><title>FUDBAL: Napredak - IMT</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250912220000 +0000" stop="20250913000000 +0000" channel="arenasport10.rs"><title>FUDBAL: Železničar - Spartak</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250913000000 +0000" stop="20250913020000 +0000" channel="arenasport10.rs"><title>KOŠARKA: Crvena zvezda Meridianbet - Spartak Office Shoes, G1</title><desc>KLS</desc></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="arenasport10.rs"><title>FUDBAL: Radnički 1923 - Radnički Niš</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250913040000 +0000" stop="20250913060000 +0000" channel="arenasport10.rs"><title>FUDBAL: Novi Pazar - Crvena zvezda</title><desc>MOZZARTBET SUPERLIGA</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913080000 +0000" channel="arenasport10.rs"><title>KOŠARKA: Crvena zvezda - Kraljevo, finale G1</title><desc>KLS Ž</desc></programme>
+<programme start="20250912180000 +0000" stop="20250912200000 +0000" channel="arenasport1x2.rs"><title>FUDBAL: Lechia - GKS</title><desc>UŽIVO</desc></programme>
+<programme start="20250912200000 +0000" stop="20250913160000 +0000" channel="arenasport1x2.rs"><title>FUDBAL: Cluj - Rapid</title><desc>UŽIVO</desc></programme>
+<programme start="20250910020000 +0000" stop="20250910053000 +0000" channel="arena-tenis.rs"><title>TENIS: Raducanu - Sabalenka</title><desc>MASTERS - CINCINNATI</desc></programme>
+<programme start="20250910053000 +0000" stop="20250910060000 +0000" channel="arena-tenis.rs"><title>TENIS: Cincinnati - pregled turnira</title><desc>WTA1000</desc></programme>
+<programme start="20250910060000 +0000" stop="20250910100000 +0000" channel="arena-tenis.rs"><title>TENIS: Guadalajara - Dan 1</title><desc>WTA 500 - GUADALAJARA</desc></programme>
+<programme start="20250910100000 +0000" stop="20250910110000 +0000" channel="arena-tenis.rs"><title>TENIS: Halle - pregled</title><desc>ATP500</desc></programme>
+<programme start="20250910110000 +0000" stop="20250910120000 +0000" channel="arena-tenis.rs"><title>TENIS: Hamburg - pregled</title><desc>ATP500</desc></programme>
+<programme start="20250910120000 +0000" stop="20250910130000 +0000" channel="arena-tenis.rs"><title>TENIS: Toronto - pregled</title><desc>ATP 1000</desc></programme>
+<programme start="20250910130000 +0000" stop="20250910140000 +0000" channel="arena-tenis.rs"><title>TENIS: Cincinnati - pregled turnira</title><desc>ATP 1000</desc></programme>
+<programme start="20250910140000 +0000" stop="20250910150000 +0000" channel="arena-tenis.rs"><title>TENIS: Rim - pregled</title><desc>ATP 1000</desc></programme>
+<programme start="20250910150000 +0000" stop="20250910160000 +0000" channel="arena-tenis.rs"><title>TENIS: Madrid - pregled</title><desc>ATP 1000</desc></programme>
+<programme start="20250910160000 +0000" stop="20250910163000 +0000" channel="arena-tenis.rs"><title>TENIS: Madrid - pregled</title><desc>WTA1000</desc></programme>
+<programme start="20250910163000 +0000" stop="20250910170000 +0000" channel="arena-tenis.rs"><title>TENIS: Rim - pregled</title><desc>WTA1000</desc></programme>
+<programme start="20250910170000 +0000" stop="20250910173000 +0000" channel="arena-tenis.rs"><title>TENIS: WTA Magazin - ep. 4</title><desc>WTA</desc></programme>
+<programme start="20250910173000 +0000" stop="20250910193000 +0000" channel="arena-tenis.rs"><title>TENIS: Međedović - Alcaraz</title><desc>MASTERS - CINCINNATI</desc></programme>
+<programme start="20250910193000 +0000" stop="20250910203000 +0000" channel="arena-tenis.rs"><title>TENIS: Washington - pregled</title><desc>ATP500</desc></programme>
+<programme start="20250910203000 +0000" stop="20250910210000 +0000" channel="arena-tenis.rs"><title>TENIS: Vašington - pregled</title><desc>WTA 500</desc></programme>
+<programme start="20250910210000 +0000" stop="20250910213000 +0000" channel="arena-tenis.rs"><title>TENIS: Montreal - pregled</title><desc>WTA1000</desc></programme>
+<programme start="20250910213000 +0000" stop="20250910220000 +0000" channel="arena-tenis.rs"><title>: Arena Time for Tennis</title><desc>: Arena Time for Tennis</desc></programme>
+<programme start="20250910220000 +0000" stop="20250911020000 +0000" channel="arena-tenis.rs"><title>TENIS: Guadalajara - Dan 2</title><desc>UŽIVO</desc></programme>
+<programme start="20250911020000 +0000" stop="20250911033000 +0000" channel="arena-tenis.rs"><title>TENIS: Raducanu - Danilović</title><desc>MASTERS - CINCINNATI</desc></programme>
+<programme start="20250911033000 +0000" stop="20250911060000 +0000" channel="arena-tenis.rs"><title>TENIS: Međedović - Diallo</title><desc>ATP 250 - WINSTON-SALEM</desc></programme>
+<programme start="20250911060000 +0000" stop="20250911100000 +0000" channel="arena-tenis.rs"><title>TENIS: Guadalajara - Dan 2</title><desc>WTA 500 - GUADALAJARA</desc></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="arena-tenis.rs"><title>TENIS: Danilović - Boulter</title><desc>MASTERS - CINCINNATI</desc></programme>
+<programme start="20250911120000 +0000" stop="20250911143000 +0000" channel="arena-tenis.rs"><title>TENIS: Alcaraz - Rune, finale</title><desc>ATP 500 - BARCELONA</desc></programme>
+<programme start="20250911143000 +0000" stop="20250911150000 +0000" channel="arena-tenis.rs"><title>TENIS: Bad Homburg - pregled</title><desc>WTA 500</desc></programme>
+<programme start="20250911150000 +0000" stop="20250911151500 +0000" channel="arena-tenis.rs"><title>TENIS: Iasi, pregled turnira</title><desc>WTA</desc></programme>
+<programme start="20250911151500 +0000" stop="20250911153000 +0000" channel="arena-tenis.rs"><title>TENIS: Prag, pregled turnira</title><desc>WTA</desc></programme>
+<programme start="20250911153000 +0000" stop="20250911160000 +0000" channel="arena-tenis.rs"><title>TENIS: ATP Tour: Pregled nedelje</title><desc>TENIS: ATP Tour: Pregled nedelje</desc></programme>
+<programme start="20250911160000 +0000" stop="20250911163000 +0000" channel="arena-tenis.rs"><title>TENIS: ATP Tour: Pregled nedelje</title><desc>TENIS: ATP Tour: Pregled nedelje</desc></programme>
+<programme start="20250911163000 +0000" stop="20250911170000 +0000" channel="arena-tenis.rs"><title>TENIS: ATP Tour: Pregled nedelje</title><desc>ATP</desc></programme>
+<programme start="20250911170000 +0000" stop="20250911173000 +0000" channel="arena-tenis.rs"><title>TENIS: ATP Tour: Pregled nedelje</title><desc>TENIS: ATP Tour: Pregled nedelje</desc></programme>
+<programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="arena-tenis.rs"><title>TENIS: ATP Tour: Pregled nedelje</title><desc>TENIS: ATP Tour: Pregled nedelje</desc></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="arena-tenis.rs"><title>TENIS: ATP Tour: Pregled nedelje</title><desc>TENIS: ATP Tour: Pregled nedelje</desc></programme>
+<programme start="20250911183000 +0000" stop="20250911190000 +0000" channel="arena-tenis.rs"><title>TENIS: ATP Tour: Pregled nedelje</title><desc>TENIS: ATP Tour: Pregled nedelje</desc></programme>
+<programme start="20250911190000 +0000" stop="20250911193000 +0000" channel="arena-tenis.rs"><title>TENIS: ATP Tour: Pregled nedelje</title><desc>TENIS: ATP Tour: Pregled nedelje</desc></programme>
+<programme start="20250911193000 +0000" stop="20250911200000 +0000" channel="arena-tenis.rs"><title>TENIS: ATP Tour: Pregled nedelje</title><desc>TENIS: ATP Tour: Pregled nedelje</desc></programme>
+<programme start="20250911200000 +0000" stop="20250911203000 +0000" channel="arena-tenis.rs"><title>TENIS: ATP Tour: Pregled nedelje</title><desc>ATP</desc></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="arena-tenis.rs"><title>TENIS: WTA Magazin - ep. 3</title><desc>WTA</desc></programme>
+<programme start="20250911210000 +0000" stop="20250911211500 +0000" channel="arena-tenis.rs"><title>TENIS: ATP 250 Winston-Salem - pregled turnira</title><desc>ATP250</desc></programme>
+<programme start="20250911211500 +0000" stop="20250911213000 +0000" channel="arena-tenis.rs"><title>TENIS: WTA 250 Klivlend, pregled turnira</title><desc>WTA</desc></programme>
+<programme start="20250911213000 +0000" stop="20250911220000 +0000" channel="arena-tenis.rs"><title>TENIS: ATP Tour: Pregled nedelje</title><desc>ATP</desc></programme>
+<programme start="20250911220000 +0000" stop="20250912020000 +0000" channel="arena-tenis.rs"><title>TENIS: Guadalajara - Dan 3</title><desc>UŽIVO</desc></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="arena-tenis.rs"><title>TENIS: Montreal - Polufinale 1</title><desc>WTA MASTERS - MONTREAL</desc></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="arena-tenis.rs"><title>TENIS: Montreal - Polufinale 2</title><desc>WTA MASTERS - MONTREAL</desc></programme>
+<programme start="20250912060000 +0000" stop="20250912220000 +0000" channel="arena-tenis.rs"><title>TENIS: Guadalajara - Dan 3</title><desc>WTA 500 - GUADALAJARA</desc></programme>
+<programme start="20250912220000 +0000" stop="20250913000000 +0000" channel="arena-tenis.rs"><title>TENIS: Guadalajara - QF1</title><desc>UŽIVO</desc></programme>
+<programme start="20250913000000 +0000" stop="20250913020000 +0000" channel="arena-tenis.rs"><title>TENIS: Guadalajara - QF2</title><desc>UŽIVO</desc></programme>
+<programme start="20250913020000 +0000" stop="20250913040000 +0000" channel="arena-tenis.rs"><title>TENIS: Guadalajara - QF3</title><desc>UŽIVO</desc></programme>
+<programme start="20250913040000 +0000" stop="20250913060000 +0000" channel="arena-tenis.rs"><title>TENIS: Guadalajara - QF4</title><desc>UŽIVO</desc></programme>
+<programme start="20250913060000 +0000" stop="20250913080000 +0000" channel="arena-tenis.rs"><title>TENIS: Guadalajara - QF1</title><desc>WTA 500 - GUADALAJARA</desc></programme>
+</tv>

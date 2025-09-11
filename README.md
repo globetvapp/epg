@@ -31,12 +31,14 @@ You can browse and download EPG files directly from this GitHub repository. To g
 - Navigate to the desired country folder.
 - Download the relevant EPG file(s) (usually in XML or gzipped XML format).
 
+
 **Example:**  
 To get the EPG for France, go to `France/` and download the file you need.
 
 ### 2. Using EPG Data in Your Application
 
 Most IPTV players and applications support importing EPG data in XMLTV format. Simply provide the URL to the raw file on GitHub, or download and host it yourself.
+
 
 **Direct Raw File Access:**  
 To use the raw file directly from GitHub, use the following URL pattern:
@@ -45,12 +47,36 @@ To use the raw file directly from GitHub, use the following URL pattern:
 https://raw.githubusercontent.com/<username>/<repository>/<branch>/<country>/<filename>
 ```
 
-**Example:**  
+**Example (Australia):**
 ```
-https://raw.githubusercontent.com/globetvapp/epg/main/France/guide.xml
+https://raw.githubusercontent.com/globetvapp/epg/main/Australia/australia1.xml
 ```
 
-Replace `globetvapp`, `epg`, `main`, `France`, and `guide.xml` with the appropriate values for your use case.
+Replace `globetvapp`, `epg`, `main`, `Australia`, and `australia1.xml` with the appropriate values for your use case.
+## Filename Structure
+
+EPG files for each country follow a consistent naming convention. For example, for Australia:
+
+- `australia1.xml`
+- `australia2.xml`
+- `australia3.xml`
+- `australia4.xml`
+
+Each file represents a different set of channels or regions within the country. The number in the filename (e.g., `1`, `2`, `3`, `4`) distinguishes between different channel groups or sources. This filename structure will remain the same for future updates.
+
+## Commit Message Format for EPG Files
+
+The last commit messages for EPG files follow this pattern:
+
+```
+Update australiaX.xml - <N> channels - <timestamp> UTC
+```
+
+- `australiaX.xml`: The filename, where `X` is the group number.
+- `<N> channels`: The number of channels included in that file.
+- `<timestamp> UTC`: The date and time when the file was last updated.
+
+This message indicates that the EPG file was updated with the specified number of channels at the given time.
 
 ### 3. Updating EPG Data
 

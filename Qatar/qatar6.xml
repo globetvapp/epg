@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="Original XML Generated with Tempest EPG Generator (made by Kvanc) - Processed by Open-EPG Visual Processor v0.9" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+<channel id="Alkass Eight.qa"><display-name>Alkass Eight.qa</display-name></channel>
+<channel id="Alkass Five.qa"><display-name>Alkass Five.qa</display-name></channel>
+<channel id="Alkass Four.qa"><display-name>Alkass Four.qa</display-name></channel>
+<channel id="Alkass One.qa"><display-name>Alkass One.qa</display-name></channel>
+<channel id="Alkass Online.qa"><display-name>Alkass Online.qa</display-name></channel>
+<channel id="Alkass Seven.qa"><display-name>Alkass Seven.qa</display-name></channel>
+<channel id="Alkass Six.qa"><display-name>Alkass Six.qa</display-name></channel>
+<channel id="Alkass Three.qa"><display-name>Alkass Three.qa</display-name></channel>
+<channel id="Alkass Two.qa"><display-name>Alkass Two.qa</display-name></channel>
+<programme start="20250910210000 +0000" stop="20250910213000 +0000" channel="Alkass Eight.qa"><title>News</title></programme>
+<programme start="20250910213000 +0000" stop="20250910223000 +0000" channel="Alkass Eight.qa"><title>alhasila</title></programme>
+<programme start="20250910223000 +0000" stop="20250911003000 +0000" channel="Alkass Eight.qa"><title>Doha Bank Stars League Al Sadd vs. Al Gharafa</title></programme>
+<programme start="20250911003000 +0000" stop="20250911010000 +0000" channel="Alkass Eight.qa"><title>INVINCIBLE</title></programme>
+<programme start="20250911010000 +0000" stop="20250911031500 +0000" channel="Alkass Eight.qa"><title>AFC U-23 Qualifiers India vs. Brunei</title></programme>
+<programme start="20250911031500 +0000" stop="20250911051500 +0000" channel="Alkass Eight.qa"><title>Doha Bank Stars League Qatar vs. Al-Ahli</title></programme>
+<programme start="20250911051500 +0000" stop="20250911080000 +0000" channel="Alkass Eight.qa"><title>Gulf Youth Football Championship Saudi Arabia vs. Yemen</title></programme>
+<programme start="20250911080000 +0000" stop="20250911090000 +0000" channel="Alkass Eight.qa"><title>alhasila</title></programme>
+<programme start="20250911090000 +0000" stop="20250911093000 +0000" channel="Alkass Eight.qa"><title>News</title></programme>
+<programme start="20250911093000 +0000" stop="20250911100000 +0000" channel="Alkass Eight.qa"><title>Jarayd</title></programme>
+<programme start="20250911100000 +0000" stop="20250911103000 +0000" channel="Alkass Eight.qa"><title>Tawaasl.</title></programme>
+<programme start="20250911103000 +0000" stop="20250911113000 +0000" channel="Alkass Eight.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250911113000 +0000" stop="20250911123000 +0000" channel="Alkass Eight.qa"><title>Thenten wnoss</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="Alkass Eight.qa"><title>Inside Line</title></programme>
+<programme start="20250911130000 +0000" stop="20250911133000 +0000" channel="Alkass Eight.qa"><title>News</title></programme>
+<programme start="20250911133000 +0000" stop="20250911140000 +0000" channel="Alkass Eight.qa"><title>INVINCIBLE</title></programme>
+<programme start="20250911140000 +0000" stop="20250911170000 +0000" channel="Alkass Eight.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250911170000 +0000" stop="20250911173000 +0000" channel="Alkass Eight.qa"><title>preview</title></programme>
+<programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="Alkass Eight.qa"><title>Tawaasl.</title></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="Alkass Eight.qa"><title>News</title></programme>
+<programme start="20250911183000 +0000" stop="20250911193000 +0000" channel="Alkass Eight.qa"><title>takhmin</title></programme>
+<programme start="20250911193000 +0000" stop="20250911200000 +0000" channel="Alkass Eight.qa"><title>GCAT magazine</title></programme>
+<programme start="20250911200000 +0000" stop="20250911210000 +0000" channel="Alkass Eight.qa"><title>alhasila</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="Alkass Eight.qa"><title>News</title></programme>
+<programme start="20250911213000 +0000" stop="20250911223000 +0000" channel="Alkass Eight.qa"><title>alhasila</title></programme>
+<programme start="20250911223000 +0000" stop="20250912003000 +0000" channel="Alkass Eight.qa"><title>Doha Bank Stars League Al Sadd vs. Al Gharafa</title></programme>
+<programme start="20250912003000 +0000" stop="20250912010000 +0000" channel="Alkass Eight.qa"><title>INVINCIBLE</title></programme>
+<programme start="20250912010000 +0000" stop="20250912031500 +0000" channel="Alkass Eight.qa"><title>AFC U-23 Qualifiers India vs. Brunei</title></programme>
+<programme start="20250912031500 +0000" stop="20250912051500 +0000" channel="Alkass Eight.qa"><title>Doha Bank Stars League Qatar vs. Al-Ahli</title></programme>
+<programme start="20250912051500 +0000" stop="20250912080000 +0000" channel="Alkass Eight.qa"><title>Gulf Youth Football Championship Saudi Arabia vs. Yemen</title></programme>
+<programme start="20250912080000 +0000" stop="20250912090000 +0000" channel="Alkass Eight.qa"><title>alhasila</title></programme>
+<programme start="20250912090000 +0000" stop="20250912093000 +0000" channel="Alkass Eight.qa"><title>News</title></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="Alkass Eight.qa"><title>Jarayd</title></programme>
+<programme start="20250912100000 +0000" stop="20250912103000 +0000" channel="Alkass Eight.qa"><title>Tawaasl.</title></programme>
+<programme start="20250912103000 +0000" stop="20250912113000 +0000" channel="Alkass Eight.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250912113000 +0000" stop="20250912123000 +0000" channel="Alkass Eight.qa"><title>Thenten wnoss</title></programme>
+<programme start="20250912123000 +0000" stop="20250912130000 +0000" channel="Alkass Eight.qa"><title>Inside Line</title></programme>
+<programme start="20250912130000 +0000" stop="20250912133000 +0000" channel="Alkass Eight.qa"><title>News</title></programme>
+<programme start="20250912133000 +0000" stop="20250912140000 +0000" channel="Alkass Eight.qa"><title>INVINCIBLE</title></programme>
+<programme start="20250912140000 +0000" stop="20250912170000 +0000" channel="Alkass Eight.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="Alkass Eight.qa"><title>preview</title></programme>
+<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="Alkass Eight.qa"><title>Tawaasl.</title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="Alkass Eight.qa"><title>News</title></programme>
+<programme start="20250912183000 +0000" stop="20250912193000 +0000" channel="Alkass Eight.qa"><title>takhmin</title></programme>
+<programme start="20250912193000 +0000" stop="20250912200000 +0000" channel="Alkass Eight.qa"><title>GCAT magazine</title></programme>
+<programme start="20250910210000 +0000" stop="20250910213000 +0000" channel="Alkass Five.qa"><title>News</title></programme>
+<programme start="20250910213000 +0000" stop="20250910223000 +0000" channel="Alkass Five.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250910223000 +0000" stop="20250911011500 +0000" channel="Alkass Five.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250911011500 +0000" stop="20250911020000 +0000" channel="Alkass Five.qa"><title>Fiba.</title></programme>
+<programme start="20250911020000 +0000" stop="20250911040000 +0000" channel="Alkass Five.qa"><title>Local Camel Racing</title></programme>
+<programme start="20250911040000 +0000" stop="20250911043000 +0000" channel="Alkass Five.qa"><title>Football Review.</title></programme>
+<programme start="20250911043000 +0000" stop="20250911051500 +0000" channel="Alkass Five.qa"><title>INVINCIBLE</title></programme>
+<programme start="20250911051500 +0000" stop="20250911070000 +0000" channel="Alkass Five.qa"><title>arabia football</title></programme>
+<programme start="20250911070000 +0000" stop="20250911090000 +0000" channel="Alkass Five.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250911090000 +0000" stop="20250911093000 +0000" channel="Alkass Five.qa"><title>News</title></programme>
+<programme start="20250911093000 +0000" stop="20250911100000 +0000" channel="Alkass Five.qa"><title>Jarayd</title></programme>
+<programme start="20250911100000 +0000" stop="20250911121000 +0000" channel="Alkass Five.qa"><title>AFC U-23 Qualifiers India vs. Brunei</title></programme>
+<programme start="20250911121000 +0000" stop="20250911180000 +0000" channel="Alkass Five.qa"><title>Katara International Hunting and Falcons Exhibition 2025 Studio - Suhail</title></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="Alkass Five.qa"><title>News</title></programme>
+<programme start="20250911183000 +0000" stop="20250911203000 +0000" channel="Alkass Five.qa"><title>Doha Bank Stars League Al Arabi vs. Umm Salal</title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="Alkass Five.qa"><title>preview</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="Alkass Five.qa"><title>News</title></programme>
+<programme start="20250911213000 +0000" stop="20250911223000 +0000" channel="Alkass Five.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250911223000 +0000" stop="20250912011500 +0000" channel="Alkass Five.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250912011500 +0000" stop="20250912020000 +0000" channel="Alkass Five.qa"><title>Fiba.</title></programme>
+<programme start="20250912020000 +0000" stop="20250912040000 +0000" channel="Alkass Five.qa"><title>Local Camel Racing</title></programme>
+<programme start="20250912040000 +0000" stop="20250912043000 +0000" channel="Alkass Five.qa"><title>Football Review.</title></programme>
+<programme start="20250912043000 +0000" stop="20250912051500 +0000" channel="Alkass Five.qa"><title>INVINCIBLE</title></programme>
+<programme start="20250912051500 +0000" stop="20250912070000 +0000" channel="Alkass Five.qa"><title>arabia football</title></programme>
+<programme start="20250912070000 +0000" stop="20250912090000 +0000" channel="Alkass Five.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250912090000 +0000" stop="20250912093000 +0000" channel="Alkass Five.qa"><title>News</title></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="Alkass Five.qa"><title>Jarayd</title></programme>
+<programme start="20250912100000 +0000" stop="20250912121000 +0000" channel="Alkass Five.qa"><title>AFC U-23 Qualifiers India vs. Brunei</title></programme>
+<programme start="20250912121000 +0000" stop="20250912180000 +0000" channel="Alkass Five.qa"><title>Katara International Hunting and Falcons Exhibition 2025 Studio - Suhail</title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="Alkass Five.qa"><title>News</title></programme>
+<programme start="20250912183000 +0000" stop="20250912203000 +0000" channel="Alkass Five.qa"><title>Doha Bank Stars League Al Arabi vs. Umm Salal</title></programme>
+<programme start="20250910210000 +0000" stop="20250910213000 +0000" channel="Alkass Four.qa"><title>News</title></programme>
+<programme start="20250910213000 +0000" stop="20250910223000 +0000" channel="Alkass Four.qa"><title>alhasila</title></programme>
+<programme start="20250910223000 +0000" stop="20250911003000 +0000" channel="Alkass Four.qa"><title>Doha Bank Stars League Al Sadd vs. Al Gharafa</title></programme>
+<programme start="20250911003000 +0000" stop="20250911010000 +0000" channel="Alkass Four.qa"><title>INVINCIBLE</title></programme>
+<programme start="20250911010000 +0000" stop="20250911030000 +0000" channel="Alkass Four.qa"><title>AFC U-23 Qualifiers India vs. Brunei</title></programme>
+<programme start="20250911030000 +0000" stop="20250911051500 +0000" channel="Alkass Four.qa"><title>Saudi Crown Prince Festival</title></programme>
+<programme start="20250911051500 +0000" stop="20250911080000 +0000" channel="Alkass Four.qa"><title>Gulf Youth Football Championship Saudi Arabia vs. Yemen</title></programme>
+<programme start="20250911080000 +0000" stop="20250911090000 +0000" channel="Alkass Four.qa"><title>alhasila</title></programme>
+<programme start="20250911090000 +0000" stop="20250911093000 +0000" channel="Alkass Four.qa"><title>News</title></programme>
+<programme start="20250911093000 +0000" stop="20250911100000 +0000" channel="Alkass Four.qa"><title>Jarayd</title></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="Alkass Four.qa"><title>Asian Volleyball Championship Pakistan vs. Qatar</title></programme>
+<programme start="20250911120000 +0000" stop="20250911140000 +0000" channel="Alkass Four.qa"><title>Saudi Crown Prince Festival</title></programme>
+<programme start="20250911140000 +0000" stop="20250911160000 +0000" channel="Alkass Four.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250911160000 +0000" stop="20250911170000 +0000" channel="Alkass Four.qa"><title>qabl aljawla</title></programme>
+<programme start="20250911170000 +0000" stop="20250911173000 +0000" channel="Alkass Four.qa"><title>preview</title></programme>
+<programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="Alkass Four.qa"><title>Tawaasl.</title></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="Alkass Four.qa"><title>News</title></programme>
+<programme start="20250911183000 +0000" stop="20250911193000 +0000" channel="Alkass Four.qa"><title>takhmin</title></programme>
+<programme start="20250911193000 +0000" stop="20250911200000 +0000" channel="Alkass Four.qa"><title>GCAT magazine</title></programme>
+<programme start="20250911200000 +0000" stop="20250911210000 +0000" channel="Alkass Four.qa"><title>alhasila</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="Alkass Four.qa"><title>News</title></programme>
+<programme start="20250911213000 +0000" stop="20250911223000 +0000" channel="Alkass Four.qa"><title>alhasila</title></programme>
+<programme start="20250911223000 +0000" stop="20250912003000 +0000" channel="Alkass Four.qa"><title>Doha Bank Stars League Al Sadd vs. Al Gharafa</title></programme>
+<programme start="20250912003000 +0000" stop="20250912010000 +0000" channel="Alkass Four.qa"><title>INVINCIBLE</title></programme>
+<programme start="20250912010000 +0000" stop="20250912030000 +0000" channel="Alkass Four.qa"><title>AFC U-23 Qualifiers India vs. Brunei</title></programme>
+<programme start="20250912030000 +0000" stop="20250912051500 +0000" channel="Alkass Four.qa"><title>Saudi Crown Prince Festival</title></programme>
+<programme start="20250912051500 +0000" stop="20250912080000 +0000" channel="Alkass Four.qa"><title>Gulf Youth Football Championship Saudi Arabia vs. Yemen</title></programme>
+<programme start="20250912080000 +0000" stop="20250912090000 +0000" channel="Alkass Four.qa"><title>alhasila</title></programme>
+<programme start="20250912090000 +0000" stop="20250912093000 +0000" channel="Alkass Four.qa"><title>News</title></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="Alkass Four.qa"><title>Jarayd</title></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="Alkass Four.qa"><title>Asian Volleyball Championship Pakistan vs. Qatar</title></programme>
+<programme start="20250912120000 +0000" stop="20250912140000 +0000" channel="Alkass Four.qa"><title>Saudi Crown Prince Festival</title></programme>
+<programme start="20250912140000 +0000" stop="20250912160000 +0000" channel="Alkass Four.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250912160000 +0000" stop="20250912170000 +0000" channel="Alkass Four.qa"><title>qabl aljawla</title></programme>
+<programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="Alkass Four.qa"><title>preview</title></programme>
+<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="Alkass Four.qa"><title>Tawaasl.</title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="Alkass Four.qa"><title>News</title></programme>
+<programme start="20250912183000 +0000" stop="20250912193000 +0000" channel="Alkass Four.qa"><title>takhmin</title></programme>
+<programme start="20250912193000 +0000" stop="20250912200000 +0000" channel="Alkass Four.qa"><title>GCAT magazine</title></programme>
+<programme start="20250910210000 +0000" stop="20250910213000 +0000" channel="Alkass One.qa"><title>News</title></programme>
+<programme start="20250910213000 +0000" stop="20250910223000 +0000" channel="Alkass One.qa"><title>alhasila</title></programme>
+<programme start="20250910223000 +0000" stop="20250911003000 +0000" channel="Alkass One.qa"><title>Doha Bank Stars League Al Sadd vs. Al Gharafa</title></programme>
+<programme start="20250911003000 +0000" stop="20250911010000 +0000" channel="Alkass One.qa"><title>INVINCIBLE</title></programme>
+<programme start="20250911010000 +0000" stop="20250911031500 +0000" channel="Alkass One.qa"><title>AFC U-23 Qualifiers India vs. Brunei</title></programme>
+<programme start="20250911031500 +0000" stop="20250911051500 +0000" channel="Alkass One.qa"><title>Doha Bank Stars League Qatar vs. Al-Ahli</title></programme>
+<programme start="20250911051500 +0000" stop="20250911080000 +0000" channel="Alkass One.qa"><title>Gulf Youth Football Championship Saudi Arabia vs. Yemen</title></programme>
+<programme start="20250911080000 +0000" stop="20250911090000 +0000" channel="Alkass One.qa"><title>alhasila</title></programme>
+<programme start="20250911090000 +0000" stop="20250911093000 +0000" channel="Alkass One.qa"><title>News</title></programme>
+<programme start="20250911093000 +0000" stop="20250911100000 +0000" channel="Alkass One.qa"><title>Jarayd</title></programme>
+<programme start="20250911100000 +0000" stop="20250911103000 +0000" channel="Alkass One.qa"><title>Tawaasl.</title></programme>
+<programme start="20250911103000 +0000" stop="20250911113000 +0000" channel="Alkass One.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250911113000 +0000" stop="20250911123000 +0000" channel="Alkass One.qa"><title>Thenten wnoss</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="Alkass One.qa"><title>Inside Line</title></programme>
+<programme start="20250911130000 +0000" stop="20250911133000 +0000" channel="Alkass One.qa"><title>News</title></programme>
+<programme start="20250911133000 +0000" stop="20250911140000 +0000" channel="Alkass One.qa"><title>INVINCIBLE</title></programme>
+<programme start="20250911140000 +0000" stop="20250911160000 +0000" channel="Alkass One.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250911160000 +0000" stop="20250911170000 +0000" channel="Alkass One.qa"><title>qabl aljawla</title></programme>
+<programme start="20250911170000 +0000" stop="20250911173000 +0000" channel="Alkass One.qa"><title>preview</title></programme>
+<programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="Alkass One.qa"><title>Tawaasl.</title></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="Alkass One.qa"><title>News</title></programme>
+<programme start="20250911183000 +0000" stop="20250911193000 +0000" channel="Alkass One.qa"><title>takhmin</title></programme>
+<programme start="20250911193000 +0000" stop="20250911200000 +0000" channel="Alkass One.qa"><title>GCAT magazine</title></programme>
+<programme start="20250911200000 +0000" stop="20250911210000 +0000" channel="Alkass One.qa"><title>alhasila</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="Alkass One.qa"><title>News</title></programme>
+<programme start="20250911213000 +0000" stop="20250911223000 +0000" channel="Alkass One.qa"><title>alhasila</title></programme>
+<programme start="20250911223000 +0000" stop="20250912003000 +0000" channel="Alkass One.qa"><title>Doha Bank Stars League Al Sadd vs. Al Gharafa</title></programme>
+<programme start="20250912003000 +0000" stop="20250912010000 +0000" channel="Alkass One.qa"><title>INVINCIBLE</title></programme>
+<programme start="20250912010000 +0000" stop="20250912031500 +0000" channel="Alkass One.qa"><title>AFC U-23 Qualifiers India vs. Brunei</title></programme>
+<programme start="20250912031500 +0000" stop="20250912051500 +0000" channel="Alkass One.qa"><title>Doha Bank Stars League Qatar vs. Al-Ahli</title></programme>
+<programme start="20250912051500 +0000" stop="20250912080000 +0000" channel="Alkass One.qa"><title>Gulf Youth Football Championship Saudi Arabia vs. Yemen</title></programme>
+<programme start="20250912080000 +0000" stop="20250912090000 +0000" channel="Alkass One.qa"><title>alhasila</title></programme>
+<programme start="20250912090000 +0000" stop="20250912093000 +0000" channel="Alkass One.qa"><title>News</title></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="Alkass One.qa"><title>Jarayd</title></programme>
+<programme start="20250912100000 +0000" stop="20250912103000 +0000" channel="Alkass One.qa"><title>Tawaasl.</title></programme>
+<programme start="20250912103000 +0000" stop="20250912113000 +0000" channel="Alkass One.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250912113000 +0000" stop="20250912123000 +0000" channel="Alkass One.qa"><title>Thenten wnoss</title></programme>
+<programme start="20250912123000 +0000" stop="20250912130000 +0000" channel="Alkass One.qa"><title>Inside Line</title></programme>
+<programme start="20250912130000 +0000" stop="20250912133000 +0000" channel="Alkass One.qa"><title>News</title></programme>
+<programme start="20250912133000 +0000" stop="20250912140000 +0000" channel="Alkass One.qa"><title>INVINCIBLE</title></programme>
+<programme start="20250912140000 +0000" stop="20250912160000 +0000" channel="Alkass One.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250912160000 +0000" stop="20250912170000 +0000" channel="Alkass One.qa"><title>qabl aljawla</title></programme>
+<programme start="20250912170000 +0000" stop="20250912173000 +0000" channel="Alkass One.qa"><title>preview</title></programme>
+<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="Alkass One.qa"><title>Tawaasl.</title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="Alkass One.qa"><title>News</title></programme>
+<programme start="20250912183000 +0000" stop="20250912193000 +0000" channel="Alkass One.qa"><title>takhmin</title></programme>
+<programme start="20250912193000 +0000" stop="20250912200000 +0000" channel="Alkass One.qa"><title>GCAT magazine</title></programme>
+<programme start="20250910210000 +0000" stop="20250910213000 +0000" channel="Alkass Seven.qa"><title>News</title></programme>
+<programme start="20250910213000 +0000" stop="20250910223000 +0000" channel="Alkass Seven.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250910223000 +0000" stop="20250911013000 +0000" channel="Alkass Seven.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250911013000 +0000" stop="20250911020000 +0000" channel="Alkass Seven.qa"><title>Fiba.</title></programme>
+<programme start="20250911020000 +0000" stop="20250912020000 +0000" channel="Alkass Seven.qa"><title>Thenten wnoss</title></programme>
+<programme start="20250912020000 +0000" stop="20250912030000 +0000" channel="Alkass Seven.qa"><title>Thenten wnoss</title></programme>
+<programme start="20250912030000 +0000" stop="20250912033000 +0000" channel="Alkass Seven.qa"><title>News</title></programme>
+<programme start="20250912033000 +0000" stop="20250912051500 +0000" channel="Alkass Seven.qa"><title>Asian Volleyball Championship Chinese Taipei vs. Vietnam</title></programme>
+<programme start="20250912051500 +0000" stop="20250912070000 +0000" channel="Alkass Seven.qa"><title>arabia football</title></programme>
+<programme start="20250912070000 +0000" stop="20250912090000 +0000" channel="Alkass Seven.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250912090000 +0000" stop="20250912093000 +0000" channel="Alkass Seven.qa"><title>News</title></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="Alkass Seven.qa"><title>Jarayd</title></programme>
+<programme start="20250912100000 +0000" stop="20250912121500 +0000" channel="Alkass Seven.qa"><title>AFC U-23 Qualifiers India vs. Brunei</title></programme>
+<programme start="20250912121500 +0000" stop="20250912180000 +0000" channel="Alkass Seven.qa"><title>Katara International Hunting and Falcons Exhibition 2025 Studio - Suhail</title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="Alkass Seven.qa"><title>News</title></programme>
+<programme start="20250912183000 +0000" stop="20250912203000 +0000" channel="Alkass Seven.qa"><title>Doha Bank Stars League Al Arabi vs. Umm Salal</title></programme>
+<programme start="20250912203000 +0000" stop="20250912210000 +0000" channel="Alkass Seven.qa"><title>preview</title></programme>
+<programme start="20250912210000 +0000" stop="20250912213000 +0000" channel="Alkass Seven.qa"><title>News</title></programme>
+<programme start="20250912213000 +0000" stop="20250912223000 +0000" channel="Alkass Seven.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250912223000 +0000" stop="20250913013000 +0000" channel="Alkass Seven.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250910210000 +0000" stop="20250910213000 +0000" channel="Alkass Six.qa"><title>News</title></programme>
+<programme start="20250910213000 +0000" stop="20250911033000 +0000" channel="Alkass Six.qa"><title>Katara International Hunting and Falcons Exhibition 2025 Studio - Suhail</title></programme>
+<programme start="20250911033000 +0000" stop="20250911040000 +0000" channel="Alkass Six.qa"><title>SPORT CONFIDENTIAL</title></programme>
+<programme start="20250911040000 +0000" stop="20250911060000 +0000" channel="Alkass Six.qa"><title>Iraq Derby Dohuk vs. Najaf</title></programme>
+<programme start="20250911060000 +0000" stop="20250911070000 +0000" channel="Alkass Six.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250911070000 +0000" stop="20250911090000 +0000" channel="Alkass Six.qa"><title>Asian Volleyball Championship Australia vs. Indonesia</title></programme>
+<programme start="20250911090000 +0000" stop="20250911093000 +0000" channel="Alkass Six.qa"><title>News</title></programme>
+<programme start="20250911093000 +0000" stop="20250911100000 +0000" channel="Alkass Six.qa"><title>Jarayd</title></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="Alkass Six.qa"><title>Doha Bank Stars League Al Arabi vs. Umm Salal</title></programme>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="Alkass Six.qa"><title>GOLMANIA.</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="Alkass Six.qa"><title>Fiba.</title></programme>
+<programme start="20250911130000 +0000" stop="20250911131500 +0000" channel="Alkass Six.qa"><title>News</title></programme>
+<programme start="20250911131500 +0000" stop="20250911143000 +0000" channel="Alkass Six.qa"><title>World Handball Championship Argentina vs. Slovenia</title></programme>
+<programme start="20250911143000 +0000" stop="20250911153000 +0000" channel="Alkass Six.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250911153000 +0000" stop="20250911163000 +0000" channel="Alkass Six.qa"><title>alhasila</title></programme>
+<programme start="20250911163000 +0000" stop="20250911173000 +0000" channel="Alkass Six.qa"><title>Thenten wnoss</title></programme>
+<programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="Alkass Six.qa"><title>Tawaasl.</title></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="Alkass Six.qa"><title>News</title></programme>
+<programme start="20250911183000 +0000" stop="20250911203000 +0000" channel="Alkass Six.qa"><title>Doha Bank Stars League Al Arabi vs. Umm Salal</title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="Alkass Six.qa"><title>preview</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="Alkass Six.qa"><title>News</title></programme>
+<programme start="20250911213000 +0000" stop="20250912033000 +0000" channel="Alkass Six.qa"><title>Katara International Hunting and Falcons Exhibition 2025 Studio - Suhail</title></programme>
+<programme start="20250912033000 +0000" stop="20250912040000 +0000" channel="Alkass Six.qa"><title>SPORT CONFIDENTIAL</title></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="Alkass Six.qa"><title>Iraq Derby Dohuk vs. Najaf</title></programme>
+<programme start="20250912060000 +0000" stop="20250912070000 +0000" channel="Alkass Six.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250912070000 +0000" stop="20250912090000 +0000" channel="Alkass Six.qa"><title>Asian Volleyball Championship Australia vs. Indonesia</title></programme>
+<programme start="20250912090000 +0000" stop="20250912093000 +0000" channel="Alkass Six.qa"><title>News</title></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="Alkass Six.qa"><title>Jarayd</title></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="Alkass Six.qa"><title>Doha Bank Stars League Al Arabi vs. Umm Salal</title></programme>
+<programme start="20250912120000 +0000" stop="20250912123000 +0000" channel="Alkass Six.qa"><title>GOLMANIA.</title></programme>
+<programme start="20250912123000 +0000" stop="20250912130000 +0000" channel="Alkass Six.qa"><title>Fiba.</title></programme>
+<programme start="20250912130000 +0000" stop="20250912131500 +0000" channel="Alkass Six.qa"><title>News</title></programme>
+<programme start="20250912131500 +0000" stop="20250912143000 +0000" channel="Alkass Six.qa"><title>World Handball Championship Argentina vs. Slovenia</title></programme>
+<programme start="20250912143000 +0000" stop="20250912153000 +0000" channel="Alkass Six.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250912153000 +0000" stop="20250912163000 +0000" channel="Alkass Six.qa"><title>alhasila</title></programme>
+<programme start="20250912163000 +0000" stop="20250912173000 +0000" channel="Alkass Six.qa"><title>Thenten wnoss</title></programme>
+<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="Alkass Six.qa"><title>Tawaasl.</title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="Alkass Six.qa"><title>News</title></programme>
+<programme start="20250912183000 +0000" stop="20250912203000 +0000" channel="Alkass Six.qa"><title>Doha Bank Stars League Al Arabi vs. Umm Salal</title></programme>
+<programme start="20250910210000 +0000" stop="20250910213000 +0000" channel="Alkass Three.qa"><title>News</title></programme>
+<programme start="20250910213000 +0000" stop="20250911033000 +0000" channel="Alkass Three.qa"><title>Katara International Hunting and Falcons Exhibition 2025 Studio - Suhail</title></programme>
+<programme start="20250911033000 +0000" stop="20250911040000 +0000" channel="Alkass Three.qa"><title>SPORT CONFIDENTIAL</title></programme>
+<programme start="20250911040000 +0000" stop="20250911060000 +0000" channel="Alkass Three.qa"><title>Iraq Derby Dohuk vs. Najaf</title></programme>
+<programme start="20250911060000 +0000" stop="20250911070000 +0000" channel="Alkass Three.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250911070000 +0000" stop="20250911090000 +0000" channel="Alkass Three.qa"><title>Asian Volleyball Championship Australia vs. Indonesia</title></programme>
+<programme start="20250911090000 +0000" stop="20250911093000 +0000" channel="Alkass Three.qa"><title>News</title></programme>
+<programme start="20250911093000 +0000" stop="20250911100000 +0000" channel="Alkass Three.qa"><title>Jarayd</title></programme>
+<programme start="20250911100000 +0000" stop="20250911120000 +0000" channel="Alkass Three.qa"><title>Doha Bank Stars League Al Arabi vs. Umm Salal</title></programme>
+<programme start="20250911120000 +0000" stop="20250911123000 +0000" channel="Alkass Three.qa"><title>GOLMANIA.</title></programme>
+<programme start="20250911123000 +0000" stop="20250911130000 +0000" channel="Alkass Three.qa"><title>Fiba.</title></programme>
+<programme start="20250911130000 +0000" stop="20250911131500 +0000" channel="Alkass Three.qa"><title>News</title></programme>
+<programme start="20250911131500 +0000" stop="20250911143000 +0000" channel="Alkass Three.qa"><title>World Handball Championship Argentina vs. Slovenia</title></programme>
+<programme start="20250911143000 +0000" stop="20250911153000 +0000" channel="Alkass Three.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250911153000 +0000" stop="20250911163000 +0000" channel="Alkass Three.qa"><title>alhasila</title></programme>
+<programme start="20250911163000 +0000" stop="20250911173000 +0000" channel="Alkass Three.qa"><title>Thenten wnoss</title></programme>
+<programme start="20250911173000 +0000" stop="20250911180000 +0000" channel="Alkass Three.qa"><title>Tawaasl.</title></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="Alkass Three.qa"><title>News</title></programme>
+<programme start="20250911183000 +0000" stop="20250911210000 +0000" channel="Alkass Three.qa"><title>Gulf Youth Football Championship Saudi Arabia vs. Yemen</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="Alkass Three.qa"><title>News</title></programme>
+<programme start="20250911213000 +0000" stop="20250912033000 +0000" channel="Alkass Three.qa"><title>Katara International Hunting and Falcons Exhibition 2025 Studio - Suhail</title></programme>
+<programme start="20250912033000 +0000" stop="20250912040000 +0000" channel="Alkass Three.qa"><title>SPORT CONFIDENTIAL</title></programme>
+<programme start="20250912040000 +0000" stop="20250912060000 +0000" channel="Alkass Three.qa"><title>Iraq Derby Dohuk vs. Najaf</title></programme>
+<programme start="20250912060000 +0000" stop="20250912070000 +0000" channel="Alkass Three.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250912070000 +0000" stop="20250912090000 +0000" channel="Alkass Three.qa"><title>Asian Volleyball Championship Australia vs. Indonesia</title></programme>
+<programme start="20250912090000 +0000" stop="20250912093000 +0000" channel="Alkass Three.qa"><title>News</title></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="Alkass Three.qa"><title>Jarayd</title></programme>
+<programme start="20250912100000 +0000" stop="20250912120000 +0000" channel="Alkass Three.qa"><title>Doha Bank Stars League Al Arabi vs. Umm Salal</title></programme>
+<programme start="20250912120000 +0000" stop="20250912123000 +0000" channel="Alkass Three.qa"><title>GOLMANIA.</title></programme>
+<programme start="20250912123000 +0000" stop="20250912130000 +0000" channel="Alkass Three.qa"><title>Fiba.</title></programme>
+<programme start="20250912130000 +0000" stop="20250912131500 +0000" channel="Alkass Three.qa"><title>News</title></programme>
+<programme start="20250912131500 +0000" stop="20250912143000 +0000" channel="Alkass Three.qa"><title>World Handball Championship Argentina vs. Slovenia</title></programme>
+<programme start="20250912143000 +0000" stop="20250912153000 +0000" channel="Alkass Three.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250912153000 +0000" stop="20250912163000 +0000" channel="Alkass Three.qa"><title>alhasila</title></programme>
+<programme start="20250912163000 +0000" stop="20250912173000 +0000" channel="Alkass Three.qa"><title>Thenten wnoss</title></programme>
+<programme start="20250912173000 +0000" stop="20250912180000 +0000" channel="Alkass Three.qa"><title>Tawaasl.</title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="Alkass Three.qa"><title>News</title></programme>
+<programme start="20250910210000 +0000" stop="20250910213000 +0000" channel="Alkass Two.qa"><title>News</title></programme>
+<programme start="20250910213000 +0000" stop="20250910223000 +0000" channel="Alkass Two.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250910223000 +0000" stop="20250911011500 +0000" channel="Alkass Two.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250911011500 +0000" stop="20250911020000 +0000" channel="Alkass Two.qa"><title>Fiba.</title></programme>
+<programme start="20250911020000 +0000" stop="20250911030000 +0000" channel="Alkass Two.qa"><title>Thenten wnoss</title></programme>
+<programme start="20250911030000 +0000" stop="20250911033000 +0000" channel="Alkass Two.qa"><title>News</title></programme>
+<programme start="20250911033000 +0000" stop="20250911051500 +0000" channel="Alkass Two.qa"><title>Asian Volleyball Championship Chinese Taipei vs. Vietnam</title></programme>
+<programme start="20250911051500 +0000" stop="20250911070000 +0000" channel="Alkass Two.qa"><title>arabia football</title></programme>
+<programme start="20250911070000 +0000" stop="20250911090000 +0000" channel="Alkass Two.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250911090000 +0000" stop="20250911093000 +0000" channel="Alkass Two.qa"><title>News</title></programme>
+<programme start="20250911093000 +0000" stop="20250911100000 +0000" channel="Alkass Two.qa"><title>Jarayd</title></programme>
+<programme start="20250911100000 +0000" stop="20250911121000 +0000" channel="Alkass Two.qa"><title>AFC U-23 Qualifiers India vs. Brunei</title></programme>
+<programme start="20250911121000 +0000" stop="20250911180000 +0000" channel="Alkass Two.qa"><title>Katara International Hunting and Falcons Exhibition 2025 Studio - Suhail</title></programme>
+<programme start="20250911180000 +0000" stop="20250911183000 +0000" channel="Alkass Two.qa"><title>News</title></programme>
+<programme start="20250911183000 +0000" stop="20250911203000 +0000" channel="Alkass Two.qa"><title>Doha Bank Stars League Al Arabi vs. Umm Salal</title></programme>
+<programme start="20250911203000 +0000" stop="20250911210000 +0000" channel="Alkass Two.qa"><title>preview</title></programme>
+<programme start="20250911210000 +0000" stop="20250911213000 +0000" channel="Alkass Two.qa"><title>News</title></programme>
+<programme start="20250911213000 +0000" stop="20250911223000 +0000" channel="Alkass Two.qa"><title>FOLLOWERS</title></programme>
+<programme start="20250911223000 +0000" stop="20250912011500 +0000" channel="Alkass Two.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250912011500 +0000" stop="20250912020000 +0000" channel="Alkass Two.qa"><title>Fiba.</title></programme>
+<programme start="20250912020000 +0000" stop="20250912030000 +0000" channel="Alkass Two.qa"><title>Thenten wnoss</title></programme>
+<programme start="20250912030000 +0000" stop="20250912033000 +0000" channel="Alkass Two.qa"><title>News</title></programme>
+<programme start="20250912033000 +0000" stop="20250912051500 +0000" channel="Alkass Two.qa"><title>Asian Volleyball Championship Chinese Taipei vs. Vietnam</title></programme>
+<programme start="20250912051500 +0000" stop="20250912070000 +0000" channel="Alkass Two.qa"><title>arabia football</title></programme>
+<programme start="20250912070000 +0000" stop="20250912090000 +0000" channel="Alkass Two.qa"><title>AFC U-23 Qualifiers Qatar vs. Bahrain</title></programme>
+<programme start="20250912090000 +0000" stop="20250912093000 +0000" channel="Alkass Two.qa"><title>News</title></programme>
+<programme start="20250912093000 +0000" stop="20250912100000 +0000" channel="Alkass Two.qa"><title>Jarayd</title></programme>
+<programme start="20250912100000 +0000" stop="20250912121000 +0000" channel="Alkass Two.qa"><title>AFC U-23 Qualifiers India vs. Brunei</title></programme>
+<programme start="20250912121000 +0000" stop="20250912180000 +0000" channel="Alkass Two.qa"><title>Katara International Hunting and Falcons Exhibition 2025 Studio - Suhail</title></programme>
+<programme start="20250912180000 +0000" stop="20250912183000 +0000" channel="Alkass Two.qa"><title>News</title></programme>
+<programme start="20250912183000 +0000" stop="20250912203000 +0000" channel="Alkass Two.qa"><title>Doha Bank Stars League Al Arabi vs. Umm Salal</title></programme>
+</tv>

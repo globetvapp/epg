@@ -247,58 +247,35 @@
 <channel id="Žvaigždė.lt"><display-name>Žvaigždė.lt</display-name></channel>
 <channel id="Перец.lt"><display-name>Перец.lt</display-name></channel>
 <channel id="ТВЦ.lt"><display-name>ТВЦ.lt</display-name></channel>
-<programme start="20250918010000 +0000" stop="20250918060000 +0000" channel="2TV.lt"><title>#</title><desc>Muzikos laida. Vedėjai Dalia Belickaitė ir Timūras Augucevičius</desc></programme>
-<programme start="20250918060000 +0000" stop="20250918080000 +0000" channel="2TV.lt"><title>more body</title><desc>Geriausia ryto muzika</desc></programme>
-<programme start="20250918080000 +0000" stop="20250918130000 +0000" channel="2TV.lt"><title>more body</title><desc>Geriausia dienos muzika</desc></programme>
-<programme start="20250918130000 +0000" stop="20250918150000 +0000" channel="2TV.lt"><title>#</title><desc>Muzikinė laida</desc></programme>
-<programme start="20250918150000 +0000" stop="20250918200000 +0000" channel="2TV.lt"><title>more body</title><desc>Geriausia vakaro muzika</desc></programme>
-<programme start="20250918200000 +0000" stop="20250919010000 +0000" channel="2TV.lt"><title>more body</title><desc>N-14. Geriausia nakties muzika</desc></programme>
 <programme start="20250919010000 +0000" stop="20250919060000 +0000" channel="2TV.lt"><title>#</title><desc>Muzikos laida. Vedėjai Dalia Belickaitė ir Timūras Augucevičius</desc></programme>
 <programme start="20250919060000 +0000" stop="20250919080000 +0000" channel="2TV.lt"><title>more body</title><desc>Geriausia ryto muzika</desc></programme>
 <programme start="20250919080000 +0000" stop="20250919130000 +0000" channel="2TV.lt"><title>more body</title><desc>Geriausia dienos muzika</desc></programme>
 <programme start="20250919130000 +0000" stop="20250919200000 +0000" channel="2TV.lt"><title>#</title><desc>Geriausia vakaro muzika</desc></programme>
 <programme start="20250919200000 +0000" stop="20250919210000 +0000" channel="2TV.lt"><title>more body</title><desc>N-14. Geriausia nakties muzika</desc></programme>
-<programme start="20250918043000 +0000" stop="20250918133000 +0000" channel="Auto Plius.lt"><title>#</title><desc>Realybės dokumentikos programa k.</desc></programme>
-<programme start="20250918133000 +0000" stop="20250918163000 +0000" channel="Auto Plius.lt"><title>#</title><desc>19.15 Specialisto patarimai, Etaplius TV k.</desc></programme>
-<programme start="20250918163000 +0000" stop="20250919043000 +0000" channel="Auto Plius.lt"><title>#</title><desc>22.30 Programos pabaiga</desc></programme>
+<programme start="20250919210000 +0000" stop="20250919230000 +0000" channel="2TV.lt"><title>more body</title><desc>N-14. Geriausia nakties muzika</desc></programme>
+<programme start="20250919230000 +0000" stop="20250920000000 +0000" channel="2TV.lt"><title>more body</title><desc>Gyvas Lietuvos DJ pasirodymas</desc></programme>
+<programme start="20250920000000 +0000" stop="20250920060000 +0000" channel="2TV.lt"><title>#</title><desc>Muzikos laida. Vedėjai Dalia Belickaitė ir Timūras Augucevičius</desc></programme>
+<programme start="20250920060000 +0000" stop="20250920080000 +0000" channel="2TV.lt"><title>more body</title><desc>Geriausia ryto muzika</desc></programme>
+<programme start="20250920080000 +0000" stop="20250920130000 +0000" channel="2TV.lt"><title>more body</title><desc>Geriausia dienos muzika</desc></programme>
+<programme start="20250920130000 +0000" stop="20250920190000 +0000" channel="2TV.lt"><title>#</title><desc>Geriausia vakaro muzika</desc></programme>
+<programme start="20250920190000 +0000" stop="20250920210000 +0000" channel="2TV.lt"><title>more body</title><desc>2 valandos su lietuviška muzika</desc></programme>
 <programme start="20250919043000 +0000" stop="20250919163000 +0000" channel="Auto Plius.lt"><title>#</title><desc>19.15 Specialisto patarimai, Etaplius TV k.</desc></programme>
 <programme start="20250919163000 +0000" stop="20250919180000 +0000" channel="Auto Plius.lt"><title>#</title><desc>20.30 Mokslas suprantamai, Žinių radijas k.</desc></programme>
 <programme start="20250919180000 +0000" stop="20250920043000 +0000" channel="Auto Plius.lt"><title>#</title><desc>22.30 Programos pabaiga</desc></programme>
-<programme start="20250917220000 +0000" stop="20250918200000 +0000" channel="Balticum auksinis.lt"><title>Komandosai</title><desc>﻿﻿﻿﻿﻿﻿﻿﻿</desc></programme>
-<programme start="20250918200000 +0000" stop="20250918220000 +0000" channel="Balticum auksinis.lt"><title>Gyvenimas tarsi šokis</title></programme>
-<programme start="20250918220000 +0000" stop="20250919040000 +0000" channel="Balticum auksinis.lt"><title>Vartai į anapus</title></programme>
-<programme start="20250919040000 +0000" stop="20250920040000 +0000" channel="Balticum auksinis.lt"><title>Elvis ir Niksonas</title></programme>
-<programme start="20250918210000 +0000" stop="20250918040000 +0000" channel="Balticum Platinum.lt"><title>#</title></programme>
-<programme start="20250917214500 +0000" stop="20250918190000 +0000" channel="Balticum.lt"><title>#</title><desc>21:00﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ Istorinis romantinis draminis serialas</desc></programme>
-<programme start="20250918190000 +0000" stop="20250918214500 +0000" channel="Balticum.lt"><title>#</title></programme>
+<programme start="20250920043000 +0000" stop="20250920050000 +0000" channel="Auto Plius.lt"><title>#</title><desc>22.30 Programos pabaiga</desc></programme>
+<programme start="20250920050000 +0000" stop="20250921050000 +0000" channel="Auto Plius.lt"><title>#</title></programme>
+<programme start="20250918220000 +0000" stop="20250918220500 +0000" channel="Balticum auksinis.lt"><title>Vartai į anapus</title></programme>
+<programme start="20250918220500 +0000" stop="20250919040000 +0000" channel="Balticum auksinis.lt"><title>Jaunoji žvaigždė</title></programme>
+<programme start="20250919040000 +0000" stop="20250920040000 +0000" channel="Balticum auksinis.lt"><title>Mija ir baltasis liūtas</title></programme>
+<programme start="20250919210000 +0000" stop="20250919040000 +0000" channel="Balticum Platinum.lt"><title>#</title></programme>
 <programme start="20250918214500 +0000" stop="20250919081500 +0000" channel="Balticum.lt"><title>#</title><desc>Klaipėdos karališkojo pašto paslaptys. Pažintinė istorinė laida.</desc></programme>
 <programme start="20250919081500 +0000" stop="20250919134500 +0000" channel="Balticum.lt"><title>#</title><desc>Chotino mūšis 1673 m. Pažintinė istorinė laida.</desc></programme>
 <programme start="20250919134500 +0000" stop="20250919170000 +0000" channel="Balticum.lt"><title>#</title><desc>Aktualijų laida su Aurelijumi Bezekavičiumi.</desc></programme>
-<programme start="20250919170000 +0000" stop="20250920050000 +0000" channel="Balticum.lt"><title>Moterų daktaras. Naujas gyvenimas</title></programme>
-<programme start="20250917221000 +0000" stop="20250917230500 +0000" channel="BTV.lt"><title>FTB. Ieškomiausi</title><desc>N-7. 2024 m. Detektyvinis serialas. JAV. Vaid.: Dylan McDermott, Keisha Castle-Hughes, Roxy Sternberg.</desc></programme>
-<programme start="20250917230500 +0000" stop="20250918000000 +0000" channel="BTV.lt"><title>Farų karai. Charkivas</title><desc>N-7. 2020 m. Detektyvinis serialas. Ukraina. Vaid.: Anastasia Rula, Artem Pozniak, Sergiy Listunov.</desc></programme>
-<programme start="20250918000000 +0000" stop="20250918003500 +0000" channel="BTV.lt"><title>Pričiupom!</title><desc>2013 m. Slapta kamera. Prancūzija.</desc></programme>
-<programme start="20250918003500 +0000" stop="20250918010500 +0000" channel="BTV.lt"><title>Pričiupom!</title><desc>2013 m. Slapta kamera. Prancūzija.</desc></programme>
-<programme start="20250918010500 +0000" stop="20250918013000 +0000" channel="BTV.lt"><title>Pirkėjų karai</title><desc>N-7. 2022 m. Realybės serialas. JAV.</desc></programme>
-<programme start="20250918013000 +0000" stop="20250918020000 +0000" channel="BTV.lt"><title>more body</title><desc>Kauno tvirtovė. 2022 m. Lietuva. Dokumentinių apybraižų ciklas</desc></programme>
-<programme start="20250918020000 +0000" stop="20250918025000 +0000" channel="BTV.lt"><title>more body</title></programme>
-<programme start="20250918025000 +0000" stop="20250918043000 +0000" channel="BTV.lt"><title>#</title><desc>2015 m. Realybės šou. Australija.</desc></programme>
-<programme start="20250918043000 +0000" stop="20250918050000 +0000" channel="BTV.lt"><title>Pričiupom!</title><desc>2013 m. Slapta kamera. Prancūzija.</desc></programme>
-<programme start="20250918050000 +0000" stop="20250918053000 +0000" channel="BTV.lt"><title>Pirkėjų karai</title><desc>N-7. 2023 m. Realybės serialas. JAV.</desc></programme>
-<programme start="20250918053000 +0000" stop="20250918063000 +0000" channel="BTV.lt"><title>Farų karai. Charkivas</title><desc>N-7. 2020 m. Detektyvinis serialas. Ukraina. Vaid.: Anastasia Rula, Artem Pozniak, Sergiy Listunov.</desc></programme>
-<programme start="20250918063000 +0000" stop="20250918073000 +0000" channel="BTV.lt"><title>Kodas</title><desc>N-7. 2024 m. Detektyvinis serialas. Ukraina. Vaid.: Aleksandr Bodnar, Aleksandr Formanchuk, Boris Georgievskiy, Tatyana Kravchenko.</desc></programme>
-<programme start="20250918073000 +0000" stop="20250918083000 +0000" channel="BTV.lt"><title>Mentalistas</title><desc>N-7. 2009 m. Detektyvinis serialas. JAV. Vaid.: Robin Tunney, Owain Yeoman, Simon Baker, Amanda Righetti.</desc></programme>
-<programme start="20250918083000 +0000" stop="20250918093000 +0000" channel="BTV.lt"><title>CSI. Majamis</title><desc>N-7. 2009 m. Detektyvinis serialas. JAV. Vaid.: David Caruso, Emily Procter, Adam Rodriguez.</desc></programme>
-<programme start="20250918093000 +0000" stop="20250918103000 +0000" channel="BTV.lt"><title>Jūrų pėstininkai</title><desc>N-7. 2019 m. Veiksmo serialas. JAV. Vaid.: David Boreanaz, Neil Brown Jr., Toni Trucks.</desc></programme>
-<programme start="20250918103000 +0000" stop="20250918120000 +0000" channel="BTV.lt"><title>Mano virtuvė geriausia</title><desc>2015 m. Realybės šou. Australija.</desc></programme>
-<programme start="20250918120000 +0000" stop="20250918130000 +0000" channel="BTV.lt"><title>Žemiau denio</title><desc>N-7. 2018 m. Realybės serialas. JAV.</desc></programme>
-<programme start="20250918130000 +0000" stop="20250918140000 +0000" channel="BTV.lt"><title>Kodas</title><desc>N-7. 2024 m. Detektyvinis serialas. Ukraina. Vaid.: Aleksandr Bodnar, Aleksandr Formanchuk, Boris Georgievskiy, Tatyana Kravchenko.</desc></programme>
-<programme start="20250918140000 +0000" stop="20250918150000 +0000" channel="BTV.lt"><title>Mentalistas</title><desc>N-7. 2009 m. Detektyvinis serialas. JAV. Vaid.: Robin Tunney, Owain Yeoman, Simon Baker, Amanda Righetti.</desc></programme>
-<programme start="20250918150000 +0000" stop="20250918160000 +0000" channel="BTV.lt"><title>CSI. Majamis</title><desc>N-7. 2009 m. Detektyvinis serialas. JAV. Vaid.: David Caruso, Emily Procter, Adam Rodriguez.</desc></programme>
-<programme start="20250918160000 +0000" stop="20250918170000 +0000" channel="BTV.lt"><title>FTB. Ieškomiausi</title><desc>N-7. 2024 m. Detektyvinis serialas. JAV. Vaid.: Dylan McDermott, Keisha Castle-Hughes, Roxy Sternberg.</desc></programme>
-<programme start="20250918170000 +0000" stop="20250918180000 +0000" channel="BTV.lt"><title>Žemiau denio</title><desc>N-7. 2019 m. Realybės serialas. JAV.</desc></programme>
-<programme start="20250918180000 +0000" stop="20250918202500 +0000" channel="BTV.lt"><title>more body</title><desc>N-14. 2007 m. Kriminalinis trileris. JAV. Vaid.: Tommy Lee Jones, Javier Bardem, Josh Brolin.</desc></programme>
-<programme start="20250918202500 +0000" stop="20250918221000 +0000" channel="BTV.lt"><title>more body</title><desc>N-14. 2015 m. Veiksmo filmas. JAV, Kanada, Didžioji Britanija. Miller. Vaid.: Bruce Willis, Kellan Lutz, Gina Carano.</desc></programme>
+<programme start="20250919170000 +0000" stop="20250919212500 +0000" channel="Balticum.lt"><title>Moterų daktaras. Naujas gyvenimas</title></programme>
+<programme start="20250919212500 +0000" stop="20250920063000 +0000" channel="Balticum.lt"><title>Ėjimas žirgu</title><desc>Aktualijų laida su Aurelijumi Bezekavičiumi.</desc></programme>
+<programme start="20250920063000 +0000" stop="20250920140000 +0000" channel="Balticum.lt"><title>Moterų daktaras. Naujas gyvenimas</title><desc>Klaipėdos karališkojo pašto paslaptys. Pažintinė istorinė laida.</desc></programme>
+<programme start="20250920140000 +0000" stop="20250920170000 +0000" channel="Balticum.lt"><title>#</title><desc>Aktualijų laida su Aurelijumi Bezekavičiumi.</desc></programme>
+<programme start="20250920170000 +0000" stop="20250921050000 +0000" channel="Balticum.lt"><title>#</title></programme>
 <programme start="20250918221000 +0000" stop="20250918230500 +0000" channel="BTV.lt"><title>FTB. Ieškomiausi</title><desc>N-7. 2024 m. Detektyvinis serialas. JAV. Vaid.: Dylan McDermott, Keisha Castle-Hughes, Roxy Sternberg.</desc></programme>
 <programme start="20250918230500 +0000" stop="20250919000000 +0000" channel="BTV.lt"><title>Farų karai. Charkivas</title><desc>N-7. 2020 m. Detektyvinis serialas. Ukraina. Vaid.: Anastasia Rula, Artem Pozniak, Sergiy Listunov.</desc></programme>
 <programme start="20250919000000 +0000" stop="20250919003500 +0000" channel="BTV.lt"><title>Pričiupom!</title><desc>2013 m. Slapta kamera. Prancūzija.</desc></programme>
@@ -323,27 +300,29 @@
 <programme start="20250919170000 +0000" stop="20250919180000 +0000" channel="BTV.lt"><title>Žemiau denio</title><desc>N-7. 2019 m. Realybės serialas. JAV.</desc></programme>
 <programme start="20250919180000 +0000" stop="20250919194500 +0000" channel="BTV.lt"><title>more body</title><desc>N-14. 2020 m. Veiksmo trileris. JAV. Vaid.: Karlee Leilani Perez, Mario Van Peebles, Scott Adkins.</desc></programme>
 <programme start="20250919194500 +0000" stop="20250919221000 +0000" channel="BTV.lt"><title>more body</title><desc>N-14. 2007 m. Kriminalinis trileris. JAV. Vaid.: Tommy Lee Jones, Javier Bardem, Josh Brolin.</desc></programme>
-<programme start="20250917210000 +0000" stop="20250918040000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Svarbiausių įvykių apžvalga (k)</desc></programme>
-<programme start="20250918040000 +0000" stop="20250918060000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Nepatikėsite, ką surado Švenčionėliuose</desc></programme>
-<programme start="20250918060000 +0000" stop="20250918073000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Pietų Korėja (1)</desc></programme>
-<programme start="20250918073000 +0000" stop="20250918080000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Pietų Korėja (2)</desc></programme>
-<programme start="20250918080000 +0000" stop="20250918083000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>7 pasaulio stebuklai (43)</desc></programme>
-<programme start="20250918083000 +0000" stop="20250918085500 +0000" channel="DELFI TV.lt"><title>more body</title><desc>7 pasaulio stebuklai (44)</desc></programme>
-<programme start="20250918085500 +0000" stop="20250918100000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Svarbiausių įvykių apžvalga</desc></programme>
-<programme start="20250918100000 +0000" stop="20250918103000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Neribota šeichų fantazija: kaip atrodo naujieji Dubajaus stebuklai</desc></programme>
-<programme start="20250918103000 +0000" stop="20250918110000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Nematyta Emyratų pusė: kaimo turizmas kalnuose</desc></programme>
-<programme start="20250918110000 +0000" stop="20250918113000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>7 pasaulio stebuklai (45)</desc></programme>
-<programme start="20250918113000 +0000" stop="20250918120000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>7 pasaulio stebuklai (46)</desc></programme>
-<programme start="20250918120000 +0000" stop="20250918133000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Karas Ukrainoje: įtampa kaimyninėje Moldovoje</desc></programme>
-<programme start="20250918133000 +0000" stop="20250918140000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Skurdžiausia Europos sostinė - Kišiniovas</desc></programme>
-<programme start="20250918140000 +0000" stop="20250918143000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Pietų Korėja (3)</desc></programme>
-<programme start="20250918143000 +0000" stop="20250918145500 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Pietų Korėja (4)</desc></programme>
-<programme start="20250918145500 +0000" stop="20250918153000 +0000" channel="DELFI TV.lt"><title>#</title><desc>7 pasaulio stebuklai (47)</desc></programme>
-<programme start="20250918153000 +0000" stop="20250918160000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>7 pasaulio stebuklai (48)</desc></programme>
-<programme start="20250918160000 +0000" stop="20250918190000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Mongolija, 2 dalis</desc></programme>
-<programme start="20250918190000 +0000" stop="20250918193500 +0000" channel="DELFI TV.lt"><title>#</title><desc>Jėga. Dienos loto</desc></programme>
-<programme start="20250918193500 +0000" stop="20250918203500 +0000" channel="DELFI TV.lt"><title>#</title><desc>Karas Ukrainoje: įtampa kaimyninėje Moldovoje</desc></programme>
-<programme start="20250918203500 +0000" stop="20250918210000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Skurdžiausia Europos sostinė - Kišiniovas</desc></programme>
+<programme start="20250919221000 +0000" stop="20250919230500 +0000" channel="BTV.lt"><title>Farų karai. Charkivas</title><desc>N-7. 2020 m. Detektyvinis serialas. Ukraina. Vaid.: Anastasia Rula, Artem Pozniak, Sergiy Listunov.</desc></programme>
+<programme start="20250919230500 +0000" stop="20250919235500 +0000" channel="BTV.lt"><title>Lego meistrai</title><desc>2023 m. Realybės šou. JAV.</desc></programme>
+<programme start="20250919235500 +0000" stop="20250920011000 +0000" channel="BTV.lt"><title>Didysis turas</title><desc>N-7. 2016 m. Dokumentinė realybė. Didžioji Britanija, JAV. Vedėjas: James May, Jeremy Clarkson, Richard Hammond.</desc></programme>
+<programme start="20250920011000 +0000" stop="20250920014000 +0000" channel="BTV.lt"><title>Pričiupom!</title><desc>2013 m. Slapta kamera. Prancūzija.</desc></programme>
+<programme start="20250920014000 +0000" stop="20250920020000 +0000" channel="BTV.lt"><title>Pirkėjų karai</title><desc>N-7. 2023 m. Realybės serialas. JAV.</desc></programme>
+<programme start="20250920020000 +0000" stop="20250920025000 +0000" channel="BTV.lt"><title>more body</title></programme>
+<programme start="20250920025000 +0000" stop="20250920043000 +0000" channel="BTV.lt"><title>#</title><desc>2015 m. Realybės šou. Australija.</desc></programme>
+<programme start="20250920043000 +0000" stop="20250920050000 +0000" channel="BTV.lt"><title>Pričiupom!</title><desc>2013 m. Slapta kamera. Prancūzija.</desc></programme>
+<programme start="20250920050000 +0000" stop="20250920053000 +0000" channel="BTV.lt"><title>Pirkėjų karai</title><desc>N-7. 2023 m. Realybės serialas. JAV.</desc></programme>
+<programme start="20250920053000 +0000" stop="20250920063000 +0000" channel="BTV.lt"><title>Farų karai. Charkivas</title><desc>N-7. 2020 m. Detektyvinis serialas. Ukraina. Vaid.: Anastasia Rula, Artem Pozniak, Sergiy Listunov.</desc></programme>
+<programme start="20250920063000 +0000" stop="20250920073000 +0000" channel="BTV.lt"><title>Kodas</title><desc>N-7. 2024 m. Detektyvinis serialas. Ukraina. Vaid.: Aleksandr Bodnar, Aleksandr Formanchuk, Boris Georgievskiy, Tatyana Kravchenko.</desc></programme>
+<programme start="20250920073000 +0000" stop="20250920083000 +0000" channel="BTV.lt"><title>Mentalistas</title><desc>N-7. 2009 m. Detektyvinis serialas. JAV. Vaid.: Robin Tunney, Owain Yeoman, Simon Baker, Amanda Righetti.</desc></programme>
+<programme start="20250920083000 +0000" stop="20250920093000 +0000" channel="BTV.lt"><title>CSI. Majamis</title><desc>N-7. 2009 m. Detektyvinis serialas. JAV. Vaid.: David Caruso, Emily Procter, Adam Rodriguez.</desc></programme>
+<programme start="20250920093000 +0000" stop="20250920103000 +0000" channel="BTV.lt"><title>Jūrų pėstininkai</title><desc>N-7. 2019 m. Veiksmo serialas. JAV. Vaid.: David Boreanaz, Neil Brown Jr., Toni Trucks.</desc></programme>
+<programme start="20250920103000 +0000" stop="20250920120000 +0000" channel="BTV.lt"><title>Mano virtuvė geriausia</title><desc>2015 m. Realybės šou. Australija.</desc></programme>
+<programme start="20250920120000 +0000" stop="20250920130000 +0000" channel="BTV.lt"><title>Žemiau denio</title><desc>N-7. 2019 m. Realybės serialas. JAV.</desc></programme>
+<programme start="20250920130000 +0000" stop="20250920140000 +0000" channel="BTV.lt"><title>Kodas</title><desc>N-7. 2024 m. Detektyvinis serialas. Ukraina. Vaid.: Aleksandr Bodnar, Aleksandr Formanchuk, Boris Georgievskiy, Tatyana Kravchenko.</desc></programme>
+<programme start="20250920140000 +0000" stop="20250920150000 +0000" channel="BTV.lt"><title>Mentalistas</title><desc>N-7. 2009 m. Detektyvinis serialas. JAV. Vaid.: Robin Tunney, Owain Yeoman, Simon Baker, Amanda Righetti.</desc></programme>
+<programme start="20250920150000 +0000" stop="20250920160000 +0000" channel="BTV.lt"><title>CSI. Majamis</title><desc>N-7. 2009 m. Detektyvinis serialas. JAV. Vaid.: David Caruso, Emily Procter, Adam Rodriguez.</desc></programme>
+<programme start="20250920160000 +0000" stop="20250920172000 +0000" channel="BTV.lt"><title>PREMJERA Gladiatoriai</title><desc>N-7. 2024 m. Realybės šou. Didžioji Britanija.</desc></programme>
+<programme start="20250920172000 +0000" stop="20250920183500 +0000" channel="BTV.lt"><title>PREMJERA Gladiatoriai</title><desc>N-7. 2024 m. Realybės šou. Didžioji Britanija.</desc></programme>
+<programme start="20250920183500 +0000" stop="20250920202500 +0000" channel="BTV.lt"><title>more body</title><desc>N-14. 2014 m. Veiksmo trileris. JAV. Vaid.: Richard Armitage, Sarah Wayne Callies, Matt Walsh.</desc></programme>
+<programme start="20250920202500 +0000" stop="20250920221500 +0000" channel="BTV.lt"><title>more body</title><desc>N-14. 2020 m. Veiksmo trileris. JAV. Vaid.: Karlee Leilani Perez, Mario Van Peebles, Scott Adkins.</desc></programme>
 <programme start="20250918210000 +0000" stop="20250919040000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Svarbiausių įvykių apžvalga (k)</desc></programme>
 <programme start="20250919040000 +0000" stop="20250919060000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Mongolija, 2 dalis</desc></programme>
 <programme start="20250919060000 +0000" stop="20250919073000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Pietų Korėja (3)</desc></programme>
@@ -364,30 +343,38 @@
 <programme start="20250919160000 +0000" stop="20250919193500 +0000" channel="DELFI TV.lt"><title>#</title><desc>Jėga. Dienos loto</desc></programme>
 <programme start="20250919193500 +0000" stop="20250919203500 +0000" channel="DELFI TV.lt"><title>#</title><desc>Ko gėdijasi ir kuo didžiuojasi Kišiniovas</desc></programme>
 <programme start="20250919203500 +0000" stop="20250919210000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Padniestrė - šalis, kurios nėra pasaulio žemėlapyje</desc></programme>
-<programme start="20250917212500 +0000" stop="20250918025500 +0000" channel="Duo 3.lt"><title>#</title><desc>A, rugsėjo 18 d.</desc></programme>
-<programme start="20250918025500 +0000" stop="20250918212500 +0000" channel="Duo 3.lt"><title>#</title></programme>
+<programme start="20250919210000 +0000" stop="20250920040000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Svarbiausių įvykių apžvalga (k)</desc></programme>
+<programme start="20250920040000 +0000" stop="20250920073000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Pietų Korėja (5)</desc></programme>
+<programme start="20250920073000 +0000" stop="20250920080000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Turkija (1)</desc></programme>
+<programme start="20250920080000 +0000" stop="20250920083000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>7 pasaulio stebuklai (47)</desc></programme>
+<programme start="20250920083000 +0000" stop="20250920085500 +0000" channel="DELFI TV.lt"><title>more body</title><desc>7 pasaulio stebuklai (48)</desc></programme>
+<programme start="20250920085500 +0000" stop="20250920100000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Svarbiausių įvykių apžvalga</desc></programme>
+<programme start="20250920100000 +0000" stop="20250920103000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Ko gėdijasi ir kuo didžiuojasi Kišiniovas</desc></programme>
+<programme start="20250920103000 +0000" stop="20250920110000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Padniestrė - šalis, kurios nėra pasaulio žemėlapyje</desc></programme>
+<programme start="20250920110000 +0000" stop="20250920113000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>7 pasaulio stebuklai (49)</desc></programme>
+<programme start="20250920113000 +0000" stop="20250920120000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>7 pasaulio stebuklai (50)</desc></programme>
+<programme start="20250920120000 +0000" stop="20250920133000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Užstrigę sovietų laikais: 2022-ieji, o vaizdas kaip 1980-aisiais</desc></programme>
+<programme start="20250920133000 +0000" stop="20250920140000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Amsterdamas: olandai sako, kad tai gražiausia metų diena</desc></programme>
+<programme start="20250920140000 +0000" stop="20250920143000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Turkija (2)</desc></programme>
+<programme start="20250920143000 +0000" stop="20250920145500 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Turkija (3)</desc></programme>
+<programme start="20250920145500 +0000" stop="20250920170000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Mongolija, 2 dalis</desc></programme>
+<programme start="20250920170000 +0000" stop="20250920173000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Svečiuose — G. Baikštytė</desc></programme>
+<programme start="20250920173000 +0000" stop="20250920180000 +0000" channel="DELFI TV.lt"><title>more body</title><desc>Argentina (3)</desc></programme>
+<programme start="20250920180000 +0000" stop="20250920200000 +0000" channel="DELFI TV.lt"><title>#</title><desc>Jėga. Dienos loto</desc></programme>
+<programme start="20250920200000 +0000" stop="20250921030000 +0000" channel="DELFI TV.lt"><title>#</title></programme>
 <programme start="20250918212500 +0000" stop="20250919025500 +0000" channel="Duo 3.lt"><title>#</title><desc>A, rugsėjo 19 d.</desc></programme>
-<programme start="20250919025500 +0000" stop="20250920025500 +0000" channel="Duo 3.lt"><title>#</title><desc>A, rugsėjo 20 d.</desc></programme>
-<programme start="20250917222500 +0000" stop="20250918060500 +0000" channel="FilmZone.lt"><title>#</title><desc>A, rugsėjo 18 d.</desc></programme>
-<programme start="20250918060500 +0000" stop="20250918224500 +0000" channel="FilmZone.lt"><title>#</title></programme>
+<programme start="20250919025500 +0000" stop="20250919212000 +0000" channel="Duo 3.lt"><title>#</title></programme>
+<programme start="20250919212000 +0000" stop="20250920025500 +0000" channel="Duo 3.lt"><title>#</title><desc>A, rugsėjo 20 d.</desc></programme>
+<programme start="20250920025500 +0000" stop="20250921025500 +0000" channel="Duo 3.lt"><title>#</title><desc>A, rugsėjo 21 d.</desc></programme>
 <programme start="20250918224500 +0000" stop="20250919055000 +0000" channel="FilmZone.lt"><title>#</title><desc>A, rugsėjo 19 d.</desc></programme>
-<programme start="20250919055000 +0000" stop="20250920052000 +0000" channel="FilmZone.lt"><title>#</title><desc>A, rugsėjo 20 d.</desc></programme>
-<programme start="20250917210000 +0000" stop="20250918051000 +0000" channel="FilmZone+.lt"><title>#</title><desc>A, rugsėjo 18 d.</desc></programme>
-<programme start="20250918051000 +0000" stop="20250918222000 +0000" channel="FilmZone+.lt"><title>#</title></programme>
+<programme start="20250919055000 +0000" stop="20250919221500 +0000" channel="FilmZone.lt"><title>#</title></programme>
+<programme start="20250919221500 +0000" stop="20250920052000 +0000" channel="FilmZone.lt"><title>#</title><desc>A, rugsėjo 20 d.</desc></programme>
+<programme start="20250920052000 +0000" stop="20250920064500 +0000" channel="FilmZone.lt"><title>#</title><desc>A, rugsėjo 21 d.</desc></programme>
+<programme start="20250920064500 +0000" stop="20250921045500 +0000" channel="FilmZone.lt"><title>#</title></programme>
 <programme start="20250918222000 +0000" stop="20250919044000 +0000" channel="FilmZone+.lt"><title>Filmzone Plus</title><desc>A, rugsėjo 19 d.</desc></programme>
-<programme start="20250919044000 +0000" stop="20250919053000 +0000" channel="FilmZone+.lt"><title>#</title><desc>A, rugsėjo 20 d.</desc></programme>
-<programme start="20250919053000 +0000" stop="20250920051500 +0000" channel="FilmZone+.lt"><title>#</title><desc>A, rugsėjo 21 d.</desc></programme>
-<programme start="20250917210000 +0000" stop="20250917230000 +0000" channel="Go3 Films.lt"><title>Neatrastas</title><desc>Ispanija, JAV Veiksmo, Nuotykių, Historical</desc></programme>
-<programme start="20250917230000 +0000" stop="20250918010000 +0000" channel="Go3 Films.lt"><title>Praeities šešėlis</title><desc>JAV Drama, Melodrama, Komedija</desc></programme>
-<programme start="20250918010000 +0000" stop="20250918043000 +0000" channel="Go3 Films.lt"><title>Numylėtinė</title><desc>Vokietija, Australija, Airija Animacinis, Nuotykių, Fantastinis</desc></programme>
-<programme start="20250918043000 +0000" stop="20250918063000 +0000" channel="Go3 Films.lt"><title>Skenduolė. Float</title><desc>JAV Drama, Melodrama, Swimming</desc></programme>
-<programme start="20250918063000 +0000" stop="20250918083000 +0000" channel="Go3 Films.lt"><title>Tėvas Stju</title><desc>JAV, Korea, Republic of Biografinis, Drama, Veiksmo</desc></programme>
-<programme start="20250918083000 +0000" stop="20250918103000 +0000" channel="Go3 Films.lt"><title>Lilas, Lilas, Krokodilas</title><desc>Didžioji Britanija, JAV Nuotykių, Komedija, Visai šeimai, Fantastinis, MiuziklasRež.: Josh Gordon, Will Speck,</desc></programme>
-<programme start="20250918103000 +0000" stop="20250918130000 +0000" channel="Go3 Films.lt"><title>VASAROS KINO TEATRAS Karalius Artūras</title><desc>Didžioji Britanija, Airija, JAV Veiksmo, Nuotykių, Drama, Karinis. N-7</desc></programme>
-<programme start="20250918130000 +0000" stop="20250918150000 +0000" channel="Go3 Films.lt"><title>200% vilkas</title><desc>Vokietija, Australija, Meksika, Ispanija Animacinis, Nuotykių, Veiksmo, Komedija, Visai šeimai, FantastinisRež.: Alexs Stadermann,</desc></programme>
-<programme start="20250918150000 +0000" stop="20250918170000 +0000" channel="Go3 Films.lt"><title>Piršlybos</title><desc>JAV Komedija, Drama, MelodramaNelson, Betty White ir kiti.. N-7</desc></programme>
-<programme start="20250918170000 +0000" stop="20250918190000 +0000" channel="Go3 Films.lt"><title>Fantastinių gyvūnų legenda</title><desc>Kanada, Prancūzija Animacinis, Nuotykių, Fantastinis, Visai šeimai</desc></programme>
-<programme start="20250918190000 +0000" stop="20250918210000 +0000" channel="Go3 Films.lt"><title>Liusi</title><desc>Vokietija, Kanada, Taivanas, Prancūzija Veiksmo, Mokslinė fantastika, TrilerisN-14</desc></programme>
+<programme start="20250919044000 +0000" stop="20250919223000 +0000" channel="FilmZone+.lt"><title>#</title></programme>
+<programme start="20250919223000 +0000" stop="20250920053000 +0000" channel="FilmZone+.lt"><title>Filmzone Plus</title><desc>A, rugsėjo 20 d.</desc></programme>
+<programme start="20250920053000 +0000" stop="20250921051500 +0000" channel="FilmZone+.lt"><title>#</title><desc>A, rugsėjo 21 d.</desc></programme>
 <programme start="20250918210000 +0000" stop="20250918230000 +0000" channel="Go3 Films.lt"><title>Be stabdžių</title><desc>JAV Komedija, Melodrama, Drama.</desc></programme>
 <programme start="20250918230000 +0000" stop="20250919010000 +0000" channel="Go3 Films.lt"><title>Jie, jų</title><desc>JAV Drama, Siaubo, Mistinis</desc></programme>
 <programme start="20250919010000 +0000" stop="20250919043000 +0000" channel="Go3 Films.lt"><title>Šimtas kelių iki grabo lentos</title><desc>Indija, JAV Animacinis, Veiksmo, Nuotykių</desc></programme>
@@ -400,27 +387,20 @@
 <programme start="20250919153000 +0000" stop="20250919172000 +0000" channel="Go3 Films.lt"><title>Atkirtis</title><desc>JAV Drama, MuzikaK. Simmons, Melissa Benoist ir kiti.. N-14</desc></programme>
 <programme start="20250919172000 +0000" stop="20250919190000 +0000" channel="Go3 Films.lt"><title>Largo Vinčas: Pinigų kaina</title><desc>Belgija, Prancūzija Veiksmo, Nuotykių, Trileris</desc></programme>
 <programme start="20250919190000 +0000" stop="20250919213000 +0000" channel="Go3 Films.lt"><title>KP19: Jei Bylo gatvė prabiltų</title><desc>JAV Drama, Melodrama, DramaticRež.: Barry Jenkins,</desc></programme>
-<programme start="20250917222000 +0000" stop="20250918210000 +0000" channel="Go3 Sport 1.lt"><title>Serie A.</title></programme>
-<programme start="20250918210000 +0000" stop="20250919030000 +0000" channel="Go3 Sport 1.lt"><title>MotoGP.</title></programme>
-<programme start="20250919030000 +0000" stop="20250920030000 +0000" channel="Go3 Sport 1.lt"><title>Serie A.</title></programme>
-<programme start="20250917213000 +0000" stop="20250917221500 +0000" channel="Go3 Sport 2.lt"><title>Šveicarijos lyga.</title></programme>
-<programme start="20250917221500 +0000" stop="20250918030000 +0000" channel="Go3 Sport 2.lt"><title>Serie A.</title></programme>
-<programme start="20250918030000 +0000" stop="20250919030000 +0000" channel="Go3 Sport 2.lt"><title>WRC.</title></programme>
-<programme start="20250917213000 +0000" stop="20250918003000 +0000" channel="INFO TV.lt"><title>#</title><desc>Pramoginė aktualijų laida. Vedėjai Karolina Liukaitytė, Mantas Bružas, Eglė Šantaraitė ir Adomas Grinius</desc></programme>
-<programme start="20250918003000 +0000" stop="20250918023500 +0000" channel="INFO TV.lt"><title>#</title><desc>Pramoginė aktualijų laida. Vedėjai Karolina Liukaitytė, Mantas Bružas, Eglė Šantaraitė ir Adomas Grinius</desc></programme>
-<programme start="20250918023500 +0000" stop="20250918060000 +0000" channel="INFO TV.lt"><title>#</title><desc>Pramoginė aktualijų laida. Vedėjai Karolina Liukaitytė, Mantas Bružas, Eglė Šantaraitė ir Adomas Grinius</desc></programme>
-<programme start="20250918060000 +0000" stop="20250918070000 +0000" channel="INFO TV.lt"><title>Mylėk savo sodą</title><desc>2022 m. Dokumentinis serialas. Didžioji Britanija.</desc></programme>
-<programme start="20250918070000 +0000" stop="20250918080000 +0000" channel="INFO TV.lt"><title>Viskas, ko jūs nežinojote apie gyvūnus</title><desc>2015 m. Dokumentinis serialas. JAV.</desc></programme>
-<programme start="20250918080000 +0000" stop="20250918090000 +0000" channel="INFO TV.lt"><title>Gražioji Amerika</title><desc>2022 m. Dokumentinis serialas. JAV.</desc></programme>
-<programme start="20250918090000 +0000" stop="20250918113000 +0000" channel="INFO TV.lt"><title>#</title><desc>Pramoginė aktualijų laida. Vedėjai Karolina Liukaitytė, Mantas Bružas, Eglė Šantaraitė ir Adomas Grinius</desc></programme>
-<programme start="20250918113000 +0000" stop="20250918123000 +0000" channel="INFO TV.lt"><title>more body</title><desc>N-7. Lietuva. Gyvenimo būdo laida. Vedėja Gintarė Gurevičiūtė</desc></programme>
-<programme start="20250918123000 +0000" stop="20250918130000 +0000" channel="INFO TV.lt"><title>more body</title><desc>N-7. Infošou. Vedėjai Keite Arai, Viktorija Vaičaitė ir Tomas Ališauskas</desc></programme>
-<programme start="20250918130000 +0000" stop="20250918140000 +0000" channel="INFO TV.lt"><title>Mylėk savo sodą</title><desc>2022 m. Dokumentinis serialas. Didžioji Britanija.</desc></programme>
-<programme start="20250918140000 +0000" stop="20250918150000 +0000" channel="INFO TV.lt"><title>Viskas, ko jūs nežinojote apie gyvūnus</title><desc>2015 m. Dokumentinis serialas. JAV.</desc></programme>
-<programme start="20250918150000 +0000" stop="20250918160000 +0000" channel="INFO TV.lt"><title>Senovės atradimai</title><desc>2007 m. Dokumentinis serialas. Australija, Didžioji Britanija, JAV.</desc></programme>
-<programme start="20250918160000 +0000" stop="20250918170000 +0000" channel="INFO TV.lt"><title>Tobula planeta</title><desc>2021 m. Dokumentinis serialas. Didžioji Britanija, JAV.</desc></programme>
-<programme start="20250918170000 +0000" stop="20250918190000 +0000" channel="INFO TV.lt"><title>#</title><desc>2007 m. Dokumentinis serialas. Australija, Didžioji Britanija, JAV.</desc></programme>
-<programme start="20250918190000 +0000" stop="20250918213000 +0000" channel="INFO TV.lt"><title>#</title></programme>
+<programme start="20250919213000 +0000" stop="20250920000000 +0000" channel="Go3 Films.lt"><title>Tramdantys ugnį</title><desc>JAV Biografinis, Drama, VeiksmoN-14</desc></programme>
+<programme start="20250920000000 +0000" stop="20250920050000 +0000" channel="Go3 Films.lt"><title>Salos vaiduokliai</title><desc>Didžioji Britanija, Islandija, JAV Drama, Nuotykių, Biografinis, Trileris, Dokumentika. N-14</desc></programme>
+<programme start="20250920050000 +0000" stop="20250920070000 +0000" channel="Go3 Films.lt"><title>Šuns tikslas</title><desc>Indija, JAV Nuotykių, Komedija, DramaN-7</desc></programme>
+<programme start="20250920070000 +0000" stop="20250920090000 +0000" channel="Go3 Films.lt"><title>Medžiotojas ir ledo karalienė</title><desc>Kinija, JAV Veiksmo, Nuotykių. N-14</desc></programme>
+<programme start="20250920090000 +0000" stop="20250920110000 +0000" channel="Go3 Films.lt"><title>Čarlio angelai</title><desc>Vokietija, Kinija, JAV Veiksmo, Nuotykių, KomedijaRež.: Banks Elizabeth,</desc></programme>
+<programme start="20250920110000 +0000" stop="20250920123000 +0000" channel="Go3 Films.lt"><title>Nuotakų karai</title><desc>JAV Komedija, Melodrama</desc></programme>
+<programme start="20250920123000 +0000" stop="20250920143000 +0000" channel="Go3 Films.lt"><title>Pasaulinė invazija: mūšis dėl Los Andželo</title><desc>JAV Veiksmo, Mokslinė fantastika, Nuotykių</desc></programme>
+<programme start="20250920143000 +0000" stop="20250920163000 +0000" channel="Go3 Films.lt"><title>Likimo sujungti</title><desc>JAV Komedija, MelodramaN-14</desc></programme>
+<programme start="20250920163000 +0000" stop="20250920190000 +0000" channel="Go3 Films.lt"><title>Netaikomos taisyklės</title><desc>JAV Komedija, Drama, Melodrama.</desc></programme>
+<programme start="20250920190000 +0000" stop="20250920210000 +0000" channel="Go3 Films.lt"><desc>Vokietija, Italija, Čilė, JAV Biografinis, Drama, Muzika</desc></programme>
+<programme start="20250919210000 +0000" stop="20250919030000 +0000" channel="Go3 Sport 1.lt"><title>One Championship.</title></programme>
+<programme start="20250918221500 +0000" stop="20250919212000 +0000" channel="Go3 Sport 2.lt"><title>Serie A.</title></programme>
+<programme start="20250919212000 +0000" stop="20250920030000 +0000" channel="Go3 Sport 2.lt"><title>MotoGP.</title></programme>
+<programme start="20250920030000 +0000" stop="20250921030000 +0000" channel="Go3 Sport 2.lt"><title>Serie A.</title></programme>
 <programme start="20250918213000 +0000" stop="20250919003000 +0000" channel="INFO TV.lt"><title>#</title><desc>Pramoginė aktualijų laida. Vedėjai Karolina Liukaitytė, Mantas Bružas, Eglė Šantaraitė ir Adomas Grinius</desc></programme>
 <programme start="20250919003000 +0000" stop="20250919023500 +0000" channel="INFO TV.lt"><title>#</title><desc>Pramoginė aktualijų laida. Vedėjai Karolina Liukaitytė, Mantas Bružas, Eglė Šantaraitė ir Adomas Grinius</desc></programme>
 <programme start="20250919023500 +0000" stop="20250919060000 +0000" channel="INFO TV.lt"><title>#</title><desc>Pramoginė aktualijų laida. Vedėjai Karolina Liukaitytė, Mantas Bružas, Eglė Šantaraitė ir Adomas Grinius</desc></programme>
@@ -435,30 +415,34 @@
 <programme start="20250919150000 +0000" stop="20250919160000 +0000" channel="INFO TV.lt"><title>Senovės atradimai</title><desc>2007 m. Dokumentinis serialas. Australija, Didžioji Britanija, JAV.</desc></programme>
 <programme start="20250919160000 +0000" stop="20250919170000 +0000" channel="INFO TV.lt"><title>Tobula planeta</title><desc>2021 m. Dokumentinis serialas. Didžioji Britanija, JAV.</desc></programme>
 <programme start="20250919170000 +0000" stop="20250919190000 +0000" channel="INFO TV.lt"><title>#</title><desc>2007 m. Dokumentinis serialas. Australija, Didžioji Britanija, JAV.</desc></programme>
-<programme start="20250919190000 +0000" stop="20250920003000 +0000" channel="INFO TV.lt"><title>#</title><desc>Pramoginė aktualijų laida. Vedėjai Karolina Liukaitytė, Mantas Bružas, Eglė Šantaraitė ir Adomas Grinius</desc></programme>
-<programme start="20250917210500 +0000" stop="20250918055000 +0000" channel="Init Ekstra TV.lt"><title>#</title><desc>Laida tikintiesiems. 2025 m. (k)</desc></programme>
-<programme start="20250918055000 +0000" stop="20250918225000 +0000" channel="Init Ekstra TV.lt"><title>#</title></programme>
+<programme start="20250919190000 +0000" stop="20250919213000 +0000" channel="INFO TV.lt"><title>#</title></programme>
+<programme start="20250919213000 +0000" stop="20250920003000 +0000" channel="INFO TV.lt"><title>#</title><desc>Pramoginė aktualijų laida. Vedėjai Karolina Liukaitytė, Mantas Bružas, Eglė Šantaraitė ir Adomas Grinius</desc></programme>
+<programme start="20250920003000 +0000" stop="20250920023500 +0000" channel="INFO TV.lt"><title>#</title><desc>Pramoginė aktualijų laida. Vedėjai Karolina Liukaitytė, Mantas Bružas, Eglė Šantaraitė ir Adomas Grinius</desc></programme>
+<programme start="20250920023500 +0000" stop="20250920060000 +0000" channel="INFO TV.lt"><title>#</title><desc>Pramoginė aktualijų laida. Vedėjai Karolina Liukaitytė, Mantas Bružas, Eglė Šantaraitė ir Adomas Grinius</desc></programme>
+<programme start="20250920060000 +0000" stop="20250920070000 +0000" channel="INFO TV.lt"><title>Mylėk savo sodą</title><desc>2022 m. Dokumentinis serialas. Didžioji Britanija.</desc></programme>
+<programme start="20250920070000 +0000" stop="20250920080000 +0000" channel="INFO TV.lt"><title>Viskas, ko jūs nežinojote apie gyvūnus</title><desc>2015 m. Dokumentinis serialas. JAV.</desc></programme>
+<programme start="20250920080000 +0000" stop="20250920090000 +0000" channel="INFO TV.lt"><title>Tobula planeta</title><desc>2021 m. Dokumentinis serialas. Didžioji Britanija, JAV.</desc></programme>
+<programme start="20250920090000 +0000" stop="20250920113000 +0000" channel="INFO TV.lt"><title>#</title><desc>Pramoginė aktualijų laida. Vedėjai Karolina Liukaitytė, Mantas Bružas, Eglė Šantaraitė ir Adomas Grinius</desc></programme>
+<programme start="20250920113000 +0000" stop="20250920123000 +0000" channel="INFO TV.lt"><title>more body</title><desc>N-7. Diskusijų laida. Vedėjai Rūta Mikelkevičiūtė ir Paulius Mikolaitis</desc></programme>
+<programme start="20250920123000 +0000" stop="20250920130000 +0000" channel="INFO TV.lt"><title>more body</title><desc>N-7. Infošou. Vedėjai Keite Arai, Viktorija Vaičaitė ir Tomas Ališauskas</desc></programme>
+<programme start="20250920130000 +0000" stop="20250920140000 +0000" channel="INFO TV.lt"><title>Mylėk savo sodą</title><desc>2022 m. Dokumentinis serialas. Didžioji Britanija.</desc></programme>
+<programme start="20250920140000 +0000" stop="20250920150000 +0000" channel="INFO TV.lt"><title>Viskas, ko jūs nežinojote apie gyvūnus</title><desc>2015 m. Dokumentinis serialas. JAV.</desc></programme>
+<programme start="20250920150000 +0000" stop="20250920160000 +0000" channel="INFO TV.lt"><title>Senovės atradimai</title><desc>2007 m. Dokumentinis serialas. Australija, Didžioji Britanija, JAV.</desc></programme>
+<programme start="20250920160000 +0000" stop="20250920170000 +0000" channel="INFO TV.lt"><title>Tobula planeta</title><desc>2021 m. Dokumentinis serialas. Didžioji Britanija, JAV.</desc></programme>
+<programme start="20250920170000 +0000" stop="20250920190000 +0000" channel="INFO TV.lt"><title>#</title><desc>2007 m. Dokumentinis serialas. Australija, Didžioji Britanija, JAV.</desc></programme>
+<programme start="20250920190000 +0000" stop="20250920213000 +0000" channel="INFO TV.lt"><title>#</title><desc>N-7. Aktualijų laida medžiotojams. Laidos vedėjas Osvaldas Čalutka</desc></programme>
 <programme start="20250918225000 +0000" stop="20250919070000 +0000" channel="Init Ekstra TV.lt"><title>#</title><desc>D. Sekmokienės patarimai.</desc></programme>
 <programme start="20250919070000 +0000" stop="20250919163000 +0000" channel="Init Ekstra TV.lt"><title>#</title><desc>D. Sekmokienės patarimai</desc></programme>
-<programme start="20250919163000 +0000" stop="20250920050000 +0000" channel="Init Ekstra TV.lt"><title>#</title></programme>
-<programme start="20250917210500 +0000" stop="20250918055000 +0000" channel="Init.lt"><title>#</title><desc>Laida tikintiesiems. 2025 m. (k)</desc></programme>
-<programme start="20250918055000 +0000" stop="20250918225000 +0000" channel="Init.lt"><title>#</title></programme>
+<programme start="20250919163000 +0000" stop="20250919211000 +0000" channel="Init Ekstra TV.lt"><title>#</title></programme>
+<programme start="20250919211000 +0000" stop="20250920080000 +0000" channel="Init Ekstra TV.lt"><title>#</title><desc>D. Sekmokienės patarimai.</desc></programme>
+<programme start="20250920080000 +0000" stop="20250920163000 +0000" channel="Init Ekstra TV.lt"><title>&lt;div href=</title><desc>Pažintinė-pramoginė laida 2023 m. (k)</desc></programme>
+<programme start="20250920163000 +0000" stop="20250921050000 +0000" channel="Init Ekstra TV.lt"><title>#</title></programme>
 <programme start="20250918225000 +0000" stop="20250919070000 +0000" channel="Init.lt"><title>#</title><desc>D. Sekmokienės patarimai.</desc></programme>
 <programme start="20250919070000 +0000" stop="20250919163000 +0000" channel="Init.lt"><title>#</title><desc>D. Sekmokienės patarimai</desc></programme>
-<programme start="20250919163000 +0000" stop="20250920050000 +0000" channel="Init.lt"><title>#</title></programme>
-<programme start="20250917213000 +0000" stop="20250918011000 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Laikykitės ten. Pokalbiai 81</desc></programme>
-<programme start="20250918011000 +0000" stop="20250918013500 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title><desc>1/3. Dok</desc></programme>
-<programme start="20250918013500 +0000" stop="20250918132800 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Informacinė publicistinė laida.</desc></programme>
-<programme start="20250918132800 +0000" stop="20250918133000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title></programme>
-<programme start="20250918133000 +0000" stop="20250918140000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title><desc>Aktualijų laida.</desc></programme>
-<programme start="20250918140000 +0000" stop="20250918152800 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Informacinė publicistinė laida.</desc></programme>
-<programme start="20250918152800 +0000" stop="20250918153000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title></programme>
-<programme start="20250918153000 +0000" stop="20250918171800 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Informacinė publicistinė laida.</desc></programme>
-<programme start="20250918171800 +0000" stop="20250918172000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title></programme>
-<programme start="20250918172000 +0000" stop="20250918195800 +0000" channel="Lietuvos ryto TV.lt"><title>#</title></programme>
-<programme start="20250918195800 +0000" stop="20250918200000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title></programme>
-<programme start="20250918200000 +0000" stop="20250918203000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title></programme>
-<programme start="20250918203000 +0000" stop="20250918213000 +0000" channel="Lietuvos ryto TV.lt"></programme>
+<programme start="20250919163000 +0000" stop="20250919211000 +0000" channel="Init.lt"><title>#</title></programme>
+<programme start="20250919211000 +0000" stop="20250920080000 +0000" channel="Init.lt"><title>#</title><desc>D. Sekmokienės patarimai.</desc></programme>
+<programme start="20250920080000 +0000" stop="20250920163000 +0000" channel="Init.lt"><title>&lt;div href=</title><desc>Pažintinė-pramoginė laida 2023 m. (k)</desc></programme>
+<programme start="20250920163000 +0000" stop="20250921050000 +0000" channel="Init.lt"><title>#</title></programme>
 <programme start="20250918213000 +0000" stop="20250919011000 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Laikykitės ten. Pokalbiai 82</desc></programme>
 <programme start="20250919011000 +0000" stop="20250919013500 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title><desc>1/4. Dok</desc></programme>
 <programme start="20250919013500 +0000" stop="20250919110000 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Aktualijų laida.</desc></programme>
@@ -472,37 +456,20 @@
 <programme start="20250919172000 +0000" stop="20250919195800 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Informacinė publicistinė laida.</desc></programme>
 <programme start="20250919195800 +0000" stop="20250919200000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title></programme>
 <programme start="20250919200000 +0000" stop="20250919203000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title></programme>
-<programme start="20250919203000 +0000" stop="20250920011000 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Laikykitės ten. Pokalbiai 83</desc></programme>
-<programme start="20250917212000 +0000" stop="20250917222000 +0000" channel="LNK.lt"><title>Dingusių asmenų paieškos skyrius</title><desc>N-7. 2023 m. Veiksmo serialas. JAV. Vaid.: Dania Ramirez, Ryan Broussard, Scott Caan.</desc></programme>
-<programme start="20250917222000 +0000" stop="20250918002500 +0000" channel="LNK.lt"><title>more body</title><desc>N-7. 2003 m. Veiksmo trileris. Prancūzija, JAV, Didžioji Britanija. Gary Gray. Vaid.: Mark Wahlberg, Charlize Theron, Donald Sutherland, Jason Statham.</desc></programme>
-<programme start="20250918002500 +0000" stop="20250918012000 +0000" channel="LNK.lt"><title>Pirmieji pasimatymai</title><desc>N-7. 2021 m. Realybės serialas. Didžioji Britanija.</desc></programme>
-<programme start="20250918012000 +0000" stop="20250918030000 +0000" channel="LNK.lt"><title>more body</title></programme>
-<programme start="20250918030000 +0000" stop="20250918031500 +0000" channel="LNK.lt"><title>Linksmųjų Neklaužadų Kinas. Vasaros stovyklos sala</title><desc>2021 m. Animacinis serialas. JAV, Pietų Korėja, Japonija.</desc></programme>
-<programme start="20250918031500 +0000" stop="20250918033000 +0000" channel="LNK.lt"><title>Vasaros stovyklos sala</title><desc>2021 m. Animacinis serialas. JAV, Pietų Korėja, Japonija.</desc></programme>
-<programme start="20250918033000 +0000" stop="20250918034000 +0000" channel="LNK.lt"><title>Tomas ir Džeris</title><desc>1980 m. Animacinis serialas. JAV.</desc></programme>
-<programme start="20250918034000 +0000" stop="20250918035000 +0000" channel="LNK.lt"><title>Tomas ir Džeris</title><desc>1980 m. Animacinis serialas. JAV.</desc></programme>
-<programme start="20250918035000 +0000" stop="20250918040000 +0000" channel="LNK.lt"><title>Tomas ir Džeris</title><desc>1980 m. Animacinis serialas. JAV.</desc></programme>
-<programme start="20250918040000 +0000" stop="20250918043000 +0000" channel="LNK.lt"><title>Pažadėtoji</title><desc>N-7. 2021 m. Telenovelė. Indija. Vaid.: Randeep Rai, Samridh Bawa, Shivangi Joshi.</desc></programme>
-<programme start="20250918043000 +0000" stop="20250918050000 +0000" channel="LNK.lt"><title>Pažadėtoji</title><desc>N-7. 2021 m. Telenovelė. Indija. Vaid.: Randeep Rai, Samridh Bawa, Shivangi Joshi.</desc></programme>
-<programme start="20250918050000 +0000" stop="20250918060000 +0000" channel="LNK.lt"><title>Turtuolė varguolė</title><desc>N-7. 2018 m. Realybės šou. Lenkija.</desc></programme>
-<programme start="20250918060000 +0000" stop="20250918063000 +0000" channel="LNK.lt"><title>Rimti reikalai 4</title><desc>N-7. 2022 m. Serialas. Lietuva. Vaid.: Dalius Skamarakas, Dovilė Kundrotaitė, Gabrielė Malinauskaitė, Josif Baliukevič, Tadas Gryn, Toma Vaškevičiūtė, Valentinas Kirejevas, Vytautas Kupšys.</desc></programme>
-<programme start="20250918063000 +0000" stop="20250918070000 +0000" channel="LNK.lt"><title>Rimti reikalai 4</title><desc>N-7. 2022 m. Serialas. Lietuva. Vaid.: Dalius Skamarakas, Dovilė Kundrotaitė, Gabrielė Malinauskaitė, Josif Baliukevič, Tadas Gryn, Toma Vaškevičiūtė, Valentinas Kirejevas, Vytautas Kupšys.</desc></programme>
-<programme start="20250918070000 +0000" stop="20250918073000 +0000" channel="LNK.lt"><title>Man reikia meilės 3</title><desc>N-7. 2025 m. Serialas. Lietuva. Vaid.: Arnas Ašmonas, Džiugas Siaurusaitis, Emilija Latėnaitė, Gabija Staniulytė, Giedrius Savickas, Ilona Kvietkutė, Nerijus Gadliauskas.</desc></programme>
-<programme start="20250918073000 +0000" stop="20250918080000 +0000" channel="LNK.lt"><title>Man reikia meilės 3</title><desc>N-7. 2025 m. Serialas. Lietuva. Vaid.: Arnas Ašmonas, Džiugas Siaurusaitis, Emilija Latėnaitė, Gabija Staniulytė, Giedrius Savickas, Ilona Kvietkutė, Nerijus Gadliauskas.</desc></programme>
-<programme start="20250918080000 +0000" stop="20250918090000 +0000" channel="LNK.lt"><title>Kraujo gėlės</title><desc>N-7. 2023 m. Telenovelė. Turkija. Vaid.: Baris Baktas, Nuray Serefoglu, Yagmur Yuksel.</desc></programme>
-<programme start="20250918090000 +0000" stop="20250918100000 +0000" channel="LNK.lt"><title>Pirmieji pasimatymai</title><desc>N-7. 2021 m. Realybės serialas. Didžioji Britanija.</desc></programme>
-<programme start="20250918100000 +0000" stop="20250918110000 +0000" channel="LNK.lt"><title>Turtuolė varguolė</title><desc>N-7. 2018 m. Realybės šou. Lenkija.</desc></programme>
-<programme start="20250918110000 +0000" stop="20250918120000 +0000" channel="LNK.lt"><title>Antroji žmona</title><desc>N-7. 2025 m. Telenovelė. Turkija. Vaid.: Aybuke Yilmaz, Emre Ozmen, Hilal Tufek.</desc></programme>
-<programme start="20250918120000 +0000" stop="20250918130000 +0000" channel="LNK.lt"><title>Jei pamiltum</title><desc>N-7. 2023 m. Drama. Turkija. Vaid.: Hafsanur Sancaktutan, Hatice Aslan, Kerem Bursin.</desc></programme>
-<programme start="20250918130000 +0000" stop="20250918133000 +0000" channel="LNK.lt"><title>more body</title></programme>
-<programme start="20250918133000 +0000" stop="20250918162000 +0000" channel="LNK.lt"><title>#</title></programme>
-<programme start="20250918162000 +0000" stop="20250918162700 +0000" channel="LNK.lt"><title>more body</title></programme>
-<programme start="20250918162700 +0000" stop="20250918163000 +0000" channel="LNK.lt"><title>more body</title></programme>
-<programme start="20250918163000 +0000" stop="20250918183000 +0000" channel="LNK.lt"><title>#</title><desc>N-7. Lietuva. Vaid.: Algirdas Dainavičius, Arnoldas Eisimantas, Dovilė Kundrotaitė, Edita Užaitė, Gabrielia Kuodytė, Mantas Vaitiekūnas, Marius Jampolskis, Oskar Wyganowski, Valda Bičkutė.</desc></programme>
-<programme start="20250918183000 +0000" stop="20250918192000 +0000" channel="LNK.lt"><title>more body</title></programme>
-<programme start="20250918192000 +0000" stop="20250918192700 +0000" channel="LNK.lt"><title>more body</title></programme>
-<programme start="20250918192700 +0000" stop="20250918193000 +0000" channel="LNK.lt"><title>more body</title></programme>
-<programme start="20250918193000 +0000" stop="20250918220000 +0000" channel="LNK.lt"><title>more body</title><desc>N-14. 2018 m. Veiksmo komedija. Prancūzija. Vaid.: Elodie Fontan, Philippe Lacheau, Tarek Boudali.</desc></programme>
+<programme start="20250919203000 +0000" stop="20250919210000 +0000" channel="Lietuvos ryto TV.lt"></programme>
+<programme start="20250919210000 +0000" stop="20250920011000 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Laikykitės ten. Pokalbiai 83</desc></programme>
+<programme start="20250920011000 +0000" stop="20250920013500 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title><desc>1/1. Dok</desc></programme>
+<programme start="20250920013500 +0000" stop="20250920100000 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Televitrina.</desc></programme>
+<programme start="20250920100000 +0000" stop="20250920110000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title><desc>Aktualijų laida.</desc></programme>
+<programme start="20250920110000 +0000" stop="20250920132800 +0000" channel="Lietuvos ryto TV.lt"><title>&lt;div href=</title><desc>Informacinė publicistinė laida.</desc></programme>
+<programme start="20250920132800 +0000" stop="20250920133000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title></programme>
+<programme start="20250920133000 +0000" stop="20250920152800 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Informacinė publicistinė laida.</desc></programme>
+<programme start="20250920152800 +0000" stop="20250920153000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title></programme>
+<programme start="20250920153000 +0000" stop="20250920171800 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Informacinė publicistinė laida.</desc></programme>
+<programme start="20250920171800 +0000" stop="20250920172000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title></programme>
+<programme start="20250920172000 +0000" stop="20250920195800 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Informacinė publicistinė laida.</desc></programme>
+<programme start="20250920195800 +0000" stop="20250920200000 +0000" channel="Lietuvos ryto TV.lt"><title>more body</title></programme>
+<programme start="20250920200000 +0000" stop="20250921011000 +0000" channel="Lietuvos ryto TV.lt"><title>#</title><desc>Laida žvejams.</desc></programme>
 <programme start="20250918220000 +0000" stop="20250918230000 +0000" channel="LNK.lt"><title>Dingusių asmenų paieškos skyrius</title><desc>N-7. 2023 m. Veiksmo serialas. JAV. Vaid.: Dania Ramirez, Ryan Broussard, Scott Caan.</desc></programme>
 <programme start="20250918230000 +0000" stop="20250919005000 +0000" channel="LNK.lt"><title>more body</title><desc>N-14. 2018 m. Veiksmo komedija. Prancūzija. Vaid.: Elodie Fontan, Philippe Lacheau, Tarek Boudali.</desc></programme>
 <programme start="20250919005000 +0000" stop="20250919014000 +0000" channel="LNK.lt"><title>Pirmieji pasimatymai</title><desc>N-7. 2021 m. Realybės serialas. Didžioji Britanija.</desc></programme>
@@ -534,31 +501,32 @@
 <programme start="20250919192000 +0000" stop="20250919192700 +0000" channel="LNK.lt"><title>more body</title></programme>
 <programme start="20250919192700 +0000" stop="20250919193000 +0000" channel="LNK.lt"><title>more body</title></programme>
 <programme start="20250919193000 +0000" stop="20250919221500 +0000" channel="LNK.lt"><title>more body</title><desc>N-14. 2018 m. Trileris. JAV, Didžioji Britanija. Vaid.: Viola Davis, Liam Neeson, Michelle Rodriguez, Robert Duvall, Colin Farrell.</desc></programme>
-<programme start="20250917211000 +0000" stop="20250917234500 +0000" channel="LRT LITUANICA.lt"><title>#</title><desc>Pramoginis žaidimas. Ved</desc></programme>
-<programme start="20250917234500 +0000" stop="20250918001500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Ved. Darius Jurgelevičius</desc></programme>
-<programme start="20250918001500 +0000" stop="20250918010500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Pažintinė programa apie pasaulio gamtą ir gyvūnus. Ved</desc></programme>
-<programme start="20250918010500 +0000" stop="20250918020000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Diskusijų programa. Ved</desc></programme>
-<programme start="20250918020000 +0000" stop="20250918065000 +0000" channel="LRT LITUANICA.lt"><title>#</title><desc>Istorinė publicistika. Ved</desc></programme>
-<programme start="20250918065000 +0000" stop="20250918074500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Gyvenimo būdo programa apie lietuvius emigracijoje ir sugrįžusius iš jos.</desc></programme>
-<programme start="20250918074500 +0000" stop="20250918083500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Dokumentinė programa apie prieštaringiausius Lietuvos istorijos momentus. Ved</desc></programme>
-<programme start="20250918083500 +0000" stop="20250918090500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Humoristinė aktualijų programa. Ved</desc></programme>
-<programme start="20250918090500 +0000" stop="20250918093000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Gyvenimo užmiestyje programa. Ved</desc></programme>
-<programme start="20250918093000 +0000" stop="20250918100000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Religinė dokumentuotų pasakojimų, istorijų ir aktualijų programa.</desc></programme>
-<programme start="20250918100000 +0000" stop="20250918100500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Kipras Dubauskas.</desc></programme>
-<programme start="20250918100500 +0000" stop="20250918103000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Pramoginis žaidimas. Ved</desc></programme>
-<programme start="20250918103000 +0000" stop="20250918110000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Ved. Darius Jurgelevičius</desc></programme>
-<programme start="20250918110000 +0000" stop="20250918135500 +0000" channel="LRT LITUANICA.lt"><title>#</title><desc>Atsakingo gyvenimo būdo žurnalas. Ved</desc></programme>
-<programme start="20250918135500 +0000" stop="20250918142500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Programa apie sodininkystę. Ved</desc></programme>
-<programme start="20250918142500 +0000" stop="20250918143000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Sandra Straukaitė.</desc></programme>
-<programme start="20250918143000 +0000" stop="20250918150000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Pramoginis žaidimas. Ved</desc></programme>
-<programme start="20250918150000 +0000" stop="20250918153000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Ved. Darius Jurgelevičius</desc></programme>
-<programme start="20250918153000 +0000" stop="20250918173000 +0000" channel="LRT LITUANICA.lt"><title>#</title><desc>Pažintinė programa apie pasaulio gamtą ir gyvūnus. Ved</desc></programme>
-<programme start="20250918173000 +0000" stop="20250918180000 +0000" channel="LRT LITUANICA.lt"><title>more body</title></programme>
-<programme start="20250918180000 +0000" stop="20250918182000 +0000" channel="LRT LITUANICA.lt"><title>more body</title></programme>
-<programme start="20250918182000 +0000" stop="20250918183000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Orai.</desc></programme>
-<programme start="20250918183000 +0000" stop="20250918192500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Diskusijų programa. Ved</desc></programme>
-<programme start="20250918192500 +0000" stop="20250918201500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Istorinė publicistika. Ved</desc></programme>
-<programme start="20250918201500 +0000" stop="20250918211000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Gyvenimo būdo žurnalas. Ved</desc></programme>
+<programme start="20250919221500 +0000" stop="20250920001000 +0000" channel="LNK.lt"><title>more body</title><desc>S. 2022 m. Siaubo filmas. Kanada, JAV. Vaid.: Isabelle Fuhrman, Julia Stiles, Rossif Sutherland.</desc></programme>
+<programme start="20250920001000 +0000" stop="20250920021500 +0000" channel="LNK.lt"><title>more body</title><desc>N-14. 2018 m. Trileris. JAV, Didžioji Britanija. Vaid.: Viola Davis, Liam Neeson, Michelle Rodriguez, Robert Duvall, Colin Farrell.</desc></programme>
+<programme start="20250920021500 +0000" stop="20250920030000 +0000" channel="LNK.lt"><title>more body</title></programme>
+<programme start="20250920030000 +0000" stop="20250920031500 +0000" channel="LNK.lt"><title>Linksmųjų Neklaužadų Kinas. Vasaros stovyklos sala</title><desc>2021 m. Animacinis serialas. JAV, Pietų Korėja, Japonija.</desc></programme>
+<programme start="20250920031500 +0000" stop="20250920033000 +0000" channel="LNK.lt"><title>Vasaros stovyklos sala</title><desc>2021 m. Animacinis serialas. JAV, Pietų Korėja, Japonija.</desc></programme>
+<programme start="20250920033000 +0000" stop="20250920034000 +0000" channel="LNK.lt"><title>Tomas ir Džeris</title><desc>1980 m. Animacinis serialas. JAV.</desc></programme>
+<programme start="20250920034000 +0000" stop="20250920035000 +0000" channel="LNK.lt"><title>Tomas ir Džeris</title><desc>1980 m. Animacinis serialas. JAV.</desc></programme>
+<programme start="20250920035000 +0000" stop="20250920040000 +0000" channel="LNK.lt"><title>Tomas ir Džeris</title><desc>1980 m. Animacinis serialas. JAV.</desc></programme>
+<programme start="20250920040000 +0000" stop="20250920043000 +0000" channel="LNK.lt"><title>Pažadėtoji</title><desc>N-7. 2021 m. Telenovelė. Indija. Vaid.: Randeep Rai, Samridh Bawa, Shivangi Joshi.</desc></programme>
+<programme start="20250920043000 +0000" stop="20250920050000 +0000" channel="LNK.lt"><title>Pažadėtoji</title><desc>N-7. 2021 m. Telenovelė. Indija. Vaid.: Randeep Rai, Samridh Bawa, Shivangi Joshi.</desc></programme>
+<programme start="20250920050000 +0000" stop="20250920060000 +0000" channel="LNK.lt"><title>Turtuolė varguolė</title><desc>N-7. 2018 m. Realybės šou. Lenkija.</desc></programme>
+<programme start="20250920060000 +0000" stop="20250920063000 +0000" channel="LNK.lt"><title>Rimti reikalai 4</title><desc>N-7. 2022 m. Serialas. Lietuva. Vaid.: Dalius Skamarakas, Dovilė Kundrotaitė, Gabrielė Malinauskaitė, Josif Baliukevič, Tadas Gryn, Toma Vaškevičiūtė, Valentinas Kirejevas, Vytautas Kupšys.</desc></programme>
+<programme start="20250920063000 +0000" stop="20250920070000 +0000" channel="LNK.lt"><title>Rimti reikalai 4</title><desc>N-7. 2022 m. Serialas. Lietuva. Vaid.: Dalius Skamarakas, Dovilė Kundrotaitė, Gabrielė Malinauskaitė, Josif Baliukevič, Tadas Gryn, Toma Vaškevičiūtė, Valentinas Kirejevas, Vytautas Kupšys.</desc></programme>
+<programme start="20250920070000 +0000" stop="20250920073000 +0000" channel="LNK.lt"><title>Man reikia meilės 3</title><desc>N-7. 2025 m. Serialas. Lietuva. Vaid.: Arnas Ašmonas, Džiugas Siaurusaitis, Emilija Latėnaitė, Gabija Staniulytė, Giedrius Savickas, Ilona Kvietkutė, Nerijus Gadliauskas.</desc></programme>
+<programme start="20250920073000 +0000" stop="20250920080000 +0000" channel="LNK.lt"><title>Man reikia meilės 3</title><desc>N-7. 2025 m. Serialas. Lietuva. Vaid.: Arnas Ašmonas, Džiugas Siaurusaitis, Emilija Latėnaitė, Gabija Staniulytė, Giedrius Savickas, Ilona Kvietkutė, Nerijus Gadliauskas.</desc></programme>
+<programme start="20250920080000 +0000" stop="20250920090000 +0000" channel="LNK.lt"><title>Kraujo gėlės</title><desc>N-7. 2023 m. Telenovelė. Turkija. Vaid.: Baris Baktas, Nuray Serefoglu, Yagmur Yuksel.</desc></programme>
+<programme start="20250920090000 +0000" stop="20250920100000 +0000" channel="LNK.lt"><title>Pirmieji pasimatymai</title><desc>N-7. 2021 m. Realybės serialas. Didžioji Britanija.</desc></programme>
+<programme start="20250920100000 +0000" stop="20250920110000 +0000" channel="LNK.lt"><title>Turtuolė varguolė</title><desc>N-7. 2018 m. Realybės šou. Lenkija.</desc></programme>
+<programme start="20250920110000 +0000" stop="20250920120000 +0000" channel="LNK.lt"><title>Antroji žmona</title><desc>N-7. 2025 m. Telenovelė. Turkija. Vaid.: Aybuke Yilmaz, Emre Ozmen, Hilal Tufek.</desc></programme>
+<programme start="20250920120000 +0000" stop="20250920130000 +0000" channel="LNK.lt"><title>Jei pamiltum</title><desc>N-7. 2023 m. Drama. Turkija. Vaid.: Hafsanur Sancaktutan, Hatice Aslan, Kerem Bursin.</desc></programme>
+<programme start="20250920130000 +0000" stop="20250920133000 +0000" channel="LNK.lt"><title>more body</title></programme>
+<programme start="20250920133000 +0000" stop="20250920162000 +0000" channel="LNK.lt"><title>#</title></programme>
+<programme start="20250920162000 +0000" stop="20250920162700 +0000" channel="LNK.lt"><title>more body</title></programme>
+<programme start="20250920162700 +0000" stop="20250920163000 +0000" channel="LNK.lt"><title>more body</title></programme>
+<programme start="20250920163000 +0000" stop="20250920202000 +0000" channel="LNK.lt"><title>#</title><desc>N-14. 2024 m. Trileris. JAV, Didžioji Britanija, Kanada. Vaid.: Jude Law, Nicholas Hoult, Tye Sheridan.</desc></programme>
+<programme start="20250920202000 +0000" stop="20250920223000 +0000" channel="LNK.lt"><title>more body</title><desc>N-14. 2007 m. Veiksmo filmas. JAV. Vaid.: Gail Cronauer, Kevin Sorbo, Richard Dillard.</desc></programme>
 <programme start="20250918211000 +0000" stop="20250918234500 +0000" channel="LRT LITUANICA.lt"><title>#</title><desc>Pramoginis žaidimas. Ved</desc></programme>
 <programme start="20250918234500 +0000" stop="20250919001000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Ved. Darius Jurgelevičius</desc></programme>
 <programme start="20250919001000 +0000" stop="20250919003500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Aktualijų programa. Ved</desc></programme>
@@ -586,16 +554,32 @@
 <programme start="20250919183000 +0000" stop="20250919192500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Humoristinė pokalbių programa.</desc></programme>
 <programme start="20250919192500 +0000" stop="20250919201500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Gyvenimo būdo programa apie lietuvius emigracijoje ir sugrįžusius iš jos.</desc></programme>
 <programme start="20250919201500 +0000" stop="20250919230500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Pramoginė pokalbių programa.</desc></programme>
-<programme start="20250917210000 +0000" stop="20250917220000 +0000" channel="LRT Plius.lt"><title>more body</title><desc>Draminis serialas. 2023 m. Ispanija. N-7. 3/(kart.</desc></programme>
-<programme start="20250917220000 +0000" stop="20250917224500 +0000" channel="LRT Plius.lt"><title>more body</title><desc>Kriminalinis serialas. 2002 m. Austrija, Vokietija. N-7. 8/</desc></programme>
-<programme start="20250917224500 +0000" stop="20250918093000 +0000" channel="LRT Plius.lt"><title>#</title><desc>Dokumentinis serialas. 2019 m. Ispanija. 1 d. Langai. (kart.</desc></programme>
-<programme start="20250918093000 +0000" stop="20250918100000 +0000" channel="LRT Plius.lt"><title>more body</title><desc>Dokumentinis serialas. 2019 m. Ispanija. 2 d. Iš lopšio į lopšį. (kart.</desc></programme>
-<programme start="20250918100000 +0000" stop="20250918161500 +0000" channel="LRT Plius.lt"><title>#</title><desc>Romantinis draminis serialas. 2024 m. Italija. N-7. 9/</desc></programme>
-<programme start="20250918161500 +0000" stop="20250918170000 +0000" channel="LRT Plius.lt"><title>#</title><desc>Dokumentinis serialas. 2019 m. Ispanija. 3 d. Žaluma, noriu, kad liktum žalia.</desc></programme>
-<programme start="20250918170000 +0000" stop="20250918173000 +0000" channel="LRT Plius.lt"><title>more body</title><desc>Dokumentinis serialas. 2019 m. Ispanija. 4 d. Skaitmeninė gamyba.</desc></programme>
-<programme start="20250918173000 +0000" stop="20250918195000 +0000" channel="LRT Plius.lt"><title>#</title><desc>Programoje W. A. Mozarto, C. Saint-Saenso ir F. Poulenco kūriniai. Dirig. Gintaras Rinkevičius.</desc></programme>
-<programme start="20250918195000 +0000" stop="20250918200000 +0000" channel="LRT Plius.lt"><title>more body</title><desc>Teatras. Režisierius Gildas Aleksa.</desc></programme>
-<programme start="20250918200000 +0000" stop="20250918210000 +0000" channel="LRT Plius.lt"><title>#</title></programme>
+<programme start="20250919230500 +0000" stop="20250919233000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Pramoginis žaidimas. Ved</desc></programme>
+<programme start="20250919233000 +0000" stop="20250920000000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Ved. Darius Jurgelevičius</desc></programme>
+<programme start="20250920000000 +0000" stop="20250920005500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Aplink Aziją ir Balkanus. Kelionių dokumentika.</desc></programme>
+<programme start="20250920005500 +0000" stop="20250920020000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Intelektinė viktorina. Ved</desc></programme>
+<programme start="20250920020000 +0000" stop="20250920065000 +0000" channel="LRT LITUANICA.lt"><title>#</title><desc>Pramoginė pokalbių programa.</desc></programme>
+<programme start="20250920065000 +0000" stop="20250920071500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Aktualijų programa. Ved</desc></programme>
+<programme start="20250920071500 +0000" stop="20250920074500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Programa, skirta pagrindinių geopolitinių pasaulio ir Lietuvos savaitės įvykių apžvalgai, karo veiksmų analizei bei prognozėms. Ved</desc></programme>
+<programme start="20250920074500 +0000" stop="20250920083500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Humoristinė pokalbių programa.</desc></programme>
+<programme start="20250920083500 +0000" stop="20250920090500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Programa apie kiną Lietuvoje ir pasaulyje.</desc></programme>
+<programme start="20250920090500 +0000" stop="20250920093000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Programa apie Lietuvos gamtą. Ved</desc></programme>
+<programme start="20250920093000 +0000" stop="20250920100000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Aktualijų programa.</desc></programme>
+<programme start="20250920100000 +0000" stop="20250920100500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Vaiva Grainytė.</desc></programme>
+<programme start="20250920100500 +0000" stop="20250920103000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Pramoginis žaidimas. Ved</desc></programme>
+<programme start="20250920103000 +0000" stop="20250920110000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Ved. Darius Jurgelevičius</desc></programme>
+<programme start="20250920110000 +0000" stop="20250920135500 +0000" channel="LRT LITUANICA.lt"><title>#</title><desc>Gyvenimo būdo programa. Ved</desc></programme>
+<programme start="20250920135500 +0000" stop="20250920142500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Programa, padedanti geriau pažinti pasaulį ir visuomenę. Ved</desc></programme>
+<programme start="20250920142500 +0000" stop="20250920143000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Eglė Ridikaitė.</desc></programme>
+<programme start="20250920143000 +0000" stop="20250920150000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Pramoginis žaidimas. Ved</desc></programme>
+<programme start="20250920150000 +0000" stop="20250920153000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Ved. Darius Jurgelevičius</desc></programme>
+<programme start="20250920153000 +0000" stop="20250920173000 +0000" channel="LRT LITUANICA.lt"><title>#</title><desc>Aplink Aziją ir Balkanus. Kelionių dokumentika.</desc></programme>
+<programme start="20250920173000 +0000" stop="20250920180000 +0000" channel="LRT LITUANICA.lt"><title>more body</title></programme>
+<programme start="20250920180000 +0000" stop="20250920182000 +0000" channel="LRT LITUANICA.lt"><title>more body</title></programme>
+<programme start="20250920182000 +0000" stop="20250920183000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Orai.</desc></programme>
+<programme start="20250920183000 +0000" stop="20250920194500 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Intelektinė viktorina. Ved</desc></programme>
+<programme start="20250920194500 +0000" stop="20250920204000 +0000" channel="LRT LITUANICA.lt"><title>more body</title><desc>Pažintinė programa apie pasaulio gamtą ir gyvūnus. Ved</desc></programme>
+<programme start="20250920204000 +0000" stop="20250920223000 +0000" channel="LRT LITUANICA.lt"><title>#</title><desc>Ved. Loreta Sungailienė ir Liudas Mikalauskas</desc></programme>
 <programme start="20250918210000 +0000" stop="20250918220000 +0000" channel="LRT Plius.lt"><title>more body</title><desc>Draminis serialas. 2023 m. Ispanija. N-7. 3/(kart.</desc></programme>
 <programme start="20250918220000 +0000" stop="20250918224500 +0000" channel="LRT Plius.lt"><title>more body</title><desc>Kriminalinis serialas. 2002 m. Austrija, Vokietija. N-7. 8/</desc></programme>
 <programme start="20250918224500 +0000" stop="20250919093000 +0000" channel="LRT Plius.lt"><title>#</title><desc>Dokumentinis serialas. 2019 m. Ispanija. 3 d. Žaluma, noriu, kad liktum žalia. (kart.</desc></programme>
@@ -605,41 +589,13 @@
 <programme start="20250919161500 +0000" stop="20250919173000 +0000" channel="LRT Plius.lt"><title>#</title><desc>Nepriklausomybės kovos. Dokumentinis filmas. 2019 m. Rež. Andrius Lygnugaris. 2 d. Pergalė. Lietuva.</desc></programme>
 <programme start="20250919173000 +0000" stop="20250919194500 +0000" channel="LRT Plius.lt"><title>#</title><desc>Dokumentinis filmas. 2024 m. Rež. Mati Diop. Prancūzija, Senegalas, Beninas. N-7. (subtitruota</desc></programme>
 <programme start="20250919194500 +0000" stop="20250919200000 +0000" channel="LRT Plius.lt"><title>more body</title><desc>Dokumentinis serialas. 2023 m. Doris Schlaffer. Įmonės „Communardo</desc></programme>
-<programme start="20250919200000 +0000" stop="20250919224500 +0000" channel="LRT Plius.lt"><title>#</title><desc>Kriminalinis serialas. 2002 m. Austrija, Vokietija. N-7. 8/</desc></programme>
-<programme start="20250917211500 +0000" stop="20250918030200 +0000" channel="LRT TELEVIZIJA.lt"><title>#</title></programme>
-<programme start="20250918030200 +0000" stop="20250918033000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
-<programme start="20250918033000 +0000" stop="20250918034000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Sportas. Orai.</desc></programme>
-<programme start="20250918034000 +0000" stop="20250918040000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
-<programme start="20250918040000 +0000" stop="20250918040700 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
-<programme start="20250918040700 +0000" stop="20250918043000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
-<programme start="20250918043000 +0000" stop="20250918043700 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
-<programme start="20250918043700 +0000" stop="20250918050000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
-<programme start="20250918050000 +0000" stop="20250918050700 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
-<programme start="20250918050700 +0000" stop="20250918053000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
-<programme start="20250918053000 +0000" stop="20250918054000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Sportas. Orai.</desc></programme>
-<programme start="20250918054000 +0000" stop="20250918060000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
-<programme start="20250918060000 +0000" stop="20250918064500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Detektyvinis serialas. 2018 m. Vokietija. N-7. 19/</desc></programme>
-<programme start="20250918064500 +0000" stop="20250918073000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Detektyvinis serialas. 2020 m. Vokietija. N-7. 15/</desc></programme>
-<programme start="20250918073000 +0000" stop="20250918082500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Draminis serialas. 2017 m. Vokietija. N-7. 30/</desc></programme>
-<programme start="20250918082500 +0000" stop="20250918091500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Komiškas kriminalinis serialas. 2014 m. Vokietija. N-7. 3/</desc></programme>
-<programme start="20250918091500 +0000" stop="20250918094500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Pramoginis žaidimas. Ved</desc></programme>
-<programme start="20250918094500 +0000" stop="20250918101500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Ved. Darius Jurgelevičius</desc></programme>
-<programme start="20250918101500 +0000" stop="20250918110000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Dokumentinis serialas. 2022 m. Jungtinė Karalystė. 1/</desc></programme>
-<programme start="20250918110000 +0000" stop="20250918112000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
-<programme start="20250918112000 +0000" stop="20250918120000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
-<programme start="20250918120000 +0000" stop="20250918121500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
-<programme start="20250918121500 +0000" stop="20250918130000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
-<programme start="20250918130000 +0000" stop="20250918133000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
-<programme start="20250918133000 +0000" stop="20250918143000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Draminis serialas. 2023 m. Ispanija. N-7. 3/</desc></programme>
-<programme start="20250918143000 +0000" stop="20250918150000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Pramoginis žaidimas. Ved</desc></programme>
-<programme start="20250918150000 +0000" stop="20250918153000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Ved. Darius Jurgelevičius</desc></programme>
-<programme start="20250918153000 +0000" stop="20250918173000 +0000" channel="LRT TELEVIZIJA.lt"><title>#</title><desc>Pažintinė programa apie pasaulio gamtą ir gyvūnus. Ved</desc></programme>
-<programme start="20250918173000 +0000" stop="20250918180000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
-<programme start="20250918180000 +0000" stop="20250918182000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
-<programme start="20250918182000 +0000" stop="20250918183000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
-<programme start="20250918183000 +0000" stop="20250918193000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Diskusijų programa. Ved</desc></programme>
-<programme start="20250918193000 +0000" stop="20250918202500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Detektyvinis serialas. 2024 m. Suomija, Vokietija, Prancūzija. N-14. 2/</desc></programme>
-<programme start="20250918202500 +0000" stop="20250918211500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Draminis serialas. 2017 m. Vokietija. N-7. 30/(kart.</desc></programme>
+<programme start="20250919200000 +0000" stop="20250919213000 +0000" channel="LRT Plius.lt"><title>#</title></programme>
+<programme start="20250919213000 +0000" stop="20250919224500 +0000" channel="LRT Plius.lt"><title>#</title><desc>Kriminalinis serialas. 2002 m. Austrija, Vokietija. N-7. 8/</desc></programme>
+<programme start="20250919224500 +0000" stop="20250920133000 +0000" channel="LRT Plius.lt"><title>#</title><desc>Dalyvauja Liveta Jasiūnaitė, Beatričė Juškevičiūtė. Gali dalyvauti Gabija Galvydytė. Tiesioginė transliacija iš Tokijaus.</desc></programme>
+<programme start="20250920133000 +0000" stop="20250920161500 +0000" channel="LRT Plius.lt"><title>#</title><desc>Romantinis draminis serialas. 2024 m. Italija. N-7. 9/</desc></programme>
+<programme start="20250920161500 +0000" stop="20250920170000 +0000" channel="LRT Plius.lt"><title>#</title><desc>Kaip lavinti kritinį mąstymą ir gebėjimą vertinti realybę. Ved</desc></programme>
+<programme start="20250920170000 +0000" stop="20250920203000 +0000" channel="LRT Plius.lt"><title>#</title><desc>Drama. 2023 m. Rež. Selma Vilhunen. Vaid. Alma Poysti, Eero Milonoff, Oona Airola. Suomija. N-14. (subtitruota</desc></programme>
+<programme start="20250920203000 +0000" stop="20250920210000 +0000" channel="LRT Plius.lt"><title>more body</title><desc>Psichologinis mistinis serialas. 2022 m. Danija, Italija, Vokietija, Prancūzija, Norvegija, Švedija, Nyderlandai. S. 3/</desc></programme>
 <programme start="20250918211500 +0000" stop="20250919020000 +0000" channel="LRT TELEVIZIJA.lt"><title>#</title></programme>
 <programme start="20250919020000 +0000" stop="20250919030200 +0000" channel="LRT TELEVIZIJA.lt"><title>#</title></programme>
 <programme start="20250919030200 +0000" stop="20250919033000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
@@ -676,12 +632,44 @@
 <programme start="20250919183000 +0000" stop="20250919193000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Humoristinė pokalbių programa.</desc></programme>
 <programme start="20250919193000 +0000" stop="20250919202500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Detektyvinis serialas. 2024 m. Suomija, Vokietija, Prancūzija. N-14. 2/</desc></programme>
 <programme start="20250919202500 +0000" stop="20250919213500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Draminis serialas. 2017 m. Vokietija. N-7. 30/(kart.</desc></programme>
-<programme start="20250918210000 +0000" stop="20250918050000 +0000" channel="Play TV.lt"><title>#</title></programme>
-<programme start="20250917222000 +0000" stop="20250918112000 +0000" channel="Sport1.lt"><title>#</title><desc>Pasaulio Čempionatas.Lietuva.Kaunas. Moterų finalas</desc></programme>
-<programme start="20250918112000 +0000" stop="20250918145000 +0000" channel="Sport1.lt"><title>#</title><desc>HBC Nantes - Fuchse Berlin</desc></programme>
-<programme start="20250918145000 +0000" stop="20250918184500 +0000" channel="Sport1.lt"><title>#</title><desc>Kolstad Håndball - Dinamo Bucuresti</desc></programme>
-<programme start="20250918184500 +0000" stop="20250918202000 +0000" channel="Sport1.lt"><title>more body</title><desc>Orlen Wisla Plock - HC Zagreb</desc></programme>
-<programme start="20250918202000 +0000" stop="20250918223000 +0000" channel="Sport1.lt"></programme>
+<programme start="20250919213500 +0000" stop="20250919232000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Politinis trileris. 2006 m. Rež. Clark Johnson. Vaid. Michael Douglas, Kiefer Sutherland, Eva Longoria, Martin Donovan. JAV. N-7.</desc></programme>
+<programme start="20250919232000 +0000" stop="20250920003000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Dokumentinis filmas. 2024 m. Rež. Mati Diop. Prancūzija, Senegalas, Beninas. N-7. (subtitruota, kart.</desc></programme>
+<programme start="20250920003000 +0000" stop="20250920020000 +0000" channel="LRT TELEVIZIJA.lt"><title>#</title><desc>Programa apie Lietuvos gamtą. Ved</desc></programme>
+<programme start="20250920020000 +0000" stop="20250920030200 +0000" channel="LRT TELEVIZIJA.lt"><title>#</title></programme>
+<programme start="20250920030200 +0000" stop="20250920033000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
+<programme start="20250920033000 +0000" stop="20250920034000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Sportas. Orai.</desc></programme>
+<programme start="20250920034000 +0000" stop="20250920040000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
+<programme start="20250920040000 +0000" stop="20250920040700 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
+<programme start="20250920040700 +0000" stop="20250920043000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
+<programme start="20250920043000 +0000" stop="20250920043700 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
+<programme start="20250920043700 +0000" stop="20250920050000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
+<programme start="20250920050000 +0000" stop="20250920050700 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
+<programme start="20250920050700 +0000" stop="20250920053000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
+<programme start="20250920053000 +0000" stop="20250920054000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Sportas. Orai.</desc></programme>
+<programme start="20250920054000 +0000" stop="20250920060000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
+<programme start="20250920060000 +0000" stop="20250920064500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Detektyvinis serialas. 2019 m. Vokietija. N-7. 20/</desc></programme>
+<programme start="20250920064500 +0000" stop="20250920073000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Detektyvinis serialas. 2020 m. Vokietija. N-7. 15/</desc></programme>
+<programme start="20250920073000 +0000" stop="20250920082500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Draminis serialas. 2017 m. Vokietija. N-7. 30/</desc></programme>
+<programme start="20250920082500 +0000" stop="20250920091500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Komiškas kriminalinis serialas. 2014 m. Vokietija. N-7. 3/</desc></programme>
+<programme start="20250920091500 +0000" stop="20250920094500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Pramoginis žaidimas. Ved</desc></programme>
+<programme start="20250920094500 +0000" stop="20250920101500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Ved. Darius Jurgelevičius</desc></programme>
+<programme start="20250920101500 +0000" stop="20250920110000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Dokumentinis serialas. 2022 m. Jungtinė Karalystė. 1/</desc></programme>
+<programme start="20250920110000 +0000" stop="20250920112000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
+<programme start="20250920112000 +0000" stop="20250920120000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
+<programme start="20250920120000 +0000" stop="20250920121500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
+<programme start="20250920121500 +0000" stop="20250920130000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
+<programme start="20250920130000 +0000" stop="20250920133000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
+<programme start="20250920133000 +0000" stop="20250920143000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Draminis serialas. 2023 m. Ispanija. N-7. 3/</desc></programme>
+<programme start="20250920143000 +0000" stop="20250920150000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Pramoginis žaidimas. Ved</desc></programme>
+<programme start="20250920150000 +0000" stop="20250920153000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Ved. Darius Jurgelevičius</desc></programme>
+<programme start="20250920153000 +0000" stop="20250920180000 +0000" channel="LRT TELEVIZIJA.lt"><title>#</title></programme>
+<programme start="20250920180000 +0000" stop="20250920182000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title></programme>
+<programme start="20250920182000 +0000" stop="20250920183000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Orai.</desc></programme>
+<programme start="20250920183000 +0000" stop="20250920194500 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Intelektinė viktorina. Ved</desc></programme>
+<programme start="20250920194500 +0000" stop="20250921030000 +0000" channel="LRT TELEVIZIJA.lt"><title>more body</title><desc>Biografinė drama. 2019 m. Rež. Jay Roach. Vaid. Nicole Kidman, John Lithgow, Margot Robbie, Charlize Theron. Kanada, JAV. N-14.</desc></programme>
+<programme start="20250919210000 +0000" stop="20250919050000 +0000" channel="Play TV.lt"><title>#</title></programme>
+<programme start="20250920050000 +0000" stop="20250919184000 +0000" channel="Play TV.lt"><title>#</title><desc>Kauno bigbendas ir R. Duduma</desc></programme>
+<programme start="20250920184000 +0000" stop="20250920050000 +0000" channel="Play TV.lt"><title>#</title></programme>
 <programme start="20250918223000 +0000" stop="20250919010000 +0000" channel="Sport1.lt"><title>more body</title><desc>ATP Challenger 125.Ščecinas.Lenkija. Finalas</desc></programme>
 <programme start="20250919010000 +0000" stop="20250919053000 +0000" channel="Sport1.lt"><title>#</title><desc>LRF SUPERTAURĖ. Kauno raj</desc></programme>
 <programme start="20250919053000 +0000" stop="20250919094000 +0000" channel="Sport1.lt"><title>#</title><desc>ATP Challenger 125.Sevilija.Ispanija. Finalas</desc></programme>
@@ -691,35 +679,20 @@
 <programme start="20250919151000 +0000" stop="20250919164500 +0000" channel="Sport1.lt"><title>more body</title><desc>Orlen Wisla Plock - HC Zagreb. VAKAR</desc></programme>
 <programme start="20250919164500 +0000" stop="20250919184500 +0000" channel="Sport1.lt"><title>more body</title><desc>One Veszprem HC - HBC Nantes</desc></programme>
 <programme start="20250919184500 +0000" stop="20250919202000 +0000" channel="Sport1.lt"><title>more body</title><desc>Barcelona - SC Magdeburg</desc></programme>
-<programme start="20250919202000 +0000" stop="20250920015000 +0000" channel="Sport1.lt"><title>&lt;div href=</title><desc>ATP Challenger 125.Sevilija.Ispanija. Pirmasis Pusfinalis</desc></programme>
-<programme start="20250917210000 +0000" stop="20250918030000 +0000" channel="TV imk ir pirk.lt.lt"><title>#</title><desc>A, rugsėjo 18 d.</desc></programme>
-<programme start="20250918030000 +0000" stop="20250918210000 +0000" channel="TV imk ir pirk.lt.lt"><title>#</title></programme>
+<programme start="20250919202000 +0000" stop="20250919212000 +0000" channel="Sport1.lt"></programme>
+<programme start="20250919212000 +0000" stop="20250920015000 +0000" channel="Sport1.lt"><title>&lt;div href=</title><desc>ATP Challenger 125.Sevilija.Ispanija. Pirmasis Pusfinalis</desc></programme>
+<programme start="20250920015000 +0000" stop="20250920043000 +0000" channel="Sport1.lt"><title>#</title><desc>Dinaric Rallye 2025</desc></programme>
+<programme start="20250920043000 +0000" stop="20250920072000 +0000" channel="Sport1.lt"><title>more body</title><desc>ATP Challenger 125.Sevilija.Ispanija. Pirmasis Pusfinalis</desc></programme>
+<programme start="20250920072000 +0000" stop="20250920084000 +0000" channel="Sport1.lt"><title>more body</title><desc>ATP Challenger 125.Sevilija.Ispanija. Antrasis Pusfinalis</desc></programme>
+<programme start="20250920084000 +0000" stop="20250920124000 +0000" channel="Sport1.lt"><title>#</title><desc>ATP Challenger 125.Ščecinas.Lenkija. Antrasis pusfinalis</desc></programme>
+<programme start="20250920124000 +0000" stop="20250920141000 +0000" channel="Sport1.lt"><title>more body</title><desc>HC Vilnius - Vilniaus VHC Šviesa</desc></programme>
+<programme start="20250920141000 +0000" stop="20250920174000 +0000" channel="Sport1.lt"><title>#</title><desc>One Veszprem HC - HBC Nantes. VAKAR</desc></programme>
+<programme start="20250920174000 +0000" stop="20250920191500 +0000" channel="Sport1.lt"><title>more body</title><desc>Barcelona - SC Magdeburg. VAKAR</desc></programme>
+<programme start="20250920191500 +0000" stop="20250921040000 +0000" channel="Sport1.lt"><title>#</title></programme>
 <programme start="20250918210000 +0000" stop="20250919030000 +0000" channel="TV imk ir pirk.lt.lt"><title>#</title><desc>A, rugsėjo 19 d.</desc></programme>
-<programme start="20250919030000 +0000" stop="20250920030000 +0000" channel="TV imk ir pirk.lt.lt"><title>#</title><desc>A, rugsėjo 20 d.</desc></programme>
-<programme start="20250917210000 +0000" stop="20250917230500 +0000" channel="TV1.lt"><title>Nežudyk!</title><desc>N-14. 2017 m. Detektyvas. Italija. Vaid.: Matteo Martari, Miriam Leone, Thomas Trabacchi.</desc></programme>
-<programme start="20250917230500 +0000" stop="20250918000000 +0000" channel="TV1.lt"><title>Auksinis berniukas</title><desc>N-7. 2023 m. Drama. Turkija. Vaid.: Afra Saracoglu, Gulcin Santircioglu, Mert Ramazan Demir.</desc></programme>
-<programme start="20250918000000 +0000" stop="20250918005000 +0000" channel="TV1.lt"><title>Atpildo gėlės</title><desc>N-7. 2015 m. Serialas. Ukraina. Vaid.: Ekaterina Tyshkevich, Marina Dyakonenko, Valentin Tomusyak.</desc></programme>
-<programme start="20250918005000 +0000" stop="20250918013500 +0000" channel="TV1.lt"><title>Meilei nereikia žodžių</title><desc>N-7. 2016 m. Serialas. Turkija. Vaid.: Burak Deniz, Elcin Afacan, Hande Ercel.</desc></programme>
-<programme start="20250918013500 +0000" stop="20250918040000 +0000" channel="TV1.lt"><title>#</title><desc>N-7. 2023 m. Telenovelė. Meksika. Vaid.: Andres Palacios, Carolina Miranda, Luis Roberto Guzman, Mariana Seoane.</desc></programme>
-<programme start="20250918040000 +0000" stop="20250918050000 +0000" channel="TV1.lt"><title>Atpildo gėlės</title><desc>N-7. 2015 m. Serialas. Ukraina. Vaid.: Ekaterina Tyshkevich, Marina Dyakonenko, Valentin Tomusyak.</desc></programme>
-<programme start="20250918050000 +0000" stop="20250918053000 +0000" channel="TV1.lt"><title>Akloji</title><desc>N-7. 2021 m. Serialas. Ukraina.</desc></programme>
-<programme start="20250918053000 +0000" stop="20250918060000 +0000" channel="TV1.lt"><title>Akloji</title><desc>N-7. 2021 m. Serialas. Ukraina.</desc></programme>
-<programme start="20250918060000 +0000" stop="20250918070000 +0000" channel="TV1.lt"><title>Meilei nereikia žodžių</title><desc>N-7. 2016 m. Serialas. Turkija. Vaid.: Burak Deniz, Elcin Afacan, Hande Ercel.</desc></programme>
-<programme start="20250918070000 +0000" stop="20250918080000 +0000" channel="TV1.lt"><title>Detektyvė Rizoli</title><desc>N-7. 2016 m. Detektyvinis serialas. JAV. Vaid.: Angie Harmon, Bruce McGill, Jordan Bridges, Sasha Alexander.</desc></programme>
-<programme start="20250918080000 +0000" stop="20250918090000 +0000" channel="TV1.lt"><title>Einšteinas</title><desc>N-7. 2017 m. Detektyvinis serialas. Vokietija. Vaid.: Annika Ernst, Rolf Kanies, Tom Beck.</desc></programme>
-<programme start="20250918090000 +0000" stop="20250918100000 +0000" channel="TV1.lt"><title>Nusikalstami protai</title><desc>N-7. 2013 m. Detektyvinis serialas. JAV. Vaid.: A. J. Cook, Joe Mantegna, Kirsten Vangsness, Matthew Gray Gubler, Shemar Moore.</desc></programme>
-<programme start="20250918100000 +0000" stop="20250918110000 +0000" channel="TV1.lt"><title>Įstatymas ir tvarka. Specialiųjų tyrimų skyrius</title><desc>N-7. 2019 m. Detektyvinis serialas. JAV. Vaid.: Christopher Meloni, Ice-T , Mariska Hargitay.</desc></programme>
-<programme start="20250918110000 +0000" stop="20250918120000 +0000" channel="TV1.lt"><title>Čikagos ugniagesiai</title><desc>N-7. 2018 m. Veiksmo serialas. JAV. Vaid.: Christian Stolte, Eamonn Walker, Jesse Spencer, Taylor Kinney.</desc></programme>
-<programme start="20250918120000 +0000" stop="20250918125000 +0000" channel="TV1.lt"><title>Anupama</title><desc>2020 m. Serialas. Indija. Vaid.: Gaurav Khanna, Rupali Ganguly, Sudhanshu Pandey.</desc></programme>
-<programme start="20250918125000 +0000" stop="20250918132500 +0000" channel="TV1.lt"><title>Pasiklydę meilėje</title><desc>N-7. 2020 m. Telenovelė. Indija. Vaid.: Ayesha Singh, Bhavika Sharma, Neil Bhatt.</desc></programme>
-<programme start="20250918132500 +0000" stop="20250918140000 +0000" channel="TV1.lt"><title>Pasiklydę meilėje</title><desc>N-7. 2020 m. Telenovelė. Indija. Vaid.: Ayesha Singh, Bhavika Sharma, Neil Bhatt.</desc></programme>
-<programme start="20250918140000 +0000" stop="20250918143000 +0000" channel="TV1.lt"><title>Akloji</title><desc>N-7. 2021 m. Serialas. Ukraina.</desc></programme>
-<programme start="20250918143000 +0000" stop="20250918150000 +0000" channel="TV1.lt"><title>Akloji</title><desc>N-7. 2021 m. Serialas. Ukraina.</desc></programme>
-<programme start="20250918150000 +0000" stop="20250918160000 +0000" channel="TV1.lt"><title>Detektyvė Rizoli</title><desc>N-7. 2016 m. Detektyvinis serialas. JAV. Vaid.: Angie Harmon, Bruce McGill, Jordan Bridges, Sasha Alexander.</desc></programme>
-<programme start="20250918160000 +0000" stop="20250918170000 +0000" channel="TV1.lt"><title>Nusikalstami protai</title><desc>N-7. 2014 m. Detektyvinis serialas. JAV. Vaid.: A. J. Cook, Joe Mantegna, Kirsten Vangsness, Matthew Gray Gubler, Shemar Moore.</desc></programme>
-<programme start="20250918170000 +0000" stop="20250918180000 +0000" channel="TV1.lt"><title>Įstatymas ir tvarka. Specialiųjų tyrimų skyrius</title><desc>N-7. 2019 m. Detektyvinis serialas. JAV. Vaid.: Christopher Meloni, Ice-T , Mariska Hargitay.</desc></programme>
-<programme start="20250918180000 +0000" stop="20250918200500 +0000" channel="TV1.lt"><title>DETEKTYVO VAKARAS Nežudyk!</title><desc>N-14. 2017 m. Detektyvas. Italija. Vaid.: Matteo Martari, Miriam Leone, Thomas Trabacchi.</desc></programme>
-<programme start="20250918200500 +0000" stop="20250918225500 +0000" channel="TV1.lt"><title>Čikagos ugniagesiai</title><desc>N-7. 2018 m. Veiksmo serialas. JAV. Vaid.: Christian Stolte, Eamonn Walker, Jesse Spencer, Taylor Kinney.</desc></programme>
+<programme start="20250919030000 +0000" stop="20250919210000 +0000" channel="TV imk ir pirk.lt.lt"><title>#</title></programme>
+<programme start="20250919210000 +0000" stop="20250920030000 +0000" channel="TV imk ir pirk.lt.lt"><title>#</title><desc>A, rugsėjo 20 d.</desc></programme>
+<programme start="20250920030000 +0000" stop="20250921030000 +0000" channel="TV imk ir pirk.lt.lt"><title>#</title><desc>A, rugsėjo 21 d.</desc></programme>
 <programme start="20250918225500 +0000" stop="20250918235000 +0000" channel="TV1.lt"><title>Auksinis berniukas</title><desc>N-7. 2023 m. Drama. Turkija. Vaid.: Afra Saracoglu, Gulcin Santircioglu, Mert Ramazan Demir.</desc></programme>
 <programme start="20250918235000 +0000" stop="20250919004500 +0000" channel="TV1.lt"><title>Atpildo gėlės</title><desc>N-7. 2015 m. Serialas. Ukraina. Vaid.: Ekaterina Tyshkevich, Marina Dyakonenko, Valentin Tomusyak.</desc></programme>
 <programme start="20250919004500 +0000" stop="20250919013500 +0000" channel="TV1.lt"><title>Meilei nereikia žodžių</title><desc>N-7. 2016 m. Serialas. Turkija. Vaid.: Burak Deniz, Elcin Afacan, Hande Ercel.</desc></programme>
@@ -744,27 +717,30 @@
 <programme start="20250919180000 +0000" stop="20250919194500 +0000" channel="TV1.lt"><title>more body</title><desc>N-14. 2024 m. Detektyvas. Didžioji Britanija. Vaid.: Brad Morrison, John Simm, Richie Campbell.</desc></programme>
 <programme start="20250919194500 +0000" stop="20250919204000 +0000" channel="TV1.lt"><title>Čikagos ugniagesiai</title><desc>N-7. 2018 m. Veiksmo serialas. JAV. Vaid.: Christian Stolte, Eamonn Walker, Jesse Spencer, Taylor Kinney.</desc></programme>
 <programme start="20250919204000 +0000" stop="20250919224500 +0000" channel="TV1.lt"><title>Nežudyk!</title><desc>N-14. 2017 m. Detektyvas. Italija. Vaid.: Matteo Martari, Miriam Leone, Thomas Trabacchi.</desc></programme>
-<programme start="20250918033000 +0000" stop="20250918043000 +0000" channel="TV3 Plus.lt"><title>Svajonių sodai</title><desc>Lietuva Pramogos14 sez 6 s</desc></programme>
-<programme start="20250918043000 +0000" stop="20250918060000 +0000" channel="TV3 Plus.lt"><title>Pasaulis pagal moteris</title><desc>Didžioji Britanija Kulinarija1 sez 12 s</desc></programme>
-<programme start="20250918060000 +0000" stop="20250918070000 +0000" channel="TV3 Plus.lt"><title>Luko kelionės laiku. Egiptas. Abu Simbelio šventyklos paslaptis</title><desc>Korea, Republic of Animacinis, Veiksmo, NuotykiųN-7</desc></programme>
-<programme start="20250918070000 +0000" stop="20250918071000 +0000" channel="TV3 Plus.lt"><title>Jakas Šerlokas</title><desc>Vokietija, Prancūzija Animacinis, Vaikams1 sez 29 s</desc></programme>
-<programme start="20250918071000 +0000" stop="20250918073000 +0000" channel="TV3 Plus.lt"><title>Jakas Šerlokas</title><desc>Vokietija, Prancūzija Animacinis, Vaikams1 sez 30 s</desc></programme>
-<programme start="20250918073000 +0000" stop="20250918074500 +0000" channel="TV3 Plus.lt"><title>Jakas Šerlokas</title><desc>Vokietija, Prancūzija Animacinis, Vaikams1 sez 31 s</desc></programme>
-<programme start="20250918074500 +0000" stop="20250918080000 +0000" channel="TV3 Plus.lt"><title>Jakas Šerlokas</title><desc>Vokietija, Prancūzija Animacinis, Vaikams1 sez 32 s</desc></programme>
-<programme start="20250918080000 +0000" stop="20250918084000 +0000" channel="TV3 Plus.lt"><title>Nenugalima meilė</title><desc>Meksika Drama, Melodrama33 s N-7</desc></programme>
-<programme start="20250918084000 +0000" stop="20250918093000 +0000" channel="TV3 Plus.lt"><title>Nenugalima meilė</title><desc>Meksika Drama, Melodrama34 s N-7</desc></programme>
-<programme start="20250918093000 +0000" stop="20250918101500 +0000" channel="TV3 Plus.lt"><title>Nenugalima meilė</title><desc>Meksika Drama, Melodrama35 s N-7</desc></programme>
-<programme start="20250918101500 +0000" stop="20250918110000 +0000" channel="TV3 Plus.lt"><title>Nenugalima meilė</title><desc>Meksika Drama, Melodrama36 s N-7</desc></programme>
-<programme start="20250918110000 +0000" stop="20250918120000 +0000" channel="TV3 Plus.lt"><title>Niekada nepasiduok</title><desc>Ukraina Drama1 sez 3 s N-7</desc></programme>
-<programme start="20250918120000 +0000" stop="20250918130000 +0000" channel="TV3 Plus.lt"><title>Svajonių sodai</title><desc>Lietuva Pramogos14 sez 7 s</desc></programme>
-<programme start="20250918130000 +0000" stop="20250918150000 +0000" channel="TV3 Plus.lt"><title>Pasaulis pagal moteris</title><desc>Ukraina Kelionės4 sez 8 s N-7</desc></programme>
-<programme start="20250918150000 +0000" stop="20250918154000 +0000" channel="TV3 Plus.lt"><title>Aistrų kasyklos</title><desc>Meksika Drama89 s N-7</desc></programme>
-<programme start="20250918154000 +0000" stop="20250918162500 +0000" channel="TV3 Plus.lt"><title>Aistrų kasyklos</title><desc>Meksika Drama90 s N-7</desc></programme>
-<programme start="20250918162500 +0000" stop="20250918171000 +0000" channel="TV3 Plus.lt"><title>Aistrų kasyklos</title><desc>Meksika Drama91 s N-7</desc></programme>
-<programme start="20250918171000 +0000" stop="20250918180000 +0000" channel="TV3 Plus.lt"><title>Auksinis narvelis</title><desc>Turkija Drama1 sez 16 s N-7</desc></programme>
-<programme start="20250918180000 +0000" stop="20250918190000 +0000" channel="TV3 Plus.lt"><title>Čikagos ugniagesiai</title><desc>JAV Drama2 sez 5 s N-7</desc></programme>
-<programme start="20250918190000 +0000" stop="20250918200000 +0000" channel="TV3 Plus.lt"><title>Komisaras Aleksas</title><desc>Lenkija Veiksmo, Kriminalinis13 sez 10 s N-7</desc></programme>
-<programme start="20250918200000 +0000" stop="20250919033000 +0000" channel="TV3 Plus.lt"><title>Mirties diena</title><desc>JAV Siaubo, MistinisS</desc></programme>
+<programme start="20250919224500 +0000" stop="20250920003000 +0000" channel="TV1.lt"><title>more body</title><desc>N-14. 2024 m. Detektyvas. Didžioji Britanija. Vaid.: Brad Morrison, John Simm, Richie Campbell.</desc></programme>
+<programme start="20250920003000 +0000" stop="20250920012000 +0000" channel="TV1.lt"><title>Atpildo gėlės</title><desc>N-7. 2015 m. Serialas. Ukraina. Vaid.: Ekaterina Tyshkevich, Marina Dyakonenko, Valentin Tomusyak.</desc></programme>
+<programme start="20250920012000 +0000" stop="20250920020500 +0000" channel="TV1.lt"><title>Meilei nereikia žodžių</title><desc>N-7. 2016 m. Serialas. Turkija. Vaid.: Burak Deniz, Elcin Afacan, Hande Ercel.</desc></programme>
+<programme start="20250920020500 +0000" stop="20250920040000 +0000" channel="TV1.lt"><title>#</title><desc>N-7. 2023 m. Telenovelė. Meksika. Vaid.: Andres Palacios, Carolina Miranda, Luis Roberto Guzman, Mariana Seoane.</desc></programme>
+<programme start="20250920040000 +0000" stop="20250920050000 +0000" channel="TV1.lt"><title>Atpildo gėlės</title><desc>N-7. 2015 m. Serialas. Ukraina. Vaid.: Ekaterina Tyshkevich, Marina Dyakonenko, Valentin Tomusyak.</desc></programme>
+<programme start="20250920050000 +0000" stop="20250920053000 +0000" channel="TV1.lt"><title>Akloji</title><desc>N-7. 2021 m. Serialas. Ukraina.</desc></programme>
+<programme start="20250920053000 +0000" stop="20250920060000 +0000" channel="TV1.lt"><title>Akloji</title><desc>N-7. 2021 m. Serialas. Ukraina.</desc></programme>
+<programme start="20250920060000 +0000" stop="20250920070000 +0000" channel="TV1.lt"><title>Meilei nereikia žodžių</title><desc>N-7. 2016 m. Serialas. Turkija. Vaid.: Burak Deniz, Elcin Afacan, Hande Ercel.</desc></programme>
+<programme start="20250920070000 +0000" stop="20250920080000 +0000" channel="TV1.lt"><title>Detektyvė Rizoli</title><desc>N-7. 2016 m. Detektyvinis serialas. JAV. Vaid.: Angie Harmon, Bruce McGill, Jordan Bridges, Sasha Alexander.</desc></programme>
+<programme start="20250920080000 +0000" stop="20250920090000 +0000" channel="TV1.lt"><title>Einšteinas</title><desc>N-7. 2018 m. Detektyvinis serialas. Vokietija. Vaid.: Annika Ernst, Rolf Kanies, Tom Beck.</desc></programme>
+<programme start="20250920090000 +0000" stop="20250920100000 +0000" channel="TV1.lt"><title>Nusikalstami protai</title><desc>N-7. 2014 m. Detektyvinis serialas. JAV. Vaid.: A. J. Cook, Joe Mantegna, Kirsten Vangsness, Matthew Gray Gubler, Shemar Moore.</desc></programme>
+<programme start="20250920100000 +0000" stop="20250920110000 +0000" channel="TV1.lt"><title>Įstatymas ir tvarka. Specialiųjų tyrimų skyrius</title><desc>N-7. 2019 m. Detektyvinis serialas. JAV. Vaid.: Christopher Meloni, Ice-T , Mariska Hargitay.</desc></programme>
+<programme start="20250920110000 +0000" stop="20250920120000 +0000" channel="TV1.lt"><title>Čikagos ugniagesiai</title><desc>N-7. 2018 m. Veiksmo serialas. JAV. Vaid.: Christian Stolte, Eamonn Walker, Jesse Spencer, Taylor Kinney.</desc></programme>
+<programme start="20250920120000 +0000" stop="20250920125000 +0000" channel="TV1.lt"><title>Anupama</title><desc>2020 m. Serialas. Indija. Vaid.: Gaurav Khanna, Rupali Ganguly, Sudhanshu Pandey.</desc></programme>
+<programme start="20250920125000 +0000" stop="20250920132500 +0000" channel="TV1.lt"><title>Pasiklydę meilėje</title><desc>N-7. 2020 m. Telenovelė. Indija. Vaid.: Ayesha Singh, Bhavika Sharma, Neil Bhatt.</desc></programme>
+<programme start="20250920132500 +0000" stop="20250920140000 +0000" channel="TV1.lt"><title>Pasiklydę meilėje</title><desc>N-7. 2020 m. Telenovelė. Indija. Vaid.: Ayesha Singh, Bhavika Sharma, Neil Bhatt.</desc></programme>
+<programme start="20250920140000 +0000" stop="20250920143000 +0000" channel="TV1.lt"><title>Akloji</title><desc>N-7. 2021 m. Serialas. Ukraina.</desc></programme>
+<programme start="20250920143000 +0000" stop="20250920150000 +0000" channel="TV1.lt"><title>Akloji</title><desc>N-7. 2021 m. Serialas. Ukraina.</desc></programme>
+<programme start="20250920150000 +0000" stop="20250920160000 +0000" channel="TV1.lt"><title>Detektyvė Rizoli</title><desc>N-7. 2016 m. Detektyvinis serialas. JAV. Vaid.: Angie Harmon, Bruce McGill, Jordan Bridges, Sasha Alexander.</desc></programme>
+<programme start="20250920160000 +0000" stop="20250920170000 +0000" channel="TV1.lt"><title>Nusikalstami protai</title><desc>N-7. 2014 m. Detektyvinis serialas. JAV. Vaid.: A. J. Cook, Joe Mantegna, Kirsten Vangsness, Matthew Gray Gubler, Shemar Moore.</desc></programme>
+<programme start="20250920170000 +0000" stop="20250920180000 +0000" channel="TV1.lt"><title>Įstatymas ir tvarka. Specialiųjų tyrimų skyrius</title><desc>N-7. 2019 m. Detektyvinis serialas. JAV. Vaid.: Christopher Meloni, Ice-T , Mariska Hargitay.</desc></programme>
+<programme start="20250920180000 +0000" stop="20250920194500 +0000" channel="TV1.lt"><title>more body</title><desc>N-14. 2024 m. Detektyvas. Didžioji Britanija, JAV. Vaid.: Adrian Scarborough, Peter Bankole, Vanessa Emme.</desc></programme>
+<programme start="20250920194500 +0000" stop="20250920204000 +0000" channel="TV1.lt"><title>Čikagos ugniagesiai</title><desc>N-7. 2018 m. Veiksmo serialas. JAV. Vaid.: Christian Stolte, Eamonn Walker, Jesse Spencer, Taylor Kinney.</desc></programme>
+<programme start="20250920204000 +0000" stop="20250920214000 +0000" channel="TV1.lt"><title>more body</title><desc>N-14. 2017 m. Detektyvas. Italija. Vaid.: Alessandro Gassmann, Carolina Crescentini, Tosca DAquino.</desc></programme>
 <programme start="20250919033000 +0000" stop="20250919043000 +0000" channel="TV3 Plus.lt"><title>Svajonių sodai</title><desc>Lietuva Pramogos14 sez 7 s</desc></programme>
 <programme start="20250919043000 +0000" stop="20250919055500 +0000" channel="TV3 Plus.lt"><title>Pasaulis pagal moteris</title><desc>Didžioji Britanija Kulinarija1 sez 14 s</desc></programme>
 <programme start="20250919055500 +0000" stop="20250919070000 +0000" channel="TV3 Plus.lt"><title>Luko kelionės laiku. Italija. Paskutinės Pompėjos dienos</title><desc>Korea, Republic of Animacinis, Veiksmo, NuotykiųN-7</desc></programme>
@@ -786,18 +762,24 @@
 <programme start="20250919180000 +0000" stop="20250919190000 +0000" channel="TV3 Plus.lt"><title>Čikagos ugniagesiai</title><desc>JAV Drama2 sez 6 s N-7</desc></programme>
 <programme start="20250919190000 +0000" stop="20250919200000 +0000" channel="TV3 Plus.lt"><title>Komisaras Aleksas</title><desc>Lenkija Veiksmo, Kriminalinis13 sez 11 s N-7</desc></programme>
 <programme start="20250919200000 +0000" stop="20250920033000 +0000" channel="TV3 Plus.lt"><title>Samdomas karys</title><desc>JAV Veiksmo, Trileris, DramaN-14</desc></programme>
-<programme start="20250917211000 +0000" stop="20250917222000 +0000" channel="TV3.lt"><title>Šakalo diena</title><desc>Didžioji Britanija, JAV Drama, Trileris, Veiksmo, Kriminalinis1 sez 8 s N-14</desc></programme>
-<programme start="20250917222000 +0000" stop="20250917232500 +0000" channel="TV3.lt"><title>Tyrėja</title><desc>Kanada Kriminalinis, Drama, Mistinis1 sez 1 s N-14</desc></programme>
-<programme start="20250917232500 +0000" stop="20250918005500 +0000" channel="TV3.lt"><title>Didžiosios Britanijos kepėjų kovos</title><desc>Didžioji Britanija Realybės šou, TV žaidimas, Pramogos10 sez 1 s</desc></programme>
-<programme start="20250918005500 +0000" stop="20250918020000 +0000" channel="TV3.lt"><title>Ambasadoriaus dukra</title><desc>Turkija Drama, Veiksmo, Kriminalinis178 s N-7</desc></programme>
-<programme start="20250918020000 +0000" stop="20250918080000 +0000" channel="TV3.lt"><title>Paskutinis iš vyrų</title><desc>Vokietija Telenovelė, Melodrama, Drama4271 sez 4427 s N-7</desc></programme>
-<programme start="20250918080000 +0000" stop="20250918090000 +0000" channel="TV3.lt"><title>Džesika Flečer</title><desc>JAV Kriminalinis, Drama, Mistinis9 sez 13 s N-7</desc></programme>
-<programme start="20250918090000 +0000" stop="20250918100000 +0000" channel="TV3.lt"><title>Kelionė namo</title><desc>Turkija Drama, Telenovelė, Melodrama1 sez 148 s N-7</desc></programme>
-<programme start="20250918100000 +0000" stop="20250918110000 +0000" channel="TV3.lt"><title>Kelionė namo</title><desc>Turkija Drama, Telenovelė, Melodrama1 sez 149 s N-7</desc></programme>
-<programme start="20250918110000 +0000" stop="20250918120000 +0000" channel="TV3.lt"><title>Meilė - mano gyvenimas</title><desc>Meksika Drama, Melodrama, Telenovelė1 sez 36 s N-7</desc></programme>
-<programme start="20250918120000 +0000" stop="20250918123000 +0000" channel="TV3.lt"><title>Simpsonai</title><desc>JAV Animacinis, Komedija31 sez 5 s N-7</desc></programme>
-<programme start="20250918123000 +0000" stop="20250918130000 +0000" channel="TV3.lt"><title>Simpsonai</title><desc>JAV Animacinis, Komedija31 sez 6 s N-7</desc></programme>
-<programme start="20250918130000 +0000" stop="20250918211500 +0000" channel="TV3.lt"><title>TV3 žinios</title><desc>Didžioji Britanija Drama, TrilerisN-14</desc></programme>
+<programme start="20250920033000 +0000" stop="20250920043000 +0000" channel="TV3 Plus.lt"><title>Skaičius ar herbas?</title><desc>Ukraina Kelionės, Pramogos11 sez 5 s N-7</desc></programme>
+<programme start="20250920043000 +0000" stop="20250920060000 +0000" channel="TV3 Plus.lt"><title>Pasaulis pagal moteris</title><desc>Didžioji Britanija Kulinarija1 sez 16 s</desc></programme>
+<programme start="20250920060000 +0000" stop="20250920073000 +0000" channel="TV3 Plus.lt"><title>Mano mažasis karalius</title><desc>Belgija, Prancūzija Nuotykių, Komedija, Visai šeimai</desc></programme>
+<programme start="20250920073000 +0000" stop="20250920074500 +0000" channel="TV3 Plus.lt"><title>Jakas Šerlokas</title><desc>Vokietija, Prancūzija Animacinis, Vaikams1 sez 37 s</desc></programme>
+<programme start="20250920074500 +0000" stop="20250920080000 +0000" channel="TV3 Plus.lt"><title>Jakas Šerlokas</title><desc>Vokietija, Prancūzija Animacinis, Vaikams1 sez 38 s</desc></programme>
+<programme start="20250920080000 +0000" stop="20250920084000 +0000" channel="TV3 Plus.lt"><title>Nenugalima meilė</title><desc>Meksika Drama, Melodrama41 s N-7</desc></programme>
+<programme start="20250920084000 +0000" stop="20250920092500 +0000" channel="TV3 Plus.lt"><title>Nenugalima meilė</title><desc>Meksika Drama, Melodrama42 s N-7</desc></programme>
+<programme start="20250920092500 +0000" stop="20250920101500 +0000" channel="TV3 Plus.lt"><title>Nenugalima meilė</title><desc>Meksika Drama, Melodrama43 s N-7</desc></programme>
+<programme start="20250920101500 +0000" stop="20250920110000 +0000" channel="TV3 Plus.lt"><title>Nenugalima meilė</title><desc>Meksika Drama, Melodrama44 s N-7</desc></programme>
+<programme start="20250920110000 +0000" stop="20250920130000 +0000" channel="TV3 Plus.lt"><title>Pora, verta milijono</title><desc>Ukraina Realybės šou10 s N-7</desc></programme>
+<programme start="20250920130000 +0000" stop="20250920150000 +0000" channel="TV3 Plus.lt"><title>Pasaulis pagal moteris</title><desc>Ukraina Kelionės4 sez 10 s N-7</desc></programme>
+<programme start="20250920150000 +0000" stop="20250920154000 +0000" channel="TV3 Plus.lt"><title>Aistrų kasyklos</title><desc>Meksika Drama95 s N-7</desc></programme>
+<programme start="20250920154000 +0000" stop="20250920162500 +0000" channel="TV3 Plus.lt"><title>Aistrų kasyklos</title><desc>Meksika Drama96 s N-7</desc></programme>
+<programme start="20250920162500 +0000" stop="20250920171000 +0000" channel="TV3 Plus.lt"><title>Aistrų kasyklos</title><desc>Meksika Drama97 s N-7</desc></programme>
+<programme start="20250920171000 +0000" stop="20250920180000 +0000" channel="TV3 Plus.lt"><title>Auksinis narvelis</title><desc>Turkija Drama1 sez 18 s N-7</desc></programme>
+<programme start="20250920180000 +0000" stop="20250920190000 +0000" channel="TV3 Plus.lt"><title>Čikagos ugniagesiai</title><desc>JAV Drama2 sez 7 s N-7</desc></programme>
+<programme start="20250920190000 +0000" stop="20250920205500 +0000" channel="TV3 Plus.lt"><title>Penkiasdešimt išlaisvintų atspalvių</title><desc>JAV Melodrama, DramaRež.: Foley James, N-14</desc></programme>
+<programme start="20250920205500 +0000" stop="20250921033000 +0000" channel="TV3 Plus.lt"><title>Viskas, niekas ir dar šis tas</title><desc>Lietuva, Ukraina Komedija, DramaN-14</desc></programme>
 <programme start="20250918211500 +0000" stop="20250918222000 +0000" channel="TV3.lt"><title>Šakalo diena</title><desc>Didžioji Britanija, JAV Drama, Trileris, Veiksmo, Kriminalinis1 sez 9 s N-14</desc></programme>
 <programme start="20250918222000 +0000" stop="20250918232500 +0000" channel="TV3.lt"><title>Tyrėja</title><desc>Kanada Kriminalinis, Drama, Mistinis1 sez 2 s N-14</desc></programme>
 <programme start="20250918232500 +0000" stop="20250919004500 +0000" channel="TV3.lt"><title>Didžiosios Britanijos kepėjų kovos</title><desc>Didžioji Britanija Realybės šou, TV žaidimas, Pramogos10 sez 2 s</desc></programme>
@@ -810,28 +792,16 @@
 <programme start="20250919120000 +0000" stop="20250919123000 +0000" channel="TV3.lt"><title>Simpsonai</title><desc>JAV Animacinis, Komedija31 sez 7 s N-7</desc></programme>
 <programme start="20250919123000 +0000" stop="20250919130000 +0000" channel="TV3.lt"><title>Simpsonai</title><desc>JAV Animacinis, Komedija31 sez 8 s N-7</desc></programme>
 <programme start="20250919130000 +0000" stop="20250919215500 +0000" channel="TV3.lt"><title>TV3 žinios</title><desc>Didžioji Britanija, Ispanija, JAV Veiksmo, Biografinis, Drama, Trileris, KarinisN-14</desc></programme>
-<programme start="20250917214000 +0000" stop="20250917224000 +0000" channel="TV6.lt"><title>Komisaras Aleksas</title><desc>Lenkija Veiksmo, Kriminalinis13 sez 13 s N-7</desc></programme>
-<programme start="20250917224000 +0000" stop="20250917234000 +0000" channel="TV6.lt"><title>Namai, verti milijonų</title><desc>JAV Realybės šou9 sez 14 s N-7</desc></programme>
-<programme start="20250917234000 +0000" stop="20250918004000 +0000" channel="TV6.lt"><title>Skaičius ar herbas?</title><desc>Ukraina Kelionės, Pramogos11 sez 12 s N-7</desc></programme>
-<programme start="20250918004000 +0000" stop="20250918035500 +0000" channel="TV6.lt"><title>Skaičius ar herbas?</title><desc>JAV Drama, Veiksmo6 sez 9 s</desc></programme>
-<programme start="20250918035500 +0000" stop="20250918045500 +0000" channel="TV6.lt"><title>Čikagos ugniagesiai</title><desc>JAV Drama, Veiksmo6 sez 10 s</desc></programme>
-<programme start="20250918045500 +0000" stop="20250918060000 +0000" channel="TV6.lt"><title>Kobra 11</title><desc>Vokietija Kriminalai, Veiksmo, Detektyvas25 sez 10 s N-7</desc></programme>
-<programme start="20250918060000 +0000" stop="20250918070000 +0000" channel="TV6.lt"><title>Vienam gale kablys</title><desc>JAV Realybės šou12 sez 51 s N-7</desc></programme>
-<programme start="20250918070000 +0000" stop="20250918080000 +0000" channel="TV6.lt"><title>Po deniu. Seišeliai</title><desc>Australija, JAV Realybės šou, Drama, Nuotykių3 sez 9 s N-7</desc></programme>
-<programme start="20250918080000 +0000" stop="20250918090000 +0000" channel="TV6.lt"><title>Juokingiausi Amerikos namų vaizdeliai</title><desc>JAV Komedija, Visai šeimai, Realybės šou33 sez 5 s N-7</desc></programme>
-<programme start="20250918090000 +0000" stop="20250918100000 +0000" channel="TV6.lt"><title>Skaičius ar herbas?</title><desc>Ukraina Realybės šou10 sez 2 s N-7</desc></programme>
-<programme start="20250918100000 +0000" stop="20250918110000 +0000" channel="TV6.lt"><title>Komisaras Aleksas</title><desc>Lenkija Veiksmo, Kriminalinis14 sez 4 s N-7</desc></programme>
-<programme start="20250918110000 +0000" stop="20250918120000 +0000" channel="TV6.lt"><title>Kobra 11</title><desc>Vokietija Kriminalai, Veiksmo, Detektyvas25 sez 13 s N-7</desc></programme>
-<programme start="20250918120000 +0000" stop="20250918130000 +0000" channel="TV6.lt"><title>Pagrindinis įkaltis</title><desc>JAV Drama301 s N-7</desc></programme>
-<programme start="20250918130000 +0000" stop="20250918140000 +0000" channel="TV6.lt"><title>Čikagos ugniagesiai</title><desc>JAV Drama, Veiksmo6 sez 17 s</desc></programme>
-<programme start="20250918140000 +0000" stop="20250918150000 +0000" channel="TV6.lt"><title>Čikagos ugniagesiai</title><desc>JAV Drama, Veiksmo6 sez 18 s</desc></programme>
-<programme start="20250918150000 +0000" stop="20250918153000 +0000" channel="TV6.lt"><title>Simpsonai</title><desc>JAV Animacinis, Komedija31 sez 5 s N-7</desc></programme>
-<programme start="20250918153000 +0000" stop="20250918160000 +0000" channel="TV6.lt"><title>Simpsonai</title><desc>JAV Animacinis, Komedija31 sez 6 s N-7</desc></programme>
-<programme start="20250918160000 +0000" stop="20250918170000 +0000" channel="TV6.lt"><title>Po deniu. Seišeliai</title><desc>Australija, JAV Realybės šou, Drama, Nuotykių3 sez 13 s N-7</desc></programme>
-<programme start="20250918170000 +0000" stop="20250918180000 +0000" channel="TV6.lt"><title>Juokingiausi Amerikos namų vaizdeliai</title><desc>JAV Komedija, Visai šeimai, Realybės šou33 sez 6 s N-7</desc></programme>
-<programme start="20250918180000 +0000" stop="20250918194000 +0000" channel="TV6.lt"><title>Šmėkla</title><desc>JAV Veiksmo, TrilerisN-14</desc></programme>
-<programme start="20250918194000 +0000" stop="20250918204000 +0000" channel="TV6.lt"><title>Jeloustounas</title><desc>JAV Drama, Vesternas, Epic1 sez 5 s N-7</desc></programme>
-<programme start="20250918204000 +0000" stop="20250918210000 +0000" channel="TV6.lt"><title>Pagrindinis įkaltis</title><desc>JAV Drama2 sez 15 s N-7</desc></programme>
+<programme start="20250919215500 +0000" stop="20250920001500 +0000" channel="TV3.lt"><title>PREMJERA Savigynos menas</title><desc>JAV Komedija, Kriminalinis, DramaN-14</desc></programme>
+<programme start="20250920001500 +0000" stop="20250920080000 +0000" channel="TV3.lt"><title>Angelas sargas</title><desc>Vokietija Telenovelė, Melodrama, Drama4271 sez 4429 s N-7</desc></programme>
+<programme start="20250920080000 +0000" stop="20250920090000 +0000" channel="TV3.lt"><title>Džesika Flečer</title><desc>JAV Kriminalinis, Drama, Mistinis9 sez 15 s N-7</desc></programme>
+<programme start="20250920090000 +0000" stop="20250920100000 +0000" channel="TV3.lt"><title>PREMJERA Vienui vieni</title><desc>Turkija Drama, Melodrama, Dramatic1 sez 2 s N-7</desc></programme>
+<programme start="20250920100000 +0000" stop="20250920110000 +0000" channel="TV3.lt"><title>PREMJERA Vienui vieni</title><desc>Turkija Drama, Melodrama, Dramatic1 sez 3 s N-7</desc></programme>
+<programme start="20250920110000 +0000" stop="20250920120000 +0000" channel="TV3.lt"><title>Meilė - mano gyvenimas</title><desc>Meksika Drama, Melodrama, Telenovelė1 sez 38 s N-7</desc></programme>
+<programme start="20250920120000 +0000" stop="20250920123000 +0000" channel="TV3.lt"><title>Simpsonai</title><desc>JAV Animacinis, Komedija31 sez 9 s N-7</desc></programme>
+<programme start="20250920123000 +0000" stop="20250920130000 +0000" channel="TV3.lt"><title>Simpsonai</title><desc>JAV Animacinis, Komedija31 sez 11 s N-7</desc></programme>
+<programme start="20250920130000 +0000" stop="20250920183000 +0000" channel="TV3.lt"><title>TV3 žinios</title><desc>JAV Vaikams, Animacinis, NuotykiųRež.: Jonathan del Val, Renaud Chris, N-7</desc></programme>
+<programme start="20250920183000 +0000" stop="20250920214000 +0000" channel="TV3.lt"><title>TV3 vakaro žinios</title><desc>JAV Fantastinis, Veiksmo, NuotykiųN-14</desc></programme>
 <programme start="20250918210000 +0000" stop="20250918220000 +0000" channel="TV6.lt"><title>Pagrindinis įkaltis</title><desc>JAV Drama2 sez 16 s N-7</desc></programme>
 <programme start="20250918220000 +0000" stop="20250918230500 +0000" channel="TV6.lt"><title>Komisaras Aleksas</title><desc>Lenkija Veiksmo, Kriminalinis14 sez 1 s N-7</desc></programme>
 <programme start="20250918230500 +0000" stop="20250919000000 +0000" channel="TV6.lt"><title>Namai, verti milijonų</title><desc>JAV Realybės šou9 sez 15 s N-7</desc></programme>
@@ -852,28 +822,23 @@
 <programme start="20250919153000 +0000" stop="20250919160000 +0000" channel="TV6.lt"><title>Simpsonai</title><desc>JAV Animacinis, Komedija31 sez 8 s N-7</desc></programme>
 <programme start="20250919160000 +0000" stop="20250919200000 +0000" channel="TV6.lt"><title>TIESIOGIAI Moterų Eurolygos atrankos rungtynės. Vilniaus „Kibirkštis“ – „Tango Bourges Basket“</title><desc>Kinija, Honkongas, JAV Drama, Veiksmo, Trileris. N-14</desc></programme>
 <programme start="20250919200000 +0000" stop="20250919225000 +0000" channel="TV6.lt"><title>Jeloustounas</title><desc>JAV Drama, Vesternas, Epic1 sez 6 s N-7</desc></programme>
-<programme start="20250917215000 +0000" stop="20250918001000 +0000" channel="TV8.lt"><title>TV pagalba</title><desc>Didžioji Britanija Realybės šou3 sez 17 s</desc></programme>
-<programme start="20250918001000 +0000" stop="20250918032500 +0000" channel="TV8.lt"><title>Palikimas</title><desc>JAV Animacinis1 sez 15 s</desc></programme>
-<programme start="20250918032500 +0000" stop="20250918034000 +0000" channel="TV8.lt"><title>Ar žinai, kaip aš tave myliu?</title><desc>JAV Animacinis1 sez 16 s</desc></programme>
-<programme start="20250918034000 +0000" stop="20250918041000 +0000" channel="TV8.lt"><title>Šunyčiai patruliai</title><desc>Kanada, JAV Vaikams, Animacinis7 sez 26 s</desc></programme>
-<programme start="20250918041000 +0000" stop="20250918044000 +0000" channel="TV8.lt"><title>Meškiukai Gamiai</title><desc>JAV Not Specified3 sez 304 s</desc></programme>
-<programme start="20250918044000 +0000" stop="20250918051000 +0000" channel="TV8.lt"><title>Meškiukai Gamiai</title><desc>JAV Not Specified3 sez 305 s</desc></programme>
-<programme start="20250918051000 +0000" stop="20250918080000 +0000" channel="TV8.lt"><title>TV pagalba</title><desc>Turkija Drama71 s N-7</desc></programme>
-<programme start="20250918080000 +0000" stop="20250918090000 +0000" channel="TV8.lt"><title>Sužeista širdis</title><desc>Turkija Drama72 s N-7</desc></programme>
-<programme start="20250918090000 +0000" stop="20250918100000 +0000" channel="TV8.lt"><title>Laisvės svajos</title><desc>Ispanija Drama, Melodrama1 sez 208 s N-7</desc></programme>
-<programme start="20250918100000 +0000" stop="20250918110000 +0000" channel="TV8.lt"><title>Kerštinga meilė</title><desc>Meksika Melodrama, Melodrama104 s N-7</desc></programme>
-<programme start="20250918110000 +0000" stop="20250918123000 +0000" channel="TV8.lt"><title>Mylimieji</title><desc>Korea, Republic of Drama, Istorinis, Melodrama, Karinis1 sez 3 s N-7</desc></programme>
-<programme start="20250918123000 +0000" stop="20250918130000 +0000" channel="TV8.lt"><title>Likimo karuselė</title><desc>Indija Telenovelė, Drama, Melodrama, Komedija2691 sez 2835 s N-7</desc></programme>
-<programme start="20250918130000 +0000" stop="20250918133000 +0000" channel="TV8.lt"><title>Lemties vingiai</title><desc>Indija Telenovelė, Drama, Melodrama1991 sez 2032 s N-7</desc></programme>
-<programme start="20250918133000 +0000" stop="20250918140000 +0000" channel="TV8.lt"><title>Lakšmės likimas</title><desc>Indija Telenovelė, Drama, Melodrama1066 sez 1188 s N-7</desc></programme>
-<programme start="20250918140000 +0000" stop="20250918150000 +0000" channel="TV8.lt"><title>Grei anatomija</title><desc>JAV Apie sveikatą, Drama2 sez 23 s N-7</desc></programme>
-<programme start="20250918150000 +0000" stop="20250918160000 +0000" channel="TV8.lt"><title>Motinos širdis</title><desc>Turkija Drama, Melodrama, Telenovelė2 sez 6 s N-7</desc></programme>
-<programme start="20250918160000 +0000" stop="20250918170000 +0000" channel="TV8.lt"><title>Motinos širdis</title><desc>Turkija Drama, Melodrama, Telenovelė2 sez 7 s N-7</desc></programme>
-<programme start="20250918170000 +0000" stop="20250918173000 +0000" channel="TV8.lt"><title>Nauji Mikės Pūkuotuko nuotykiai</title><desc>Filipinai, Didžioji Britanija, Kanada, Australija, Japonija, Tailandas, JAV, Taivanas, Prancūzija Animacinis, Nuotykių, Komedija, Visai šeimai, Fantastinis, Miuziklas, Mistinis1 sez 3 s</desc></programme>
-<programme start="20250918173000 +0000" stop="20250918180000 +0000" channel="TV8.lt"><title>Ančiukų istorijos</title><desc>JAV Animacinis, Nuotykių2 sez 288 s</desc></programme>
-<programme start="20250918180000 +0000" stop="20250918195500 +0000" channel="TV8.lt"><title>Vasara Langeoge</title><desc>Vokietija MelodramaN-7</desc></programme>
-<programme start="20250918195500 +0000" stop="20250918205500 +0000" channel="TV8.lt"><title>Motinos širdis</title><desc>Turkija Drama, Melodrama, Telenovelė2 sez 6 s N-7</desc></programme>
-<programme start="20250918205500 +0000" stop="20250918214500 +0000" channel="TV8.lt"><title>Motinos širdis</title><desc>Turkija Drama, Melodrama, Telenovelė2 sez 7 s N-7</desc></programme>
+<programme start="20250919225000 +0000" stop="20250920035500 +0000" channel="TV6.lt"><title>Paveldėtas</title><desc>JAV Drama, Veiksmo6 sez 13 s N-7</desc></programme>
+<programme start="20250920035500 +0000" stop="20250920045500 +0000" channel="TV6.lt"><title>Čikagos ugniagesiai</title><desc>JAV Drama, Veiksmo6 sez 14 s N-7</desc></programme>
+<programme start="20250920045500 +0000" stop="20250920060000 +0000" channel="TV6.lt"><title>Kobra 11</title><desc>Vokietija Kriminalai, Veiksmo, Detektyvas25 sez 12 s N-7</desc></programme>
+<programme start="20250920060000 +0000" stop="20250920070000 +0000" channel="TV6.lt"><title>Statybų gidas</title><desc>JAV Realybės šou12 sez 54 s N-7</desc></programme>
+<programme start="20250920070000 +0000" stop="20250920080000 +0000" channel="TV6.lt"><title>Po deniu. Seišeliai</title><desc>Australija, JAV Realybės šou, Drama, Nuotykių3 sez 11 s N-7</desc></programme>
+<programme start="20250920080000 +0000" stop="20250920090000 +0000" channel="TV6.lt"><title>Juokingiausi Amerikos namų vaizdeliai</title><desc>JAV Komedija27 sez 8 s N-7</desc></programme>
+<programme start="20250920090000 +0000" stop="20250920100000 +0000" channel="TV6.lt"><title>Skaičius ar herbas?</title><desc>Ukraina Realybės šou10 sez 4 s N-7</desc></programme>
+<programme start="20250920100000 +0000" stop="20250920110000 +0000" channel="TV6.lt"><title>Komisaras Aleksas</title><desc>Lenkija Veiksmo, Kriminalinis14 sez 6 s N-7</desc></programme>
+<programme start="20250920110000 +0000" stop="20250920120000 +0000" channel="TV6.lt"><title>Kobra 11</title><desc>Vokietija Kriminalai, Veiksmo, Detektyvas25 sez 15 s N-7</desc></programme>
+<programme start="20250920120000 +0000" stop="20250920130000 +0000" channel="TV6.lt"><title>Pagrindinis įkaltis</title><desc>JAV Drama, Not Specified303 s N-7</desc></programme>
+<programme start="20250920130000 +0000" stop="20250920140000 +0000" channel="TV6.lt"><title>Čikagos ugniagesiai</title><desc>JAV Drama, Veiksmo6 sez 21 s</desc></programme>
+<programme start="20250920140000 +0000" stop="20250920150000 +0000" channel="TV6.lt"><title>Čikagos ugniagesiai</title><desc>JAV Drama, Veiksmo6 sez 22 s</desc></programme>
+<programme start="20250920150000 +0000" stop="20250920153000 +0000" channel="TV6.lt"><title>Simpsonai</title><desc>JAV Animacinis, Komedija31 sez 9 s N-7</desc></programme>
+<programme start="20250920153000 +0000" stop="20250920160000 +0000" channel="TV6.lt"><title>Simpsonai</title><desc>JAV Animacinis, Komedija31 sez 11 s N-7</desc></programme>
+<programme start="20250920160000 +0000" stop="20250920170000 +0000" channel="TV6.lt"><title>Po deniu. Seišeliai</title><desc>Australija, JAV Realybės šou, Drama, Nuotykių3 sez 14 s N-7</desc></programme>
+<programme start="20250920170000 +0000" stop="20250920204000 +0000" channel="TV6.lt"><title>Farai</title><desc>JAV Komedija, Melodrama. N-7</desc></programme>
+<programme start="20250920204000 +0000" stop="20250920215000 +0000" channel="TV6.lt"><title>Įstatymus gerbiantis pilietis</title><desc>JAV Drama, Kriminalinis, TrilerisGary Gray,N-14</desc></programme>
 <programme start="20250918214500 +0000" stop="20250919000500 +0000" channel="TV8.lt"><title>TV pagalba</title><desc>Didžioji Britanija Realybės šou3 sez 18 s</desc></programme>
 <programme start="20250919000500 +0000" stop="20250919032500 +0000" channel="TV8.lt"><title>Palikimas</title><desc>JAV Animacinis1 sez 17 s</desc></programme>
 <programme start="20250919032500 +0000" stop="20250919034000 +0000" channel="TV8.lt"><title>Ar žinai, kaip aš tave myliu?</title><desc>JAV Animacinis1 sez 18 s</desc></programme>
@@ -896,4 +861,26 @@
 <programme start="20250919180000 +0000" stop="20250919195000 +0000" channel="TV8.lt"><title>Meilės medžioklė</title><desc>JAV MelodramaN-7</desc></programme>
 <programme start="20250919195000 +0000" stop="20250919205000 +0000" channel="TV8.lt"><title>Motinos širdis</title><desc>Turkija Drama, Melodrama, Telenovelė2 sez 8 s N-7</desc></programme>
 <programme start="20250919205000 +0000" stop="20250919212500 +0000" channel="TV8.lt"><title>Motinos širdis</title><desc>Turkija Drama, Melodrama, Telenovelė2 sez 9 s N-7</desc></programme>
+<programme start="20250919212500 +0000" stop="20250919222000 +0000" channel="TV8.lt"><title>Motinos širdis</title><desc>Turkija Drama, Melodrama, Telenovelė2 sez 11 s N-7</desc></programme>
+<programme start="20250919222000 +0000" stop="20250920013500 +0000" channel="TV8.lt"><title>TV pagalba</title><desc>Turkija Drama, Melodrama, Telenovelė3 sez 50 s N-7</desc></programme>
+<programme start="20250920013500 +0000" stop="20250920032500 +0000" channel="TV8.lt"><title>Menų sala</title><desc>JAV Animacinis1 sez 19 s</desc></programme>
+<programme start="20250920032500 +0000" stop="20250920034000 +0000" channel="TV8.lt"><title>Ar žinai, kaip aš tave myliu?</title><desc>JAV Animacinis1 sez 20 s</desc></programme>
+<programme start="20250920034000 +0000" stop="20250920041000 +0000" channel="TV8.lt"><title>Šunyčiai patruliai</title><desc>Kanada, JAV Animacinis, Nuotykių, Komedija8 sez 2 s</desc></programme>
+<programme start="20250920041000 +0000" stop="20250920044000 +0000" channel="TV8.lt"><title>Meškiukai Gamiai</title><desc>JAV Not Specified3 sez 308 s</desc></programme>
+<programme start="20250920044000 +0000" stop="20250920051000 +0000" channel="TV8.lt"><title>Meškiukai Gamiai</title><desc>JAV Not Specified4 sez 401 s</desc></programme>
+<programme start="20250920051000 +0000" stop="20250920080000 +0000" channel="TV8.lt"><title>TV pagalba</title><desc>Turkija Drama75 s N-7</desc></programme>
+<programme start="20250920080000 +0000" stop="20250920090000 +0000" channel="TV8.lt"><title>Sužeista širdis</title><desc>Turkija Drama76 s N-7</desc></programme>
+<programme start="20250920090000 +0000" stop="20250920100000 +0000" channel="TV8.lt"><title>Laisvės svajos</title><desc>Ispanija Drama, Melodrama1 sez 210 s N-7</desc></programme>
+<programme start="20250920100000 +0000" stop="20250920110000 +0000" channel="TV8.lt"><title>Kerštinga meilė</title><desc>Meksika Melodrama, Melodrama106 s N-7</desc></programme>
+<programme start="20250920110000 +0000" stop="20250920123000 +0000" channel="TV8.lt"><title>Mylimieji</title><desc>Korea, Republic of Drama, Istorinis, Melodrama, Karinis1 sez 5 s N-7</desc></programme>
+<programme start="20250920123000 +0000" stop="20250920130000 +0000" channel="TV8.lt"><title>Likimo karuselė</title><desc>Indija Telenovelė, Drama, Melodrama, Komedija2691 sez 2837 s N-7</desc></programme>
+<programme start="20250920130000 +0000" stop="20250920133000 +0000" channel="TV8.lt"><title>Lemties vingiai</title><desc>Indija Telenovelė, Drama, Melodrama1991 sez 2034 s N-7</desc></programme>
+<programme start="20250920133000 +0000" stop="20250920140000 +0000" channel="TV8.lt"><title>Lakšmės likimas</title><desc>Indija Telenovelė, Drama, Melodrama1066 sez 1190 s N-7</desc></programme>
+<programme start="20250920140000 +0000" stop="20250920150000 +0000" channel="TV8.lt"><title>Grei anatomija</title><desc>JAV Apie sveikatą, Drama2 sez 25 s N-7</desc></programme>
+<programme start="20250920150000 +0000" stop="20250920160000 +0000" channel="TV8.lt"><title>Motinos širdis</title><desc>Turkija Drama, Melodrama, Telenovelė2 sez 10 s N-7</desc></programme>
+<programme start="20250920160000 +0000" stop="20250920170000 +0000" channel="TV8.lt"><title>Motinos širdis</title><desc>Turkija Drama, Melodrama, Telenovelė2 sez 11 s N-7</desc></programme>
+<programme start="20250920170000 +0000" stop="20250920173000 +0000" channel="TV8.lt"><title>Nauji Mikės Pūkuotuko nuotykiai</title><desc>Filipinai, Didžioji Britanija, Kanada, Australija, Japonija, Tailandas, JAV, Taivanas, Prancūzija Animacinis, Nuotykių, Komedija, Visai šeimai, Fantastinis, Miuziklas, Mistinis1 sez 5 s</desc></programme>
+<programme start="20250920173000 +0000" stop="20250920180000 +0000" channel="TV8.lt"><title>Ančiukų istorijos</title><desc>JAV Animacinis, Nuotykių2 sez 290 s</desc></programme>
+<programme start="20250920180000 +0000" stop="20250920202000 +0000" channel="TV8.lt"><title>Be šansų</title><desc>Kanada, Kolumbija, JAV Komedija, Melodrama, Nuotykių, Alexander Skarsgård, Randall Park. N-14</desc></programme>
+<programme start="20250920202000 +0000" stop="20250920220000 +0000" channel="TV8.lt"><title>Motinos širdis</title><desc>Turkija Drama, Melodrama, Telenovelė2 sez 10 s N-7</desc></programme>
 </tv>

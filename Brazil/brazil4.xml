@@ -155,14 +155,6 @@
 <channel id="WARNER.br"><display-name>WARNER.br</display-name></channel>
 <channel id="WOOHOO.br"><display-name>WOOHOO.br</display-name></channel>
 <channel id="XSPORTS.br"><display-name>XSPORTS.br</display-name></channel>
-<programme start="20250919220000 +0000" stop="20250920020000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919220000 +0000" stop="20250920020000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920020000 +0000" stop="20250920060000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920060000 +0000" stop="20250920100000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920100000 +0000" stop="20250920140000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920140000 +0000" stop="20250920180000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920180000 +0000" stop="20250919220000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920180000 +0000" stop="20250919220000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920220000 +0000" stop="20250921020000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920220000 +0000" stop="20250921020000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921020000 +0000" stop="20250921060000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
@@ -174,31 +166,18 @@
 <programme start="20250921220000 +0000" stop="20250922020000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921220000 +0000" stop="20250922020000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250922020000 +0000" stop="20250922060000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919225500 +0000" stop="20250920000000 +0000" channel="RECORD.br"><title>Jornal da Record</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920000000 +0000" stop="20250920010000 +0000" channel="RECORD.br"><title>A Vida de Jo</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920010000 +0000" stop="20250920013000 +0000" channel="RECORD.br"><title>Reis</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920013000 +0000" stop="20250920020000 +0000" channel="RECORD.br"><title>A Fazenda</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920020000 +0000" stop="20250920033000 +0000" channel="RECORD.br"><title>Quilos Mortais</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920033000 +0000" stop="20250920034500 +0000" channel="RECORD.br"><title>Jornal da Record - 24h</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920034500 +0000" stop="20250920050000 +0000" channel="RECORD.br"><title>Fala que Eu te Escuto</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920050000 +0000" stop="20250920060000 +0000" channel="RECORD.br"><title>Inteligencia e Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920060000 +0000" stop="20250920070000 +0000" channel="RECORD.br"><title>Palavra Amiga</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920070000 +0000" stop="20250920073000 +0000" channel="RECORD.br"><title>Vício Tem Cura</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920073000 +0000" stop="20250920081000 +0000" channel="RECORD.br"><title>Nosso Tempo</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920081000 +0000" stop="20250920084000 +0000" channel="RECORD.br"><title>Prosperidade com Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920084000 +0000" stop="20250920093000 +0000" channel="RECORD.br"><title>Corrente dos 70</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920093000 +0000" stop="20250920100000 +0000" channel="RECORD.br"><title>Nosso Tempo</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920100000 +0000" stop="20250920103500 +0000" channel="RECORD.br"><title>Brasil Caminhoneiro</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920103500 +0000" stop="20250920150000 +0000" channel="RECORD.br"><title>Fala Brasil - Ediçao de Sábado</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920150000 +0000" stop="20250920160000 +0000" channel="RECORD.br"><title>The Love School - Escola do Amor</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920160000 +0000" stop="20250920180000 +0000" channel="RECORD.br"><title>Balanço Geral - Ediçao de Sábado</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920180000 +0000" stop="20250920200000 +0000" channel="RECORD.br"><title>Cine Aventura</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920200000 +0000" stop="20250919224500 +0000" channel="RECORD.br"><title>Cidade Alerta - Ediçao de Sábado</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920215000 +0000" stop="20250919225500 +0000" channel="RECORD.br"><title>Cidade Alerta</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922060000 +0000" stop="20250922100000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922100000 +0000" stop="20250922140000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922140000 +0000" stop="20250922180000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922180000 +0000" stop="20250921220000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922180000 +0000" stop="20250921220000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922220000 +0000" stop="20250923020000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922220000 +0000" stop="20250923020000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923020000 +0000" stop="20250923060000 +0000" channel="RBTV.br"><title>Programaçao RBTV</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920224500 +0000" stop="20250921000000 +0000" channel="RECORD.br"><title>Jornal da Record - Ediçao de Sábado</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921000000 +0000" stop="20250921013000 +0000" channel="RECORD.br"><title>Cidade Alerta - Ediçao de Sábado</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921013000 +0000" stop="20250921021500 +0000" channel="RECORD.br"><title>A Fazenda</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250921021500 +0000" stop="20250921040000 +0000" channel="RECORD.br"><title>Super Tela</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250921021500 +0000" stop="20250921040000 +0000" channel="RECORD.br"><title>Assalto ao Poder</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921040000 +0000" stop="20250921050000 +0000" channel="RECORD.br"><title>Fala que Eu te Escuto</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921050000 +0000" stop="20250921060000 +0000" channel="RECORD.br"><title>Palavra Amiga</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921060000 +0000" stop="20250921064000 +0000" channel="RECORD.br"><title>Vigília da Alma</title><desc>Nenhuma descriçao disponível.</desc></programme>
@@ -220,44 +199,32 @@
 <programme start="20250921232000 +0000" stop="20250922013000 +0000" channel="RECORD.br"><title>Cruzeiro x Bragantino - Campeonato Brasileiro : Cruzeiro x Bragantino</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250922013000 +0000" stop="20250922021500 +0000" channel="RECORD.br"><title>A Fazenda</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250922021500 +0000" stop="20250922031500 +0000" channel="RECORD.br"><title>Esporte Record</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919220000 +0000" stop="20250919221000 +0000" channel="REDE SÉCULO 21.br"><title>Meu Senhor e Meu Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919220000 +0000" stop="20250919221000 +0000" channel="REDE SÉCULO 21.br"><title>Meu Senhor e Meu Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919221000 +0000" stop="20250919221500 +0000" channel="REDE SÉCULO 21.br"><title>Igreja Militante</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919221500 +0000" stop="20250919223000 +0000" channel="REDE SÉCULO 21.br"><title>Conselhos e Oraçao</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919223000 +0000" stop="20250920000000 +0000" channel="REDE SÉCULO 21.br"><title>Santa Missa</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920000000 +0000" stop="20250920001000 +0000" channel="REDE SÉCULO 21.br"><title>No Coraçao de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920001000 +0000" stop="20250920002000 +0000" channel="REDE SÉCULO 21.br"><title>Igreja Militante</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920002000 +0000" stop="20250920010000 +0000" channel="REDE SÉCULO 21.br"><title>Terço das Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920010000 +0000" stop="20250920024500 +0000" channel="REDE SÉCULO 21.br"><title>Madrugada de Bençaos</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920024500 +0000" stop="20250920030000 +0000" channel="REDE SÉCULO 21.br"><title>Novena Perpetua das Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920030000 +0000" stop="20250920041500 +0000" channel="REDE SÉCULO 21.br"><title>Voce Pode Ser Feliz</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920041500 +0000" stop="20250920053000 +0000" channel="REDE SÉCULO 21.br"><title>Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920053000 +0000" stop="20250920063000 +0000" channel="REDE SÉCULO 21.br"><title>Palavras que Nao Passam</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920063000 +0000" stop="20250920070000 +0000" channel="REDE SÉCULO 21.br"><title>Tesouros da Alma</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920070000 +0000" stop="20250920093000 +0000" channel="REDE SÉCULO 21.br"><title>Santo Rosário</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920093000 +0000" stop="20250920100000 +0000" channel="REDE SÉCULO 21.br"><title>Interesse Público</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920100000 +0000" stop="20250920103000 +0000" channel="REDE SÉCULO 21.br"><title>Tesouros da Alma</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920103000 +0000" stop="20250920111500 +0000" channel="REDE SÉCULO 21.br"><title>Santa Missa</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920111500 +0000" stop="20250920112000 +0000" channel="REDE SÉCULO 21.br"><title>Santo do Dia</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920112000 +0000" stop="20250920113500 +0000" channel="REDE SÉCULO 21.br"><title>Novena Perpetua das Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920113500 +0000" stop="20250920115000 +0000" channel="REDE SÉCULO 21.br"><title>Shopping Catolico</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920115000 +0000" stop="20250920130000 +0000" channel="REDE SÉCULO 21.br"><title>Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920130000 +0000" stop="20250920130500 +0000" channel="REDE SÉCULO 21.br"><title>Igreja Militante</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920130500 +0000" stop="20250920131000 +0000" channel="REDE SÉCULO 21.br"><title>Conselhos e Oraçao</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920131000 +0000" stop="20250920131500 +0000" channel="REDE SÉCULO 21.br"><title>A Alma Canta</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920131500 +0000" stop="20250920143000 +0000" channel="REDE SÉCULO 21.br"><title>Voce Pode Ser Feliz</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920143000 +0000" stop="20250920144500 +0000" channel="REDE SÉCULO 21.br"><title>Shopping Catolico</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920144500 +0000" stop="20250920153000 +0000" channel="REDE SÉCULO 21.br"><title>Seculo News</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920153000 +0000" stop="20250920160000 +0000" channel="REDE SÉCULO 21.br"><title>Brasil Cristao Criança</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920160000 +0000" stop="20250920163000 +0000" channel="REDE SÉCULO 21.br"><title>Shopping Catolico</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920163000 +0000" stop="20250920173000 +0000" channel="REDE SÉCULO 21.br"><title>Boa Tarde Socio</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920173000 +0000" stop="20250920183000 +0000" channel="REDE SÉCULO 21.br"><title>Terço da Misericordia</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920183000 +0000" stop="20250920200000 +0000" channel="REDE SÉCULO 21.br"><title>Mulher.com</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920200000 +0000" stop="20250920203000 +0000" channel="REDE SÉCULO 21.br"><title>Brasil Cristao Criança</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920203000 +0000" stop="20250920204500 +0000" channel="REDE SÉCULO 21.br"><title>Shopping Catolico</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920204500 +0000" stop="20250920210000 +0000" channel="REDE SÉCULO 21.br"><title>Novena Perpetua das Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920210000 +0000" stop="20250919220000 +0000" channel="REDE SÉCULO 21.br"><title>Terço dos Homens</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920215000 +0000" stop="20250919220000 +0000" channel="REDE SÉCULO 21.br"><title>A Alma Canta</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922031500 +0000" stop="20250922040000 +0000" channel="RECORD.br"><title>Chicago Med - Atendimento de Emergencia : T10 EP17 - O Livro de Archer</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922040000 +0000" stop="20250922051000 +0000" channel="RECORD.br"><title>Prosperidade com Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922051000 +0000" stop="20250922054500 +0000" channel="RECORD.br"><title>Prosperidade com Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922054500 +0000" stop="20250922063000 +0000" channel="RECORD.br"><title>Saindo da Crise</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922063000 +0000" stop="20250922070000 +0000" channel="RECORD.br"><title>Corrente dos 70</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922070000 +0000" stop="20250922080000 +0000" channel="RECORD.br"><title>Prosperidade com Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922080000 +0000" stop="20250922100000 +0000" channel="RECORD.br"><title>Balanço Geral Manha</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922100000 +0000" stop="20250922100500 +0000" channel="RECORD.br"><title>Jornal da Record - 24h</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922100500 +0000" stop="20250922103000 +0000" channel="RECORD.br"><title>Balanço Geral Manha</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922103000 +0000" stop="20250922113000 +0000" channel="RECORD.br"><title>Balanço Geral SP Manha</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922113000 +0000" stop="20250922123500 +0000" channel="RECORD.br"><title>Fala Brasil</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922123500 +0000" stop="20250922140000 +0000" channel="RECORD.br"><title>Hoje em Dia</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922140000 +0000" stop="20250922183000 +0000" channel="RECORD.br"><title>Balanço Geral</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922183000 +0000" stop="20250922193000 +0000" channel="RECORD.br"><title>A Escrava Isaura</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922193000 +0000" stop="20250922201000 +0000" channel="RECORD.br"><title>Cidade Alerta</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922201000 +0000" stop="20250922201500 +0000" channel="RECORD.br"><title>Jornal da Record - 24h</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922201500 +0000" stop="20250922204000 +0000" channel="RECORD.br"><title>Cidade Alerta</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922204000 +0000" stop="20250922204500 +0000" channel="RECORD.br"><title>Jornal da Record - 24h</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922204500 +0000" stop="20250922210000 +0000" channel="RECORD.br"><title>Cidade Alerta</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922210000 +0000" stop="20250921230000 +0000" channel="RECORD.br"><title>Domingo Espetacular</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922210000 +0000" stop="20250922215000 +0000" channel="RECORD.br"><title>Cidade Alerta</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922215000 +0000" stop="20250921225500 +0000" channel="RECORD.br"><title>Cidade Alerta</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922225500 +0000" stop="20250923000000 +0000" channel="RECORD.br"><title>Jornal da Record</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923000000 +0000" stop="20250923010000 +0000" channel="RECORD.br"><title>A Vida de Jo</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923010000 +0000" stop="20250923013000 +0000" channel="RECORD.br"><title>Reis</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923013000 +0000" stop="20250923024500 +0000" channel="RECORD.br"><title>A Fazenda</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920220000 +0000" stop="20250920221000 +0000" channel="REDE SÉCULO 21.br"><title>Meu Senhor e Meu Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920220000 +0000" stop="20250920230000 +0000" channel="REDE SÉCULO 21.br"><title>Ecclesia</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920221000 +0000" stop="20250920221500 +0000" channel="REDE SÉCULO 21.br"><title>Igreja Militante</title><desc>Nenhuma descriçao disponível.</desc></programme>
@@ -298,32 +265,44 @@
 <programme start="20250922003000 +0000" stop="20250922020000 +0000" channel="REDE SÉCULO 21.br"><title>Terço das Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250922020000 +0000" stop="20250922023000 +0000" channel="REDE SÉCULO 21.br"><title>Anunciamos Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250922023000 +0000" stop="20250922024500 +0000" channel="REDE SÉCULO 21.br"><title>A Voz do Pastor</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920032500 +0000" stop="20250920033000 +0000" channel="RIT.br"><title>Semeando a Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920033000 +0000" stop="20250920050000 +0000" channel="RIT.br"><title>Igreja da Graça no Seu Lar</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920050000 +0000" stop="20250920060000 +0000" channel="RIT.br"><title>Sem Desvio</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920060000 +0000" stop="20250920073000 +0000" channel="RIT.br"><title>Show da Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920073000 +0000" stop="20250920080000 +0000" channel="RIT.br"><title>Especial - Missões</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920080000 +0000" stop="20250920083000 +0000" channel="RIT.br"><title>Sao Paulo na Graça de Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920083000 +0000" stop="20250920090000 +0000" channel="RIT.br"><title>Novela da Vida Real</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920090000 +0000" stop="20250920103000 +0000" channel="RIT.br"><title>Igreja da Graça no Seu Lar</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920103000 +0000" stop="20250920113000 +0000" channel="RIT.br"><title>Show da Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920113000 +0000" stop="20250920120000 +0000" channel="RIT.br"><title>Redaçao RIT</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920120000 +0000" stop="20250920132500 +0000" channel="RIT.br"><title>Show da Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920132500 +0000" stop="20250920133000 +0000" channel="RIT.br"><title>Semeando a Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920133000 +0000" stop="20250920141000 +0000" channel="RIT.br"><title>Mulheres que Vencem</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920141000 +0000" stop="20250920142000 +0000" channel="RIT.br"><title>Redaçao RIT</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920142000 +0000" stop="20250920142500 +0000" channel="RIT.br"><title>Semeando a Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920142500 +0000" stop="20250920150500 +0000" channel="RIT.br"><title>Clip RIT</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920150500 +0000" stop="20250920151500 +0000" channel="RIT.br"><title>Homens que Vencem</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920151500 +0000" stop="20250920152500 +0000" channel="RIT.br"><title>Redaçao RIT</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920152500 +0000" stop="20250920153000 +0000" channel="RIT.br"><title>Semeando a Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920153000 +0000" stop="20250920161500 +0000" channel="RIT.br"><title>A Hora da Graça de Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920161500 +0000" stop="20250920170000 +0000" channel="RIT.br"><title>Fatos em Foco</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920170000 +0000" stop="20250920183000 +0000" channel="RIT.br"><title>Show da Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920183000 +0000" stop="20250920185500 +0000" channel="RIT.br"><title>Curso Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920185500 +0000" stop="20250920191000 +0000" channel="RIT.br"><title>Redaçao RIT</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920191000 +0000" stop="20250920030000 +0000" channel="RIT.br"><title>Semeando a Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920200000 +0000" stop="20250920032500 +0000" channel="RIT.br"><title>Show da Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922024500 +0000" stop="20250922030000 +0000" channel="REDE SÉCULO 21.br"><title>Novena Perpetua das Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922030000 +0000" stop="20250922041500 +0000" channel="REDE SÉCULO 21.br"><title>Voce Pode Ser Feliz</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922041500 +0000" stop="20250922053000 +0000" channel="REDE SÉCULO 21.br"><title>Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922053000 +0000" stop="20250922063000 +0000" channel="REDE SÉCULO 21.br"><title>Palavras que Nao Passam</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922063000 +0000" stop="20250922070000 +0000" channel="REDE SÉCULO 21.br"><title>Tesouros da Alma</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922070000 +0000" stop="20250922093000 +0000" channel="REDE SÉCULO 21.br"><title>Quaresma de Sao Miguel 2025</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922093000 +0000" stop="20250922100000 +0000" channel="REDE SÉCULO 21.br"><title>Luz da Vida</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922100000 +0000" stop="20250922103000 +0000" channel="REDE SÉCULO 21.br"><title>Tesouros da Alma</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922103000 +0000" stop="20250922111500 +0000" channel="REDE SÉCULO 21.br"><title>Santa Missa</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922111500 +0000" stop="20250922112000 +0000" channel="REDE SÉCULO 21.br"><title>Santo do Dia</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922112000 +0000" stop="20250922113500 +0000" channel="REDE SÉCULO 21.br"><title>Novena Perpetua das Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922113500 +0000" stop="20250922115000 +0000" channel="REDE SÉCULO 21.br"><title>Shopping Catolico</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922115000 +0000" stop="20250922130000 +0000" channel="REDE SÉCULO 21.br"><title>Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922130000 +0000" stop="20250922130500 +0000" channel="REDE SÉCULO 21.br"><title>Igreja Militante</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922130500 +0000" stop="20250922131000 +0000" channel="REDE SÉCULO 21.br"><title>Conselhos e Oraçao</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922131000 +0000" stop="20250922131500 +0000" channel="REDE SÉCULO 21.br"><title>A Alma Canta</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922131500 +0000" stop="20250922143000 +0000" channel="REDE SÉCULO 21.br"><title>Voce Pode Ser Feliz</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922143000 +0000" stop="20250922144500 +0000" channel="REDE SÉCULO 21.br"><title>Shopping Catolico</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922144500 +0000" stop="20250922151500 +0000" channel="REDE SÉCULO 21.br"><title>Seculo News</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922151500 +0000" stop="20250922153000 +0000" channel="REDE SÉCULO 21.br"><title>Shopping Catolico</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922153000 +0000" stop="20250922160000 +0000" channel="REDE SÉCULO 21.br"><title>Brasil Cristao Criança</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922160000 +0000" stop="20250922163000 +0000" channel="REDE SÉCULO 21.br"><title>Shopping Catolico</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922163000 +0000" stop="20250922173000 +0000" channel="REDE SÉCULO 21.br"><title>Boa Tarde Socio</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922173000 +0000" stop="20250922183000 +0000" channel="REDE SÉCULO 21.br"><title>Terço da Misericordia</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922183000 +0000" stop="20250922200000 +0000" channel="REDE SÉCULO 21.br"><title>Mulher.com</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922200000 +0000" stop="20250922203000 +0000" channel="REDE SÉCULO 21.br"><title>Brasil Cristao Criança</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922203000 +0000" stop="20250922204500 +0000" channel="REDE SÉCULO 21.br"><title>Shopping Catolico</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922204500 +0000" stop="20250922210000 +0000" channel="REDE SÉCULO 21.br"><title>Novena Perpetua das Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922210000 +0000" stop="20250922213000 +0000" channel="REDE SÉCULO 21.br"><title>Rezando o Santo Terço</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922213000 +0000" stop="20250921220000 +0000" channel="REDE SÉCULO 21.br"><title>Momentos de Adoraçao</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922214500 +0000" stop="20250921220000 +0000" channel="REDE SÉCULO 21.br"><title>Shopping Catolico</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922220000 +0000" stop="20250922221000 +0000" channel="REDE SÉCULO 21.br"><title>Meu Senhor e Meu Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922220000 +0000" stop="20250922221000 +0000" channel="REDE SÉCULO 21.br"><title>Meu Senhor e Meu Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922221000 +0000" stop="20250922221500 +0000" channel="REDE SÉCULO 21.br"><title>Igreja Militante</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922221500 +0000" stop="20250922223000 +0000" channel="REDE SÉCULO 21.br"><title>Shopping Catolico</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922223000 +0000" stop="20250922233000 +0000" channel="REDE SÉCULO 21.br"><title>Força de Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922233000 +0000" stop="20250923010000 +0000" channel="REDE SÉCULO 21.br"><title>Terço das Maos Ensanguentadas de Jesus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923010000 +0000" stop="20250923024500 +0000" channel="REDE SÉCULO 21.br"><title>Madrugada de Bençaos</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921030000 +0000" stop="20250921040000 +0000" channel="RIT.br"><title>Sem Desvio</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921040000 +0000" stop="20250921053000 +0000" channel="RIT.br"><title>Igreja da Graça no Seu Lar</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921053000 +0000" stop="20250921060000 +0000" channel="RIT.br"><title>Olha o que Ele Fez Comigo</title><desc>Nenhuma descriçao disponível.</desc></programme>
@@ -351,21 +330,33 @@
 <programme start="20250921202500 +0000" stop="20250921203500 +0000" channel="RIT.br"><title>Semeando a Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921203500 +0000" stop="20250921043500 +0000" channel="RIT.br"><title>A Hora da Graça de Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921220000 +0000" stop="20250922013000 +0000" channel="RIT.br"><title>SOS da Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919224500 +0000" stop="20250920000000 +0000" channel="SBT.br"><title>SBT Brasil</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920000000 +0000" stop="20250920011500 +0000" channel="SBT.br"><title>As Filhas da Senhora Garcia</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920011500 +0000" stop="20250920021500 +0000" channel="SBT.br"><title>Programa do Ratinho</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920021500 +0000" stop="20250920034500 +0000" channel="SBT.br"><title>Na Selva</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920034500 +0000" stop="20250920044500 +0000" channel="SBT.br"><title>The Noite com Danilo Gentili</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920044500 +0000" stop="20250920051500 +0000" channel="SBT.br"><title>Operaçao Mesquita</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920051500 +0000" stop="20250920060000 +0000" channel="SBT.br"><title>SBT PodNight : PodC Mais</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920060000 +0000" stop="20250920090000 +0000" channel="SBT.br"><title>SBT Notícias</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920090000 +0000" stop="20250920094500 +0000" channel="SBT.br"><title>Luccas Toon</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920094500 +0000" stop="20250920140000 +0000" channel="SBT.br"><title>Sábado Animado</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920140000 +0000" stop="20250920180000 +0000" channel="SBT.br"><title>SBT Notícias - 1ª Ediçao</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920180000 +0000" stop="20250920190000 +0000" channel="SBT.br"><title>Eita Lucas!</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920190000 +0000" stop="20250920210000 +0000" channel="SBT.br"><title>Jequiti Live Show de Ofertas</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920210000 +0000" stop="20250919224500 +0000" channel="SBT.br"><title>Aqui Agora</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920210000 +0000" stop="20250919224500 +0000" channel="SBT.br"><title>SBT Notícias - 2ª Ediçao</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922043500 +0000" stop="20250922103000 +0000" channel="RIT.br"><title>A Hora da Graça de Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922103000 +0000" stop="20250922113100 +0000" channel="RIT.br"><title>Sem Desvio</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922113100 +0000" stop="20250922120000 +0000" channel="RIT.br"><title>Redaçao RIT</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922120000 +0000" stop="20250922120500 +0000" channel="RIT.br"><title>Semeando a Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922120500 +0000" stop="20250922130000 +0000" channel="RIT.br"><title>Zig-Zag Show</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922130000 +0000" stop="20250922131000 +0000" channel="RIT.br"><title>Redaçao RIT</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922131000 +0000" stop="20250922131500 +0000" channel="RIT.br"><title>Semeando a Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922131500 +0000" stop="20250922140000 +0000" channel="RIT.br"><title>Hummm! Saboroso!</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922140000 +0000" stop="20250922141000 +0000" channel="RIT.br"><title>Redaçao RIT</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922141000 +0000" stop="20250922141500 +0000" channel="RIT.br"><title>Semeando a Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922141500 +0000" stop="20250922145000 +0000" channel="RIT.br"><title>Clip RIT</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922145000 +0000" stop="20250922150000 +0000" channel="RIT.br"><title>No Espelho da Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922150000 +0000" stop="20250922160300 +0000" channel="RIT.br"><title>Fala, Amigo</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922160300 +0000" stop="20250922163000 +0000" channel="RIT.br"><title>Redaçao RIT</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922163000 +0000" stop="20250922165000 +0000" channel="RIT.br"><title>Curso Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922165000 +0000" stop="20250922170500 +0000" channel="RIT.br"><title>Redaçao RIT</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922170500 +0000" stop="20250922180000 +0000" channel="RIT.br"><title>Nosso Programa</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922180000 +0000" stop="20250922183500 +0000" channel="RIT.br"><title>Live das 15 Horas</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922183500 +0000" stop="20250922200000 +0000" channel="RIT.br"><title>Consulta ao Doutor</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922200000 +0000" stop="20250922201000 +0000" channel="RIT.br"><title>Redaçao RIT</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922201000 +0000" stop="20250922210000 +0000" channel="RIT.br"><title>SOS da Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922203500 +0000" stop="20250922043500 +0000" channel="RIT.br"><title>A Hora da Graça de Deus</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922210000 +0000" stop="20250921220000 +0000" channel="RIT.br"><title>Show da Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922220000 +0000" stop="20250923013000 +0000" channel="RIT.br"><title>SOS da Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922220000 +0000" stop="20250923013000 +0000" channel="RIT.br"><title>SOS da Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923013000 +0000" stop="20250923023000 +0000" channel="RIT.br"><title>Jornal das 22</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923023000 +0000" stop="20250923023500 +0000" channel="RIT.br"><title>Semeando a Fe</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920220000 +0000" stop="20250921030000 +0000" channel="SBT.br"><title>Programa Silvio Santos com Patrícia Abravanel</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920224500 +0000" stop="20250920234500 +0000" channel="SBT.br"><title>SBT Brasil</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920234500 +0000" stop="20250921011500 +0000" channel="SBT.br"><title>Bake Off Brasil - Mao na Massa : T11 EP7 - Artesanatos do Brasil e Bolo...</title><desc>Nenhuma descriçao disponível.</desc></programme>
@@ -383,53 +374,23 @@
 <programme start="20250921210000 +0000" stop="20250920224500 +0000" channel="SBT.br"><title>SBT Notícias - 2ª Ediçao</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921211500 +0000" stop="20250920220000 +0000" channel="SBT.br"><title>Roda a Roda Jequiti</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921220000 +0000" stop="20250922030000 +0000" channel="SBT.br"><title>Programa Silvio Santos com Patrícia Abravanel</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919220000 +0000" stop="20250919230000 +0000" channel="TV BRASIL.br"><title>Reporter Brasil</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919220000 +0000" stop="20250919223000 +0000" channel="TV BRASIL.br"><title>Reporter Brasil</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919230000 +0000" stop="20250920000000 +0000" channel="TV BRASIL.br"><title>Sangue Oculto</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920000000 +0000" stop="20250920020000 +0000" channel="TV BRASIL.br"><title>Detroit em Rebeliao</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920020000 +0000" stop="20250920023000 +0000" channel="TV BRASIL.br"><title>Mulheres pela Independencia</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920023000 +0000" stop="20250920043000 +0000" channel="TV BRASIL.br"><title>Sem Censura</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920043000 +0000" stop="20250920053000 +0000" channel="TV BRASIL.br"><title>Sangue Oculto</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920053000 +0000" stop="20250920060000 +0000" channel="TV BRASIL.br"><title>Mulheres pela Independencia</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920060000 +0000" stop="20250920080000 +0000" channel="TV BRASIL.br"><title>Detroit em Rebeliao</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920080000 +0000" stop="20250920083000 +0000" channel="TV BRASIL.br"><title>Brasil Visto de Cima : T3 EP10 - Cerrado Brasileiro</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920083000 +0000" stop="20250920090000 +0000" channel="TV BRASIL.br"><title>Brasil Visto de Cima : T4 EP18 - Campinas e Regiao</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920090000 +0000" stop="20250920100000 +0000" channel="TV BRASIL.br"><title>Vale Agrícola</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920100000 +0000" stop="20250920100800 +0000" channel="TV BRASIL.br"><title>Tuiga : T1 EP6 - Mamae</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920100800 +0000" stop="20250920101600 +0000" channel="TV BRASIL.br"><title>Zoopedia : Bicho-Preguiça</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920101600 +0000" stop="20250920102900 +0000" channel="TV BRASIL.br"><title>Galinha Pintadinha Mini : T1 EP12 - Caixas Malucas</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920102900 +0000" stop="20250920104100 +0000" channel="TV BRASIL.br"><title>Do Re Mi da Sol</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920104100 +0000" stop="20250920105300 +0000" channel="TV BRASIL.br"><title>Missao 347</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920105300 +0000" stop="20250920110800 +0000" channel="TV BRASIL.br"><title>Gildo</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920110800 +0000" stop="20250920112200 +0000" channel="TV BRASIL.br"><title>Thiago And Isis e os Segredos do Brasil : O Calango Voador</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920112200 +0000" stop="20250920113500 +0000" channel="TV BRASIL.br"><title>Pequenos Mestres : Frevo</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920113500 +0000" stop="20250920114300 +0000" channel="TV BRASIL.br"><title>As Microaventuras de Tito e Muda : A Festa do Pijama</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920114300 +0000" stop="20250920115500 +0000" channel="TV BRASIL.br"><title>As Novas Missões do Peixonauta : T2 EP29 - O Caso da Marina Conectada</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920115500 +0000" stop="20250920120700 +0000" channel="TV BRASIL.br"><title>Pedrinho e a Chuteira da Sorte : T1 - O Filme de Palhaço Mais Assustador do...</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920120700 +0000" stop="20250920123800 +0000" channel="TV BRASIL.br"><title>Manual de Sobrevivencia da Literatura Brasileira : T1 EP2 - Memorias de um Sargento de Milícias</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920123800 +0000" stop="20250920125300 +0000" channel="TV BRASIL.br"><title>O Extraordinário Circo do Bipo : Equilíbrio</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920125300 +0000" stop="20250920130500 +0000" channel="TV BRASIL.br"><title>Tuca, o Mestre Cuca : T1 EP17 - As Cartas da Vo Maga</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920130500 +0000" stop="20250920131900 +0000" channel="TV BRASIL.br"><title>Passado da Hora</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920131900 +0000" stop="20250920134700 +0000" channel="TV BRASIL.br"><title>O Cerrado e Outros Bichos</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920134700 +0000" stop="20250920140100 +0000" channel="TV BRASIL.br"><title>Meu AmigaoZao : Fiz Besteira</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920140100 +0000" stop="20250920141500 +0000" channel="TV BRASIL.br"><title>Meu AmigaoZao : T1 - Chá de Bonecas</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920141500 +0000" stop="20250920142700 +0000" channel="TV BRASIL.br"><title>O Show da Luna! : T4 EP2 - A Língua dos Golfinhos</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920142700 +0000" stop="20250920143900 +0000" channel="TV BRASIL.br"><title>O Show da Luna! : T5 EP11 - Parados no Ar</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920143900 +0000" stop="20250920145100 +0000" channel="TV BRASIL.br"><title>O Show da Luna!</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920145100 +0000" stop="20250920150400 +0000" channel="TV BRASIL.br"><title>Historietas Assombradas : T1 EP9 - Como Pepe Arruinou o Natal</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920150400 +0000" stop="20250920151700 +0000" channel="TV BRASIL.br"><title>Historietas Assombradas : T1 EP10 - Sergio</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920151700 +0000" stop="20250920153000 +0000" channel="TV BRASIL.br"><title>Boris e Rufus : T2 EP8 - Guerra Espacial</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920153000 +0000" stop="20250920160000 +0000" channel="TV BRASIL.br"><title>Chefs do Brasil</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920160000 +0000" stop="20250920163000 +0000" channel="TV BRASIL.br"><title>Xodo de Cozinha</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920163000 +0000" stop="20250920170000 +0000" channel="TV BRASIL.br"><title>Restauro - A Memoria da Arte</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920170000 +0000" stop="20250920173000 +0000" channel="TV BRASIL.br"><title>Brasil Visto de Cima : T3 EP11 - Serra da Canastra</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920173000 +0000" stop="20250920180000 +0000" channel="TV BRASIL.br"><title>Tempo da Terra</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920180000 +0000" stop="20250920183000 +0000" channel="TV BRASIL.br"><title>Meu Pedaço do Brasil : Teresina</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920183000 +0000" stop="20250920190000 +0000" channel="TV BRASIL.br"><title>Expedições : Torres de Bonsucesso</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920190000 +0000" stop="20250920210000 +0000" channel="TV BRASIL.br"><title>O Quatrilho</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920210000 +0000" stop="20250920213000 +0000" channel="TV BRASIL.br"><title>Brasil Visto de Cima : T4 EP19 - Sul do Estado de Sao Paulo</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920213000 +0000" stop="20250919220000 +0000" channel="TV BRASIL.br"><title>Stadium</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920213000 +0000" stop="20250919220000 +0000" channel="TV BRASIL.br"><title>Energia no Brasil</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922030000 +0000" stop="20250922040000 +0000" channel="SBT.br"><title>The Chosen - Os Escolhidos</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922040000 +0000" stop="20250922074500 +0000" channel="SBT.br"><title>SBT Notícias</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922074500 +0000" stop="20250922113000 +0000" channel="SBT.br"><title>SBT Manha</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922113000 +0000" stop="20250922123000 +0000" channel="SBT.br"><title>Bom Dia And Cia com Patati Patatá</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922123000 +0000" stop="20250922140000 +0000" channel="SBT.br"><title>Primeiro Impacto</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922140000 +0000" stop="20250922170000 +0000" channel="SBT.br"><title>Alô Voce!</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922170000 +0000" stop="20250922174500 +0000" channel="SBT.br"><title>Maria do Bairro</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922174500 +0000" stop="20250922183000 +0000" channel="SBT.br"><title>Rubi</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922183000 +0000" stop="20250922194500 +0000" channel="SBT.br"><title>Fofocalizando</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922194500 +0000" stop="20250922203000 +0000" channel="SBT.br"><title>Casos de Família</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922203000 +0000" stop="20250922213000 +0000" channel="SBT.br"><title>Aqui Agora</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922211500 +0000" stop="20250921220000 +0000" channel="SBT.br"><title>Roda a Roda Jequiti</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922213000 +0000" stop="20250921224500 +0000" channel="SBT.br"><title>Coraçao Indomável</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922224500 +0000" stop="20250923000000 +0000" channel="SBT.br"><title>SBT Brasil</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923000000 +0000" stop="20250923011500 +0000" channel="SBT.br"><title>As Filhas da Senhora Garcia</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923011500 +0000" stop="20250923021500 +0000" channel="SBT.br"><title>Programa do Ratinho</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923021500 +0000" stop="20250923031500 +0000" channel="SBT.br"><title>No Alvo</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920220000 +0000" stop="20250920223000 +0000" channel="TV BRASIL.br"><title>Reporter Brasil</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920220000 +0000" stop="20250920223000 +0000" channel="TV BRASIL.br"><title>Fronteiras</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920223000 +0000" stop="20250920230000 +0000" channel="TV BRASIL.br"><title>Amor Veríssimo</title><desc>Nenhuma descriçao disponível.</desc></programme>
@@ -467,51 +428,56 @@
 <programme start="20250921233000 +0000" stop="20250922003000 +0000" channel="TV BRASIL.br"><title>Brasil Esporte</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250922003000 +0000" stop="20250922023000 +0000" channel="TV BRASIL.br"><title>Capitaes da Areia</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250922023000 +0000" stop="20250922040000 +0000" channel="TV BRASIL.br"><title>Rale</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919220000 +0000" stop="20250919223000 +0000" channel="TV NOVO TEMPO.br"><title>Amigos e Irmaos</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250919230000 +0000" stop="20250920000000 +0000" channel="TV NOVO TEMPO.br"><title>Apocalipse - O Fim Já Começou</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920000000 +0000" stop="20250920010000 +0000" channel="TV NOVO TEMPO.br"><title>Lições da Bíblia</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920010000 +0000" stop="20250920013000 +0000" channel="TV NOVO TEMPO.br"><title>A Mensagem por Elas</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920013000 +0000" stop="20250920020000 +0000" channel="TV NOVO TEMPO.br"><title>Retratos</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920020000 +0000" stop="20250920023000 +0000" channel="TV NOVO TEMPO.br"><title>Lugar de Paz</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920023000 +0000" stop="20250920030000 +0000" channel="TV NOVO TEMPO.br"><title>Reavivados por Sua Palavra</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920030000 +0000" stop="20250920033000 +0000" channel="TV NOVO TEMPO.br"><title>Viva uma Experiencia Real</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920033000 +0000" stop="20250920040000 +0000" channel="TV NOVO TEMPO.br"><title>Fe para Hoje</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920040000 +0000" stop="20250920043000 +0000" channel="TV NOVO TEMPO.br"><title>A Voz da Profecia</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920043000 +0000" stop="20250920050000 +0000" channel="TV NOVO TEMPO.br"><title>Escola Bíblica</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920050000 +0000" stop="20250920053000 +0000" channel="TV NOVO TEMPO.br"><title>Na Mira da Verdade</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920053000 +0000" stop="20250920060000 +0000" channel="TV NOVO TEMPO.br"><title>Evidencias</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920060000 +0000" stop="20250920063000 +0000" channel="TV NOVO TEMPO.br"><title>Reavivados por Sua Palavra</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920063000 +0000" stop="20250920070000 +0000" channel="TV NOVO TEMPO.br"><title>Evidencias</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920070000 +0000" stop="20250920073000 +0000" channel="TV NOVO TEMPO.br"><title>Arena do Futuro</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920073000 +0000" stop="20250920080000 +0000" channel="TV NOVO TEMPO.br"><title>A Mensagem por Elas</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920080000 +0000" stop="20250920083000 +0000" channel="TV NOVO TEMPO.br"><title>Consultorio de Família</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920083000 +0000" stop="20250920090000 +0000" channel="TV NOVO TEMPO.br"><title>Lugar de Paz</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920090000 +0000" stop="20250920093000 +0000" channel="TV NOVO TEMPO.br"><title>Reavivados por Sua Palavra</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920093000 +0000" stop="20250920100000 +0000" channel="TV NOVO TEMPO.br"><title>Lições da Bíblia</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920100000 +0000" stop="20250920103000 +0000" channel="TV NOVO TEMPO.br"><title>Está Escrito</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920103000 +0000" stop="20250920110000 +0000" channel="TV NOVO TEMPO.br"><title>NT Kids</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920110000 +0000" stop="20250920113000 +0000" channel="TV NOVO TEMPO.br"><title>Historias da Tia Ceceu</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920113000 +0000" stop="20250920120000 +0000" channel="TV NOVO TEMPO.br"><title>Fe para Hoje</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920120000 +0000" stop="20250920123000 +0000" channel="TV NOVO TEMPO.br"><title>Adoraçao : T25 EP76 - Especial</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920123000 +0000" stop="20250920130000 +0000" channel="TV NOVO TEMPO.br"><title>Origens</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920130000 +0000" stop="20250920133000 +0000" channel="TV NOVO TEMPO.br"><title>Está Escrito</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920133000 +0000" stop="20250920140000 +0000" channel="TV NOVO TEMPO.br"><title>Fe em Açao</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920140000 +0000" stop="20250920150000 +0000" channel="TV NOVO TEMPO.br"><title>Adoraçao : T25 EP34 - Especial</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920150000 +0000" stop="20250920153000 +0000" channel="TV NOVO TEMPO.br"><title>Caixa de Música</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920153000 +0000" stop="20250920160000 +0000" channel="TV NOVO TEMPO.br"><title>Bom de Bíblia</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920160000 +0000" stop="20250920163000 +0000" channel="TV NOVO TEMPO.br"><title>A Voz da Profecia</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920163000 +0000" stop="20250920170000 +0000" channel="TV NOVO TEMPO.br"><title>Super Lupa</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920170000 +0000" stop="20250920173000 +0000" channel="TV NOVO TEMPO.br"><title>Evidencias</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920173000 +0000" stop="20250920183000 +0000" channel="TV NOVO TEMPO.br"><title>Bíblia Fácil</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920183000 +0000" stop="20250920190000 +0000" channel="TV NOVO TEMPO.br"><title>Consultorio de Família</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920190000 +0000" stop="20250920193000 +0000" channel="TV NOVO TEMPO.br"><title>Vida e Saúde</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920193000 +0000" stop="20250920200000 +0000" channel="TV NOVO TEMPO.br"><title>Retratos</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920200000 +0000" stop="20250920203000 +0000" channel="TV NOVO TEMPO.br"><title>Origens</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920203000 +0000" stop="20250920210000 +0000" channel="TV NOVO TEMPO.br"><title>Na Mira da Verdade</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920210000 +0000" stop="20250920213000 +0000" channel="TV NOVO TEMPO.br"><title>Feliz Sábado</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920213000 +0000" stop="20250920214500 +0000" channel="TV NOVO TEMPO.br"><title>ANN - Adventist News Network</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920214500 +0000" stop="20250919230000 +0000" channel="TV NOVO TEMPO.br"><title>Revista Novo Tempo : T25 - Especial</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250920214500 +0000" stop="20250919220000 +0000" channel="TV NOVO TEMPO.br"><title>Revista Novo Tempo : T25 - Especial</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922040000 +0000" stop="20250922050000 +0000" channel="TV BRASIL.br"><title>Nas Ondas dos Lençois</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922050000 +0000" stop="20250922053000 +0000" channel="TV BRASIL.br"><title>Ayrton - Retratos e Memorias : Um Certo da Silva</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922053000 +0000" stop="20250922060000 +0000" channel="TV BRASIL.br"><title>Brasil e Alemanha: 200 Anos de Historia</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922060000 +0000" stop="20250922070000 +0000" channel="TV BRASIL.br"><title>Carbon Free</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922070000 +0000" stop="20250922073000 +0000" channel="TV BRASIL.br"><title>Fronteiras</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922073000 +0000" stop="20250922080000 +0000" channel="TV BRASIL.br"><title>Farois do Brasil : Farol da Ilha de Cabo Frio</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922080000 +0000" stop="20250922083000 +0000" channel="TV BRASIL.br"><title>Brasil Visto de Cima : T3 EP12 - Serra da Canastra</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922083000 +0000" stop="20250922090000 +0000" channel="TV BRASIL.br"><title>Brasil Visto de Cima : T4 EP20 - Bauru e Regiao</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922090000 +0000" stop="20250922100000 +0000" channel="TV BRASIL.br"><title>Agro Amazonas</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922100000 +0000" stop="20250922100800 +0000" channel="TV BRASIL.br"><title>Tuiga : T1 EP7 - Emoçao</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922100800 +0000" stop="20250922101600 +0000" channel="TV BRASIL.br"><title>Zoopedia : Vespa</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922101600 +0000" stop="20250922102900 +0000" channel="TV BRASIL.br"><title>Galinha Pintadinha Mini : T1 EP13 - Passeio de Barco</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922102900 +0000" stop="20250922104100 +0000" channel="TV BRASIL.br"><title>Do Re Mi da Sol</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922104100 +0000" stop="20250922105300 +0000" channel="TV BRASIL.br"><title>Missao 347</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922105300 +0000" stop="20250922110800 +0000" channel="TV BRASIL.br"><title>Gildo : Fazendo Cinema</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922110800 +0000" stop="20250922112200 +0000" channel="TV BRASIL.br"><title>Thiago And Isis e os Segredos do Brasil : Sussas e Curraleiras Kalungas</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922112200 +0000" stop="20250922113500 +0000" channel="TV BRASIL.br"><title>Pequenos Mestres : Máscaras</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922113500 +0000" stop="20250922114300 +0000" channel="TV BRASIL.br"><title>As Microaventuras de Tito e Muda : A Lanterninha da Lupa</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922114300 +0000" stop="20250922115500 +0000" channel="TV BRASIL.br"><title>As Novas Missões do Peixonauta : T2 EP35 - O Caso do ZZZ</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922115500 +0000" stop="20250922120700 +0000" channel="TV BRASIL.br"><title>Pedrinho e a Chuteira da Sorte : T1 EP1 - Tremendao x Ferrim</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922120700 +0000" stop="20250922123800 +0000" channel="TV BRASIL.br"><title>Manual de Sobrevivencia da Literatura Brasileira : T1 EP3 - Memorias Postumas de Brás Cubas</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922123800 +0000" stop="20250922125300 +0000" channel="TV BRASIL.br"><title>O Extraordinário Circo do Bipo : Um Grande Show</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922125300 +0000" stop="20250922130500 +0000" channel="TV BRASIL.br"><title>Tuca, o Mestre Cuca : T1 EP18 - Uma Visita Surpresa</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922130500 +0000" stop="20250922131900 +0000" channel="TV BRASIL.br"><title>Passado da Hora</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922131900 +0000" stop="20250922134700 +0000" channel="TV BRASIL.br"><title>O Cerrado e Outros Bichos</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922134700 +0000" stop="20250922140100 +0000" channel="TV BRASIL.br"><title>Meu AmigaoZao : T1 - O Príncipe e o Dragao</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922140100 +0000" stop="20250922141500 +0000" channel="TV BRASIL.br"><title>Meu AmigaoZao : Mais Alguma Coisa?</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922141500 +0000" stop="20250922142700 +0000" channel="TV BRASIL.br"><title>O Show da Luna! : T4 EP3 - Pirâmides do Passado</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922142700 +0000" stop="20250922143900 +0000" channel="TV BRASIL.br"><title>O Show da Luna! : T5 EP12 - Que Calorao!</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922143900 +0000" stop="20250922145100 +0000" channel="TV BRASIL.br"><title>O Show da Luna!</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922145100 +0000" stop="20250922150400 +0000" channel="TV BRASIL.br"><title>Historietas Assombradas : T1 EP12 - Kumo-Tatchi</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922150400 +0000" stop="20250922151700 +0000" channel="TV BRASIL.br"><title>Historietas Assombradas : T1 EP11 - Nas Montanhas-Russas da Loucura</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922151700 +0000" stop="20250922153000 +0000" channel="TV BRASIL.br"><title>Boris e Rufus : T2 EP2 - Clube da Fofura</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922153000 +0000" stop="20250922154500 +0000" channel="TV BRASIL.br"><title>Stadium</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922154500 +0000" stop="20250922163000 +0000" channel="TV BRASIL.br"><title>Reporter Brasil Tarde</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922163000 +0000" stop="20250922170000 +0000" channel="TV BRASIL.br"><title>Nova Amazônia</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922170000 +0000" stop="20250922173000 +0000" channel="TV BRASIL.br"><title>Brasil Visto de Cima : T3 EP13 - Litoral Sul do Espírito Santo</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922173000 +0000" stop="20250922180000 +0000" channel="TV BRASIL.br"><title>Parques do Brasil : Parque Nacional das Emas</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922180000 +0000" stop="20250922183000 +0000" channel="TV BRASIL.br"><title>Meu Pedaço do Brasil : Bento Gonçalves - RS</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922183000 +0000" stop="20250922190000 +0000" channel="TV BRASIL.br"><title>Expedições : Itaúnas</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922190000 +0000" stop="20250922210000 +0000" channel="TV BRASIL.br"><title>Sem Censura</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922210000 +0000" stop="20250921220000 +0000" channel="TV BRASIL.br"><title>Carbon Free</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922210000 +0000" stop="20250922213000 +0000" channel="TV BRASIL.br"><title>Brasil Visto de Cima : T4 EP21 - Sao Carlos e Regiao</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922213000 +0000" stop="20250921220000 +0000" channel="TV BRASIL.br"><title>Stadium</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922220000 +0000" stop="20250922230000 +0000" channel="TV BRASIL.br"><title>Reporter Brasil</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922220000 +0000" stop="20250922230000 +0000" channel="TV BRASIL.br"><title>Reporter Brasil</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922230000 +0000" stop="20250923000000 +0000" channel="TV BRASIL.br"><title>Sangue Oculto</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923000000 +0000" stop="20250923020000 +0000" channel="TV BRASIL.br"><title>Nao Olhe para Trás</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923020000 +0000" stop="20250923023000 +0000" channel="TV BRASIL.br"><title>Caminhos da Reportagem</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923023000 +0000" stop="20250923043000 +0000" channel="TV BRASIL.br"><title>Sem Censura</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920220000 +0000" stop="20250920223000 +0000" channel="TV NOVO TEMPO.br"><title>Amigos e Irmaos</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920220000 +0000" stop="20250920223000 +0000" channel="TV NOVO TEMPO.br"><title>Amigos e Irmaos</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250920223000 +0000" stop="20250920230000 +0000" channel="TV NOVO TEMPO.br"><title>Experimenta</title><desc>Nenhuma descriçao disponível.</desc></programme>
@@ -520,8 +486,7 @@
 <programme start="20250921000000 +0000" stop="20250921003000 +0000" channel="TV NOVO TEMPO.br"><title>Identidade Geral</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921003000 +0000" stop="20250921010000 +0000" channel="TV NOVO TEMPO.br"><title>Fe em Açao</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921010000 +0000" stop="20250921013000 +0000" channel="TV NOVO TEMPO.br"><title>Trajetos</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250921013000 +0000" stop="20250921020000 +0000" channel="TV NOVO TEMPO.br"><title>Novo Tempo in Concert</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250921020000 +0000" stop="20250921023000 +0000" channel="TV NOVO TEMPO.br"><title>Lugar de Paz</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250921013000 +0000" stop="20250921023000 +0000" channel="TV NOVO TEMPO.br"><title>Novo Tempo in Concert</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921023000 +0000" stop="20250921030000 +0000" channel="TV NOVO TEMPO.br"><title>Reavivados por Sua Palavra</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921030000 +0000" stop="20250921033000 +0000" channel="TV NOVO TEMPO.br"><title>Adoraçao : T25 EP76 - Especial</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921033000 +0000" stop="20250921040000 +0000" channel="TV NOVO TEMPO.br"><title>Arena do Futuro</title><desc>Nenhuma descriçao disponível.</desc></programme>
@@ -556,8 +521,8 @@
 <programme start="20250921200000 +0000" stop="20250921203000 +0000" channel="TV NOVO TEMPO.br"><title>Origens</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921203000 +0000" stop="20250921210000 +0000" channel="TV NOVO TEMPO.br"><title>Retratos</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921210000 +0000" stop="20250921213000 +0000" channel="TV NOVO TEMPO.br"><title>Fe em Açao</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250921213000 +0000" stop="20250920220000 +0000" channel="TV NOVO TEMPO.br"><title>ANN - Adventist News Network</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921213000 +0000" stop="20250920220000 +0000" channel="TV NOVO TEMPO.br"><title>Novo Tempo in Concert</title><desc>Nenhuma descriçao disponível.</desc></programme>
-<programme start="20250921214500 +0000" stop="20250920220000 +0000" channel="TV NOVO TEMPO.br"><title>Revista Novo Tempo : T25 - Especial</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921220000 +0000" stop="20250921223000 +0000" channel="TV NOVO TEMPO.br"><title>Amigos e Irmaos</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921220000 +0000" stop="20250921223000 +0000" channel="TV NOVO TEMPO.br"><title>Revista Novo Tempo</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250921223000 +0000" stop="20250921230000 +0000" channel="TV NOVO TEMPO.br"><title>Origens</title><desc>Nenhuma descriçao disponível.</desc></programme>
@@ -569,4 +534,52 @@
 <programme start="20250922013000 +0000" stop="20250922020000 +0000" channel="TV NOVO TEMPO.br"><title>Viva uma Experiencia Real</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250922020000 +0000" stop="20250922023000 +0000" channel="TV NOVO TEMPO.br"><title>Identidade Geral</title><desc>Nenhuma descriçao disponível.</desc></programme>
 <programme start="20250922023000 +0000" stop="20250922030000 +0000" channel="TV NOVO TEMPO.br"><title>Reavivados por Sua Palavra</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922030000 +0000" stop="20250922033000 +0000" channel="TV NOVO TEMPO.br"><title>Na Mira da Verdade</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922033000 +0000" stop="20250922040000 +0000" channel="TV NOVO TEMPO.br"><title>Arena do Futuro</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922040000 +0000" stop="20250922043000 +0000" channel="TV NOVO TEMPO.br"><title>A Mensagem por Elas</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922043000 +0000" stop="20250922050000 +0000" channel="TV NOVO TEMPO.br"><title>Evidencias</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922050000 +0000" stop="20250922053000 +0000" channel="TV NOVO TEMPO.br"><title>Adoraçao : T25 EP76 - Especial</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922053000 +0000" stop="20250922060000 +0000" channel="TV NOVO TEMPO.br"><title>Arena do Futuro</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922060000 +0000" stop="20250922063000 +0000" channel="TV NOVO TEMPO.br"><title>Reavivados por Sua Palavra</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922063000 +0000" stop="20250922070000 +0000" channel="TV NOVO TEMPO.br"><title>Lugar de Paz</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922070000 +0000" stop="20250922073000 +0000" channel="TV NOVO TEMPO.br"><title>Adoraçao : T25 EP34 - Especial</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922073000 +0000" stop="20250922080000 +0000" channel="TV NOVO TEMPO.br"><title>Retratos</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922080000 +0000" stop="20250922083000 +0000" channel="TV NOVO TEMPO.br"><title>Adoraçao : T25 EP76 - Especial</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922083000 +0000" stop="20250922090000 +0000" channel="TV NOVO TEMPO.br"><title>Lugar de Paz</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922090000 +0000" stop="20250922093000 +0000" channel="TV NOVO TEMPO.br"><title>Reavivados por Sua Palavra</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922093000 +0000" stop="20250922100000 +0000" channel="TV NOVO TEMPO.br"><title>Super Lupa</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922100000 +0000" stop="20250922103000 +0000" channel="TV NOVO TEMPO.br"><title>Retratos</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922103000 +0000" stop="20250922110000 +0000" channel="TV NOVO TEMPO.br"><title>Viva uma Experiencia Real</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922110000 +0000" stop="20250922113000 +0000" channel="TV NOVO TEMPO.br"><title>Evidencias</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922113000 +0000" stop="20250922120000 +0000" channel="TV NOVO TEMPO.br"><title>Vida e Saúde</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922120000 +0000" stop="20250922123000 +0000" channel="TV NOVO TEMPO.br"><title>Está Escrito</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922123000 +0000" stop="20250922130000 +0000" channel="TV NOVO TEMPO.br"><title>Arena do Futuro</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922130000 +0000" stop="20250922140000 +0000" channel="TV NOVO TEMPO.br"><title>Caixa de Música</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922140000 +0000" stop="20250922143000 +0000" channel="TV NOVO TEMPO.br"><title>Arena do Futuro</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922143000 +0000" stop="20250922150000 +0000" channel="TV NOVO TEMPO.br"><title>Adoraçao : T25 EP76 - Especial</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922150000 +0000" stop="20250922153000 +0000" channel="TV NOVO TEMPO.br"><title>Fe em Açao</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922153000 +0000" stop="20250922160000 +0000" channel="TV NOVO TEMPO.br"><title>Origens</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922160000 +0000" stop="20250922163000 +0000" channel="TV NOVO TEMPO.br"><title>Viaje Comigo : T25 EP38 - Marrocos - Cidades Imperiais</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922163000 +0000" stop="20250922170000 +0000" channel="TV NOVO TEMPO.br"><title>Super Lupa</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922170000 +0000" stop="20250922173000 +0000" channel="TV NOVO TEMPO.br"><title>A Mensagem por Elas</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922173000 +0000" stop="20250922180000 +0000" channel="TV NOVO TEMPO.br"><title>Entre Família</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922180000 +0000" stop="20250922183000 +0000" channel="TV NOVO TEMPO.br"><title>Bom de Bíblia</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922183000 +0000" stop="20250922190000 +0000" channel="TV NOVO TEMPO.br"><title>Na Mira da Verdade</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922190000 +0000" stop="20250922193000 +0000" channel="TV NOVO TEMPO.br"><title>Vida e Saúde</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922193000 +0000" stop="20250922203000 +0000" channel="TV NOVO TEMPO.br"><title>Bíblia Fácil</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922203000 +0000" stop="20250922210000 +0000" channel="TV NOVO TEMPO.br"><title>Lugar de Paz</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922210000 +0000" stop="20250922213000 +0000" channel="TV NOVO TEMPO.br"><title>Caixa de Música</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922213000 +0000" stop="20250921220000 +0000" channel="TV NOVO TEMPO.br"><title>Novo Tempo in Concert</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922213000 +0000" stop="20250921220000 +0000" channel="TV NOVO TEMPO.br"><title>Novo Tempo in Concert</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922220000 +0000" stop="20250922223000 +0000" channel="TV NOVO TEMPO.br"><title>Revista Novo Tempo</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922220000 +0000" stop="20250922223000 +0000" channel="TV NOVO TEMPO.br"><title>Revista Novo Tempo</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922223000 +0000" stop="20250922230000 +0000" channel="TV NOVO TEMPO.br"><title>Escola Bíblica</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922230000 +0000" stop="20250922233000 +0000" channel="TV NOVO TEMPO.br"><title>Na Mira da Verdade</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250922233000 +0000" stop="20250923000000 +0000" channel="TV NOVO TEMPO.br"><title>Viaje Comigo : T25 EP38 - Marrocos - Cidades Imperiais</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923000000 +0000" stop="20250923003000 +0000" channel="TV NOVO TEMPO.br"><title>Anjos da Esperança</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923003000 +0000" stop="20250923010000 +0000" channel="TV NOVO TEMPO.br"><title>Bom de Bíblia</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923010000 +0000" stop="20250923013000 +0000" channel="TV NOVO TEMPO.br"><title>Adoraçao : T25 EP78 - Especial</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923013000 +0000" stop="20250923020000 +0000" channel="TV NOVO TEMPO.br"><title>Fe para Hoje</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923020000 +0000" stop="20250923023000 +0000" channel="TV NOVO TEMPO.br"><title>Lugar de Paz</title><desc>Nenhuma descriçao disponível.</desc></programme>
+<programme start="20250923023000 +0000" stop="20250923030000 +0000" channel="TV NOVO TEMPO.br"><title>Reavivados por Sua Palavra</title><desc>Nenhuma descriçao disponível.</desc></programme>
 </tv>

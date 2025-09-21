@@ -172,27 +172,105 @@
 <channel id="VIASAT HISTORY.tr"><display-name>VIASAT HISTORY.tr</display-name></channel>
 <channel id="VIASAT NATURE HD.tr"><display-name>VIASAT NATURE HD.tr</display-name></channel>
 <channel id="W-SPORT.tr"><display-name>W-SPORT.tr</display-name></channel>
-<programme start="20250919210400 +0000" stop="20250919214600 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 17</title></programme>
-<programme start="20250919214600 +0000" stop="20250919221700 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 1</title></programme>
-<programme start="20250919221700 +0000" stop="20250919225800 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 9</title></programme>
-<programme start="20250919225800 +0000" stop="20250919232300 +0000" channel="Moonbug Kids.tr"><title>Origami Yapıyoruz - Bolum 33</title></programme>
-<programme start="20250919232300 +0000" stop="20250919235200 +0000" channel="Moonbug Kids.tr"><title>Origami Yapıyoruz - Bolum 46</title></programme>
-<programme start="20250919235200 +0000" stop="20250920210000 +0000" channel="Moonbug Kids.tr"><title>Oddbods - Lezzetli Yiyecek</title></programme>
-<programme start="20250919224500 +0000" stop="20250919231600 +0000" channel="Sinema Aile.tr"><title>Orman Dostları 1-2-3-5</title></programme>
-<programme start="20250919231600 +0000" stop="20250920000000 +0000" channel="Sinema Aile.tr"><title>Orman Dostları</title></programme>
-<programme start="20250920000000 +0000" stop="20250920014500 +0000" channel="Sinema Aile.tr"><title>Zum: Super Kahraman Akademisi</title></programme>
-<programme start="20250920014500 +0000" stop="20250920033000 +0000" channel="Sinema Aile.tr"><title>Korsanlar!</title></programme>
-<programme start="20250920033000 +0000" stop="20250920051500 +0000" channel="Sinema Aile.tr"><title>Zıp, Zap Ve Buyuk Gizem</title></programme>
-<programme start="20250920051500 +0000" stop="20250920064800 +0000" channel="Sinema Aile.tr"><title>Kahraman Yarışçılar</title></programme>
-<programme start="20250920064800 +0000" stop="20250920070000 +0000" channel="Sinema Aile.tr"><title>Orman Dostları 1</title></programme>
-<programme start="20250920070000 +0000" stop="20250920084500 +0000" channel="Sinema Aile.tr"><title>Niko: Kuzey Işıklarının Ötesinde</title></programme>
-<programme start="20250920084500 +0000" stop="20250920103000 +0000" channel="Sinema Aile.tr"><title>Gıbby</title></programme>
-<programme start="20250920103000 +0000" stop="20250920120000 +0000" channel="Sinema Aile.tr"><title>Kuçuk Kardeşim 2</title></programme>
-<programme start="20250920120000 +0000" stop="20250920134500 +0000" channel="Sinema Aile.tr"><title>Karlar Kraliçesi 4: Sihirli Ayna</title></programme>
-<programme start="20250920134500 +0000" stop="20250920151500 +0000" channel="Sinema Aile.tr"><title>Dev Armudun İnanılmaz Hikayesi</title></programme>
-<programme start="20250920151500 +0000" stop="20250920170000 +0000" channel="Sinema Aile.tr"><title>Tombul Mombul Takımı: Sırt Sırta</title></programme>
-<programme start="20250920170000 +0000" stop="20250920184500 +0000" channel="Sinema Aile.tr"><title>Doğanın Senfonisi</title></programme>
-<programme start="20250920184500 +0000" stop="20250920211500 +0000" channel="Sinema Aile.tr"><title>Karateci Çocuk</title></programme>
+<programme start="20250920212900 +0000" stop="20250920221000 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 15</title></programme>
+<programme start="20250920221000 +0000" stop="20250920225100 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 26</title></programme>
+<programme start="20250920225100 +0000" stop="20250920231500 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 3</title></programme>
+<programme start="20250920231500 +0000" stop="20250920234400 +0000" channel="Moonbug Kids.tr"><title>Origami Yapıyoruz - Bolum 26</title></programme>
+<programme start="20250920234400 +0000" stop="20250921000000 +0000" channel="Moonbug Kids.tr"><title>Origami Yapıyoruz - Bolum 13</title></programme>
+<programme start="20250921000000 +0000" stop="20250921003900 +0000" channel="Moonbug Kids.tr"><title>CoComelon - JJ’in Okuldaki İlk Gunu</title></programme>
+<programme start="20250921003900 +0000" stop="20250921011800 +0000" channel="Moonbug Kids.tr"><title>CoComelon - Okula Donuş: Öğren ve Geliş!</title></programme>
+<programme start="20250921011800 +0000" stop="20250921015100 +0000" channel="Moonbug Kids.tr"><title>Minibods - Oyunbozan orumcek</title></programme>
+<programme start="20250921015100 +0000" stop="20250921022300 +0000" channel="Moonbug Kids.tr"><title>Minibods - Kek Kaosu</title></programme>
+<programme start="20250921022300 +0000" stop="20250921025600 +0000" channel="Moonbug Kids.tr"><title>Morphle - Buyuk Kırmızı Araçlar</title></programme>
+<programme start="20250921025600 +0000" stop="20250921032700 +0000" channel="Moonbug Kids.tr"><title>Morphle - Buyulu Etiket!</title></programme>
+<programme start="20250921032700 +0000" stop="20250921035600 +0000" channel="Moonbug Kids.tr"><title>Antiks - İlkbahar Ateşi</title></programme>
+<programme start="20250921035600 +0000" stop="20250921041600 +0000" channel="Moonbug Kids.tr"><title>Antiks - Hızlı Gıda</title></programme>
+<programme start="20250921041600 +0000" stop="20250921045200 +0000" channel="Moonbug Kids.tr"><title>Little Angel - Okula Donuş: İyi Alışkanlıklar ve Eğlence!</title></programme>
+<programme start="20250921045200 +0000" stop="20250921052700 +0000" channel="Moonbug Kids.tr"><title>Little Angel - Şarkı Soyleme Maceraları</title></programme>
+<programme start="20250921052700 +0000" stop="20250921060300 +0000" channel="Moonbug Kids.tr"><title>CoComelon - Mutluysanız Şarkı Soyleyin</title></programme>
+<programme start="20250921060300 +0000" stop="20250921063100 +0000" channel="Moonbug Kids.tr"><title>CoComelon - JJ İle Lezzetli Yiyecekler!</title></programme>
+<programme start="20250921063100 +0000" stop="20250921071400 +0000" channel="Moonbug Kids.tr"><title>Bilppi - Okula Donuş: Muzede Eğlence!</title></programme>
+<programme start="20250921071400 +0000" stop="20250921075500 +0000" channel="Moonbug Kids.tr"><title>Blippi - Blippi İş Arıyor</title></programme>
+<programme start="20250921075500 +0000" stop="20250921082600 +0000" channel="Moonbug Kids.tr"><title>Blippi - Blippi Vahşi Yaşamı Keşfediyor!</title></programme>
+<programme start="20250921082600 +0000" stop="20250921085300 +0000" channel="Moonbug Kids.tr"><title>Blippi - Okula Hazırlık: Yaratıcı Yol!</title></programme>
+<programme start="20250921085300 +0000" stop="20250921092000 +0000" channel="Moonbug Kids.tr"><title>JJs Animal Time - Hayvan Saatinde Şarkı Soyleyelim</title></programme>
+<programme start="20250921092000 +0000" stop="20250921100100 +0000" channel="Moonbug Kids.tr"><title>CoComelon - JJ İle Birlikte Şarkı Soyleme Zamanı!</title></programme>
+<programme start="20250921100100 +0000" stop="20250921103000 +0000" channel="Moonbug Kids.tr"><title>Go Buster - Busterın bir Dişi Sallanıyor!</title></programme>
+<programme start="20250921103000 +0000" stop="20250921105900 +0000" channel="Moonbug Kids.tr"><title>Go Buster - Buster Annesini Seviyor!</title></programme>
+<programme start="20250921105900 +0000" stop="20250921112700 +0000" channel="Moonbug Kids.tr"><title>Oddbods - Mahalle Baskısı</title></programme>
+<programme start="20250921112700 +0000" stop="20250921120000 +0000" channel="Moonbug Kids.tr"><title>Oddbods - Kuğu Balesi</title></programme>
+<programme start="20250921120000 +0000" stop="20250921123200 +0000" channel="Moonbug Kids.tr"><title>Oddbods - Ben Bubbles</title></programme>
+<programme start="20250921123200 +0000" stop="20250921125700 +0000" channel="Moonbug Kids.tr"><title>Supa Strikas - Kırık Plak</title></programme>
+<programme start="20250921125700 +0000" stop="20250921131700 +0000" channel="Moonbug Kids.tr"><title>Supa Strikas - Klaus Teftişte</title></programme>
+<programme start="20250921131700 +0000" stop="20250921134200 +0000" channel="Moonbug Kids.tr"><title>Supa Strikas - Boyle Hayranlarla</title></programme>
+<programme start="20250921134200 +0000" stop="20250921140900 +0000" channel="Moonbug Kids.tr"><title>Insectibles - Gosteri Devam Etmeli</title></programme>
+<programme start="20250921140900 +0000" stop="20250921143600 +0000" channel="Moonbug Kids.tr"><title>Insectibles - Şapkada Çentik</title></programme>
+<programme start="20250921143600 +0000" stop="20250921151200 +0000" channel="Moonbug Kids.tr"><title>CoComelon - JJ ile Eğlenceli Arabalar!</title></programme>
+<programme start="20250921151200 +0000" stop="20250921154100 +0000" channel="Moonbug Kids.tr"><title>CoComelon - JJ ile Temizleyin ve Hazırlanın</title></programme>
+<programme start="20250921154100 +0000" stop="20250921161100 +0000" channel="Moonbug Kids.tr"><title>Little Angel - Hayır Hayır!</title></programme>
+<programme start="20250921161100 +0000" stop="20250921164600 +0000" channel="Moonbug Kids.tr"><title>Little Angel - Okula Donuş: Meslekler ve gorgu kuralları</title></programme>
+<programme start="20250921164600 +0000" stop="20250921171100 +0000" channel="Moonbug Kids.tr"><title>Minibods - Kar bodu</title></programme>
+<programme start="20250921171100 +0000" stop="20250921174300 +0000" channel="Moonbug Kids.tr"><title>Minibods - Kazanan</title></programme>
+<programme start="20250921174300 +0000" stop="20250921182300 +0000" channel="Moonbug Kids.tr"><title>CoComelon - JJnin Akşam Şarkısı!</title></programme>
+<programme start="20250921182300 +0000" stop="20250921185900 +0000" channel="Moonbug Kids.tr"><title>CoComelon - JJli Yatma Zamanı Şarkıları</title></programme>
+<programme start="20250921185900 +0000" stop="20250921192800 +0000" channel="Moonbug Kids.tr"><title>Little Angel - Akşam Şarkısı!</title></programme>
+<programme start="20250921192800 +0000" stop="20250921195300 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 18</title></programme>
+<programme start="20250921195300 +0000" stop="20250921203300 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 30</title></programme>
+<programme start="20250921203300 +0000" stop="20250921211300 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 32</title></programme>
+<programme start="20250921211300 +0000" stop="20250921215400 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 15</title></programme>
+<programme start="20250921215400 +0000" stop="20250921223300 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 33</title></programme>
+<programme start="20250921223300 +0000" stop="20250921231700 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 13</title></programme>
+<programme start="20250921231700 +0000" stop="20250921234500 +0000" channel="Moonbug Kids.tr"><title>Origami Yapıyoruz - Bolum 31</title></programme>
+<programme start="20250921234500 +0000" stop="20250922000000 +0000" channel="Moonbug Kids.tr"><title>Origami Yapıyoruz - Bolum 36</title></programme>
+<programme start="20250922000000 +0000" stop="20250922003800 +0000" channel="Moonbug Kids.tr"><title>CoComelon - JJ ile Eğlenceli Şarkı Soyleyin!</title></programme>
+<programme start="20250922003800 +0000" stop="20250922012900 +0000" channel="Moonbug Kids.tr"><title>CoComelon - Okula Donuş: Sınıfta Eğlence!</title></programme>
+<programme start="20250922012900 +0000" stop="20250922020100 +0000" channel="Moonbug Kids.tr"><title>Minibods - Pogo Parti Zamanı</title></programme>
+<programme start="20250922020100 +0000" stop="20250922023300 +0000" channel="Moonbug Kids.tr"><title>Minibods - Kek Kaosu</title></programme>
+<programme start="20250922023300 +0000" stop="20250922030300 +0000" channel="Moonbug Kids.tr"><title>Geckos Garage - Gecko’nun Muhteşem Arkadaşları Var</title></programme>
+<programme start="20250922030300 +0000" stop="20250922032900 +0000" channel="Moonbug Kids.tr"><title>Geckos Garage - İnanılmaz Maceralar!</title></programme>
+<programme start="20250922032900 +0000" stop="20250922035800 +0000" channel="Moonbug Kids.tr"><title>Little Baby Bum - Çok Arkadaş!</title></programme>
+<programme start="20250922035800 +0000" stop="20250922042900 +0000" channel="Moonbug Kids.tr"><title>Little Baby Bum - Birlikte Şarkı soylemek Çok Eğlenceli!</title></programme>
+<programme start="20250922042900 +0000" stop="20250922051800 +0000" channel="Moonbug Kids.tr"><title>CoComelon - JJ’in Okuldaki İlk Gunu</title></programme>
+<programme start="20250922051800 +0000" stop="20250922055900 +0000" channel="Moonbug Kids.tr"><title>CoComelon - Okula Donuş: Okul Gunu Maceraları!</title></programme>
+<programme start="20250922055900 +0000" stop="20250922062500 +0000" channel="Moonbug Kids.tr"><title>Blippi - Blippi Vahşi Yaşamı Keşfediyor!</title></programme>
+<programme start="20250922062500 +0000" stop="20250922070800 +0000" channel="Moonbug Kids.tr"><title>Blippi - Blippi Çocuk Muzesini Ziyaret Ediyor!</title></programme>
+<programme start="20250922070800 +0000" stop="20250922074900 +0000" channel="Moonbug Kids.tr"><title>Blippi Wonders - Dunya Çok Eğlenceli</title></programme>
+<programme start="20250922074900 +0000" stop="20250922083300 +0000" channel="Moonbug Kids.tr"><title>Blippi Wonders - Hayvanları Tanıyalım</title></programme>
+<programme start="20250922083300 +0000" stop="20250922090200 +0000" channel="Moonbug Kids.tr"><title>CoComelon - JJ Ailesi İle Şarkı Soyluyor</title></programme>
+<programme start="20250922090200 +0000" stop="20250922093000 +0000" channel="Moonbug Kids.tr"><title>JJs Animal Time - Hayvan Saatinde Şarkı Soyleyelim</title></programme>
+<programme start="20250922093000 +0000" stop="20250922100100 +0000" channel="Moonbug Kids.tr"><title>ARPO - Bebek Karmaşası</title></programme>
+<programme start="20250922100100 +0000" stop="20250922103300 +0000" channel="Moonbug Kids.tr"><title>ARPO - Havoc Evde</title></programme>
+<programme start="20250922103300 +0000" stop="20250922110500 +0000" channel="Moonbug Kids.tr"><title>Oddbods - Mahalle Baskısı</title></programme>
+<programme start="20250922110500 +0000" stop="20250922113700 +0000" channel="Moonbug Kids.tr"><title>Oddbods - Kazabilir misiniz?</title></programme>
+<programme start="20250922113700 +0000" stop="20250922121000 +0000" channel="Moonbug Kids.tr"><title>Oddbods - Zıplayış</title></programme>
+<programme start="20250922121000 +0000" stop="20250922123700 +0000" channel="Moonbug Kids.tr"><title>Antiks - Kaybedenlerin Armudu</title></programme>
+<programme start="20250922123700 +0000" stop="20250922130500 +0000" channel="Moonbug Kids.tr"><title>Antiks - İlkbahar Ateşi</title></programme>
+<programme start="20250922130500 +0000" stop="20250922133000 +0000" channel="Moonbug Kids.tr"><title>Supa Strikas - Guneşli Feratuviadan Selamlar</title></programme>
+<programme start="20250922133000 +0000" stop="20250922135500 +0000" channel="Moonbug Kids.tr"><title>Supa Strikas - Antrenman Şaşkınlığı</title></programme>
+<programme start="20250922135500 +0000" stop="20250922142000 +0000" channel="Moonbug Kids.tr"><title>Supa Strikas - Havalı Yardım</title></programme>
+<programme start="20250922142000 +0000" stop="20250922145900 +0000" channel="Moonbug Kids.tr"><title>Morphle - Muhteşem Maceralar</title></programme>
+<programme start="20250922145900 +0000" stop="20250922153600 +0000" channel="Moonbug Kids.tr"><title>Morphle - Mila Hapishaneye Gidiyor</title></programme>
+<programme start="20250922153600 +0000" stop="20250922161700 +0000" channel="Moonbug Kids.tr"><title>CoComelon - Okula Donuş: İlk Gunler ve Eğlenceli Yollar!</title></programme>
+<programme start="20250922161700 +0000" stop="20250922164200 +0000" channel="Moonbug Kids.tr"><title>CoComelon - Dişler ve Gıda</title></programme>
+<programme start="20250922164200 +0000" stop="20250922171600 +0000" channel="Moonbug Kids.tr"><title>Little Angel - Okula Donuş: Gunum, Arkadaşlarım!</title></programme>
+<programme start="20250922171600 +0000" stop="20250922174700 +0000" channel="Moonbug Kids.tr"><title>Little Angel - Okula Donuş: Öğrenme Yolculuğum!</title></programme>
+<programme start="20250922174700 +0000" stop="20250922181400 +0000" channel="Moonbug Kids.tr"><title>Rob The Robot - Dans Edebilir Misin?</title></programme>
+<programme start="20250922181400 +0000" stop="20250922184100 +0000" channel="Moonbug Kids.tr"><title>Rob The Robot - Sırılsıklam</title></programme>
+<programme start="20250922184100 +0000" stop="20250922192300 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 16</title></programme>
+<programme start="20250922192300 +0000" stop="20250922200400 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 15</title></programme>
+<programme start="20250922200400 +0000" stop="20250922202800 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 12</title></programme>
+<programme start="20250922202800 +0000" stop="20250922211200 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 13</title></programme>
+<programme start="20250922211200 +0000" stop="20250922213900 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 4</title></programme>
+<programme start="20250922213900 +0000" stop="20250922221900 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 32</title></programme>
+<programme start="20250922221900 +0000" stop="20250922230100 +0000" channel="Moonbug Kids.tr"><title>Cico ile Moco - Bolum 14</title></programme>
+<programme start="20250922230100 +0000" stop="20250922233000 +0000" channel="Moonbug Kids.tr"><title>Origami Yapıyoruz - Bolum 28</title></programme>
+<programme start="20250922233000 +0000" stop="20250923000000 +0000" channel="Moonbug Kids.tr"><title>Origami Yapıyoruz - Bolum 47</title></programme>
+<programme start="20250923000000 +0000" stop="20250923004400 +0000" channel="Moonbug Kids.tr"><title>CoComelon - Okula Donuş: Öğren ve Geliş!</title></programme>
+<programme start="20250923004400 +0000" stop="20250923013000 +0000" channel="Moonbug Kids.tr"><title>CoComelon - Okula Donuş: Okul Gunu Maceraları!</title></programme>
+<programme start="20250923013000 +0000" stop="20250923015500 +0000" channel="Moonbug Kids.tr"><title>Minibods - Kar bodu</title></programme>
+<programme start="20250923015500 +0000" stop="20250923022700 +0000" channel="Moonbug Kids.tr"><title>Minibods - Pedal Gucu</title></programme>
+<programme start="20250923022700 +0000" stop="20250923024900 +0000" channel="Moonbug Kids.tr"><title>Geckos Garage - Bebek Kamyonlarının Harika Maceraları!</title></programme>
+<programme start="20250923024900 +0000" stop="20250923031500 +0000" channel="Moonbug Kids.tr"><title>Geckos Garage - İnanılmaz Maceralar!</title></programme>
 <programme start="20250920211500 +0000" stop="20250920230000 +0000" channel="Sinema Aile.tr"><title>Sihirli Yılbaşı</title></programme>
 <programme start="20250920230000 +0000" stop="20250920233100 +0000" channel="Sinema Aile.tr"><title>Orman Dostları 1-2-3-5</title></programme>
 <programme start="20250920233100 +0000" stop="20250921001500 +0000" channel="Sinema Aile.tr"><title>Orman Dostları</title></programme>
@@ -214,51 +292,22 @@
 <programme start="20250921231500 +0000" stop="20250922010000 +0000" channel="Sinema Aile.tr"><title>Super Ayı</title></programme>
 <programme start="20250922010000 +0000" stop="20250922030000 +0000" channel="Sinema Aile.tr"><title>Kahraman Maymun Shımmy Ve Macera Çetesi</title></programme>
 <programme start="20250922030000 +0000" stop="20250922044500 +0000" channel="Sinema Aile.tr"><title>Boule Ve Bıll 2</title></programme>
-<programme start="20250919210000 +0000" stop="20250919214500 +0000" channel="TRT Eba.tr"><title>Savunma Sanayiinin Yalnız Dehaları</title></programme>
-<programme start="20250919214500 +0000" stop="20250919221500 +0000" channel="TRT Eba.tr"><title>Mavi Tutku</title></programme>
-<programme start="20250919221500 +0000" stop="20250919224500 +0000" channel="TRT Eba.tr"><title>Din Kulturu Ve Ahlak Bilgisi - 9</title></programme>
-<programme start="20250919224500 +0000" stop="20250919231500 +0000" channel="TRT Eba.tr"><title>Fizik - 10</title></programme>
-<programme start="20250919231500 +0000" stop="20250919234500 +0000" channel="TRT Eba.tr"><title>Kimya - 10</title></programme>
-<programme start="20250919234500 +0000" stop="20250920001500 +0000" channel="TRT Eba.tr"><title>Din Kulturu Ve Ahlak Bilgisi - 11</title></programme>
-<programme start="20250920001500 +0000" stop="20250920004500 +0000" channel="TRT Eba.tr"><title>Felsefe - 11</title></programme>
-<programme start="20250920004500 +0000" stop="20250920011500 +0000" channel="TRT Eba.tr"><title>T.C. İnkilap Tarihi Ve Ataturkçuluk - 12</title></programme>
-<programme start="20250920011500 +0000" stop="20250920014500 +0000" channel="TRT Eba.tr"><title>Matematik - 12</title></programme>
-<programme start="20250920014500 +0000" stop="20250920031500 +0000" channel="TRT Eba.tr"><title>Yksye Doğru</title></programme>
-<programme start="20250920031500 +0000" stop="20250920033000 +0000" channel="TRT Eba.tr"><title>Milli Parklar</title></programme>
-<programme start="20250920033000 +0000" stop="20250920034500 +0000" channel="TRT Eba.tr"><title>Bizim Şehrin Çocukları</title></programme>
-<programme start="20250920034500 +0000" stop="20250920040000 +0000" channel="TRT Eba.tr"><title>Sporcu Gunluğu</title></programme>
-<programme start="20250920040000 +0000" stop="20250920045000 +0000" channel="TRT Eba.tr"><title>Trt Eba Anaokulu</title></programme>
-<programme start="20250920045000 +0000" stop="20250920050000 +0000" channel="TRT Eba.tr"><title>Kozalak Anaokulu</title></programme>
-<programme start="20250920050000 +0000" stop="20250920051500 +0000" channel="TRT Eba.tr"><title>Milli Parklar</title></programme>
-<programme start="20250920051500 +0000" stop="20250920054500 +0000" channel="TRT Eba.tr"><title>Mavi Tutku</title></programme>
-<programme start="20250920054500 +0000" stop="20250920061500 +0000" channel="TRT Eba.tr"><title>Genç Yetenekler</title></programme>
-<programme start="20250920061500 +0000" stop="20250920063000 +0000" channel="TRT Eba.tr"><title>Beslenme Çantası</title></programme>
-<programme start="20250920063000 +0000" stop="20250920071500 +0000" channel="TRT Eba.tr"><title>Savunma Sanayiinin Yalnız Dehaları</title></programme>
-<programme start="20250920071500 +0000" stop="20250920081000 +0000" channel="TRT Eba.tr"><title>Lgsye Doğru</title></programme>
-<programme start="20250920081000 +0000" stop="20250920083000 +0000" channel="TRT Eba.tr"><title>Bizim Şehrin Çocukları</title></programme>
-<programme start="20250920083000 +0000" stop="20250920095000 +0000" channel="TRT Eba.tr"><title>Yksye Doğru</title></programme>
-<programme start="20250920095000 +0000" stop="20250920100000 +0000" channel="TRT Eba.tr"><title>Bilim Merkezleri</title></programme>
-<programme start="20250920100000 +0000" stop="20250920101500 +0000" channel="TRT Eba.tr"><title>Okulda Sanat</title></programme>
-<programme start="20250920101500 +0000" stop="20250920103000 +0000" channel="TRT Eba.tr"><title>Sporcu Gunluğu</title></programme>
-<programme start="20250920103000 +0000" stop="20250920110000 +0000" channel="TRT Eba.tr"><title>Bilimin Ev Hali</title></programme>
-<programme start="20250920110000 +0000" stop="20250920113000 +0000" channel="TRT Eba.tr"><title>Mavi Tutku</title></programme>
-<programme start="20250920113000 +0000" stop="20250920120000 +0000" channel="TRT Eba.tr"><title>Genç Yetenekler</title></programme>
-<programme start="20250920120000 +0000" stop="20250920121500 +0000" channel="TRT Eba.tr"><title>Beslenme Çantası</title></programme>
-<programme start="20250920121500 +0000" stop="20250920130000 +0000" channel="TRT Eba.tr"><title>Savunma Sanayiinin Yalnız Dehaları</title></programme>
-<programme start="20250920130000 +0000" stop="20250920135500 +0000" channel="TRT Eba.tr"><title>Lgsye Doğru</title></programme>
-<programme start="20250920135500 +0000" stop="20250920141500 +0000" channel="TRT Eba.tr"><title>Bizim Şehrin Çocukları</title></programme>
-<programme start="20250920141500 +0000" stop="20250920153500 +0000" channel="TRT Eba.tr"><title>Yksye Doğru</title></programme>
-<programme start="20250920153500 +0000" stop="20250920154500 +0000" channel="TRT Eba.tr"><title>Bilim Merkezleri</title></programme>
-<programme start="20250920154500 +0000" stop="20250920160000 +0000" channel="TRT Eba.tr"><title>Okulda Sanat</title></programme>
-<programme start="20250920160000 +0000" stop="20250920161500 +0000" channel="TRT Eba.tr"><title>Evde Tek Başıma</title></programme>
-<programme start="20250920161500 +0000" stop="20250920164500 +0000" channel="TRT Eba.tr"><title>Bilimin Ev Hali</title></programme>
-<programme start="20250920164500 +0000" stop="20250920171500 +0000" channel="TRT Eba.tr"><title>Mavi Tutku</title></programme>
-<programme start="20250920171500 +0000" stop="20250920174500 +0000" channel="TRT Eba.tr"><title>Genç Yetenekler</title></programme>
-<programme start="20250920174500 +0000" stop="20250920180000 +0000" channel="TRT Eba.tr"><title>Beslenme Çantası</title></programme>
-<programme start="20250920180000 +0000" stop="20250920184500 +0000" channel="TRT Eba.tr"><title>Savunma Sanayiinin Yalnız Dehaları</title></programme>
-<programme start="20250920184500 +0000" stop="20250920194000 +0000" channel="TRT Eba.tr"><title>Lgsye Doğru</title></programme>
-<programme start="20250920194000 +0000" stop="20250920200000 +0000" channel="TRT Eba.tr"><title>Bizim Şehrin Çocukları</title></programme>
-<programme start="20250920200000 +0000" stop="20250920212000 +0000" channel="TRT Eba.tr"><title>Yksye Doğru</title></programme>
+<programme start="20250922044500 +0000" stop="20250922061500 +0000" channel="Sinema Aile.tr"><title>A Greyhound Of A Girl</title></programme>
+<programme start="20250922061500 +0000" stop="20250922063000 +0000" channel="Sinema Aile.tr"><title>Orman Dostları 2</title></programme>
+<programme start="20250922063000 +0000" stop="20250922081500 +0000" channel="Sinema Aile.tr"><title>Mara: Dunyanın Kurtarıcısı</title></programme>
+<programme start="20250922081500 +0000" stop="20250922094500 +0000" channel="Sinema Aile.tr"><title>Garfield</title></programme>
+<programme start="20250922094500 +0000" stop="20250922113000 +0000" channel="Sinema Aile.tr"><title>Matilda</title></programme>
+<programme start="20250922113000 +0000" stop="20250922133000 +0000" channel="Sinema Aile.tr"><title>Şirinler</title></programme>
+<programme start="20250922133000 +0000" stop="20250922150000 +0000" channel="Sinema Aile.tr"><title>Cesur Balina Katak</title></programme>
+<programme start="20250922150000 +0000" stop="20250922170000 +0000" channel="Sinema Aile.tr"><title>Maceracılar Kulubu</title></programme>
+<programme start="20250922170000 +0000" stop="20250922184500 +0000" channel="Sinema Aile.tr"><title>Tito Ve Uzaylılar</title></programme>
+<programme start="20250922184500 +0000" stop="20250922203000 +0000" channel="Sinema Aile.tr"><title>Altingaga</title></programme>
+<programme start="20250922203000 +0000" stop="20250922221500 +0000" channel="Sinema Aile.tr"><title>Ayı Kardeşler: Dunyaya Donuş</title></programme>
+<programme start="20250922221500 +0000" stop="20250922224600 +0000" channel="Sinema Aile.tr"><title>Orman Dostları 1-2-3-5</title></programme>
+<programme start="20250922224600 +0000" stop="20250922233000 +0000" channel="Sinema Aile.tr"><title>Orman Dostları</title></programme>
+<programme start="20250922233000 +0000" stop="20250923011500 +0000" channel="Sinema Aile.tr"><title>Boule Ve Bıll 2</title></programme>
+<programme start="20250923011500 +0000" stop="20250923030000 +0000" channel="Sinema Aile.tr"><title>Mara: Dunyanın Kurtarıcısı</title></programme>
+<programme start="20250923030000 +0000" stop="20250923044500 +0000" channel="Sinema Aile.tr"><title>Midasın Kutusu</title></programme>
 <programme start="20250920212000 +0000" stop="20250920213000 +0000" channel="TRT Eba.tr"><title>Bilim Merkezleri</title></programme>
 <programme start="20250920213000 +0000" stop="20250920214500 +0000" channel="TRT Eba.tr"><title>Okulda Sanat</title></programme>
 <programme start="20250920214500 +0000" stop="20250920220000 +0000" channel="TRT Eba.tr"><title>Sporcu Gunluğu</title></programme>
@@ -318,4 +367,49 @@
 <programme start="20250922003000 +0000" stop="20250922013000 +0000" channel="TRT Eba.tr"><title>Lgsye Doğru</title></programme>
 <programme start="20250922013000 +0000" stop="20250922014500 +0000" channel="TRT Eba.tr"><title>Hayalin Mesleğin Olsun</title></programme>
 <programme start="20250922014500 +0000" stop="20250922031500 +0000" channel="TRT Eba.tr"><title>Yksye Doğru</title></programme>
+<programme start="20250922031500 +0000" stop="20250922033000 +0000" channel="TRT Eba.tr"><title>Milli Parklar</title></programme>
+<programme start="20250922033000 +0000" stop="20250922034500 +0000" channel="TRT Eba.tr"><title>Genç Kanatlar</title></programme>
+<programme start="20250922034500 +0000" stop="20250922040000 +0000" channel="TRT Eba.tr"><title>Sporcu Gunluğu</title></programme>
+<programme start="20250922040000 +0000" stop="20250922045000 +0000" channel="TRT Eba.tr"><title>Trt Eba Anaokulu</title></programme>
+<programme start="20250922045000 +0000" stop="20250922050000 +0000" channel="TRT Eba.tr"><title>Kozalak Anaokulu</title></programme>
+<programme start="20250922050000 +0000" stop="20250922051500 +0000" channel="TRT Eba.tr"><title>Okulda Sanat</title></programme>
+<programme start="20250922051500 +0000" stop="20250922054500 +0000" channel="TRT Eba.tr"><title>Turkçe - 1 İlkokul</title></programme>
+<programme start="20250922054500 +0000" stop="20250922061500 +0000" channel="TRT Eba.tr"><title>İngilizce - 2 İlkokul</title></programme>
+<programme start="20250922061500 +0000" stop="20250922064500 +0000" channel="TRT Eba.tr"><title>Fen Bilimleri - 3 İlkokul</title></programme>
+<programme start="20250922064500 +0000" stop="20250922071500 +0000" channel="TRT Eba.tr"><title>Sosyal Bilgiler - 4 İlkokul</title></programme>
+<programme start="20250922071500 +0000" stop="20250922081500 +0000" channel="TRT Eba.tr"><title>Lgsye Doğru</title></programme>
+<programme start="20250922081500 +0000" stop="20250922083000 +0000" channel="TRT Eba.tr"><title>Beslenme Çantası</title></programme>
+<programme start="20250922083000 +0000" stop="20250922090000 +0000" channel="TRT Eba.tr"><title>Turkçe - 5</title></programme>
+<programme start="20250922090000 +0000" stop="20250922093000 +0000" channel="TRT Eba.tr"><title>Sosyal Bilgiler - 6</title></programme>
+<programme start="20250922093000 +0000" stop="20250922100000 +0000" channel="TRT Eba.tr"><title>Fen Bilimleri - 7</title></programme>
+<programme start="20250922100000 +0000" stop="20250922103000 +0000" channel="TRT Eba.tr"><title>Din Kulturu Ve Ahlak Bilgisi - 8</title></programme>
+<programme start="20250922103000 +0000" stop="20250922104500 +0000" channel="TRT Eba.tr"><title>Özel Eğitim Turkçe</title></programme>
+<programme start="20250922104500 +0000" stop="20250922110000 +0000" channel="TRT Eba.tr"><title>Özel Eğitim Turkçe</title></programme>
+<programme start="20250922110000 +0000" stop="20250922113000 +0000" channel="TRT Eba.tr"><title>İngilizce - 5</title></programme>
+<programme start="20250922113000 +0000" stop="20250922123000 +0000" channel="TRT Eba.tr"><title>Lgsye Doğru</title></programme>
+<programme start="20250922123000 +0000" stop="20250922124500 +0000" channel="TRT Eba.tr"><title>Hayalin Mesleğin Olsun</title></programme>
+<programme start="20250922124500 +0000" stop="20250922141500 +0000" channel="TRT Eba.tr"><title>Yksye Doğru</title></programme>
+<programme start="20250922141500 +0000" stop="20250922143000 +0000" channel="TRT Eba.tr"><title>Sporcu Gunluğu</title></programme>
+<programme start="20250922143000 +0000" stop="20250922150000 +0000" channel="TRT Eba.tr"><title>Genç Yetenekler</title></programme>
+<programme start="20250922150000 +0000" stop="20250922153000 +0000" channel="TRT Eba.tr"><title>Turk Dili Ve Edebiyatı - 9</title></programme>
+<programme start="20250922153000 +0000" stop="20250922160000 +0000" channel="TRT Eba.tr"><title>Matematik - 9</title></programme>
+<programme start="20250922160000 +0000" stop="20250922163000 +0000" channel="TRT Eba.tr"><title>Coğrafya - 10</title></programme>
+<programme start="20250922163000 +0000" stop="20250922170000 +0000" channel="TRT Eba.tr"><title>Biyoloji - 10</title></programme>
+<programme start="20250922170000 +0000" stop="20250922173000 +0000" channel="TRT Eba.tr"><title>Fizik - 11</title></programme>
+<programme start="20250922173000 +0000" stop="20250922180000 +0000" channel="TRT Eba.tr"><title>Kimya - 11</title></programme>
+<programme start="20250922180000 +0000" stop="20250922183000 +0000" channel="TRT Eba.tr"><title>Din Kulturu Ve Ahlak Bilgisi - 12</title></programme>
+<programme start="20250922183000 +0000" stop="20250922190000 +0000" channel="TRT Eba.tr"><title>İngilizce - 12</title></programme>
+<programme start="20250922190000 +0000" stop="20250922203000 +0000" channel="TRT Eba.tr"><title>Yksye Doğru</title></programme>
+<programme start="20250922203000 +0000" stop="20250922204500 +0000" channel="TRT Eba.tr"><title>Milli Parklar</title></programme>
+<programme start="20250922204500 +0000" stop="20250922210000 +0000" channel="TRT Eba.tr"><title>Bizim Şehrin Çocukları</title></programme>
+<programme start="20250922210000 +0000" stop="20250922214500 +0000" channel="TRT Eba.tr"><title>Savunma Sanayiinin Yalnız Dehaları</title></programme>
+<programme start="20250922214500 +0000" stop="20250922221500 +0000" channel="TRT Eba.tr"><title>Turk Dili Ve Edebiyatı - 9</title></programme>
+<programme start="20250922221500 +0000" stop="20250922224500 +0000" channel="TRT Eba.tr"><title>Matematik - 9</title></programme>
+<programme start="20250922224500 +0000" stop="20250922231500 +0000" channel="TRT Eba.tr"><title>Coğrafya - 10</title></programme>
+<programme start="20250922231500 +0000" stop="20250922234500 +0000" channel="TRT Eba.tr"><title>Biyoloji - 10</title></programme>
+<programme start="20250922234500 +0000" stop="20250923001500 +0000" channel="TRT Eba.tr"><title>Fizik - 11</title></programme>
+<programme start="20250923001500 +0000" stop="20250923004500 +0000" channel="TRT Eba.tr"><title>Kimya - 11</title></programme>
+<programme start="20250923004500 +0000" stop="20250923011500 +0000" channel="TRT Eba.tr"><title>Din Kulturu Ve Ahlak Bilgisi - 12</title></programme>
+<programme start="20250923011500 +0000" stop="20250923014500 +0000" channel="TRT Eba.tr"><title>İngilizce - 12</title></programme>
+<programme start="20250923014500 +0000" stop="20250923031500 +0000" channel="TRT Eba.tr"><title>Yksye Doğru</title></programme>
 </tv>

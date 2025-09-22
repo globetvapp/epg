@@ -29,66 +29,56 @@
 <channel id="Ligue 1+.fr"><display-name>Ligue 1+.fr</display-name></channel>
 <channel id="Ligue 1+.fr"><display-name>Ligue 1+.fr</display-name></channel>
 <channel id="M6.fr"><display-name>M6.fr</display-name></channel>
+<channel id="Sport en France.fr"><display-name>Sport en France.fr</display-name></channel>
 <channel id="TF1.fr"><display-name>TF1.fr</display-name></channel>
 <channel id="TNT.fr"><display-name>TNT.fr</display-name></channel>
 <channel id="TV7.fr"><display-name>TV7.fr</display-name></channel>
 <channel id="YouTube.fr"><display-name>YouTube.fr</display-name></channel>
-<programme start="20250921161500 +0000" stop="20250921210000 +0000" channel="beIN SPORTS 1.fr"><title>Majorque · Atletico</title><desc>Majorque · Atletico</desc></programme>
-<programme start="20250921210000 +0000" stop="20250922211500 +0000" channel="beIN SPORTS 1.fr"><title>Barcelone · Getafe</title><desc>Barcelone · Getafe</desc></programme>
-<programme start="20250922211500 +0000" stop="20250922212359 +0000" channel="beIN SPORTS 1.fr"><title>Sporting Club Portugal · Moreirense</title><desc>Sporting Club Portugal · Moreirense</desc></programme>
-<programme start="20250921193000 +0000" stop="20250922190000 +0000" channel="beIN SPORTS 2.fr"><title>Dortmund · Wolfsbourg</title><desc>Dortmund · Wolfsbourg</desc></programme>
-<programme start="20250922190000 +0000" stop="20250922192359 +0000" channel="beIN SPORTS 2.fr"><title>Galatasaray · Konya</title><desc>Galatasaray · Konya</desc></programme>
-<programme start="20250921133000 +0000" stop="20250921140000 +0000" channel="beIN SPORTS MAX.fr"><title>Dresde · Hanovre</title><desc>Dresde · Hanovre</desc></programme>
-<programme start="20250921140000 +0000" stop="20250921153000 +0000" channel="beIN SPORTS MAX.fr"><title>Rayo V. · Celta Vigo</title><desc>Rayo V. · Celta Vigo</desc></programme>
-<programme start="20250921153000 +0000" stop="20250921173000 +0000" channel="beIN SPORTS MAX.fr"><title>Francfort E. · Union B.</title><desc>Francfort E. · Union B.</desc></programme>
-<programme start="20250921173000 +0000" stop="20250921183000 +0000" channel="beIN SPORTS MAX.fr"><title>Leverkusen · Monchengladbach</title><desc>Leverkusen · Monchengladbach</desc></programme>
-<programme start="20250921183000 +0000" stop="20250921190000 +0000" channel="beIN SPORTS MAX.fr"><title>Elche · Oviedo</title><desc>Elche · Oviedo</desc></programme>
-<programme start="20250921190000 +0000" stop="20250922210000 +0000" channel="beIN SPORTS MAX.fr"><title>Kasimpasa · Fenerbahçe</title><desc>Kasimpasa · Fenerbahçe</desc></programme>
-<programme start="20250922210000 +0000" stop="20250922212359 +0000" channel="beIN SPORTS MAX.fr"><title>Millwall · Watford</title><desc>Millwall · Watford</desc></programme>
-<programme start="20250921133000 +0000" stop="20250921140000 +0000" channel="beIN SPORTS.fr"><title>Dresde · Hanovre</title><desc>Dresde · Hanovre</desc></programme>
-<programme start="20250921140000 +0000" stop="20250921153000 +0000" channel="beIN SPORTS.fr"><title>Rayo V. · Celta Vigo</title><desc>Rayo V. · Celta Vigo</desc></programme>
-<programme start="20250921153000 +0000" stop="20250921161500 +0000" channel="beIN SPORTS.fr"><title>Francfort E. · Union B.</title><desc>Francfort E. · Union B.</desc></programme>
-<programme start="20250921161500 +0000" stop="20250921173000 +0000" channel="beIN SPORTS.fr"><title>Majorque · Atletico</title><desc>Majorque · Atletico</desc></programme>
-<programme start="20250921173000 +0000" stop="20250921183000 +0000" channel="beIN SPORTS.fr"><title>Leverkusen · Monchengladbach</title><desc>Leverkusen · Monchengladbach</desc></programme>
-<programme start="20250921183000 +0000" stop="20250921190000 +0000" channel="beIN SPORTS.fr"><title>Elche · Oviedo</title><desc>Elche · Oviedo</desc></programme>
-<programme start="20250921190000 +0000" stop="20250921193000 +0000" channel="beIN SPORTS.fr"><title>Kasimpasa · Fenerbahçe</title><desc>Kasimpasa · Fenerbahçe</desc></programme>
-<programme start="20250921193000 +0000" stop="20250921210000 +0000" channel="beIN SPORTS.fr"><title>Dortmund · Wolfsbourg</title><desc>Dortmund · Wolfsbourg</desc></programme>
-<programme start="20250921210000 +0000" stop="20250922190000 +0000" channel="beIN SPORTS.fr"><title>Barcelone · Getafe</title><desc>Barcelone · Getafe</desc></programme>
+<programme start="20250922211500 +0000" stop="20250923203000 +0000" channel="beIN SPORTS 1.fr"><title>Sporting Club Portugal · Moreirense</title><desc>Sporting Club Portugal · Moreirense</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923230000 +0000" channel="beIN SPORTS 1.fr"><title>Multiplex Ligue 2</title><desc>Multiplex Ligue 2</desc></programme>
+<programme start="20250923230000 +0000" stop="20250923232359 +0000" channel="beIN SPORTS 1.fr"><title>Liverpool · Southampton</title><desc>Liverpool · Southampton</desc></programme>
+<programme start="20250922190000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS 2.fr"><title>Galatasaray · Konya</title><desc>Galatasaray · Konya</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923231500 +0000" channel="beIN SPORTS 2.fr"><title>Amiens SC · Saint-Etienne</title><desc>Amiens SC · Saint-Etienne</desc></programme>
+<programme start="20250923231500 +0000" stop="20250923232359 +0000" channel="beIN SPORTS 2.fr"><title>Benfica Lisbonne · Rio Ave</title><desc>Benfica Lisbonne · Rio Ave</desc></programme>
+<programme start="20250923190000 +0000" stop="20250923213000 +0000" channel="beIN SPORTS 3.fr"><title>Athletic Bilbao · Gerone</title><desc>Athletic Bilbao · Gerone</desc></programme>
+<programme start="20250923213000 +0000" stop="20251028203000 +0000" channel="beIN SPORTS 3.fr"><title>Levante UD · Real Madrid</title><desc>Levante UD · Real Madrid</desc></programme>
+<programme start="20250922210000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS MAX.fr"><title>Millwall · Watford</title><desc>Millwall · Watford</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS MAX.fr"><title>Reims · Clermont</title><desc>Reims · Clermont</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS MAX.fr"><title>Pau · Laval</title><desc>Pau · Laval</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS MAX.fr"><title>Le Mans · Grenoble</title><desc>Le Mans · Grenoble</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS MAX.fr"><title>Montpellier · Boulogne</title><desc>Montpellier · Boulogne</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS MAX.fr"><title>Red Star · Troyes</title><desc>Red Star · Troyes</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS MAX.fr"><title>Guingamp · Dunkerque</title><desc>Guingamp · Dunkerque</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923202359 +0000" channel="beIN SPORTS MAX.fr"><title>Annecy · Nancy</title><desc>Annecy · Nancy</desc></programme>
 <programme start="20250922190000 +0000" stop="20250922210000 +0000" channel="beIN SPORTS.fr"><title>Galatasaray · Konya</title><desc>Galatasaray · Konya</desc></programme>
 <programme start="20250922210000 +0000" stop="20250922211500 +0000" channel="beIN SPORTS.fr"><title>Millwall · Watford</title><desc>Millwall · Watford</desc></programme>
-<programme start="20250922211500 +0000" stop="20250922212359 +0000" channel="beIN SPORTS.fr"><title>Sporting C. P. · Moreirense</title><desc>Sporting C. P. · Moreirense</desc></programme>
-<programme start="20250921150000 +0000" stop="20250924184500 +0000" channel="Canal+ Foot.fr"><title>Bournemouth · Newcastle</title><desc>Bournemouth · Newcastle</desc></programme>
-<programme start="20250921150000 +0000" stop="20250921150000 +0000" channel="Canal+ groupe.fr"><title>Sunderland · Aston Villa</title><desc>Sunderland · Aston Villa</desc></programme>
-<programme start="20250921150000 +0000" stop="20250921173000 +0000" channel="Canal+ groupe.fr"><title>Bournemouth · Newcastle</title><desc>Bournemouth · Newcastle</desc></programme>
-<programme start="20250921173000 +0000" stop="20250924184500 +0000" channel="Canal+ groupe.fr"><title>Arsenal · Manchester C.</title><desc>Arsenal · Manchester C.</desc></programme>
-<programme start="20250921150000 +0000" stop="20250924210000 +0000" channel="Canal+ Sport.fr"><title>Sunderland · Aston Villa</title><desc>Sunderland · Aston Villa</desc></programme>
-<programme start="20250921173000 +0000" stop="20250925184500 +0000" channel="Canal+.fr"><title>Arsenal · Manchester C.</title><desc>Arsenal · Manchester C.</desc></programme>
-<programme start="20250921120000 +0000" stop="20250921123000 +0000" channel="DAZN.fr"><title>Madrid CFF · Atletico Fem.</title><desc>Madrid CFF · Atletico Fem.</desc></programme>
-<programme start="20250921123000 +0000" stop="20250921133000 +0000" channel="DAZN.fr"><title>Lazio · Roma</title><desc>Lazio · Roma</desc></programme>
-<programme start="20250921133000 +0000" stop="20250921143000 +0000" channel="DAZN.fr"><title>Genk · St-Gilloise U.</title><desc>Genk · St-Gilloise U.</desc></programme>
-<programme start="20250921143000 +0000" stop="20250921143000 +0000" channel="DAZN.fr"><title>PSV · Ajax</title><desc>PSV · Ajax</desc></programme>
-<programme start="20250921143000 +0000" stop="20250921150000 +0000" channel="DAZN.fr"><title>PSV Eindhoven · Ajax</title><desc>PSV Eindhoven · Ajax</desc></programme>
-<programme start="20250921150000 +0000" stop="20250921150000 +0000" channel="DAZN.fr"><title>Torino · Atalanta</title><desc>Torino · Atalanta</desc></programme>
-<programme start="20250921150000 +0000" stop="20250921160000 +0000" channel="DAZN.fr"><title>Cremonese · Parme</title><desc>Cremonese · Parme</desc></programme>
-<programme start="20250921160000 +0000" stop="20250921164500 +0000" channel="DAZN.fr"><title>Seville FC · Barcelone Fem.</title><desc>Seville FC · Barcelone Fem.</desc></programme>
-<programme start="20250921164500 +0000" stop="20250921180000 +0000" channel="DAZN.fr"><title>Alkmaar AZ · Feyenoord</title><desc>Alkmaar AZ · Feyenoord</desc></programme>
-<programme start="20250921180000 +0000" stop="20250921183000 +0000" channel="DAZN.fr"><title>Fiorentina · Como</title><desc>Fiorentina · Como</desc></programme>
-<programme start="20250921183000 +0000" stop="20250921183000 +0000" channel="DAZN.fr"><title>Cologne · Wolfsbourg Fem.</title><desc>Cologne · Wolfsbourg Fem.</desc></programme>
-<programme start="20250921183000 +0000" stop="20250921204500 +0000" channel="DAZN.fr"><title>Club Bruges · St-Trond</title><desc>Club Bruges · St-Trond</desc></programme>
-<programme start="20250921204500 +0000" stop="20250921204500 +0000" channel="DAZN.fr"><title>Inter · Sassuolo</title><desc>Inter · Sassuolo</desc></programme>
-<programme start="20250921204500 +0000" stop="20250922180000 +0000" channel="DAZN.fr"><title>Inter Milan · Sassuolo</title><desc>Inter Milan · Sassuolo</desc></programme>
-<programme start="20250922180000 +0000" stop="20250922180000 +0000" channel="DAZN.fr"><title>Francfort E. · Leipzig Fem.</title><desc>Francfort E. · Leipzig Fem.</desc></programme>
-<programme start="20250922180000 +0000" stop="20250922204500 +0000" channel="DAZN.fr"><title>Eintracht Francfort · Leipzig Fem.</title><desc>Eintracht Francfort · Leipzig Fem.</desc></programme>
-<programme start="20250922204500 +0000" stop="20250922202359 +0000" channel="DAZN.fr"><title>Naples · Pise</title><desc>Naples · Pise</desc></programme>
-<programme start="20250921171500 +0000" stop="20250921171500 +0000" channel="Ligue 1+ add..fr"><title>Monaco · Metz</title><desc>Monaco · Metz</desc></programme>
-<programme start="20250921171500 +0000" stop="20250921171500 +0000" channel="Ligue 1+ add..fr"><title>Auxerre · Toulouse</title><desc>Auxerre · Toulouse</desc></programme>
-<programme start="20250921171500 +0000" stop="20250928171500 +0000" channel="Ligue 1+ add..fr"><title>Le Havre · Lorient</title><desc>Le Havre · Lorient</desc></programme>
-<programme start="20250921150000 +0000" stop="20250921171500 +0000" channel="Ligue 1+.fr"><title>Paris FC · Strasbourg</title><desc>Paris FC · Strasbourg</desc></programme>
-<programme start="20250921171500 +0000" stop="20250921171500 +0000" channel="Ligue 1+.fr"><title>Multiplex Ligue 1</title><desc>Multiplex Ligue 1</desc></programme>
-<programme start="20250921171500 +0000" stop="20250921171500 +0000" channel="Ligue 1+.fr"><title>Monaco · Metz</title><desc>Monaco · Metz</desc></programme>
-<programme start="20250921171500 +0000" stop="20250921171500 +0000" channel="Ligue 1+.fr"><title>Le Havre · Lorient</title><desc>Le Havre · Lorient</desc></programme>
-<programme start="20250921171500 +0000" stop="20250921204500 +0000" channel="Ligue 1+.fr"><title>Auxerre · Toulouse</title><desc>Auxerre · Toulouse</desc></programme>
-<programme start="20250921204500 +0000" stop="20250926204500 +0000" channel="Ligue 1+.fr"><title>Marseille OM · Paris PSG</title><desc>Marseille OM · Paris PSG</desc></programme>
-<programme start="20250921150000 +0000" stop="20250921160000 +0000" channel="YouTube.fr"><title>Fleury · Paris FC Fem.</title><desc>Fleury · Paris FC Fem.</desc></programme>
-<programme start="20250921160000 +0000" stop="20250923110000 +0000" channel="YouTube.fr"><title>Seville FC · Barcelone Fem.</title><desc>Seville FC · Barcelone Fem.</desc></programme>
+<programme start="20250922211500 +0000" stop="20250923190000 +0000" channel="beIN SPORTS.fr"><title>Sporting C. P. · Moreirense</title><desc>Sporting C. P. · Moreirense</desc></programme>
+<programme start="20250923190000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS.fr"><title>Bilbao · Gerone</title><desc>Bilbao · Gerone</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS.fr"><title>Amiens SC · Saint-Etienne</title><desc>Amiens SC · Saint-Etienne</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS.fr"><title>Guingamp · Dunkerque</title><desc>Guingamp · Dunkerque</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS.fr"><title>Multiplex Ligue 2</title><desc>Multiplex Ligue 2</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS.fr"><title>Annecy · Nancy</title><desc>Annecy · Nancy</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS.fr"><title>Le Mans · Grenoble</title><desc>Le Mans · Grenoble</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS.fr"><title>Bastia SC · Rodez</title><desc>Bastia SC · Rodez</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS.fr"><title>Pau · Laval</title><desc>Pau · Laval</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS.fr"><title>Montpellier · Boulogne</title><desc>Montpellier · Boulogne</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="beIN SPORTS.fr"><title>Reims · Clermont</title><desc>Reims · Clermont</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923213000 +0000" channel="beIN SPORTS.fr"><title>Red Star · Troyes</title><desc>Red Star · Troyes</desc></programme>
+<programme start="20250923213000 +0000" stop="20250923230000 +0000" channel="beIN SPORTS.fr"><title>Levante UD · Real Madrid</title><desc>Levante UD · Real Madrid</desc></programme>
+<programme start="20250923230000 +0000" stop="20250923231500 +0000" channel="beIN SPORTS.fr"><title>Liverpool · Southampton</title><desc>Liverpool · Southampton</desc></programme>
+<programme start="20250923231500 +0000" stop="20250923232359 +0000" channel="beIN SPORTS.fr"><title>Benfica · Rio Ave</title><desc>Benfica · Rio Ave</desc></programme>
+<programme start="20250922180000 +0000" stop="20250922180000 +0000" channel="DAZN.fr"><title>Eintracht Francfort · Leipzig Fem.</title><desc>Eintracht Francfort · Leipzig Fem.</desc></programme>
+<programme start="20250922180000 +0000" stop="20250922204500 +0000" channel="DAZN.fr"><title>Francfort E. · Leipzig Fem.</title><desc>Francfort E. · Leipzig Fem.</desc></programme>
+<programme start="20250922204500 +0000" stop="20250923170000 +0000" channel="DAZN.fr"><title>Naples · Pise</title><desc>Naples · Pise</desc></programme>
+<programme start="20250923170000 +0000" stop="20250923180000 +0000" channel="DAZN.fr"><title>Frosinone · Cagliari</title><desc>Frosinone · Cagliari</desc></programme>
+<programme start="20250923180000 +0000" stop="20250923180000 +0000" channel="DAZN.fr"><title>Bayern · Fribourg Fem.</title><desc>Bayern · Fribourg Fem.</desc></programme>
+<programme start="20250923180000 +0000" stop="20250923183000 +0000" channel="DAZN.fr"><title>Bayern Munich · Fribourg Fem.</title><desc>Bayern Munich · Fribourg Fem.</desc></programme>
+<programme start="20250923183000 +0000" stop="20250923203000 +0000" channel="DAZN.fr"><title>Udinese · Palerme</title><desc>Udinese · Palerme</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923203000 +0000" channel="DAZN.fr"><title>Roma · Lazio Fem.</title><desc>Roma · Lazio Fem.</desc></programme>
+<programme start="20250923203000 +0000" stop="20250923210000 +0000" channel="DAZN.fr"><title>AS Roma · Lazio Fem.</title><desc>AS Roma · Lazio Fem.</desc></programme>
+<programme start="20250923210000 +0000" stop="20250923210000 +0000" channel="DAZN.fr"><title>Milan · Lecce</title><desc>Milan · Lecce</desc></programme>
+<programme start="20250923210000 +0000" stop="20250923212359 +0000" channel="DAZN.fr"><title>AC Milan · Lecce</title><desc>AC Milan · Lecce</desc></programme>
+<programme start="20250922200000 +0000" stop="20250926204500 +0000" channel="Ligue 1+.fr"><title>Marseille OM · Paris PSG</title><desc>Marseille OM · Paris PSG</desc></programme>
+<programme start="20250923110000 +0000" stop="20250923110000 +0000" channel="YouTube.fr"><title>Vissel Kobe · Tokyo Verdy</title><desc>Vissel Kobe · Tokyo Verdy</desc></programme>
+<programme start="20250923110000 +0000" stop="20250925190000 +0000" channel="YouTube.fr"><title>Kashima Antlers · Osaka C.</title><desc>Kashima Antlers · Osaka C.</desc></programme>
 </tv>

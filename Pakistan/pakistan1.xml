@@ -8,25 +8,75 @@
 <channel id="ptv-national.pk"><display-name>Ptv National.pk</display-name></channel>
 <channel id="ptv-news.pk"><display-name>Ptv News.pk</display-name></channel>
 <channel id="ptv-sports.pk"><display-name>Ptv Sports.pk</display-name></channel>
-<programme start="20250922230000 +0000" stop="20250923000000 +0000" channel="ptv-sports.pk"><title>ABB FIA FORMULA E CHAMPIONSHIP ROUND 14 BERLIN</title><desc>(REPEAT)</desc></programme>
-<programme start="20250923000000 +0000" stop="20250923010000 +0000" channel="ptv-sports.pk"><title>ASIA CUP 2025 MATCH 4 PAK VS OMAN</title><desc>(REPEAT)</desc></programme>
-<programme start="20250923010000 +0000" stop="20250923030000 +0000" channel="ptv-sports.pk"><title>EPL 2024-2025 ARSENAL VS ASTON VILLA</title><desc>(REPEAT)</desc></programme>
-<programme start="20250923030000 +0000" stop="20250923050000 +0000" channel="ptv-sports.pk"><title>BETVICTOR EUROPEAN MASTERS SF RONNIE O SULLIVAN VS LIANG</title><desc>(LAST 4 FRAMES) (REPEAT)</desc></programme>
-<programme start="20250923050000 +0000" stop="20250923060000 +0000" channel="ptv-sports.pk"><title>ASIA CUP 2025 MATCH 5 SRI VS BAN</title><desc>(REPEAT)</desc></programme>
-<programme start="20250923060000 +0000" stop="20250923070000 +0000" channel="ptv-sports.pk"><title>US OPEN 2021 WOMENS FINAL</title><desc>(REPEAT)</desc></programme>
-<programme start="20250923070000 +0000" stop="20250923080000 +0000" channel="ptv-sports.pk"><title>1st COMMERCIAL H/L ASIA CUP 2025 MATCH 7 UAE VS OMAN</title><desc>(REPEAT)</desc></programme>
-<programme start="20250923080000 +0000" stop="20250923081000 +0000" channel="ptv-sports.pk"><title>SPORTS BULLETIN 1st</title><desc>(16-09-2025)</desc></programme>
-<programme start="20250923081000 +0000" stop="20250923090000 +0000" channel="ptv-sports.pk"><title>1st COMMERCIAL H/L ASIA CUP 2025 MATCH 8 SRI VS HONG KONG</title><desc>(REPEAT)</desc></programme>
-<programme start="20250923090000 +0000" stop="20250923100000 +0000" channel="ptv-sports.pk"><title>HOCKEY WORLD CUP FINAL 1994 PAKISTAN VS NETHERLAND</title><desc>(REPEAT)</desc></programme>
-<programme start="20250923100000 +0000" stop="20250923110000 +0000" channel="ptv-sports.pk"><title>2nd COMMERCIAL H/L ASIA CUP 2025 MATCH 7 UAE VS OMAN</title><desc>(REPEAT)</desc></programme>
-<programme start="20250923110000 +0000" stop="20250923120000 +0000" channel="ptv-sports.pk"><title>2nd COMMERCIAL H/L ASIA CUP 2025 MATCH 8 SRI VS HONG KONG</title><desc>(REPEAT)</desc></programme>
-<programme start="20250923120000 +0000" stop="20250923140000 +0000" channel="ptv-sports.pk"><title>EPL 2024-2025 CRYSTAL PALACE VS LIVERPOOL</title><desc>(30-05-25) (REPEAT)</desc></programme>
-<programme start="20250923140000 +0000" stop="20250923150000 +0000" channel="ptv-sports.pk"><title>ASIA CUP 2025 MATCH 7 UAE VS OMAN</title><desc>(REPEAT)</desc></programme>
-<programme start="20250923150000 +0000" stop="20250923151000 +0000" channel="ptv-sports.pk"><title>SPORTS BULLETIN 2nd</title><desc>(16-09-2025)</desc></programme>
-<programme start="20250923151000 +0000" stop="20250923160000 +0000" channel="ptv-sports.pk"><title>ASIA CUP 2025 MATCH 8 SRI VS HONG KONG</title><desc>(REPEAT)</desc></programme>
-<programme start="20250923160000 +0000" stop="20250923173000 +0000" channel="ptv-sports.pk"><title>PRE MATCH SHOW “GAME ON HAI”</title><desc>(LIVE)</desc></programme>
-<programme start="20250923173000 +0000" stop="20250923210000 +0000" channel="ptv-sports.pk"><title>ASIA CUP 2025 MATCH 9 AFG VS BAN</title><desc>(LIVE)</desc></programme>
-<programme start="20250923210000 +0000" stop="20250924020000 +0000" channel="ptv-sports.pk"><title>POST MATCH SHOW “GAME ON HAI”</title><desc>(LIVE)</desc></programme>
-<programme start="20250924020000 +0000" stop="20250924030000 +0000" channel="ptv-sports.pk"><title>ABB FORMULA E DRIVER  4</title><desc>(REPEAT)</desc></programme>
-<programme start="20250924030000 +0000" stop="20250924050000 +0000" channel="ptv-sports.pk"><title>EPL 2024-2025 CRYSTAL PALACE VS MAN CITY</title><desc>(REPEAT)</desc></programme>
+<programme start="20250924145900 +0000" stop="20250924150000 +0000" channel="ptv-ajk.pk"><title>Logo Bismillah</title><desc>Logo Bismillah</desc></programme>
+<programme start="20250924150000 +0000" stop="20250924150500 +0000" channel="ptv-ajk.pk"><title>Quran-o-Tarjuma</title><desc>Quran-o-Tarjuma</desc></programme>
+<programme start="20250924150500 +0000" stop="20250924152000 +0000" channel="ptv-ajk.pk"><title>Al Quran</title><desc>Al Quran</desc></programme>
+<programme start="20250924152000 +0000" stop="20250924153500 +0000" channel="ptv-ajk.pk"><title>Kashmir Report</title><desc>(Kashmir Cell)</desc></programme>
+<programme start="20250924153500 +0000" stop="20250924160000 +0000" channel="ptv-ajk.pk"><title>Granny Sunny And Science</title><desc>(R)</desc></programme>
+<programme start="20250924160000 +0000" stop="20250924162000 +0000" channel="ptv-ajk.pk"><title>Local News</title><desc>(PTV News)</desc></programme>
+<programme start="20250924162000 +0000" stop="20250924170000 +0000" channel="ptv-ajk.pk"><title>Meezan Legal Issues</title><desc>Meezan Legal Issues</desc></programme>
+<programme start="20250924170000 +0000" stop="20250924173000 +0000" channel="ptv-ajk.pk"><title>Baithak</title><desc>Baithak</desc></programme>
+<programme start="20250924173000 +0000" stop="20250924180000 +0000" channel="ptv-ajk.pk"><title>Baithak</title><desc>Baithak</desc></programme>
+<programme start="20250924180000 +0000" stop="20250924190000 +0000" channel="ptv-ajk.pk"><title>Afshan</title><desc>Afshan</desc></programme>
+<programme start="20250924190000 +0000" stop="20250924200000 +0000" channel="ptv-ajk.pk"><title>Khabar Nama</title><desc>(PTV News)</desc></programme>
+<programme start="20250924200000 +0000" stop="20250925145900 +0000" channel="ptv-ajk.pk"><title>Close Down</title><desc>Close Down</desc></programme>
+<programme start="20250924020000 +0000" stop="20250924040000 +0000" channel="ptv-national.pk"><title>SINDH TIME</title><desc>(REPEAT TIME 2)</desc></programme>
+<programme start="20250924040000 +0000" stop="20250924100000 +0000" channel="ptv-national.pk"><title>AL-QURAN</title><desc>(PTV HOME)</desc></programme>
+<programme start="20250924100000 +0000" stop="20250924101500 +0000" channel="ptv-national.pk"><title>SINDHI NEWS PTV-NATIONAL</title><desc>SINDHI NEWS PTV-NATIONAL</desc></programme>
+<programme start="20250924101500 +0000" stop="20250924120000 +0000" channel="ptv-national.pk"><title>BRUNCH @ PTV NATIONAL LIVE SHOW</title><desc>BRUNCH @ PTV NATIONAL LIVE SHOW</desc></programme>
+<programme start="20250924120000 +0000" stop="20250924130000 +0000" channel="ptv-national.pk"><title>AIOU MAGAZINE</title><desc>AIOU MAGAZINE</desc></programme>
+<programme start="20250924130000 +0000" stop="20250924140000 +0000" channel="ptv-national.pk"><title>HAL AHWAAL / WAO SAWAO CURRENT AFFAIRS</title><desc>HAL AHWAAL / WAO SAWAO CURRENT AFFAIRS</desc></programme>
+<programme start="20250924140000 +0000" stop="20250924143000 +0000" channel="ptv-national.pk"><title>SINDH SADYEN KHAN</title><desc>(DOCUMENTARY)</desc></programme>
+<programme start="20250924143000 +0000" stop="20250924150000 +0000" channel="ptv-national.pk"><title>GEET SANGEET MUSIC</title><desc>GEET SANGEET MUSIC</desc></programme>
+<programme start="20250924150000 +0000" stop="20250924154500 +0000" channel="ptv-national.pk"><title>NATAK RANG</title><desc>(ODD PLAY)</desc></programme>
+<programme start="20250924154500 +0000" stop="20250924160000 +0000" channel="ptv-national.pk"><title>SINDHI NEWS PTV-NATIONAL</title><desc>SINDHI NEWS PTV-NATIONAL</desc></programme>
+<programme start="20250924160000 +0000" stop="20250924170000 +0000" channel="ptv-national.pk"><title>TAMASHA</title><desc>(NATAK RANG) (DRAMA SERIAL)</desc></programme>
+<programme start="20250924170000 +0000" stop="20250924180000 +0000" channel="ptv-national.pk"><title>NATAK RANG</title><desc>(ODD PLAY)</desc></programme>
+<programme start="20250924180000 +0000" stop="20250924210000 +0000" channel="ptv-national.pk"><title>SINDH TIME</title><desc>(REPEAT TIME 1)</desc></programme>
+<programme start="20250924210000 +0000" stop="20250925000000 +0000" channel="ptv-national.pk"><title>BRUNCH @ PTV NATIONAL</title><desc>(REPEAT TIME)</desc></programme>
+<programme start="20250925000000 +0000" stop="20250925020000 +0000" channel="ptv-national.pk"><title>AIOU MAGAZINE</title><desc>AIOU MAGAZINE</desc></programme>
+<programme start="20250925020000 +0000" stop="20250925040000 +0000" channel="ptv-national.pk"><title>SINDH TIME REPEAT TIME 2</title><desc>SINDH TIME REPEAT TIME 2</desc></programme>
+<programme start="20250925040000 +0000" stop="20250925100000 +0000" channel="ptv-national.pk"><title>AL-QURAN PTV HOME</title><desc>AL-QURAN PTV HOME</desc></programme>
+<programme start="20250924030000 +0000" stop="20250924030500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250924030500 +0000" stop="20250924040000 +0000" channel="ptv-news.pk"><title>Iqra</title><desc>Iqra</desc></programme>
+<programme start="20250924040000 +0000" stop="20250924050000 +0000" channel="ptv-news.pk"><title>News bulletin</title><desc>News bulletin</desc></programme>
+<programme start="20250924050000 +0000" stop="20250924050500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250924050500 +0000" stop="20250924060000 +0000" channel="ptv-news.pk"><title>Ibteda</title><desc>Ibteda</desc></programme>
+<programme start="20250924060000 +0000" stop="20250924060500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250924060500 +0000" stop="20250924070000 +0000" channel="ptv-news.pk"><title>Jaiza</title><desc>(LIVE)</desc></programme>
+<programme start="20250924070000 +0000" stop="20250924070500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250924070500 +0000" stop="20250924080000 +0000" channel="ptv-news.pk"><title>Subha-e-Pakistan</title><desc>Subha-e-Pakistan</desc></programme>
+<programme start="20250924080000 +0000" stop="20250924080500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250924080500 +0000" stop="20250924090000 +0000" channel="ptv-news.pk"><title>Subha-e-Pakistan</title><desc>Subha-e-Pakistan</desc></programme>
+<programme start="20250924090000 +0000" stop="20250924090500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250924090500 +0000" stop="20250924100000 +0000" channel="ptv-news.pk"><title>Riasat</title><desc>(Rpt)</desc></programme>
+<programme start="20250924100000 +0000" stop="20250924103000 +0000" channel="ptv-news.pk"><title>News bulletin</title><desc>News bulletin</desc></programme>
+<programme start="20250924103000 +0000" stop="20250924110000 +0000" channel="ptv-news.pk"><title>Sara Pakistan</title><desc>Sara Pakistan</desc></programme>
+<programme start="20250924110000 +0000" stop="20250924110500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250924110500 +0000" stop="20250924120000 +0000" channel="ptv-news.pk"><title>Current Affairs Special</title><desc>(Rpt)</desc></programme>
+<programme start="20250924120000 +0000" stop="20250924120500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250924120500 +0000" stop="20250924130000 +0000" channel="ptv-news.pk"><title>Sach Tou Yeh Hai</title><desc>(Rpt)</desc></programme>
+<programme start="20250924130000 +0000" stop="20250924130500 +0000" channel="ptv-news.pk"><title>Headlines News</title><desc>Headlines News</desc></programme>
+<programme start="20250924130500 +0000" stop="20250924133000 +0000" channel="ptv-news.pk"><title>Parliament News</title><desc>Parliament News</desc></programme>
+<programme start="20250924133000 +0000" stop="20250924140000 +0000" channel="ptv-news.pk"><title>Kashmiri News + Gojri News + Sheena News + Balti News</title><desc>Kashmiri News + Gojri News + Sheena News + Balti News</desc></programme>
+<programme start="20250924140000 +0000" stop="20250924140500 +0000" channel="ptv-news.pk"><title>Headlines News</title><desc>Headlines News</desc></programme>
+<programme start="20250924140500 +0000" stop="20250924150000 +0000" channel="ptv-news.pk"><title>Sports 360</title><desc>(LIVE)</desc></programme>
+<programme start="20250924150000 +0000" stop="20250924150500 +0000" channel="ptv-news.pk"><title>Headlines News</title><desc>Headlines News</desc></programme>
+<programme start="20250924150500 +0000" stop="20250924160000 +0000" channel="ptv-news.pk"><title>Baat Karobar Ki</title><desc>(LIVE)</desc></programme>
+<programme start="20250924160000 +0000" stop="20250924160500 +0000" channel="ptv-news.pk"><title>Headlines News</title><desc>Headlines News</desc></programme>
+<programme start="20250924160500 +0000" stop="20250924165500 +0000" channel="ptv-news.pk"><title>Capital View</title><desc>Capital View</desc></programme>
+<programme start="20250924165500 +0000" stop="20250924170000 +0000" channel="ptv-news.pk"><title>Arabic News</title><desc>Arabic News</desc></programme>
+<programme start="20250924170000 +0000" stop="20250924170500 +0000" channel="ptv-news.pk"><title>Headline News</title><desc>Headline News</desc></programme>
+<programme start="20250924170500 +0000" stop="20250924180000 +0000" channel="ptv-news.pk"><title>7 Bajay Gohar Kay Sath</title><desc>7 Bajay Gohar Kay Sath</desc></programme>
+<programme start="20250924180000 +0000" stop="20250924180500 +0000" channel="ptv-news.pk"><title>Headline News</title><desc>Headline News</desc></programme>
+<programme start="20250924180500 +0000" stop="20250924190000 +0000" channel="ptv-news.pk"><title>Riasat</title><desc>Riasat</desc></programme>
+<programme start="20250924190000 +0000" stop="20250924195500 +0000" channel="ptv-news.pk"><title>News Room 9</title><desc>News Room 9</desc></programme>
+<programme start="20250924195500 +0000" stop="20250924200000 +0000" channel="ptv-news.pk"><title>Kashmir Report</title><desc>Kashmir Report</desc></programme>
+<programme start="20250924200000 +0000" stop="20250924200500 +0000" channel="ptv-news.pk"><title>Headline News</title><desc>Headline News</desc></programme>
+<programme start="20250924200500 +0000" stop="20250924210000 +0000" channel="ptv-news.pk"><title>Sach Tou Yeh Hai</title><desc>Sach Tou Yeh Hai</desc></programme>
+<programme start="20250924210000 +0000" stop="20250924210500 +0000" channel="ptv-news.pk"><title>Headline News</title><desc>Headline News</desc></programme>
+<programme start="20250924210500 +0000" stop="20250925030000 +0000" channel="ptv-news.pk"><title>Current Affairs Special</title><desc>Current Affairs Special</desc></programme>
+<programme start="20250925030000 +0000" stop="20250925030500 +0000" channel="ptv-news.pk"><title>News Headlines</title><desc>News Headlines</desc></programme>
+<programme start="20250925030500 +0000" stop="20250925040000 +0000" channel="ptv-news.pk"><title>Iqra</title><desc>Iqra</desc></programme>
+<programme start="20250925040000 +0000" stop="20250925050000 +0000" channel="ptv-news.pk"><title>News bulletin</title><desc>News bulletin</desc></programme>
 </tv>

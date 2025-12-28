@@ -53,678 +53,615 @@
 <channel id="TV CIUDAD.uy"><display-name>TV CIUDAD.uy</display-name></channel>
 <channel id="TVL Pando.uy"><display-name>TVL Pando.uy</display-name></channel>
 <channel id="Uruguay Presidencia.uy"><display-name>Uruguay Presidencia.uy</display-name></channel>
-<programme start="20251227020000 +0000" stop="20251227023000 +0000" channel="1000XHora TV.uy"><title>MUSEO LAMBORGUINI</title><desc>MUSEO LAMBORGUINI</desc></programme>
-<programme start="20251227023000 +0000" stop="20251227030000 +0000" channel="1000XHora TV.uy"><title>F1 HISTORICA MONACO</title><desc>F1 HISTORICA MONACO</desc></programme>
-<programme start="20251227030000 +0000" stop="20251227033000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD CROACIA</title><desc>ON THE ROAD CROACIA</desc></programme>
-<programme start="20251227033000 +0000" stop="20251227040000 +0000" channel="1000XHora TV.uy"><title>AUTOCLASICA</title><desc>2024</desc></programme>
-<programme start="20251227040000 +0000" stop="20251227043000 +0000" channel="1000XHora TV.uy"><title>MUSEO FORD T CITY</title><desc>MUSEO FORD T CITY</desc></programme>
-<programme start="20251227043000 +0000" stop="20251227050000 +0000" channel="1000XHora TV.uy"><title>CONCURSO DE ELEGANCIA ITALIA</title><desc>CONCURSO DE ELEGANCIA ITALIA</desc></programme>
-<programme start="20251227050000 +0000" stop="20251227053000 +0000" channel="1000XHora TV.uy"><title>DEPORTISTAS</title><desc>FERNANDO DACAL</desc></programme>
-<programme start="20251227053000 +0000" stop="20251227060000 +0000" channel="1000XHora TV.uy"><title>MUSEO BUCCI  Zenon Pereira </title><desc>MUSEO BUCCI  Zenon Pereira </desc></programme>
-<programme start="20251227060000 +0000" stop="20251227070000 +0000" channel="1000XHora TV.uy"><title>1000XHORA</title><desc>1000XHORA</desc></programme>
-<programme start="20251227070000 +0000" stop="20251227073000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD MILANO</title><desc>ON THE ROAD MILANO</desc></programme>
-<programme start="20251227073000 +0000" stop="20251227080000 +0000" channel="1000XHora TV.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251227080000 +0000" stop="20251227083000 +0000" channel="1000XHora TV.uy"><title>MUSEO COTSWORD</title><desc>MUSEO COTSWORD</desc></programme>
-<programme start="20251227083000 +0000" stop="20251227090000 +0000" channel="1000XHora TV.uy"><title>LUBRICANTES</title><desc>LUBRICANTES</desc></programme>
-<programme start="20251227090000 +0000" stop="20251227093000 +0000" channel="1000XHora TV.uy"><title>GOOD WOOD</title><desc>2025</desc></programme>
-<programme start="20251227093000 +0000" stop="20251227100000 +0000" channel="1000XHora TV.uy"><title>GOOD WOOD</title><desc>2025</desc></programme>
-<programme start="20251227100000 +0000" stop="20251227103000 +0000" channel="1000XHora TV.uy"><title>MUSEO NUEVODE PUNTA DEL ESTE</title><desc>MUSEO NUEVODE PUNTA DEL ESTE</desc></programme>
-<programme start="20251227103000 +0000" stop="20251227110000 +0000" channel="1000XHora TV.uy"><title>FESTIVAL DE GOODWOOD</title><desc>2025</desc></programme>
-<programme start="20251227110000 +0000" stop="20251227113000 +0000" channel="1000XHora TV.uy"><title>F1 HISTORICA MONACO</title><desc>F1 HISTORICA MONACO</desc></programme>
-<programme start="20251227113000 +0000" stop="20251227120000 +0000" channel="1000XHora TV.uy"><title>AUTO SHOW GANTE</title><desc>AUTO SHOW GANTE</desc></programme>
-<programme start="20251227120000 +0000" stop="20251227123000 +0000" channel="1000XHora TV.uy"><title>CHANTILLY</title><desc>2025</desc></programme>
-<programme start="20251227123000 +0000" stop="20251227143000 +0000" channel="1000XHora TV.uy"><title>KRONOMETRO CERO</title><desc>KRONOMETRO CERO</desc></programme>
-<programme start="20251227143000 +0000" stop="20251227150000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD EGIPTO</title><desc>ON THE ROAD EGIPTO</desc></programme>
-<programme start="20251227150000 +0000" stop="20251227153000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAS EGIPTO</title><desc>ON THE ROAS EGIPTO</desc></programme>
-<programme start="20251227153000 +0000" stop="20251227160000 +0000" channel="1000XHora TV.uy"><title>AUTO SHOW GANTE</title><desc>AUTO SHOW GANTE</desc></programme>
-<programme start="20251227160000 +0000" stop="20251227163000 +0000" channel="1000XHora TV.uy"><title>DRIVE CHOW PUNTA DEL ESTE</title><desc>DRIVE CHOW PUNTA DEL ESTE</desc></programme>
-<programme start="20251227163000 +0000" stop="20251227170000 +0000" channel="1000XHora TV.uy"><title>PHA FABIAN DELGADO</title><desc>PHA FABIAN DELGADO</desc></programme>
-<programme start="20251227170000 +0000" stop="20251227173000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD CROACIA</title><desc>ON THE ROAD CROACIA</desc></programme>
-<programme start="20251227173000 +0000" stop="20251227180000 +0000" channel="1000XHora TV.uy"><title>MARANELLO</title><desc>2025</desc></programme>
-<programme start="20251227180000 +0000" stop="20251227183000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD LAGO DI COMO</title><desc>ON THE ROAD LAGO DI COMO</desc></programme>
-<programme start="20251227183000 +0000" stop="20251227193000 +0000" channel="1000XHora TV.uy"><title>1000XHORA</title><desc>1000XHORA</desc></programme>
-<programme start="20251227193000 +0000" stop="20251227200000 +0000" channel="1000XHora TV.uy"><title>RALLY COSTA BRAVA</title><desc>73 . 1-2025</desc></programme>
-<programme start="20251227200000 +0000" stop="20251227203000 +0000" channel="1000XHora TV.uy"><title>RALLY CLASICC AFRICA</title><desc>RALLY CLASICC AFRICA</desc></programme>
-<programme start="20251227203000 +0000" stop="20251227210000 +0000" channel="1000XHora TV.uy"><title>F1 HISTORICA MONACO</title><desc>F1 HISTORICA MONACO</desc></programme>
-<programme start="20251227210000 +0000" stop="20251227213000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD MILANO</title><desc>ON THE ROAD MILANO</desc></programme>
-<programme start="20251227213000 +0000" stop="20251227220000 +0000" channel="1000XHora TV.uy"><title>CHANTILLY</title><desc>2025</desc></programme>
-<programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="1000XHora TV.uy"><title>POSICION 1</title><desc>POSICION 1</desc></programme>
-<programme start="20251227230000 +0000" stop="20251227233000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD CROACIA</title><desc>ON THE ROAD CROACIA</desc></programme>
-<programme start="20251227233000 +0000" stop="20251228000000 +0000" channel="1000XHora TV.uy"><title>MUSEO COTSWOLD</title><desc>MUSEO COTSWOLD</desc></programme>
-<programme start="20251228000000 +0000" stop="20251228003000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD CROACIA</title><desc>ON THE ROAD CROACIA</desc></programme>
-<programme start="20251228003000 +0000" stop="20251228013000 +0000" channel="1000XHora TV.uy"><title>1000XHORA</title><desc>1000XHORA</desc></programme>
-<programme start="20251228013000 +0000" stop="20251228020000 +0000" channel="1000XHora TV.uy"><title>MUSEO COTSWOLD</title><desc>MUSEO COTSWOLD</desc></programme>
 <programme start="20251228020000 +0000" stop="20251228023000 +0000" channel="1000XHora TV.uy"><title>FESTIVAL DE GOODWOOD</title><desc>2025</desc></programme>
 <programme start="20251228023000 +0000" stop="20251228030000 +0000" channel="1000XHora TV.uy"><title>PHA OMAR TOLEDO</title><desc>PHA OMAR TOLEDO</desc></programme>
-<programme start="20251228030000 +0000" stop="20251228030000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD CROACIA</title><desc>ON THE ROAD CROACIA</desc></programme>
 <programme start="20251228030000 +0000" stop="20251228033000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD MILANO</title><desc>ON THE ROAD MILANO</desc></programme>
-<programme start="20251228033000 +0000" stop="20251228033000 +0000" channel="1000XHora TV.uy"><title>AUTOCLASICA</title><desc>2024</desc></programme>
 <programme start="20251228033000 +0000" stop="20251228040000 +0000" channel="1000XHora TV.uy"><title>DEPORTISTAS</title><desc>FERNANDO DACAL</desc></programme>
-<programme start="20251228040000 +0000" stop="20251228040000 +0000" channel="1000XHora TV.uy"><title>MUSEO FORD T CITY</title><desc>MUSEO FORD T CITY</desc></programme>
 <programme start="20251228040000 +0000" stop="20251228043000 +0000" channel="1000XHora TV.uy"><title>F1 HISTORICA MONACO</title><desc>F1 HISTORICA MONACO</desc></programme>
-<programme start="20251228043000 +0000" stop="20251228043000 +0000" channel="1000XHora TV.uy"><title>CONCURSO DE ELEGANCIA ITALIA</title><desc>CONCURSO DE ELEGANCIA ITALIA</desc></programme>
 <programme start="20251228043000 +0000" stop="20251228050000 +0000" channel="1000XHora TV.uy"><title>AUTODROMO DE PIRIAPOLIS</title><desc>2023</desc></programme>
-<programme start="20251228050000 +0000" stop="20251228050000 +0000" channel="1000XHora TV.uy"><title>DEPORTISTAS</title><desc>FERNANDO DACAL</desc></programme>
 <programme start="20251228050000 +0000" stop="20251228053000 +0000" channel="1000XHora TV.uy"><title>RALLY MAYA</title><desc>1  -  2024</desc></programme>
-<programme start="20251228053000 +0000" stop="20251228053000 +0000" channel="1000XHora TV.uy"><title>MUSEO BUCCI  Zenon Pereira </title><desc>MUSEO BUCCI  Zenon Pereira </desc></programme>
 <programme start="20251228053000 +0000" stop="20251228060000 +0000" channel="1000XHora TV.uy"><title>RALLY MAYA</title><desc>2  -  2024</desc></programme>
-<programme start="20251228060000 +0000" stop="20251228060000 +0000" channel="1000XHora TV.uy"><title>1000XHORA</title><desc>1000XHORA</desc></programme>
 <programme start="20251228060000 +0000" stop="20251228063000 +0000" channel="1000XHora TV.uy"><title>MARANELLO</title><desc>2025</desc></programme>
 <programme start="20251228063000 +0000" stop="20251228070000 +0000" channel="1000XHora TV.uy"><title>EL JUGUETERO</title><desc>EL JUGUETERO</desc></programme>
-<programme start="20251228070000 +0000" stop="20251228070000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD MILANO</title><desc>ON THE ROAD MILANO</desc></programme>
 <programme start="20251228070000 +0000" stop="20251228073000 +0000" channel="1000XHora TV.uy"><title>LUBRICANTES</title><desc>LUBRICANTES</desc></programme>
-<programme start="20251228073000 +0000" stop="20251228073000 +0000" channel="1000XHora TV.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
 <programme start="20251228073000 +0000" stop="20251228080000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD CROACIA</title><desc>ON THE ROAD CROACIA</desc></programme>
-<programme start="20251228080000 +0000" stop="20251228080000 +0000" channel="1000XHora TV.uy"><title>MUSEO COTSWORD</title><desc>MUSEO COTSWORD</desc></programme>
 <programme start="20251228080000 +0000" stop="20251228083000 +0000" channel="1000XHora TV.uy"><title>MUSEO DE COLONIA</title><desc>MUSEO DE COLONIA</desc></programme>
-<programme start="20251228083000 +0000" stop="20251228083000 +0000" channel="1000XHora TV.uy"><title>LUBRICANTES</title><desc>LUBRICANTES</desc></programme>
 <programme start="20251228083000 +0000" stop="20251228090000 +0000" channel="1000XHora TV.uy"><title>CHANTILLY</title><desc>2025</desc></programme>
-<programme start="20251228090000 +0000" stop="20251228090000 +0000" channel="1000XHora TV.uy"><title>GOOD WOOD</title><desc>2025</desc></programme>
 <programme start="20251228090000 +0000" stop="20251228093000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD MILANO</title><desc>ON THE ROAD MILANO</desc></programme>
-<programme start="20251228093000 +0000" stop="20251228093000 +0000" channel="1000XHora TV.uy"><title>GOOD WOOD</title><desc>2025</desc></programme>
 <programme start="20251228093000 +0000" stop="20251228100000 +0000" channel="1000XHora TV.uy"><title>PHA FABIAN DELGADO</title><desc>PHA FABIAN DELGADO</desc></programme>
-<programme start="20251228100000 +0000" stop="20251228100000 +0000" channel="1000XHora TV.uy"><title>MUSEO NUEVODE PUNTA DEL ESTE</title><desc>MUSEO NUEVODE PUNTA DEL ESTE</desc></programme>
 <programme start="20251228100000 +0000" stop="20251228103000 +0000" channel="1000XHora TV.uy"><title>AUTODROMO DE PIRIAPOLIS</title><desc>2023</desc></programme>
-<programme start="20251228103000 +0000" stop="20251228103000 +0000" channel="1000XHora TV.uy"><title>FESTIVAL DE GOODWOOD</title><desc>2025</desc></programme>
 <programme start="20251228103000 +0000" stop="20251228110000 +0000" channel="1000XHora TV.uy"><title>CONCURSO DE ELEGANCIA ITALIA</title><desc>CONCURSO DE ELEGANCIA ITALIA</desc></programme>
-<programme start="20251228110000 +0000" stop="20251228110000 +0000" channel="1000XHora TV.uy"><title>F1 HISTORICA MONACO</title><desc>F1 HISTORICA MONACO</desc></programme>
 <programme start="20251228110000 +0000" stop="20251228113000 +0000" channel="1000XHora TV.uy"><title>PHA FABIAN DELGADO</title><desc>PHA FABIAN DELGADO</desc></programme>
-<programme start="20251228113000 +0000" stop="20251228113000 +0000" channel="1000XHora TV.uy"><title>AUTO SHOW GANTE</title><desc>AUTO SHOW GANTE</desc></programme>
 <programme start="20251228113000 +0000" stop="20251228120000 +0000" channel="1000XHora TV.uy"><title>RALLY COSTA BRAVA</title><desc>73 1-2025</desc></programme>
-<programme start="20251228120000 +0000" stop="20251228120000 +0000" channel="1000XHora TV.uy"><title>CHANTILLY</title><desc>2025</desc></programme>
 <programme start="20251228120000 +0000" stop="20251228123000 +0000" channel="1000XHora TV.uy"><title>MUSEO PRIVADO CORDOBA</title><desc>MUSEO PRIVADO CORDOBA</desc></programme>
-<programme start="20251228123000 +0000" stop="20251228123000 +0000" channel="1000XHora TV.uy"><title>KRONOMETRO CERO</title><desc>KRONOMETRO CERO</desc></programme>
 <programme start="20251228123000 +0000" stop="20251228130000 +0000" channel="1000XHora TV.uy"><title>AUROCLASICA</title><desc>2024</desc></programme>
 <programme start="20251228130000 +0000" stop="20251228140000 +0000" channel="1000XHora TV.uy"><title>1000XHORA</title><desc>1000XHORA</desc></programme>
 <programme start="20251228140000 +0000" stop="20251228143000 +0000" channel="1000XHora TV.uy"><title>MUSEO COTSWOLD</title><desc>MUSEO COTSWOLD</desc></programme>
-<programme start="20251228143000 +0000" stop="20251228143000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD EGIPTO</title><desc>ON THE ROAD EGIPTO</desc></programme>
 <programme start="20251228143000 +0000" stop="20251228150000 +0000" channel="1000XHora TV.uy"><title>F</title><desc>1 HISTORICO MONACO</desc></programme>
-<programme start="20251228150000 +0000" stop="20251228150000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAS EGIPTO</title><desc>ON THE ROAS EGIPTO</desc></programme>
 <programme start="20251228150000 +0000" stop="20251228153000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD LAGO DI COMO</title><desc>ON THE ROAD LAGO DI COMO</desc></programme>
-<programme start="20251228153000 +0000" stop="20251228153000 +0000" channel="1000XHora TV.uy"><title>AUTO SHOW GANTE</title><desc>AUTO SHOW GANTE</desc></programme>
 <programme start="20251228153000 +0000" stop="20251228160000 +0000" channel="1000XHora TV.uy"><title>GOOD WOOD</title><desc>2025</desc></programme>
-<programme start="20251228160000 +0000" stop="20251228160000 +0000" channel="1000XHora TV.uy"><title>DRIVE CHOW PUNTA DEL ESTE</title><desc>DRIVE CHOW PUNTA DEL ESTE</desc></programme>
 <programme start="20251228160000 +0000" stop="20251228163000 +0000" channel="1000XHora TV.uy"><title>GOOD WOOD</title><desc>2025</desc></programme>
-<programme start="20251228163000 +0000" stop="20251228163000 +0000" channel="1000XHora TV.uy"><title>PHA FABIAN DELGADO</title><desc>PHA FABIAN DELGADO</desc></programme>
 <programme start="20251228163000 +0000" stop="20251228170000 +0000" channel="1000XHora TV.uy"><title>CONCORSO DE ELEGANCIA ITALIA</title><desc>CONCORSO DE ELEGANCIA ITALIA</desc></programme>
-<programme start="20251228170000 +0000" stop="20251228170000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD CROACIA</title><desc>ON THE ROAD CROACIA</desc></programme>
 <programme start="20251228170000 +0000" stop="20251228173000 +0000" channel="1000XHora TV.uy"><title>AUTO SHOW GANTE</title><desc>AUTO SHOW GANTE</desc></programme>
-<programme start="20251228173000 +0000" stop="20251228173000 +0000" channel="1000XHora TV.uy"><title>MARANELLO</title><desc>2025</desc></programme>
 <programme start="20251228173000 +0000" stop="20251228180000 +0000" channel="1000XHora TV.uy"><title>CHANTILLY</title><desc>2025</desc></programme>
-<programme start="20251228180000 +0000" stop="20251228180000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD LAGO DI COMO</title><desc>ON THE ROAD LAGO DI COMO</desc></programme>
 <programme start="20251228180000 +0000" stop="20251228183000 +0000" channel="1000XHora TV.uy"><title>MUSEO COTSWOLD</title><desc>MUSEO COTSWOLD</desc></programme>
-<programme start="20251228183000 +0000" stop="20251228183000 +0000" channel="1000XHora TV.uy"><title>1000XHORA</title><desc>1000XHORA</desc></programme>
 <programme start="20251228183000 +0000" stop="20251228193000 +0000" channel="1000XHora TV.uy"><title>POSICION 1</title><desc>POSICION 1</desc></programme>
-<programme start="20251228193000 +0000" stop="20251228193000 +0000" channel="1000XHora TV.uy"><title>RALLY COSTA BRAVA</title><desc>73 . 1-2025</desc></programme>
 <programme start="20251228193000 +0000" stop="20251228200000 +0000" channel="1000XHora TV.uy"><title>PHA FABIAN DELGADO</title><desc>PHA FABIAN DELGADO</desc></programme>
-<programme start="20251228200000 +0000" stop="20251228200000 +0000" channel="1000XHora TV.uy"><title>RALLY CLASICC AFRICA</title><desc>RALLY CLASICC AFRICA</desc></programme>
 <programme start="20251228200000 +0000" stop="20251228203000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD MILANO</title><desc>ON THE ROAD MILANO</desc></programme>
-<programme start="20251228203000 +0000" stop="20251228203000 +0000" channel="1000XHora TV.uy"><title>F1 HISTORICA MONACO</title><desc>F1 HISTORICA MONACO</desc></programme>
 <programme start="20251228203000 +0000" stop="20251228210000 +0000" channel="1000XHora TV.uy"><title>FESTIVAL DE GOODWOOD</title><desc>2025</desc></programme>
-<programme start="20251228210000 +0000" stop="20251228210000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD MILANO</title><desc>ON THE ROAD MILANO</desc></programme>
-<programme start="20251228210000 +0000" stop="20251228213000 +0000" channel="1000XHora TV.uy"><title>1000XHORA</title><desc>1000XHORA</desc></programme>
-<programme start="20251228213000 +0000" stop="20251228220000 +0000" channel="1000XHora TV.uy"><title>CHANTILLY</title><desc>2025</desc></programme>
-<programme start="20251228220000 +0000" stop="20251228220000 +0000" channel="1000XHora TV.uy"><title>POSICION 1</title><desc>POSICION 1</desc></programme>
-<programme start="20251228220000 +0000" stop="20251228230000 +0000" channel="1000XHora TV.uy"><title>KRONOMETRO CERO</title><desc>KRONOMETRO CERO</desc></programme>
-<programme start="20251228230000 +0000" stop="20251228233000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD CROACIA</title><desc>ON THE ROAD CROACIA</desc></programme>
-<programme start="20251228233000 +0000" stop="20251228235900 +0000" channel="1000XHora TV.uy"><title>MUSEO COTSWOLD</title><desc>MUSEO COTSWOLD</desc></programme>
-<programme start="20251227063000 +0000" stop="20251227073000 +0000" channel="A + V.uy"><title>Inforagro</title><desc>Inforagro</desc></programme>
-<programme start="20251227073000 +0000" stop="20251227080000 +0000" channel="A + V.uy"><title>Agro+Valor</title><desc>Agro+Valor</desc></programme>
-<programme start="20251227080000 +0000" stop="20251227081000 +0000" channel="A + V.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251227081000 +0000" stop="20251227090000 +0000" channel="A + V.uy"><title>Mundo Cooperativo</title><desc>Mundo Cooperativo</desc></programme>
-<programme start="20251227090000 +0000" stop="20251227093000 +0000" channel="A + V.uy"><title>Tecnovial</title><desc>Tecnovial</desc></programme>
-<programme start="20251227093000 +0000" stop="20251227100000 +0000" channel="A + V.uy"><title>Cosas de mi país</title><desc>Cosas de mi país</desc></programme>
-<programme start="20251227100000 +0000" stop="20251227110000 +0000" channel="A + V.uy"><title>Entre mates y guitarras</title><desc>Entre mates y guitarras</desc></programme>
-<programme start="20251227110000 +0000" stop="20251227120000 +0000" channel="A + V.uy"><title>Magazine Animal</title><desc>Magazine Animal</desc></programme>
-<programme start="20251227120000 +0000" stop="20251227180000 +0000" channel="A + V.uy"><title>Mucha cosa buena</title><desc>Mucha cosa buena</desc></programme>
-<programme start="20251227180000 +0000" stop="20251227190000 +0000" channel="A + V.uy"><title>De pago en pago</title><desc>De pago en pago</desc></programme>
-<programme start="20251227190000 +0000" stop="20251227200000 +0000" channel="A + V.uy"><title>El cubo</title><desc>El cubo</desc></programme>
-<programme start="20251227200000 +0000" stop="20251227210000 +0000" channel="A + V.uy"><title>Raices Nuestras</title><desc>Raices Nuestras</desc></programme>
-<programme start="20251227210000 +0000" stop="20251227220000 +0000" channel="A + V.uy"><title>Canciones con historia</title><desc>Canciones con historia</desc></programme>
-<programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="A + V.uy"><title>Viajando por el interior</title><desc>Viajando por el interior</desc></programme>
-<programme start="20251227230000 +0000" stop="20251228063000 +0000" channel="A + V.uy"><title>La música siempre está</title><desc>La música siempre está</desc></programme>
+<programme start="20251228210000 +0000" stop="20251228220000 +0000" channel="1000XHora TV.uy"><title>1000XHORA</title><desc>1000XHORA</desc></programme>
+<programme start="20251228220000 +0000" stop="20251229030000 +0000" channel="1000XHora TV.uy"><title>KRONOMETRO CERO</title><desc>KRONOMETRO CERO</desc></programme>
+<programme start="20251229030000 +0000" stop="20251229033000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD MILANO</title><desc>ON THE ROAD MILANO</desc></programme>
+<programme start="20251229033000 +0000" stop="20251229040000 +0000" channel="1000XHora TV.uy"><title>DEPORTISTAS</title><desc>FERNANDO DACAL</desc></programme>
+<programme start="20251229040000 +0000" stop="20251229043000 +0000" channel="1000XHora TV.uy"><title>F1 HISTORICA MONACO</title><desc>F1 HISTORICA MONACO</desc></programme>
+<programme start="20251229043000 +0000" stop="20251229050000 +0000" channel="1000XHora TV.uy"><title>AUTODROMO DE PIRIAPOLIS</title><desc>2023</desc></programme>
+<programme start="20251229050000 +0000" stop="20251229053000 +0000" channel="1000XHora TV.uy"><title>RALLY MAYA</title><desc>1  -  2024</desc></programme>
+<programme start="20251229053000 +0000" stop="20251229060000 +0000" channel="1000XHora TV.uy"><title>RALLY MAYA</title><desc>2  -  2024</desc></programme>
+<programme start="20251229060000 +0000" stop="20251229063000 +0000" channel="1000XHora TV.uy"><title>MARANELLO</title><desc>2025</desc></programme>
+<programme start="20251229063000 +0000" stop="20251229070000 +0000" channel="1000XHora TV.uy"><title>EL JUGUETERO</title><desc>EL JUGUETERO</desc></programme>
+<programme start="20251229070000 +0000" stop="20251229073000 +0000" channel="1000XHora TV.uy"><title>LUBRICANTES</title><desc>LUBRICANTES</desc></programme>
+<programme start="20251229073000 +0000" stop="20251229080000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD CROACIA</title><desc>ON THE ROAD CROACIA</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229083000 +0000" channel="1000XHora TV.uy"><title>MUSEO DE COLONIA</title><desc>MUSEO DE COLONIA</desc></programme>
+<programme start="20251229083000 +0000" stop="20251229090000 +0000" channel="1000XHora TV.uy"><title>CHANTILLY</title><desc>2025</desc></programme>
+<programme start="20251229090000 +0000" stop="20251229093000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD MILANO</title><desc>ON THE ROAD MILANO</desc></programme>
+<programme start="20251229093000 +0000" stop="20251229100000 +0000" channel="1000XHora TV.uy"><title>PHA FABIAN DELGADO</title><desc>PHA FABIAN DELGADO</desc></programme>
+<programme start="20251229100000 +0000" stop="20251229103000 +0000" channel="1000XHora TV.uy"><title>AUTODROMO DE PIRIAPOLIS</title><desc>2023</desc></programme>
+<programme start="20251229103000 +0000" stop="20251229110000 +0000" channel="1000XHora TV.uy"><title>CONCURSO DE ELEGANCIA ITALIA</title><desc>CONCURSO DE ELEGANCIA ITALIA</desc></programme>
+<programme start="20251229110000 +0000" stop="20251229113000 +0000" channel="1000XHora TV.uy"><title>PHA FABIAN DELGADO</title><desc>PHA FABIAN DELGADO</desc></programme>
+<programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="1000XHora TV.uy"><title>RALLY COSTA BRAVA</title><desc>73 1-2025</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229123000 +0000" channel="1000XHora TV.uy"><title>MUSEO PRIVADO CORDOBA</title><desc>MUSEO PRIVADO CORDOBA</desc></programme>
+<programme start="20251229123000 +0000" stop="20251229130000 +0000" channel="1000XHora TV.uy"><title>AUROCLASICA</title><desc>2024</desc></programme>
+<programme start="20251229130000 +0000" stop="20251229140000 +0000" channel="1000XHora TV.uy"><title>1000XHORA</title><desc>1000XHORA</desc></programme>
+<programme start="20251229140000 +0000" stop="20251229143000 +0000" channel="1000XHora TV.uy"><title>MUSEO COTSWOLD</title><desc>MUSEO COTSWOLD</desc></programme>
+<programme start="20251229143000 +0000" stop="20251229150000 +0000" channel="1000XHora TV.uy"><title>F</title><desc>1 HISTORICO MONACO</desc></programme>
+<programme start="20251229150000 +0000" stop="20251229153000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD LAGO DI COMO</title><desc>ON THE ROAD LAGO DI COMO</desc></programme>
+<programme start="20251229153000 +0000" stop="20251229160000 +0000" channel="1000XHora TV.uy"><title>GOOD WOOD</title><desc>2025</desc></programme>
+<programme start="20251229160000 +0000" stop="20251229163000 +0000" channel="1000XHora TV.uy"><title>GOOD WOOD</title><desc>2025</desc></programme>
+<programme start="20251229163000 +0000" stop="20251229170000 +0000" channel="1000XHora TV.uy"><title>CONCORSO DE ELEGANCIA ITALIA</title><desc>CONCORSO DE ELEGANCIA ITALIA</desc></programme>
+<programme start="20251229170000 +0000" stop="20251229173000 +0000" channel="1000XHora TV.uy"><title>AUTO SHOW GANTE</title><desc>AUTO SHOW GANTE</desc></programme>
+<programme start="20251229173000 +0000" stop="20251229180000 +0000" channel="1000XHora TV.uy"><title>CHANTILLY</title><desc>2025</desc></programme>
+<programme start="20251229180000 +0000" stop="20251229183000 +0000" channel="1000XHora TV.uy"><title>MUSEO COTSWOLD</title><desc>MUSEO COTSWOLD</desc></programme>
+<programme start="20251229183000 +0000" stop="20251229193000 +0000" channel="1000XHora TV.uy"><title>POSICION 1</title><desc>POSICION 1</desc></programme>
+<programme start="20251229193000 +0000" stop="20251229200000 +0000" channel="1000XHora TV.uy"><title>PHA FABIAN DELGADO</title><desc>PHA FABIAN DELGADO</desc></programme>
+<programme start="20251229200000 +0000" stop="20251229203000 +0000" channel="1000XHora TV.uy"><title>ON THE ROAD MILANO</title><desc>ON THE ROAD MILANO</desc></programme>
+<programme start="20251229203000 +0000" stop="20251229210000 +0000" channel="1000XHora TV.uy"><title>FESTIVAL DE GOODWOOD</title><desc>2025</desc></programme>
+<programme start="20251229210000 +0000" stop="20251229220000 +0000" channel="1000XHora TV.uy"><title>1000XHORA</title><desc>1000XHORA</desc></programme>
+<programme start="20251229220000 +0000" stop="20251229235900 +0000" channel="1000XHora TV.uy"><title>KRONOMETRO CERO</title><desc>KRONOMETRO CERO</desc></programme>
 <programme start="20251228063000 +0000" stop="20251228073000 +0000" channel="A + V.uy"><title>Inforagro</title><desc>Inforagro</desc></programme>
-<programme start="20251228073000 +0000" stop="20251228073000 +0000" channel="A + V.uy"><title>Agro+Valor</title><desc>Agro+Valor</desc></programme>
 <programme start="20251228073000 +0000" stop="20251228080000 +0000" channel="A + V.uy"><title>Tecnovial</title><desc>Tecnovial</desc></programme>
-<programme start="20251228080000 +0000" stop="20251228080000 +0000" channel="A + V.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
 <programme start="20251228080000 +0000" stop="20251228081000 +0000" channel="A + V.uy"><title>Mundo Cooperativo</title><desc>Mundo Cooperativo</desc></programme>
-<programme start="20251228081000 +0000" stop="20251228081000 +0000" channel="A + V.uy"><title>Mundo Cooperativo</title><desc>Mundo Cooperativo</desc></programme>
-<programme start="20251228081000 +0000" stop="20251228090000 +0000" channel="A + V.uy"><title>Todo un paìs</title><desc>Todo un paìs</desc></programme>
-<programme start="20251228090000 +0000" stop="20251228093000 +0000" channel="A + V.uy"><title>Tecnovial</title><desc>Tecnovial</desc></programme>
-<programme start="20251228093000 +0000" stop="20251228093000 +0000" channel="A + V.uy"><title>Cosas de mi país</title><desc>Cosas de mi país</desc></programme>
-<programme start="20251228093000 +0000" stop="20251228100000 +0000" channel="A + V.uy"><title>Raices Nuestras</title><desc>Raices Nuestras</desc></programme>
-<programme start="20251228100000 +0000" stop="20251228103000 +0000" channel="A + V.uy"><title>Entre mates y guitarras</title><desc>Entre mates y guitarras</desc></programme>
+<programme start="20251228081000 +0000" stop="20251228093000 +0000" channel="A + V.uy"><title>Todo un paìs</title><desc>Todo un paìs</desc></programme>
+<programme start="20251228093000 +0000" stop="20251228103000 +0000" channel="A + V.uy"><title>Raices Nuestras</title><desc>Raices Nuestras</desc></programme>
 <programme start="20251228103000 +0000" stop="20251228110000 +0000" channel="A + V.uy"><title>La cancion nuestra sin fronteras</title><desc>La cancion nuestra sin fronteras</desc></programme>
 <programme start="20251228110000 +0000" stop="20251228120000 +0000" channel="A + V.uy"><title>Magazine Animal</title><desc>Magazine Animal</desc></programme>
 <programme start="20251228120000 +0000" stop="20251228180000 +0000" channel="A + V.uy"><title>Mucha cosa buena</title><desc>Mucha cosa buena</desc></programme>
 <programme start="20251228180000 +0000" stop="20251228190000 +0000" channel="A + V.uy"><title>De pago en pago</title><desc>De pago en pago</desc></programme>
-<programme start="20251228190000 +0000" stop="20251228190000 +0000" channel="A + V.uy"><title>El cubo</title><desc>El cubo</desc></programme>
 <programme start="20251228190000 +0000" stop="20251228200000 +0000" channel="A + V.uy"><title>Viajando por el interior</title><desc>Viajando por el interior</desc></programme>
-<programme start="20251228200000 +0000" stop="20251228200000 +0000" channel="A + V.uy"><title>Raices Nuestras</title><desc>Raices Nuestras</desc></programme>
 <programme start="20251228200000 +0000" stop="20251228210000 +0000" channel="A + V.uy"><title>Todo un paìs</title><desc>Todo un paìs</desc></programme>
 <programme start="20251228210000 +0000" stop="20251228220000 +0000" channel="A + V.uy"><title>Canciones con historia</title><desc>Canciones con historia</desc></programme>
-<programme start="20251228220000 +0000" stop="20251228220000 +0000" channel="A + V.uy"><title>Viajando por el interior</title><desc>Viajando por el interior</desc></programme>
 <programme start="20251228220000 +0000" stop="20251228230000 +0000" channel="A + V.uy"><title>Entre mates y guitarras</title><desc>Entre mates y guitarras</desc></programme>
-<programme start="20251228230000 +0000" stop="20251228235900 +0000" channel="A + V.uy"><title>La música siempre está</title><desc>La música siempre está</desc></programme>
-<programme start="20251227020000 +0000" stop="20251227023000 +0000" channel="Canal 5.uy"><title>EPA rep.</title><desc>EPA rep.</desc></programme>
-<programme start="20251227023000 +0000" stop="20251227043000 +0000" channel="Canal 5.uy"><title>5 Sentidos rep.</title><desc>5 Sentidos rep.</desc></programme>
-<programme start="20251227043000 +0000" stop="20251227053000 +0000" channel="Canal 5.uy"><title>Deportes 5</title><desc>Deportes 5</desc></programme>
-<programme start="20251227053000 +0000" stop="20251227070000 +0000" channel="Canal 5.uy"><title>El Recreo rep.</title><desc>El Recreo rep.</desc></programme>
-<programme start="20251227070000 +0000" stop="20251227073000 +0000" channel="Canal 5.uy"><title>Expreso Futuro</title><desc>Expreso Futuro</desc></programme>
-<programme start="20251227073000 +0000" stop="20251227080000 +0000" channel="Canal 5.uy"><title>DW. En Forma</title><desc>DW. En Forma</desc></programme>
-<programme start="20251227080000 +0000" stop="20251227083000 +0000" channel="Canal 5.uy"><title>DW. Escápate!</title><desc>DW. Escápate!</desc></programme>
-<programme start="20251227083000 +0000" stop="20251227090000 +0000" channel="Canal 5.uy"><title>Y Tú que Vas a Hacer?</title><desc>Y Tú que Vas a Hacer?</desc></programme>
-<programme start="20251227090000 +0000" stop="20251227100000 +0000" channel="Canal 5.uy"><title>El Canal de la Niñez</title><desc>El Canal de la Niñez</desc></programme>
-<programme start="20251227100000 +0000" stop="20251227110000 +0000" channel="Canal 5.uy"><title>Baby Deportivo</title><desc>Baby Deportivo</desc></programme>
-<programme start="20251227110000 +0000" stop="20251227120000 +0000" channel="Canal 5.uy"><title>1000 por Hora</title><desc>1000 por Hora</desc></programme>
-<programme start="20251227120000 +0000" stop="20251227140000 +0000" channel="Canal 5.uy"><title>Agroinforme</title><desc>Agroinforme</desc></programme>
-<programme start="20251227140000 +0000" stop="20251227143000 +0000" channel="Canal 5.uy"><title>Quien es Quien rep.</title><desc>Quien es Quien rep.</desc></programme>
-<programme start="20251227143000 +0000" stop="20251227153000 +0000" channel="Canal 5.uy"><title>Uruguay por Dentro</title><desc>Uruguay por Dentro</desc></programme>
-<programme start="20251227153000 +0000" stop="20251227160000 +0000" channel="Canal 5.uy"><title>El Monitor Plástico</title><desc>El Monitor Plástico</desc></programme>
-<programme start="20251227160000 +0000" stop="20251227163000 +0000" channel="Canal 5.uy"><title>Conciencia Vial rep.</title><desc>Conciencia Vial rep.</desc></programme>
-<programme start="20251227163000 +0000" stop="20251227190000 +0000" channel="Canal 5.uy"><title>Liga de Voliebol del Sur (LIVOSUR) Final Femenina</title><desc>Liga de Voliebol del Sur (LIVOSUR) Final Femenina</desc></programme>
-<programme start="20251227190000 +0000" stop="20251227200000 +0000" channel="Canal 5.uy"><title>Noticias</title><desc>5 Edicion Sábado</desc></programme>
-<programme start="20251227200000 +0000" stop="20251227210000 +0000" channel="Canal 5.uy"><title>Videoteca</title><desc>Videoteca</desc></programme>
-<programme start="20251227210000 +0000" stop="20251227220000 +0000" channel="Canal 5.uy"><title>Especial</title><desc>30 Años de la Plataforma de Accion de Beijing</desc></programme>
-<programme start="20251227220000 +0000" stop="20251228010000 +0000" channel="Canal 5.uy"><title>Greenwashed</title><desc>Greenwashed</desc></programme>
-<programme start="20251228010000 +0000" stop="20251228013000 +0000" channel="Canal 5.uy"><title>Deu Bola</title><desc>Deu Bola</desc></programme>
-<programme start="20251228013000 +0000" stop="20251228020000 +0000" channel="Canal 5.uy"><title>Mercados y Marchantes</title><desc>Mercados y Marchantes</desc></programme>
-<programme start="20251228020000 +0000" stop="20251228023000 +0000" channel="Canal 5.uy"><title>Historias Propias con la Escena en el Alma</title><desc>Historias Propias con la Escena en el Alma</desc></programme>
-<programme start="20251228023000 +0000" stop="20251228030000 +0000" channel="Canal 5.uy"><title>5 Sentidos rep.</title><desc>5 Sentidos rep.</desc></programme>
+<programme start="20251228230000 +0000" stop="20251229063000 +0000" channel="A + V.uy"><title>La música siempre está</title><desc>La música siempre está</desc></programme>
+<programme start="20251229063000 +0000" stop="20251229073000 +0000" channel="A + V.uy"><title>Inforagro</title><desc>Inforagro</desc></programme>
+<programme start="20251229073000 +0000" stop="20251229080000 +0000" channel="A + V.uy"><title>Tecnovial</title><desc>Tecnovial</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229081000 +0000" channel="A + V.uy"><title>Mundo Cooperativo</title><desc>Mundo Cooperativo</desc></programme>
+<programme start="20251229081000 +0000" stop="20251229093000 +0000" channel="A + V.uy"><title>Todo un paìs</title><desc>Todo un paìs</desc></programme>
+<programme start="20251229093000 +0000" stop="20251229103000 +0000" channel="A + V.uy"><title>Raices Nuestras</title><desc>Raices Nuestras</desc></programme>
+<programme start="20251229103000 +0000" stop="20251229110000 +0000" channel="A + V.uy"><title>La cancion nuestra sin fronteras</title><desc>La cancion nuestra sin fronteras</desc></programme>
+<programme start="20251229110000 +0000" stop="20251229120000 +0000" channel="A + V.uy"><title>Magazine Animal</title><desc>Magazine Animal</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229180000 +0000" channel="A + V.uy"><title>Mucha cosa buena</title><desc>Mucha cosa buena</desc></programme>
+<programme start="20251229180000 +0000" stop="20251229190000 +0000" channel="A + V.uy"><title>De pago en pago</title><desc>De pago en pago</desc></programme>
+<programme start="20251229190000 +0000" stop="20251229200000 +0000" channel="A + V.uy"><title>Viajando por el interior</title><desc>Viajando por el interior</desc></programme>
+<programme start="20251229200000 +0000" stop="20251229210000 +0000" channel="A + V.uy"><title>Todo un paìs</title><desc>Todo un paìs</desc></programme>
+<programme start="20251229210000 +0000" stop="20251229220000 +0000" channel="A + V.uy"><title>Canciones con historia</title><desc>Canciones con historia</desc></programme>
+<programme start="20251229220000 +0000" stop="20251229230000 +0000" channel="A + V.uy"><title>Entre mates y guitarras</title><desc>Entre mates y guitarras</desc></programme>
+<programme start="20251229230000 +0000" stop="20251229235900 +0000" channel="A + V.uy"><title>La música siempre está</title><desc>La música siempre está</desc></programme>
+<programme start="20251228000000 +0000" stop="20251228100000 +0000" channel="ANPI TV.uy"><title>Programacion variada familiar</title><desc>Programacion variada familiar</desc></programme>
+<programme start="20251228100000 +0000" stop="20251229000000 +0000" channel="ANPI TV.uy"><title>Coctel Tv (repeticion)</title><desc>Coctel Tv (repeticion)</desc></programme>
+<programme start="20251229000000 +0000" stop="20251229000000 +0000" channel="ANPI TV.uy"><title>Programacion variada familiar</title><desc>Programacion variada familiar</desc></programme>
+<programme start="20251229000000 +0000" stop="20251229040000 +0000" channel="ANPI TV.uy"><title>Variedades</title><desc>Variedades</desc></programme>
+<programme start="20251229040000 +0000" stop="20251229080000 +0000" channel="ANPI TV.uy"><title>Programacion variada familiar</title><desc>Programacion variada familiar</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229100000 +0000" channel="ANPI TV.uy"><title>Variedades</title><desc>Variedades</desc></programme>
+<programme start="20251229100000 +0000" stop="20251229120000 +0000" channel="ANPI TV.uy"><title>Coctel Tv (repeticion)</title><desc>Coctel Tv (repeticion)</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229160000 +0000" channel="ANPI TV.uy"><title>Programacion variada familiar</title><desc>Programacion variada familiar</desc></programme>
+<programme start="20251229160000 +0000" stop="20251229200000 +0000" channel="ANPI TV.uy"><title>Variedades</title><desc>Variedades</desc></programme>
+<programme start="20251229200000 +0000" stop="20251229235900 +0000" channel="ANPI TV.uy"><title>Programacion variada familiar</title><desc>Programacion variada familiar</desc></programme>
+<programme start="20251228020000 +0000" stop="20251228030000 +0000" channel="Canal 5.uy"><title>Historias Propias con la Escena en el Alma</title><desc>Historias Propias con la Escena en el Alma</desc></programme>
 <programme start="20251228030000 +0000" stop="20251228040000 +0000" channel="Canal 5.uy"><title>Patrimonio Silencioso T2</title><desc>Patrimonio Silencioso T2</desc></programme>
-<programme start="20251228040000 +0000" stop="20251228043000 +0000" channel="Canal 5.uy"><title>Patrimonio Silencioso La Historia de una Nacion</title><desc>Patrimonio Silencioso La Historia de una Nacion</desc></programme>
-<programme start="20251228043000 +0000" stop="20251228050000 +0000" channel="Canal 5.uy"><title>Deportes 5</title><desc>Deportes 5</desc></programme>
-<programme start="20251228050000 +0000" stop="20251228053000 +0000" channel="Canal 5.uy"><title>Uruguay por Dentro</title><desc>Uruguay por Dentro</desc></programme>
-<programme start="20251228053000 +0000" stop="20251228060000 +0000" channel="Canal 5.uy"><title>El Recreo rep.</title><desc>El Recreo rep.</desc></programme>
+<programme start="20251228040000 +0000" stop="20251228050000 +0000" channel="Canal 5.uy"><title>Patrimonio Silencioso La Historia de una Nacion</title><desc>Patrimonio Silencioso La Historia de una Nacion</desc></programme>
+<programme start="20251228050000 +0000" stop="20251228060000 +0000" channel="Canal 5.uy"><title>Uruguay por Dentro</title><desc>Uruguay por Dentro</desc></programme>
 <programme start="20251228060000 +0000" stop="20251228070000 +0000" channel="Canal 5.uy"><title>Historias Propias T9</title><desc>Historias Propias T9</desc></programme>
-<programme start="20251228070000 +0000" stop="20251228070000 +0000" channel="Canal 5.uy"><title>Expreso Futuro</title><desc>Expreso Futuro</desc></programme>
 <programme start="20251228070000 +0000" stop="20251228073000 +0000" channel="Canal 5.uy"><title>DW. Todo Deporte</title><desc>DW. Todo Deporte</desc></programme>
-<programme start="20251228073000 +0000" stop="20251228073000 +0000" channel="Canal 5.uy"><title>DW. En Forma</title><desc>DW. En Forma</desc></programme>
 <programme start="20251228073000 +0000" stop="20251228080000 +0000" channel="Canal 5.uy"><title>DW. Enlaces</title><desc>DW. Enlaces</desc></programme>
-<programme start="20251228080000 +0000" stop="20251228080000 +0000" channel="Canal 5.uy"><title>DW. Escápate!</title><desc>DW. Escápate!</desc></programme>
 <programme start="20251228080000 +0000" stop="20251228083000 +0000" channel="Canal 5.uy"><title>DW. Cultura</title><desc>21</desc></programme>
-<programme start="20251228083000 +0000" stop="20251228083000 +0000" channel="Canal 5.uy"><title>Y Tú que Vas a Hacer?</title><desc>Y Tú que Vas a Hacer?</desc></programme>
 <programme start="20251228083000 +0000" stop="20251228090000 +0000" channel="Canal 5.uy"><title>Bestiario</title><desc>Bestiario</desc></programme>
 <programme start="20251228090000 +0000" stop="20251228100000 +0000" channel="Canal 5.uy"><title>El Canal de la Niñez</title><desc>El Canal de la Niñez</desc></programme>
 <programme start="20251228100000 +0000" stop="20251228110000 +0000" channel="Canal 5.uy"><title>Baby Deportivo</title><desc>Baby Deportivo</desc></programme>
-<programme start="20251228110000 +0000" stop="20251228110000 +0000" channel="Canal 5.uy"><title>1000 por Hora</title><desc>1000 por Hora</desc></programme>
 <programme start="20251228110000 +0000" stop="20251228120000 +0000" channel="Canal 5.uy"><title>Patrimonio Silencioso Uruguay</title><desc>Patrimonio Silencioso Uruguay</desc></programme>
 <programme start="20251228120000 +0000" stop="20251228140000 +0000" channel="Canal 5.uy"><title>Agroinforme</title><desc>Agroinforme</desc></programme>
-<programme start="20251228140000 +0000" stop="20251228140000 +0000" channel="Canal 5.uy"><title>Quien es Quien rep.</title><desc>Quien es Quien rep.</desc></programme>
-<programme start="20251228140000 +0000" stop="20251228143000 +0000" channel="Canal 5.uy"><title>Aprendices</title><desc>Aprendices</desc></programme>
-<programme start="20251228143000 +0000" stop="20251228150000 +0000" channel="Canal 5.uy"><title>Uruguay por Dentro</title><desc>Uruguay por Dentro</desc></programme>
+<programme start="20251228140000 +0000" stop="20251228150000 +0000" channel="Canal 5.uy"><title>Aprendices</title><desc>Aprendices</desc></programme>
 <programme start="20251228150000 +0000" stop="20251228153000 +0000" channel="Canal 5.uy"><title>Mexico Biocultural</title><desc>Mexico Biocultural</desc></programme>
-<programme start="20251228153000 +0000" stop="20251228153000 +0000" channel="Canal 5.uy"><title>El Monitor Plástico</title><desc>El Monitor Plástico</desc></programme>
 <programme start="20251228153000 +0000" stop="20251228160000 +0000" channel="Canal 5.uy"><title>DW. En Forma</title><desc>DW. En Forma</desc></programme>
-<programme start="20251228160000 +0000" stop="20251228160000 +0000" channel="Canal 5.uy"><title>Conciencia Vial rep.</title><desc>Conciencia Vial rep.</desc></programme>
 <programme start="20251228160000 +0000" stop="20251228163000 +0000" channel="Canal 5.uy"><title>DW. Cultura</title><desc>21</desc></programme>
-<programme start="20251228163000 +0000" stop="20251228163000 +0000" channel="Canal 5.uy"><title>Liga de Voliebol del Sur (LIVOSUR) Final Femenina</title><desc>Liga de Voliebol del Sur (LIVOSUR) Final Femenina</desc></programme>
 <programme start="20251228163000 +0000" stop="20251228190000 +0000" channel="Canal 5.uy"><title>Liga de Voleibol del Sur (LIVOSUR)</title><desc>Final Masculina</desc></programme>
-<programme start="20251228190000 +0000" stop="20251228190000 +0000" channel="Canal 5.uy"><title>Noticias</title><desc>5 Edicion Sábado</desc></programme>
 <programme start="20251228190000 +0000" stop="20251228200000 +0000" channel="Canal 5.uy"><title>Noticias</title><desc>5 Edicion Domingo</desc></programme>
-<programme start="20251228200000 +0000" stop="20251228200000 +0000" channel="Canal 5.uy"><title>Videoteca</title><desc>Videoteca</desc></programme>
 <programme start="20251228200000 +0000" stop="20251228203000 +0000" channel="Canal 5.uy"><title>Aprendices</title><desc>Aprendices</desc></programme>
 <programme start="20251228203000 +0000" stop="20251228210000 +0000" channel="Canal 5.uy"><title>Aprendices</title><desc>Aprendices</desc></programme>
-<programme start="20251228210000 +0000" stop="20251228210000 +0000" channel="Canal 5.uy"><title>Especial</title><desc>30 Años de la Plataforma de Accion de Beijing</desc></programme>
 <programme start="20251228210000 +0000" stop="20251228220000 +0000" channel="Canal 5.uy"><title>Historias Propias T9</title><desc>Historias Propias T9</desc></programme>
-<programme start="20251228220000 +0000" stop="20251228220000 +0000" channel="Canal 5.uy"><title>Greenwashed</title><desc>Greenwashed</desc></programme>
-<programme start="20251228220000 +0000" stop="20251228235900 +0000" channel="Canal 5.uy"><title>La Hora de los Deportes</title><desc>La Hora de los Deportes</desc></programme>
-<programme start="20251227020000 +0000" stop="20251227023000 +0000" channel="Canal 6 Durazno.uy"><title>Nuestro Canto</title><desc>Nuestro Canto</desc></programme>
-<programme start="20251227023000 +0000" stop="20251227030000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251227030000 +0000" stop="20251227033000 +0000" channel="Canal 6 Durazno.uy"><title>Nuestro Canto</title><desc>Nuestro Canto</desc></programme>
-<programme start="20251227033000 +0000" stop="20251227040000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251227040000 +0000" stop="20251227043000 +0000" channel="Canal 6 Durazno.uy"><title>Cosas de mi Pais</title><desc>Cosas de mi Pais</desc></programme>
-<programme start="20251227043000 +0000" stop="20251227050000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251227050000 +0000" stop="20251227053000 +0000" channel="Canal 6 Durazno.uy"><title>Turismo Siglo</title><desc>21</desc></programme>
-<programme start="20251227053000 +0000" stop="20251227060000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251227060000 +0000" stop="20251227063000 +0000" channel="Canal 6 Durazno.uy"><title>La Cinta de los exitos</title><desc>La Cinta de los exitos</desc></programme>
-<programme start="20251227063000 +0000" stop="20251227070000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251227070000 +0000" stop="20251227073000 +0000" channel="Canal 6 Durazno.uy"><title>Enfoques</title><desc>Enfoques</desc></programme>
-<programme start="20251227073000 +0000" stop="20251227080000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251227080000 +0000" stop="20251227083000 +0000" channel="Canal 6 Durazno.uy"><title>Impacto Music</title><desc>Impacto Music</desc></programme>
-<programme start="20251227083000 +0000" stop="20251227090000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251227090000 +0000" stop="20251227093000 +0000" channel="Canal 6 Durazno.uy"><title>Eramos tan Jovenes</title><desc>Eramos tan Jovenes</desc></programme>
-<programme start="20251227093000 +0000" stop="20251227100000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251227100000 +0000" stop="20251227103000 +0000" channel="Canal 6 Durazno.uy"><title>Twister</title><desc>Twister</desc></programme>
-<programme start="20251227103000 +0000" stop="20251227110000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251227110000 +0000" stop="20251227120000 +0000" channel="Canal 6 Durazno.uy"><title>Ultra Hits</title><desc>Ultra Hits</desc></programme>
-<programme start="20251227120000 +0000" stop="20251227123000 +0000" channel="Canal 6 Durazno.uy"><title>Nuestro Canto</title><desc>Nuestro Canto</desc></programme>
-<programme start="20251227123000 +0000" stop="20251227130000 +0000" channel="Canal 6 Durazno.uy"><title>Horoscopo</title><desc>Horoscopo</desc></programme>
-<programme start="20251227130000 +0000" stop="20251227140000 +0000" channel="Canal 6 Durazno.uy"><title>Repeticion Informativo</title><desc>Repeticion Informativo</desc></programme>
-<programme start="20251227140000 +0000" stop="20251227150000 +0000" channel="Canal 6 Durazno.uy"><title>La Cocina de Naty</title><desc>La Cocina de Naty</desc></programme>
-<programme start="20251227150000 +0000" stop="20251227160000 +0000" channel="Canal 6 Durazno.uy"><title>Destino Costa de Oro</title><desc>Destino Costa de Oro</desc></programme>
-<programme start="20251227160000 +0000" stop="20251227163000 +0000" channel="Canal 6 Durazno.uy"><title>Tangos Ver y Escuchar</title><desc>Tangos Ver y Escuchar</desc></programme>
-<programme start="20251227163000 +0000" stop="20251227170000 +0000" channel="Canal 6 Durazno.uy"><title>TeleRemate</title><desc>TeleRemate</desc></programme>
-<programme start="20251227170000 +0000" stop="20251227173000 +0000" channel="Canal 6 Durazno.uy"><title>Tele</title><desc>8 Tropical</desc></programme>
-<programme start="20251227173000 +0000" stop="20251227180000 +0000" channel="Canal 6 Durazno.uy"><title>TeleRemate</title><desc>TeleRemate</desc></programme>
-<programme start="20251227180000 +0000" stop="20251227190000 +0000" channel="Canal 6 Durazno.uy"><title>Canto de Aquí nomas</title><desc>Canto de Aquí nomas</desc></programme>
-<programme start="20251227190000 +0000" stop="20251227200000 +0000" channel="Canal 6 Durazno.uy"><title>Panorama Agropecuario</title><desc>Panorama Agropecuario</desc></programme>
-<programme start="20251227200000 +0000" stop="20251227210000 +0000" channel="Canal 6 Durazno.uy"><title>Alta Presion</title><desc>Alta Presion</desc></programme>
-<programme start="20251227210000 +0000" stop="20251227220000 +0000" channel="Canal 6 Durazno.uy"><title>Una Noche de Oldies</title><desc>Una Noche de Oldies</desc></programme>
-<programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="Canal 6 Durazno.uy"><title>Cicerone</title><desc>Cicerone</desc></programme>
-<programme start="20251227230000 +0000" stop="20251228000000 +0000" channel="Canal 6 Durazno.uy"><title>Especiales</title><desc>Especiales</desc></programme>
-<programme start="20251228000000 +0000" stop="20251228003000 +0000" channel="Canal 6 Durazno.uy"><title>Tele</title><desc>8 Tropical</desc></programme>
-<programme start="20251228003000 +0000" stop="20251228010000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251228010000 +0000" stop="20251228013000 +0000" channel="Canal 6 Durazno.uy"><title>Twister</title><desc>Twister</desc></programme>
-<programme start="20251228013000 +0000" stop="20251228020000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251228220000 +0000" stop="20251229000000 +0000" channel="Canal 5.uy"><title>La Hora de los Deportes</title><desc>La Hora de los Deportes</desc></programme>
+<programme start="20251229000000 +0000" stop="20251229010000 +0000" channel="Canal 5.uy"><title>Sesiones Vagabundas</title><desc>Sesiones Vagabundas</desc></programme>
+<programme start="20251229010000 +0000" stop="20251229020000 +0000" channel="Canal 5.uy"><title>Mesa para Trece</title><desc>Mesa para Trece</desc></programme>
+<programme start="20251229020000 +0000" stop="20251229023000 +0000" channel="Canal 5.uy"><title>Una de Amor</title><desc>Una de Amor</desc></programme>
+<programme start="20251229023000 +0000" stop="20251229030000 +0000" channel="Canal 5.uy"><title>DW. Cultura</title><desc>21</desc></programme>
+<programme start="20251229030000 +0000" stop="20251229030000 +0000" channel="Canal 5.uy"><title>Patrimonio Silencioso T2</title><desc>Patrimonio Silencioso T2</desc></programme>
+<programme start="20251229030000 +0000" stop="20251229033000 +0000" channel="Canal 5.uy"><title>DW. Enlaces</title><desc>DW. Enlaces</desc></programme>
+<programme start="20251229033000 +0000" stop="20251229040000 +0000" channel="Canal 5.uy"><title>Patrimonio Silencioso Historias Mitos y Leyendas Martín Aquino</title><desc>Patrimonio Silencioso Historias Mitos y Leyendas Martín Aquino</desc></programme>
+<programme start="20251229040000 +0000" stop="20251229040000 +0000" channel="Canal 5.uy"><title>Patrimonio Silencioso La Historia de una Nacion</title><desc>Patrimonio Silencioso La Historia de una Nacion</desc></programme>
+<programme start="20251229040000 +0000" stop="20251229043000 +0000" channel="Canal 5.uy"><title>Patrimonio Silenciosos Historias Mitos y Leyendas Martín Aquino</title><desc>Patrimonio Silenciosos Historias Mitos y Leyendas Martín Aquino</desc></programme>
+<programme start="20251229043000 +0000" stop="20251229050000 +0000" channel="Canal 5.uy"><title>Mercados y Marchantes</title><desc>Mercados y Marchantes</desc></programme>
+<programme start="20251229050000 +0000" stop="20251229050000 +0000" channel="Canal 5.uy"><title>Uruguay por Dentro</title><desc>Uruguay por Dentro</desc></programme>
+<programme start="20251229050000 +0000" stop="20251229053000 +0000" channel="Canal 5.uy"><title>El Monitor Plástico</title><desc>El Monitor Plástico</desc></programme>
+<programme start="20251229053000 +0000" stop="20251229060000 +0000" channel="Canal 5.uy"><title>Patrimonio Silencioso Artistas y sus Pueblos</title><desc>Patrimonio Silencioso Artistas y sus Pueblos</desc></programme>
+<programme start="20251229060000 +0000" stop="20251229063000 +0000" channel="Canal 5.uy"><title>Historias Propias T9</title><desc>Historias Propias T9</desc></programme>
+<programme start="20251229063000 +0000" stop="20251229070000 +0000" channel="Canal 5.uy"><title>DW. En Forma</title><desc>DW. En Forma</desc></programme>
+<programme start="20251229070000 +0000" stop="20251229070000 +0000" channel="Canal 5.uy"><title>DW. Todo Deporte</title><desc>DW. Todo Deporte</desc></programme>
+<programme start="20251229070000 +0000" stop="20251229073000 +0000" channel="Canal 5.uy"><title>Noticias</title><desc>5 Primera Edicion</desc></programme>
+<programme start="20251229073000 +0000" stop="20251229080000 +0000" channel="Canal 5.uy"><title>DW. Enlaces</title><desc>DW. Enlaces</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229080000 +0000" channel="Canal 5.uy"><title>DW. Cultura</title><desc>21</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229083000 +0000" channel="Canal 5.uy"><title>5 Sentidos</title><desc>5 Sentidos</desc></programme>
+<programme start="20251229083000 +0000" stop="20251229090000 +0000" channel="Canal 5.uy"><title>Bestiario</title><desc>Bestiario</desc></programme>
+<programme start="20251229090000 +0000" stop="20251229100000 +0000" channel="Canal 5.uy"><title>El Canal de la Niñez</title><desc>El Canal de la Niñez</desc></programme>
+<programme start="20251229100000 +0000" stop="20251229100000 +0000" channel="Canal 5.uy"><title>Baby Deportivo</title><desc>Baby Deportivo</desc></programme>
+<programme start="20251229100000 +0000" stop="20251229110000 +0000" channel="Canal 5.uy"><title>El Recreo</title><desc>El Recreo</desc></programme>
+<programme start="20251229110000 +0000" stop="20251229113000 +0000" channel="Canal 5.uy"><title>Patrimonio Silencioso Uruguay</title><desc>Patrimonio Silencioso Uruguay</desc></programme>
+<programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="Canal 5.uy"><title>DW. Cultura</title><desc>21</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229120000 +0000" channel="Canal 5.uy"><title>Agroinforme</title><desc>Agroinforme</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229130000 +0000" channel="Canal 5.uy"><title>Noticias</title><desc>5 Segunda Edicion</desc></programme>
+<programme start="20251229130000 +0000" stop="20251229140000 +0000" channel="Canal 5.uy"><title>Deportes 5</title><desc>Deportes 5</desc></programme>
+<programme start="20251229140000 +0000" stop="20251229140000 +0000" channel="Canal 5.uy"><title>Aprendices</title><desc>Aprendices</desc></programme>
+<programme start="20251229140000 +0000" stop="20251229150000 +0000" channel="Canal 5.uy"><title>Buscadores</title><desc>Buscadores</desc></programme>
+<programme start="20251229150000 +0000" stop="20251229153000 +0000" channel="Canal 5.uy"><title>Mexico Biocultural</title><desc>Mexico Biocultural</desc></programme>
+<programme start="20251229153000 +0000" stop="20251229160000 +0000" channel="Canal 5.uy"><title>DW. En Forma</title><desc>DW. En Forma</desc></programme>
+<programme start="20251229160000 +0000" stop="20251229160000 +0000" channel="Canal 5.uy"><title>DW. Cultura</title><desc>21</desc></programme>
+<programme start="20251229160000 +0000" stop="20251229163000 +0000" channel="Canal 5.uy"><title>El Living</title><desc>El Living</desc></programme>
+<programme start="20251229163000 +0000" stop="20251229173000 +0000" channel="Canal 5.uy"><title>Liga de Voleibol del Sur (LIVOSUR)</title><desc>Final Masculina</desc></programme>
+<programme start="20251229173000 +0000" stop="20251229180000 +0000" channel="Canal 5.uy"><title>El Canal de la Niñez</title><desc>El Canal de la Niñez</desc></programme>
+<programme start="20251229180000 +0000" stop="20251229183000 +0000" channel="Canal 5.uy"><title>Antártida</title><desc>El Continente de Todos</desc></programme>
+<programme start="20251229183000 +0000" stop="20251229190000 +0000" channel="Canal 5.uy"><title>Noticias</title><desc>5 Edicion Central</desc></programme>
+<programme start="20251229190000 +0000" stop="20251229200000 +0000" channel="Canal 5.uy"><title>Noticias</title><desc>5 Edicion Domingo</desc></programme>
+<programme start="20251229200000 +0000" stop="20251229203000 +0000" channel="Canal 5.uy"><title>Aprendices</title><desc>Aprendices</desc></programme>
+<programme start="20251229203000 +0000" stop="20251229203000 +0000" channel="Canal 5.uy"><title>Aprendices</title><desc>Aprendices</desc></programme>
+<programme start="20251229203000 +0000" stop="20251229210000 +0000" channel="Canal 5.uy"><title>EPA</title><desc>EPA</desc></programme>
+<programme start="20251229210000 +0000" stop="20251229220000 +0000" channel="Canal 5.uy"><title>Historias Propias T9</title><desc>Historias Propias T9</desc></programme>
+<programme start="20251229220000 +0000" stop="20251229220000 +0000" channel="Canal 5.uy"><title>La Hora de los Deportes</title><desc>La Hora de los Deportes</desc></programme>
+<programme start="20251229220000 +0000" stop="20251229223000 +0000" channel="Canal 5.uy"><title>El Metodo</title><desc>Principio de Identidad</desc></programme>
+<programme start="20251229223000 +0000" stop="20251229233000 +0000" channel="Canal 5.uy"><title>Patrimonio Silencioso La Historia de una Nacion</title><desc>Patrimonio Silencioso La Historia de una Nacion</desc></programme>
+<programme start="20251229233000 +0000" stop="20251229235900 +0000" channel="Canal 5.uy"><title>DW. Todo Deporte</title><desc>DW. Todo Deporte</desc></programme>
 <programme start="20251228020000 +0000" stop="20251228023000 +0000" channel="Canal 6 Durazno.uy"><title>Cosas de mi Pais</title><desc>Cosas de mi Pais</desc></programme>
 <programme start="20251228023000 +0000" stop="20251228030000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251228030000 +0000" stop="20251228030000 +0000" channel="Canal 6 Durazno.uy"><title>Nuestro Canto</title><desc>Nuestro Canto</desc></programme>
 <programme start="20251228030000 +0000" stop="20251228033000 +0000" channel="Canal 6 Durazno.uy"><title>Sin Fronteras</title><desc>Sin Fronteras</desc></programme>
 <programme start="20251228033000 +0000" stop="20251228040000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251228040000 +0000" stop="20251228040000 +0000" channel="Canal 6 Durazno.uy"><title>Cosas de mi Pais</title><desc>Cosas de mi Pais</desc></programme>
 <programme start="20251228040000 +0000" stop="20251228043000 +0000" channel="Canal 6 Durazno.uy"><title>Hablemos de Salud</title><desc>Hablemos de Salud</desc></programme>
 <programme start="20251228043000 +0000" stop="20251228050000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251228050000 +0000" stop="20251228050000 +0000" channel="Canal 6 Durazno.uy"><title>Turismo Siglo</title><desc>21</desc></programme>
 <programme start="20251228050000 +0000" stop="20251228053000 +0000" channel="Canal 6 Durazno.uy"><title>Canto de Aquí Nomas</title><desc>Canto de Aquí Nomas</desc></programme>
 <programme start="20251228053000 +0000" stop="20251228060000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251228060000 +0000" stop="20251228060000 +0000" channel="Canal 6 Durazno.uy"><title>La Cinta de los exitos</title><desc>La Cinta de los exitos</desc></programme>
 <programme start="20251228060000 +0000" stop="20251228063000 +0000" channel="Canal 6 Durazno.uy"><title>Historias de Mar y Sierras</title><desc>Historias de Mar y Sierras</desc></programme>
 <programme start="20251228063000 +0000" stop="20251228070000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251228070000 +0000" stop="20251228070000 +0000" channel="Canal 6 Durazno.uy"><title>Enfoques</title><desc>Enfoques</desc></programme>
 <programme start="20251228070000 +0000" stop="20251228073000 +0000" channel="Canal 6 Durazno.uy"><title>Una Noche de Oldies</title><desc>Una Noche de Oldies</desc></programme>
 <programme start="20251228073000 +0000" stop="20251228080000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251228080000 +0000" stop="20251228080000 +0000" channel="Canal 6 Durazno.uy"><title>Impacto Music</title><desc>Impacto Music</desc></programme>
 <programme start="20251228080000 +0000" stop="20251228083000 +0000" channel="Canal 6 Durazno.uy"><title>Panorama Agropecuario</title><desc>Panorama Agropecuario</desc></programme>
 <programme start="20251228083000 +0000" stop="20251228090000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251228090000 +0000" stop="20251228090000 +0000" channel="Canal 6 Durazno.uy"><title>Eramos tan Jovenes</title><desc>Eramos tan Jovenes</desc></programme>
 <programme start="20251228090000 +0000" stop="20251228093000 +0000" channel="Canal 6 Durazno.uy"><title>Destino Costa de Oro</title><desc>Destino Costa de Oro</desc></programme>
 <programme start="20251228093000 +0000" stop="20251228100000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251228100000 +0000" stop="20251228100000 +0000" channel="Canal 6 Durazno.uy"><title>Twister</title><desc>Twister</desc></programme>
 <programme start="20251228100000 +0000" stop="20251228103000 +0000" channel="Canal 6 Durazno.uy"><title>Cosas de mi Pais</title><desc>Cosas de mi Pais</desc></programme>
 <programme start="20251228103000 +0000" stop="20251228110000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251228110000 +0000" stop="20251228110000 +0000" channel="Canal 6 Durazno.uy"><title>Ultra Hits</title><desc>Ultra Hits</desc></programme>
 <programme start="20251228110000 +0000" stop="20251228120000 +0000" channel="Canal 6 Durazno.uy"><title>Alta Presion</title><desc>Alta Presion</desc></programme>
-<programme start="20251228120000 +0000" stop="20251228120000 +0000" channel="Canal 6 Durazno.uy"><title>Nuestro Canto</title><desc>Nuestro Canto</desc></programme>
-<programme start="20251228120000 +0000" stop="20251228123000 +0000" channel="Canal 6 Durazno.uy"><title>Impacto Music</title><desc>Impacto Music</desc></programme>
-<programme start="20251228123000 +0000" stop="20251228130000 +0000" channel="Canal 6 Durazno.uy"><title>Horoscopo</title><desc>Horoscopo</desc></programme>
-<programme start="20251228130000 +0000" stop="20251228130000 +0000" channel="Canal 6 Durazno.uy"><title>Repeticion Informativo</title><desc>Repeticion Informativo</desc></programme>
+<programme start="20251228120000 +0000" stop="20251228130000 +0000" channel="Canal 6 Durazno.uy"><title>Impacto Music</title><desc>Impacto Music</desc></programme>
 <programme start="20251228130000 +0000" stop="20251228133000 +0000" channel="Canal 6 Durazno.uy"><title>Bloopers</title><desc>Bloopers</desc></programme>
 <programme start="20251228133000 +0000" stop="20251228140000 +0000" channel="Canal 6 Durazno.uy"><title>La Montaña Magica</title><desc>La Montaña Magica</desc></programme>
-<programme start="20251228140000 +0000" stop="20251228140000 +0000" channel="Canal 6 Durazno.uy"><title>La Cocina de Naty</title><desc>La Cocina de Naty</desc></programme>
 <programme start="20251228140000 +0000" stop="20251228150000 +0000" channel="Canal 6 Durazno.uy"><title>Fuera de Lugar</title><desc>Fuera de Lugar</desc></programme>
-<programme start="20251228150000 +0000" stop="20251228150000 +0000" channel="Canal 6 Durazno.uy"><title>Destino Costa de Oro</title><desc>Destino Costa de Oro</desc></programme>
 <programme start="20251228150000 +0000" stop="20251228160000 +0000" channel="Canal 6 Durazno.uy"><title>Cicerone</title><desc>Cicerone</desc></programme>
-<programme start="20251228160000 +0000" stop="20251228160000 +0000" channel="Canal 6 Durazno.uy"><title>Tangos Ver y Escuchar</title><desc>Tangos Ver y Escuchar</desc></programme>
 <programme start="20251228160000 +0000" stop="20251228163000 +0000" channel="Canal 6 Durazno.uy"><title>La Cinta de los Exitos</title><desc>La Cinta de los Exitos</desc></programme>
 <programme start="20251228163000 +0000" stop="20251228170000 +0000" channel="Canal 6 Durazno.uy"><title>TeleRemate</title><desc>TeleRemate</desc></programme>
-<programme start="20251228170000 +0000" stop="20251228170000 +0000" channel="Canal 6 Durazno.uy"><title>Tele</title><desc>8 Tropical</desc></programme>
-<programme start="20251228170000 +0000" stop="20251228173000 +0000" channel="Canal 6 Durazno.uy"><title>Inagro</title><desc>Inagro</desc></programme>
-<programme start="20251228173000 +0000" stop="20251228180000 +0000" channel="Canal 6 Durazno.uy"><title>TeleRemate</title><desc>TeleRemate</desc></programme>
-<programme start="20251228180000 +0000" stop="20251228180000 +0000" channel="Canal 6 Durazno.uy"><title>Canto de Aquí nomas</title><desc>Canto de Aquí nomas</desc></programme>
+<programme start="20251228170000 +0000" stop="20251228180000 +0000" channel="Canal 6 Durazno.uy"><title>Inagro</title><desc>Inagro</desc></programme>
 <programme start="20251228180000 +0000" stop="20251228190000 +0000" channel="Canal 6 Durazno.uy"><title>Canto de Aquí Nomas</title><desc>Canto de Aquí Nomas</desc></programme>
-<programme start="20251228190000 +0000" stop="20251228190000 +0000" channel="Canal 6 Durazno.uy"><title>Panorama Agropecuario</title><desc>Panorama Agropecuario</desc></programme>
 <programme start="20251228190000 +0000" stop="20251228200000 +0000" channel="Canal 6 Durazno.uy"><title>Al Angulo</title><desc>Al Angulo</desc></programme>
-<programme start="20251228200000 +0000" stop="20251228200000 +0000" channel="Canal 6 Durazno.uy"><title>Alta Presion</title><desc>Alta Presion</desc></programme>
 <programme start="20251228200000 +0000" stop="20251228210000 +0000" channel="Canal 6 Durazno.uy"><title>Historias de Mar y Sierras</title><desc>Historias de Mar y Sierras</desc></programme>
-<programme start="20251228210000 +0000" stop="20251228210000 +0000" channel="Canal 6 Durazno.uy"><title>Una Noche de Oldies</title><desc>Una Noche de Oldies</desc></programme>
 <programme start="20251228210000 +0000" stop="20251228220000 +0000" channel="Canal 6 Durazno.uy"><title>Cosas de mi Pais</title><desc>Cosas de mi Pais</desc></programme>
-<programme start="20251228220000 +0000" stop="20251228220000 +0000" channel="Canal 6 Durazno.uy"><title>Cicerone</title><desc>Cicerone</desc></programme>
 <programme start="20251228220000 +0000" stop="20251228230000 +0000" channel="Canal 6 Durazno.uy"><title>Impacto Music</title><desc>Impacto Music</desc></programme>
-<programme start="20251228230000 +0000" stop="20251228235900 +0000" channel="Canal 6 Durazno.uy"><title>Especiales</title><desc>Especiales</desc></programme>
-<programme start="20251227020000 +0000" stop="20251227080000 +0000" channel="Canal 8 Rivera.uy"><title>Programacion Variada</title><desc>Programacion Variada</desc></programme>
-<programme start="20251227080000 +0000" stop="20251227090000 +0000" channel="Canal 8 Rivera.uy"><title>Informativo Rivera Noticias</title><desc>Informativo Rivera Noticias</desc></programme>
-<programme start="20251227090000 +0000" stop="20251227093000 +0000" channel="Canal 8 Rivera.uy"><title>Turismo interoceánico</title><desc>Turismo interoceánico</desc></programme>
-<programme start="20251227093000 +0000" stop="20251227103000 +0000" channel="Canal 8 Rivera.uy"><title>Destino Costa de Oro</title><desc>Destino Costa de Oro</desc></programme>
-<programme start="20251227103000 +0000" stop="20251227110000 +0000" channel="Canal 8 Rivera.uy"><title>Nuestro Canto</title><desc>Nuestro Canto</desc></programme>
-<programme start="20251227110000 +0000" stop="20251227120000 +0000" channel="Canal 8 Rivera.uy"><title>Entre mate y guitarras</title><desc>Entre mate y guitarras</desc></programme>
-<programme start="20251227120000 +0000" stop="20251227140000 +0000" channel="Canal 8 Rivera.uy"><title>Edicion Ilimitada</title><desc>Edicion Ilimitada</desc></programme>
-<programme start="20251227140000 +0000" stop="20251227153000 +0000" channel="Canal 8 Rivera.uy"><title>Cine para la Familia</title><desc>Cine para la Familia</desc></programme>
-<programme start="20251227153000 +0000" stop="20251227163000 +0000" channel="Canal 8 Rivera.uy"><title>Viaje al fondo del mar</title><desc>Viaje al fondo del mar</desc></programme>
-<programme start="20251227163000 +0000" stop="20251227173000 +0000" channel="Canal 8 Rivera.uy"><title>La Mujer Maravilla</title><desc>La Mujer Maravilla</desc></programme>
-<programme start="20251227173000 +0000" stop="20251227180000 +0000" channel="Canal 8 Rivera.uy"><title>Super Agente F86</title><desc>Super Agente F86</desc></programme>
-<programme start="20251227180000 +0000" stop="20251227183000 +0000" channel="Canal 8 Rivera.uy"><title>El Chavo</title><desc>El Chavo</desc></programme>
-<programme start="20251227183000 +0000" stop="20251227190000 +0000" channel="Canal 8 Rivera.uy"><title>Bloopers</title><desc>Bloopers</desc></programme>
-<programme start="20251227190000 +0000" stop="20251227200000 +0000" channel="Canal 8 Rivera.uy"><title>La Revista</title><desc>La Revista</desc></programme>
-<programme start="20251227200000 +0000" stop="20251227210000 +0000" channel="Canal 8 Rivera.uy"><title>Resumen semanal noticias</title><desc>Resumen semanal noticias</desc></programme>
-<programme start="20251227210000 +0000" stop="20251227213000 +0000" channel="Canal 8 Rivera.uy"><title>Sesiones</title><desc>Sesiones</desc></programme>
-<programme start="20251227213000 +0000" stop="20251227223000 +0000" channel="Canal 8 Rivera.uy"><title>La Cinta de los Éxitos</title><desc>La Cinta de los Éxitos</desc></programme>
-<programme start="20251227223000 +0000" stop="20251227233000 +0000" channel="Canal 8 Rivera.uy"><title>Tropical del 8</title><desc>Tropical del 8</desc></programme>
-<programme start="20251227233000 +0000" stop="20251228003000 +0000" channel="Canal 8 Rivera.uy"><title>Resumen semanal noticias</title><desc>Resumen semanal noticias</desc></programme>
-<programme start="20251228003000 +0000" stop="20251228020000 +0000" channel="Canal 8 Rivera.uy"><title>Cine Latino</title><desc>Cine Latino</desc></programme>
-<programme start="20251228020000 +0000" stop="20251228020000 +0000" channel="Canal 8 Rivera.uy"><title>Programacion Variada</title><desc>Programacion Variada</desc></programme>
+<programme start="20251228230000 +0000" stop="20251229000000 +0000" channel="Canal 6 Durazno.uy"><title>Especiales</title><desc>Especiales</desc></programme>
+<programme start="20251229000000 +0000" stop="20251229003000 +0000" channel="Canal 6 Durazno.uy"><title>La Montaña Magica</title><desc>La Montaña Magica</desc></programme>
+<programme start="20251229003000 +0000" stop="20251229010000 +0000" channel="Canal 6 Durazno.uy"><title>Rotativa</title><desc>Rotativa</desc></programme>
+<programme start="20251229010000 +0000" stop="20251229013000 +0000" channel="Canal 6 Durazno.uy"><title>Sin Fronteras</title><desc>Sin Fronteras</desc></programme>
+<programme start="20251229013000 +0000" stop="20251229020000 +0000" channel="Canal 6 Durazno.uy"><title>Rotativa</title><desc>Rotativa</desc></programme>
+<programme start="20251229020000 +0000" stop="20251229023000 +0000" channel="Canal 6 Durazno.uy"><title>Panorama Agropecuario</title><desc>Panorama Agropecuario</desc></programme>
+<programme start="20251229023000 +0000" stop="20251229030000 +0000" channel="Canal 6 Durazno.uy"><title>Rotativa</title><desc>Rotativa</desc></programme>
+<programme start="20251229030000 +0000" stop="20251229030000 +0000" channel="Canal 6 Durazno.uy"><title>Sin Fronteras</title><desc>Sin Fronteras</desc></programme>
+<programme start="20251229030000 +0000" stop="20251229033000 +0000" channel="Canal 6 Durazno.uy"><title>Desde Adentro</title><desc>Desde Adentro</desc></programme>
+<programme start="20251229033000 +0000" stop="20251229033000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251229033000 +0000" stop="20251229040000 +0000" channel="Canal 6 Durazno.uy"><title>Rotativa</title><desc>Rotativa</desc></programme>
+<programme start="20251229040000 +0000" stop="20251229040000 +0000" channel="Canal 6 Durazno.uy"><title>Hablemos de Salud</title><desc>Hablemos de Salud</desc></programme>
+<programme start="20251229040000 +0000" stop="20251229043000 +0000" channel="Canal 6 Durazno.uy"><title>Cicerone</title><desc>Cicerone</desc></programme>
+<programme start="20251229043000 +0000" stop="20251229043000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251229043000 +0000" stop="20251229050000 +0000" channel="Canal 6 Durazno.uy"><title>Rotativa</title><desc>Rotativa</desc></programme>
+<programme start="20251229050000 +0000" stop="20251229050000 +0000" channel="Canal 6 Durazno.uy"><title>Canto de Aquí Nomas</title><desc>Canto de Aquí Nomas</desc></programme>
+<programme start="20251229050000 +0000" stop="20251229053000 +0000" channel="Canal 6 Durazno.uy"><title>Enfoques</title><desc>Enfoques</desc></programme>
+<programme start="20251229053000 +0000" stop="20251229053000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251229053000 +0000" stop="20251229060000 +0000" channel="Canal 6 Durazno.uy"><title>Rotativa</title><desc>Rotativa</desc></programme>
+<programme start="20251229060000 +0000" stop="20251229060000 +0000" channel="Canal 6 Durazno.uy"><title>Historias de Mar y Sierras</title><desc>Historias de Mar y Sierras</desc></programme>
+<programme start="20251229060000 +0000" stop="20251229063000 +0000" channel="Canal 6 Durazno.uy"><title>Canto de Aquí Nomas</title><desc>Canto de Aquí Nomas</desc></programme>
+<programme start="20251229063000 +0000" stop="20251229070000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251229070000 +0000" stop="20251229070000 +0000" channel="Canal 6 Durazno.uy"><title>Una Noche de Oldies</title><desc>Una Noche de Oldies</desc></programme>
+<programme start="20251229070000 +0000" stop="20251229073000 +0000" channel="Canal 6 Durazno.uy"><title>Historia de Mar y Sierras</title><desc>Historia de Mar y Sierras</desc></programme>
+<programme start="20251229073000 +0000" stop="20251229080000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229080000 +0000" channel="Canal 6 Durazno.uy"><title>Panorama Agropecuario</title><desc>Panorama Agropecuario</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229083000 +0000" channel="Canal 6 Durazno.uy"><title>Cicerone</title><desc>Cicerone</desc></programme>
+<programme start="20251229083000 +0000" stop="20251229090000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251229090000 +0000" stop="20251229090000 +0000" channel="Canal 6 Durazno.uy"><title>Destino Costa de Oro</title><desc>Destino Costa de Oro</desc></programme>
+<programme start="20251229090000 +0000" stop="20251229093000 +0000" channel="Canal 6 Durazno.uy"><title>Bloopers</title><desc>Bloopers</desc></programme>
+<programme start="20251229093000 +0000" stop="20251229100000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251229100000 +0000" stop="20251229100000 +0000" channel="Canal 6 Durazno.uy"><title>Cosas de mi Pais</title><desc>Cosas de mi Pais</desc></programme>
+<programme start="20251229100000 +0000" stop="20251229103000 +0000" channel="Canal 6 Durazno.uy"><title>La Montaña Magica</title><desc>La Montaña Magica</desc></programme>
+<programme start="20251229103000 +0000" stop="20251229110000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251229110000 +0000" stop="20251229110000 +0000" channel="Canal 6 Durazno.uy"><title>Alta Presion</title><desc>Alta Presion</desc></programme>
+<programme start="20251229110000 +0000" stop="20251229113000 +0000" channel="Canal 6 Durazno.uy"><title>Canto de Aquí Nomas</title><desc>Canto de Aquí Nomas</desc></programme>
+<programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="Canal 6 Durazno.uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229120000 +0000" channel="Canal 6 Durazno.uy"><title>Impacto Music</title><desc>Impacto Music</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229123000 +0000" channel="Canal 6 Durazno.uy"><title>La Cinta de los Exitos</title><desc>La Cinta de los Exitos</desc></programme>
+<programme start="20251229123000 +0000" stop="20251229130000 +0000" channel="Canal 6 Durazno.uy"><title>Horoscopo</title><desc>Horoscopo</desc></programme>
+<programme start="20251229130000 +0000" stop="20251229130000 +0000" channel="Canal 6 Durazno.uy"><title>Bloopers</title><desc>Bloopers</desc></programme>
+<programme start="20251229130000 +0000" stop="20251229133000 +0000" channel="Canal 6 Durazno.uy"><title>Repeticion Informativo</title><desc>Repeticion Informativo</desc></programme>
+<programme start="20251229133000 +0000" stop="20251229140000 +0000" channel="Canal 6 Durazno.uy"><title>La Montaña Magica</title><desc>La Montaña Magica</desc></programme>
+<programme start="20251229140000 +0000" stop="20251229140000 +0000" channel="Canal 6 Durazno.uy"><title>Fuera de Lugar</title><desc>Fuera de Lugar</desc></programme>
+<programme start="20251229140000 +0000" stop="20251229150000 +0000" channel="Canal 6 Durazno.uy"><title>La Cocina de Naty</title><desc>La Cocina de Naty</desc></programme>
+<programme start="20251229150000 +0000" stop="20251229150000 +0000" channel="Canal 6 Durazno.uy"><title>Cicerone</title><desc>Cicerone</desc></programme>
+<programme start="20251229150000 +0000" stop="20251229160000 +0000" channel="Canal 6 Durazno.uy"><title>La Biblia del Espectaculo</title><desc>La Biblia del Espectaculo</desc></programme>
+<programme start="20251229160000 +0000" stop="20251229163000 +0000" channel="Canal 6 Durazno.uy"><title>La Cinta de los Exitos</title><desc>La Cinta de los Exitos</desc></programme>
+<programme start="20251229163000 +0000" stop="20251229163000 +0000" channel="Canal 6 Durazno.uy"><title>TeleRemate</title><desc>TeleRemate</desc></programme>
+<programme start="20251229163000 +0000" stop="20251229170000 +0000" channel="Canal 6 Durazno.uy"><title>Enfoques</title><desc>Enfoques</desc></programme>
+<programme start="20251229170000 +0000" stop="20251229180000 +0000" channel="Canal 6 Durazno.uy"><title>Inagro</title><desc>Inagro</desc></programme>
+<programme start="20251229180000 +0000" stop="20251229180000 +0000" channel="Canal 6 Durazno.uy"><title>Canto de Aquí Nomas</title><desc>Canto de Aquí Nomas</desc></programme>
+<programme start="20251229180000 +0000" stop="20251229190000 +0000" channel="Canal 6 Durazno.uy"><title>Tele</title><desc>8 Tropical</desc></programme>
+<programme start="20251229190000 +0000" stop="20251229190000 +0000" channel="Canal 6 Durazno.uy"><title>Al Angulo</title><desc>Al Angulo</desc></programme>
+<programme start="20251229190000 +0000" stop="20251229193000 +0000" channel="Canal 6 Durazno.uy"><title>Voces de Amerca</title><desc>Voces de Amerca</desc></programme>
+<programme start="20251229193000 +0000" stop="20251229200000 +0000" channel="Canal 6 Durazno.uy"><title>Agenda de Viajes</title><desc>Agenda de Viajes</desc></programme>
+<programme start="20251229200000 +0000" stop="20251229200000 +0000" channel="Canal 6 Durazno.uy"><title>Historias de Mar y Sierras</title><desc>Historias de Mar y Sierras</desc></programme>
+<programme start="20251229200000 +0000" stop="20251229210000 +0000" channel="Canal 6 Durazno.uy"><title>El Estadio</title><desc>El Estadio</desc></programme>
+<programme start="20251229210000 +0000" stop="20251229210000 +0000" channel="Canal 6 Durazno.uy"><title>Cosas de mi Pais</title><desc>Cosas de mi Pais</desc></programme>
+<programme start="20251229210000 +0000" stop="20251229220000 +0000" channel="Canal 6 Durazno.uy"><title>Informativo Central</title><desc>Informativo Central</desc></programme>
+<programme start="20251229220000 +0000" stop="20251229220000 +0000" channel="Canal 6 Durazno.uy"><title>Impacto Music</title><desc>Impacto Music</desc></programme>
+<programme start="20251229220000 +0000" stop="20251229230000 +0000" channel="Canal 6 Durazno.uy"><title>Al Angulo</title><desc>Al Angulo</desc></programme>
+<programme start="20251229230000 +0000" stop="20251229230000 +0000" channel="Canal 6 Durazno.uy"><title>Especiales</title><desc>Especiales</desc></programme>
+<programme start="20251229230000 +0000" stop="20251229235900 +0000" channel="Canal 6 Durazno.uy"><title>Sala Vip</title><desc>Sala Vip</desc></programme>
 <programme start="20251228020000 +0000" stop="20251228033000 +0000" channel="Canal 8 Rivera.uy"><title>Cine Argentino</title><desc>Cine Argentino</desc></programme>
 <programme start="20251228033000 +0000" stop="20251228073000 +0000" channel="Canal 8 Rivera.uy"><title>Programacion Variada</title><desc>Programacion Variada</desc></programme>
-<programme start="20251228073000 +0000" stop="20251228080000 +0000" channel="Canal 8 Rivera.uy"><title>Resumen semanal noticias</title><desc>Resumen semanal noticias</desc></programme>
-<programme start="20251228080000 +0000" stop="20251228090000 +0000" channel="Canal 8 Rivera.uy"><title>Informativo Rivera Noticias</title><desc>Informativo Rivera Noticias</desc></programme>
-<programme start="20251228090000 +0000" stop="20251228090000 +0000" channel="Canal 8 Rivera.uy"><title>Turismo interoceánico</title><desc>Turismo interoceánico</desc></programme>
-<programme start="20251228090000 +0000" stop="20251228093000 +0000" channel="Canal 8 Rivera.uy"><title>Canto de aquí Nomas</title><desc>Canto de aquí Nomas</desc></programme>
-<programme start="20251228093000 +0000" stop="20251228100000 +0000" channel="Canal 8 Rivera.uy"><title>Destino Costa de Oro</title><desc>Destino Costa de Oro</desc></programme>
-<programme start="20251228100000 +0000" stop="20251228103000 +0000" channel="Canal 8 Rivera.uy"><title>Desde Adentro</title><desc>Desde Adentro</desc></programme>
-<programme start="20251228103000 +0000" stop="20251228110000 +0000" channel="Canal 8 Rivera.uy"><title>Nuestro Canto</title><desc>Nuestro Canto</desc></programme>
-<programme start="20251228110000 +0000" stop="20251228110000 +0000" channel="Canal 8 Rivera.uy"><title>Entre mate y guitarras</title><desc>Entre mate y guitarras</desc></programme>
+<programme start="20251228073000 +0000" stop="20251228090000 +0000" channel="Canal 8 Rivera.uy"><title>Resumen semanal noticias</title><desc>Resumen semanal noticias</desc></programme>
+<programme start="20251228090000 +0000" stop="20251228100000 +0000" channel="Canal 8 Rivera.uy"><title>Canto de aquí Nomas</title><desc>Canto de aquí Nomas</desc></programme>
+<programme start="20251228100000 +0000" stop="20251228110000 +0000" channel="Canal 8 Rivera.uy"><title>Desde Adentro</title><desc>Desde Adentro</desc></programme>
 <programme start="20251228110000 +0000" stop="20251228113000 +0000" channel="Canal 8 Rivera.uy"><title>Voces de America</title><desc>Voces de America</desc></programme>
 <programme start="20251228113000 +0000" stop="20251228120000 +0000" channel="Canal 8 Rivera.uy"><title>Identidad Riverense</title><desc>Identidad Riverense</desc></programme>
-<programme start="20251228120000 +0000" stop="20251228120000 +0000" channel="Canal 8 Rivera.uy"><title>Edicion Ilimitada</title><desc>Edicion Ilimitada</desc></programme>
 <programme start="20251228120000 +0000" stop="20251228133000 +0000" channel="Canal 8 Rivera.uy"><title>Nuestra Gente</title><desc>Nuestra Gente</desc></programme>
-<programme start="20251228133000 +0000" stop="20251228140000 +0000" channel="Canal 8 Rivera.uy"><title>Tierra de Gigantes</title><desc>Tierra de Gigantes</desc></programme>
-<programme start="20251228140000 +0000" stop="20251228143000 +0000" channel="Canal 8 Rivera.uy"><title>Cine para la Familia</title><desc>Cine para la Familia</desc></programme>
-<programme start="20251228143000 +0000" stop="20251228153000 +0000" channel="Canal 8 Rivera.uy"><title>Bonanza</title><desc>Bonanza</desc></programme>
-<programme start="20251228153000 +0000" stop="20251228163000 +0000" channel="Canal 8 Rivera.uy"><title>Viaje al fondo del mar</title><desc>Viaje al fondo del mar</desc></programme>
-<programme start="20251228163000 +0000" stop="20251228163000 +0000" channel="Canal 8 Rivera.uy"><title>La Mujer Maravilla</title><desc>La Mujer Maravilla</desc></programme>
+<programme start="20251228133000 +0000" stop="20251228143000 +0000" channel="Canal 8 Rivera.uy"><title>Tierra de Gigantes</title><desc>Tierra de Gigantes</desc></programme>
+<programme start="20251228143000 +0000" stop="20251228163000 +0000" channel="Canal 8 Rivera.uy"><title>Bonanza</title><desc>Bonanza</desc></programme>
 <programme start="20251228163000 +0000" stop="20251228173000 +0000" channel="Canal 8 Rivera.uy"><title>Gran Chaparral</title><desc>Gran Chaparral</desc></programme>
-<programme start="20251228173000 +0000" stop="20251228173000 +0000" channel="Canal 8 Rivera.uy"><title>Super Agente F86</title><desc>Super Agente F86</desc></programme>
-<programme start="20251228173000 +0000" stop="20251228180000 +0000" channel="Canal 8 Rivera.uy"><title>La familia Ingalls</title><desc>La familia Ingalls</desc></programme>
-<programme start="20251228180000 +0000" stop="20251228183000 +0000" channel="Canal 8 Rivera.uy"><title>El Chavo</title><desc>El Chavo</desc></programme>
+<programme start="20251228173000 +0000" stop="20251228183000 +0000" channel="Canal 8 Rivera.uy"><title>La familia Ingalls</title><desc>La familia Ingalls</desc></programme>
 <programme start="20251228183000 +0000" stop="20251228190000 +0000" channel="Canal 8 Rivera.uy"><title>Bloopers</title><desc>Bloopers</desc></programme>
 <programme start="20251228190000 +0000" stop="20251228200000 +0000" channel="Canal 8 Rivera.uy"><title>La Revista</title><desc>La Revista</desc></programme>
 <programme start="20251228200000 +0000" stop="20251228210000 +0000" channel="Canal 8 Rivera.uy"><title>Resumen semanal noticias</title><desc>Resumen semanal noticias</desc></programme>
-<programme start="20251228210000 +0000" stop="20251228210000 +0000" channel="Canal 8 Rivera.uy"><title>Sesiones</title><desc>Sesiones</desc></programme>
-<programme start="20251228210000 +0000" stop="20251228213000 +0000" channel="Canal 8 Rivera.uy"><title>Cine Argentino</title><desc>Cine Argentino</desc></programme>
-<programme start="20251228213000 +0000" stop="20251228223000 +0000" channel="Canal 8 Rivera.uy"><title>La Cinta de los Éxitos</title><desc>La Cinta de los Éxitos</desc></programme>
-<programme start="20251228223000 +0000" stop="20251228223000 +0000" channel="Canal 8 Rivera.uy"><title>Tropical del 8</title><desc>Tropical del 8</desc></programme>
-<programme start="20251228223000 +0000" stop="20251228233000 +0000" channel="Canal 8 Rivera.uy"><title>Cine Latino</title><desc>Cine Latino</desc></programme>
-<programme start="20251228233000 +0000" stop="20251228235900 +0000" channel="Canal 8 Rivera.uy"><title>Resumen semanal noticias</title><desc>Resumen semanal noticias</desc></programme>
-<programme start="20251227020000 +0000" stop="20251227023000 +0000" channel="DW (Español).uy"><title>Malcolm X</title><desc>Justicia a cualquier precio</desc></programme>
-<programme start="20251227023000 +0000" stop="20251227030000 +0000" channel="DW (Español).uy"><title>El programa para jovenes en America Latina</title><desc>El programa para jovenes en America Latina</desc></programme>
-<programme start="20251227030000 +0000" stop="20251227033000 +0000" channel="DW (Español).uy"><title>El magacín del medio ambiente</title><desc>El magacín del medio ambiente</desc></programme>
-<programme start="20251227033000 +0000" stop="20251227040000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
-<programme start="20251227040000 +0000" stop="20251227043000 +0000" channel="DW (Español).uy"><title>Lo que nos conecta a todos</title><desc>Lo que nos conecta a todos</desc></programme>
-<programme start="20251227043000 +0000" stop="20251227050000 +0000" channel="DW (Español).uy"><title>Hechos</title><desc>análisis, perspectivas</desc></programme>
-<programme start="20251227050000 +0000" stop="20251227053000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227053000 +0000" stop="20251227060000 +0000" channel="DW (Español).uy"><title>El magacín científico</title><desc>El magacín científico</desc></programme>
-<programme start="20251227060000 +0000" stop="20251227063000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227063000 +0000" stop="20251227070000 +0000" channel="DW (Español).uy"><title>Viaje al centro de la Tierra</title><desc>Tras las huellas de Julio Verne</desc></programme>
-<programme start="20251227070000 +0000" stop="20251227073000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227073000 +0000" stop="20251227080000 +0000" channel="DW (Español).uy"><title>Experimentar y comprender</title><desc>Experimentar y comprender</desc></programme>
-<programme start="20251227080000 +0000" stop="20251227083000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227083000 +0000" stop="20251227090000 +0000" channel="DW (Español).uy"><title>Países</title><desc>gentes, destinos</desc></programme>
-<programme start="20251227090000 +0000" stop="20251227093000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227093000 +0000" stop="20251227100000 +0000" channel="DW (Español).uy"><title>Encuentros con Pía Castro</title><desc>Encuentros con Pía Castro</desc></programme>
-<programme start="20251227100000 +0000" stop="20251227103000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227103000 +0000" stop="20251227110000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
-<programme start="20251227110000 +0000" stop="20251227113000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227113000 +0000" stop="20251227120000 +0000" channel="DW (Español).uy"><title>Hacia una cocina comprometida</title><desc>Hacia una cocina comprometida</desc></programme>
-<programme start="20251227120000 +0000" stop="20251227123000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227123000 +0000" stop="20251227130000 +0000" channel="DW (Español).uy"><title>Mi nombre es Felicidad</title><desc>Una voz contra el feminicidio - Parte 1</desc></programme>
-<programme start="20251227130000 +0000" stop="20251227133000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227133000 +0000" stop="20251227140000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
-<programme start="20251227140000 +0000" stop="20251227143000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227143000 +0000" stop="20251227150000 +0000" channel="DW (Español).uy"><title>El magacín del medio ambiente</title><desc>El magacín del medio ambiente</desc></programme>
-<programme start="20251227150000 +0000" stop="20251227153000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227153000 +0000" stop="20251227160000 +0000" channel="DW (Español).uy"><title>Experimentar y comprender</title><desc>Experimentar y comprender</desc></programme>
-<programme start="20251227160000 +0000" stop="20251227170000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227170000 +0000" stop="20251227173000 +0000" channel="DW (Español).uy"><title>Países</title><desc>gentes, destinos</desc></programme>
-<programme start="20251227173000 +0000" stop="20251227180000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227180000 +0000" stop="20251227183000 +0000" channel="DW (Español).uy"><title>El sueño de Rodolfo</title><desc>Una escuela en los Andes</desc></programme>
-<programme start="20251227183000 +0000" stop="20251227190000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227190000 +0000" stop="20251227193000 +0000" channel="DW (Español).uy"><title>El programa para jovenes en America Latina</title><desc>El programa para jovenes en America Latina</desc></programme>
-<programme start="20251227193000 +0000" stop="20251227200000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227200000 +0000" stop="20251227203000 +0000" channel="DW (Español).uy"><title>Más allá de los titulares</title><desc>Más allá de los titulares</desc></programme>
-<programme start="20251227203000 +0000" stop="20251227210000 +0000" channel="DW (Español).uy"><title>Rumbo a Marte</title><desc>Rumbo a Marte</desc></programme>
-<programme start="20251227210000 +0000" stop="20251227213000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227213000 +0000" stop="20251227220000 +0000" channel="DW (Español).uy"><title>Ventana abierta al mundo digital</title><desc>Ventana abierta al mundo digital</desc></programme>
-<programme start="20251227220000 +0000" stop="20251227223000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251227223000 +0000" stop="20251227230000 +0000" channel="DW (Español).uy"><title>Hacia una cocina comprometida</title><desc>Hacia una cocina comprometida</desc></programme>
-<programme start="20251227230000 +0000" stop="20251228000000 +0000" channel="DW (Español).uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251228000000 +0000" stop="20251228003000 +0000" channel="DW (Español).uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251228003000 +0000" stop="20251228010000 +0000" channel="DW (Español).uy"><title>Experimentar y comprender</title><desc>Experimentar y comprender</desc></programme>
-<programme start="20251228010000 +0000" stop="20251228013000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228013000 +0000" stop="20251228020000 +0000" channel="DW (Español).uy"><title>El magacín para una vida sana</title><desc>El magacín para una vida sana</desc></programme>
+<programme start="20251228210000 +0000" stop="20251228223000 +0000" channel="Canal 8 Rivera.uy"><title>Cine Argentino</title><desc>Cine Argentino</desc></programme>
+<programme start="20251228223000 +0000" stop="20251229020000 +0000" channel="Canal 8 Rivera.uy"><title>Cine Latino</title><desc>Cine Latino</desc></programme>
+<programme start="20251229020000 +0000" stop="20251229033000 +0000" channel="Canal 8 Rivera.uy"><title>Cine Argentino</title><desc>Cine Argentino</desc></programme>
+<programme start="20251229033000 +0000" stop="20251229073000 +0000" channel="Canal 8 Rivera.uy"><title>Programacion Variada</title><desc>Programacion Variada</desc></programme>
+<programme start="20251229073000 +0000" stop="20251229090000 +0000" channel="Canal 8 Rivera.uy"><title>Resumen semanal noticias</title><desc>Resumen semanal noticias</desc></programme>
+<programme start="20251229090000 +0000" stop="20251229100000 +0000" channel="Canal 8 Rivera.uy"><title>Canto de aquí Nomas</title><desc>Canto de aquí Nomas</desc></programme>
+<programme start="20251229100000 +0000" stop="20251229110000 +0000" channel="Canal 8 Rivera.uy"><title>Desde Adentro</title><desc>Desde Adentro</desc></programme>
+<programme start="20251229110000 +0000" stop="20251229113000 +0000" channel="Canal 8 Rivera.uy"><title>Voces de America</title><desc>Voces de America</desc></programme>
+<programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="Canal 8 Rivera.uy"><title>Identidad Riverense</title><desc>Identidad Riverense</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229133000 +0000" channel="Canal 8 Rivera.uy"><title>Nuestra Gente</title><desc>Nuestra Gente</desc></programme>
+<programme start="20251229133000 +0000" stop="20251229143000 +0000" channel="Canal 8 Rivera.uy"><title>Tierra de Gigantes</title><desc>Tierra de Gigantes</desc></programme>
+<programme start="20251229143000 +0000" stop="20251229163000 +0000" channel="Canal 8 Rivera.uy"><title>Bonanza</title><desc>Bonanza</desc></programme>
+<programme start="20251229163000 +0000" stop="20251229173000 +0000" channel="Canal 8 Rivera.uy"><title>Gran Chaparral</title><desc>Gran Chaparral</desc></programme>
+<programme start="20251229173000 +0000" stop="20251229183000 +0000" channel="Canal 8 Rivera.uy"><title>La familia Ingalls</title><desc>La familia Ingalls</desc></programme>
+<programme start="20251229183000 +0000" stop="20251229190000 +0000" channel="Canal 8 Rivera.uy"><title>Bloopers</title><desc>Bloopers</desc></programme>
+<programme start="20251229190000 +0000" stop="20251229200000 +0000" channel="Canal 8 Rivera.uy"><title>La Revista</title><desc>La Revista</desc></programme>
+<programme start="20251229200000 +0000" stop="20251229210000 +0000" channel="Canal 8 Rivera.uy"><title>Resumen semanal noticias</title><desc>Resumen semanal noticias</desc></programme>
+<programme start="20251229210000 +0000" stop="20251229223000 +0000" channel="Canal 8 Rivera.uy"><title>Cine Argentino</title><desc>Cine Argentino</desc></programme>
+<programme start="20251229223000 +0000" stop="20251229235900 +0000" channel="Canal 8 Rivera.uy"><title>Cine Latino</title><desc>Cine Latino</desc></programme>
 <programme start="20251228020000 +0000" stop="20251228023000 +0000" channel="DW (Español).uy"><title>Hechos</title><desc>análisis, perspectivas</desc></programme>
 <programme start="20251228023000 +0000" stop="20251228030000 +0000" channel="DW (Español).uy"><title>Viaje al centro de la Tierra</title><desc>Tras las huellas de Julio Verne</desc></programme>
-<programme start="20251228030000 +0000" stop="20251228030000 +0000" channel="DW (Español).uy"><title>El magacín del medio ambiente</title><desc>El magacín del medio ambiente</desc></programme>
 <programme start="20251228030000 +0000" stop="20251228033000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228033000 +0000" stop="20251228033000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
 <programme start="20251228033000 +0000" stop="20251228040000 +0000" channel="DW (Español).uy"><title>La guía del viajero</title><desc>La guía del viajero</desc></programme>
-<programme start="20251228040000 +0000" stop="20251228040000 +0000" channel="DW (Español).uy"><title>Lo que nos conecta a todos</title><desc>Lo que nos conecta a todos</desc></programme>
 <programme start="20251228040000 +0000" stop="20251228043000 +0000" channel="DW (Español).uy"><title>El magacín para una vida sana</title><desc>El magacín para una vida sana</desc></programme>
-<programme start="20251228043000 +0000" stop="20251228043000 +0000" channel="DW (Español).uy"><title>Hechos</title><desc>análisis, perspectivas</desc></programme>
 <programme start="20251228043000 +0000" stop="20251228050000 +0000" channel="DW (Español).uy"><title>El magacín global del automovil y la movilidad</title><desc>El magacín global del automovil y la movilidad</desc></programme>
-<programme start="20251228050000 +0000" stop="20251228050000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228050000 +0000" stop="20251228053000 +0000" channel="DW (Español).uy"><title>El trasfondo de las noticias</title><desc>El trasfondo de las noticias</desc></programme>
-<programme start="20251228053000 +0000" stop="20251228053000 +0000" channel="DW (Español).uy"><title>El magacín científico</title><desc>El magacín científico</desc></programme>
 <programme start="20251228053000 +0000" stop="20251228060000 +0000" channel="DW (Español).uy"><title>Encuentros con Pía Castro</title><desc>Encuentros con Pía Castro</desc></programme>
 <programme start="20251228060000 +0000" stop="20251228063000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228063000 +0000" stop="20251228063000 +0000" channel="DW (Español).uy"><title>Viaje al centro de la Tierra</title><desc>Tras las huellas de Julio Verne</desc></programme>
 <programme start="20251228063000 +0000" stop="20251228070000 +0000" channel="DW (Español).uy"><title>Lo que nos conecta a todos</title><desc>Lo que nos conecta a todos</desc></programme>
-<programme start="20251228070000 +0000" stop="20251228073000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228073000 +0000" stop="20251228080000 +0000" channel="DW (Español).uy"><title>Experimentar y comprender</title><desc>Experimentar y comprender</desc></programme>
-<programme start="20251228080000 +0000" stop="20251228080000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251228070000 +0000" stop="20251228080000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228080000 +0000" stop="20251228083000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
-<programme start="20251228083000 +0000" stop="20251228083000 +0000" channel="DW (Español).uy"><title>Países</title><desc>gentes, destinos</desc></programme>
 <programme start="20251228083000 +0000" stop="20251228090000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228090000 +0000" stop="20251228090000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228090000 +0000" stop="20251228093000 +0000" channel="DW (Español).uy"><title>La guía del viajero</title><desc>La guía del viajero</desc></programme>
-<programme start="20251228093000 +0000" stop="20251228093000 +0000" channel="DW (Español).uy"><title>Encuentros con Pía Castro</title><desc>Encuentros con Pía Castro</desc></programme>
 <programme start="20251228093000 +0000" stop="20251228100000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228100000 +0000" stop="20251228100000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228100000 +0000" stop="20251228103000 +0000" channel="DW (Español).uy"><title>Mi nombre es Felicidad</title><desc>Una voz contra el feminicidio - Parte 1</desc></programme>
-<programme start="20251228103000 +0000" stop="20251228103000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
 <programme start="20251228103000 +0000" stop="20251228110000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228110000 +0000" stop="20251228110000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228110000 +0000" stop="20251228113000 +0000" channel="DW (Español).uy"><title>El programa para jovenes en America Latina</title><desc>El programa para jovenes en America Latina</desc></programme>
-<programme start="20251228113000 +0000" stop="20251228113000 +0000" channel="DW (Español).uy"><title>Hacia una cocina comprometida</title><desc>Hacia una cocina comprometida</desc></programme>
 <programme start="20251228113000 +0000" stop="20251228120000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228120000 +0000" stop="20251228120000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228120000 +0000" stop="20251228123000 +0000" channel="DW (Español).uy"><title>Rumbo a Marte</title><desc>Rumbo a Marte</desc></programme>
-<programme start="20251228123000 +0000" stop="20251228123000 +0000" channel="DW (Español).uy"><title>Mi nombre es Felicidad</title><desc>Una voz contra el feminicidio - Parte 1</desc></programme>
 <programme start="20251228123000 +0000" stop="20251228130000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228130000 +0000" stop="20251228130000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228130000 +0000" stop="20251228133000 +0000" channel="DW (Español).uy"><title>Viaje al centro de la Tierra</title><desc>Tras las huellas de Julio Verne</desc></programme>
-<programme start="20251228133000 +0000" stop="20251228133000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
 <programme start="20251228133000 +0000" stop="20251228140000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228140000 +0000" stop="20251228140000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228140000 +0000" stop="20251228143000 +0000" channel="DW (Español).uy"><title>Hacia una cocina comprometida</title><desc>Hacia una cocina comprometida</desc></programme>
-<programme start="20251228143000 +0000" stop="20251228143000 +0000" channel="DW (Español).uy"><title>El magacín del medio ambiente</title><desc>El magacín del medio ambiente</desc></programme>
 <programme start="20251228143000 +0000" stop="20251228150000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228150000 +0000" stop="20251228150000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228150000 +0000" stop="20251228153000 +0000" channel="DW (Español).uy"><title>Experimentar y comprender</title><desc>Experimentar y comprender</desc></programme>
-<programme start="20251228153000 +0000" stop="20251228153000 +0000" channel="DW (Español).uy"><title>Experimentar y comprender</title><desc>Experimentar y comprender</desc></programme>
 <programme start="20251228153000 +0000" stop="20251228160000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228160000 +0000" stop="20251228160000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228160000 +0000" stop="20251228163000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
-<programme start="20251228163000 +0000" stop="20251228170000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228170000 +0000" stop="20251228173000 +0000" channel="DW (Español).uy"><title>Países</title><desc>gentes, destinos</desc></programme>
-<programme start="20251228173000 +0000" stop="20251228173000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251228163000 +0000" stop="20251228173000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228173000 +0000" stop="20251228180000 +0000" channel="DW (Español).uy"><title>Ventana abierta al mundo digital</title><desc>Ventana abierta al mundo digital</desc></programme>
-<programme start="20251228180000 +0000" stop="20251228180000 +0000" channel="DW (Español).uy"><title>El sueño de Rodolfo</title><desc>Una escuela en los Andes</desc></programme>
 <programme start="20251228180000 +0000" stop="20251228183000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228183000 +0000" stop="20251228183000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228183000 +0000" stop="20251228190000 +0000" channel="DW (Español).uy"><title>Hacia una cocina comprometida</title><desc>Hacia una cocina comprometida</desc></programme>
-<programme start="20251228190000 +0000" stop="20251228190000 +0000" channel="DW (Español).uy"><title>El programa para jovenes en America Latina</title><desc>El programa para jovenes en America Latina</desc></programme>
 <programme start="20251228190000 +0000" stop="20251228193000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228193000 +0000" stop="20251228193000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228193000 +0000" stop="20251228200000 +0000" channel="DW (Español).uy"><title>Experimentar y comprender</title><desc>Experimentar y comprender</desc></programme>
-<programme start="20251228200000 +0000" stop="20251228200000 +0000" channel="DW (Español).uy"><title>Más allá de los titulares</title><desc>Más allá de los titulares</desc></programme>
 <programme start="20251228200000 +0000" stop="20251228203000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228203000 +0000" stop="20251228203000 +0000" channel="DW (Español).uy"><title>Rumbo a Marte</title><desc>Rumbo a Marte</desc></programme>
 <programme start="20251228203000 +0000" stop="20251228210000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
 <programme start="20251228210000 +0000" stop="20251228213000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228213000 +0000" stop="20251228213000 +0000" channel="DW (Español).uy"><title>Ventana abierta al mundo digital</title><desc>Ventana abierta al mundo digital</desc></programme>
 <programme start="20251228213000 +0000" stop="20251228220000 +0000" channel="DW (Español).uy"><title>Rumbo a Marte</title><desc>Rumbo a Marte</desc></programme>
 <programme start="20251228220000 +0000" stop="20251228223000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
-<programme start="20251228223000 +0000" stop="20251228223000 +0000" channel="DW (Español).uy"><title>Hacia una cocina comprometida</title><desc>Hacia una cocina comprometida</desc></programme>
 <programme start="20251228223000 +0000" stop="20251228230000 +0000" channel="DW (Español).uy"><title>El magacín científico</title><desc>El magacín científico</desc></programme>
-<programme start="20251228230000 +0000" stop="20251228235900 +0000" channel="DW (Español).uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
-<programme start="20251227020000 +0000" stop="20251227023000 +0000" channel="France 24.uy"><title>Noticias / Cultura /</title><desc>Esto es Francia</desc></programme>
-<programme start="20251227023000 +0000" stop="20251227030000 +0000" channel="France 24.uy"><title>Noticias / Historia / Expreso de Oriente</title><desc>Noticias / Historia / Expreso de Oriente</desc></programme>
-<programme start="20251227030000 +0000" stop="20251227033000 +0000" channel="France 24.uy"><title>Noticias / El Debate</title><desc>/ La Entrevista</desc></programme>
-<programme start="20251227033000 +0000" stop="20251227040000 +0000" channel="France 24.uy"><title>Noticias / Ciencia y Tecnología / África</title><desc>7 Días</desc></programme>
-<programme start="20251227040000 +0000" stop="20251227043000 +0000" channel="France 24.uy"><title>Noticias / Moda / Ellas Hoy</title><desc>Noticias / Moda / Ellas Hoy</desc></programme>
-<programme start="20251227043000 +0000" stop="20251227050000 +0000" channel="France 24.uy"><title>Noticias / Europa Hoy / En Foco</title><desc>Noticias / Europa Hoy / En Foco</desc></programme>
-<programme start="20251227050000 +0000" stop="20251227053000 +0000" channel="France 24.uy"><title>Noticias / África</title><desc>7 Días / En 5 Minutos</desc></programme>
-<programme start="20251227053000 +0000" stop="20251227060000 +0000" channel="France 24.uy"><title>Noticias / Escala en París / En Foco</title><desc>Noticias / Escala en París / En Foco</desc></programme>
-<programme start="20251227060000 +0000" stop="20251227063000 +0000" channel="France 24.uy"><title>Noticias / Reporteros</title><desc>Noticias / Reporteros</desc></programme>
-<programme start="20251227063000 +0000" stop="20251227070000 +0000" channel="France 24.uy"><title>Noticias / La Entrevista / En Foco</title><desc>Noticias / La Entrevista / En Foco</desc></programme>
-<programme start="20251227070000 +0000" stop="20251227073000 +0000" channel="France 24.uy"><title>Noticias / Corresponsales / En</title><desc>5 Minutos</desc></programme>
-<programme start="20251227073000 +0000" stop="20251227080000 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente / En Foco</title><desc>Noticias / Expreso de Oriente / En Foco</desc></programme>
-<programme start="20251227080000 +0000" stop="20251227083000 +0000" channel="France 24.uy"><title>Noticias / Cultura / Moda</title><desc>Noticias / Cultura / Moda</desc></programme>
-<programme start="20251227083000 +0000" stop="20251227090000 +0000" channel="France 24.uy"><title>Directo America / Directo America</title><desc>Directo America / Directo America</desc></programme>
-<programme start="20251227090000 +0000" stop="20251227110000 +0000" channel="France 24.uy"><title>Directo America</title><desc>Directo America</desc></programme>
-<programme start="20251227110000 +0000" stop="20251227113000 +0000" channel="France 24.uy"><title>Noticias / Europa Hoy</title><desc>Noticias / Europa Hoy</desc></programme>
-<programme start="20251227113000 +0000" stop="20251227120000 +0000" channel="France 24.uy"><title>Noticias / Moda / Ciencia y Tecnología</title><desc>Noticias / Moda / Ciencia y Tecnología</desc></programme>
-<programme start="20251227120000 +0000" stop="20251227123000 +0000" channel="France 24.uy"><title>Noticias / Revista de Prensa / El Debate</title><desc>Noticias / Revista de Prensa / El Debate</desc></programme>
-<programme start="20251227123000 +0000" stop="20251227130000 +0000" channel="France 24.uy"><title>Noticias / Enlace / Invitado del Día</title><desc>Noticias / Enlace / Invitado del Día</desc></programme>
-<programme start="20251227130000 +0000" stop="20251227133000 +0000" channel="France 24.uy"><title>Noticias / Revista de Prensa / Carrusel de las Artes</title><desc>Noticias / Revista de Prensa / Carrusel de las Artes</desc></programme>
-<programme start="20251227133000 +0000" stop="20251227140000 +0000" channel="France 24.uy"><title>Noticias / Invitado del Día</title><desc>Noticias / Invitado del Día</desc></programme>
-<programme start="20251227140000 +0000" stop="20251227143000 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente</title><desc>Noticias / Expreso de Oriente</desc></programme>
-<programme start="20251227143000 +0000" stop="20251227150000 +0000" channel="France 24.uy"><title>Noticias / Escala en París</title><desc>Noticias / Escala en París</desc></programme>
-<programme start="20251227150000 +0000" stop="20251227153000 +0000" channel="France 24.uy"><title>Noticias / En</title><desc>5 Minutos / Salud</desc></programme>
-<programme start="20251227153000 +0000" stop="20251227160000 +0000" channel="France 24.uy"><title>Noticias / Reporteros</title><desc>Noticias / Reporteros</desc></programme>
-<programme start="20251227160000 +0000" stop="20251227163000 +0000" channel="France 24.uy"><title>Noticias / Europa Hoy</title><desc>Noticias / Europa Hoy</desc></programme>
-<programme start="20251227163000 +0000" stop="20251227170000 +0000" channel="France 24.uy"><title>Noticias / África</title><desc>7 Días</desc></programme>
-<programme start="20251227170000 +0000" stop="20251227173000 +0000" channel="France 24.uy"><title>Noticias / Moda / Esto es Francia</title><desc>Noticias / Moda / Esto es Francia</desc></programme>
-<programme start="20251227173000 +0000" stop="20251227180000 +0000" channel="France 24.uy"><title>Noticias / Enlace / En Foco</title><desc>Noticias / Enlace / En Foco</desc></programme>
-<programme start="20251227180000 +0000" stop="20251227183000 +0000" channel="France 24.uy"><title>Noticias / Salud / Cultura</title><desc>Noticias / Salud / Cultura</desc></programme>
-<programme start="20251227183000 +0000" stop="20251227190000 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente</title><desc>Noticias / Expreso de Oriente</desc></programme>
-<programme start="20251227190000 +0000" stop="20251227200000 +0000" channel="France 24.uy"><title>Noticias / Ciencia y Tecnología / En Foco</title><desc>Noticias / Ciencia y Tecnología / En Foco</desc></programme>
-<programme start="20251227200000 +0000" stop="20251227203000 +0000" channel="France 24.uy"><title>Noticias / Deportes / En Foco</title><desc>Noticias / Deportes / En Foco</desc></programme>
-<programme start="20251227203000 +0000" stop="20251227210000 +0000" channel="France 24.uy"><title>Noticias / Revista Digital / Los Observadores</title><desc>Noticias / Revista Digital / Los Observadores</desc></programme>
-<programme start="20251227210000 +0000" stop="20251227220000 +0000" channel="France 24.uy"><title>Directo America / Una Semana en el Mundo</title><desc>Directo America / Una Semana en el Mundo</desc></programme>
-<programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="France 24.uy"><title>Directo America</title><desc>Directo America</desc></programme>
-<programme start="20251227230000 +0000" stop="20251227233000 +0000" channel="France 24.uy"><title>Directo America / Aquí America</title><desc>Directo America / Aquí America</desc></programme>
-<programme start="20251227233000 +0000" stop="20251228000000 +0000" channel="France 24.uy"><title>Noticias / Deportes / En Primera Plana</title><desc>Noticias / Deportes / En Primera Plana</desc></programme>
-<programme start="20251228000000 +0000" stop="20251228003000 +0000" channel="France 24.uy"><title>Noticias / Una Semana en el Mundo / En Foco</title><desc>Noticias / Una Semana en el Mundo / En Foco</desc></programme>
-<programme start="20251228003000 +0000" stop="20251228010000 +0000" channel="France 24.uy"><title>Noticias / Migrantes / Expreso de Oriente</title><desc>Noticias / Migrantes / Expreso de Oriente</desc></programme>
-<programme start="20251228010000 +0000" stop="20251228020000 +0000" channel="France 24.uy"><title>Noticias / Aquí America / Enlace</title><desc>Noticias / Aquí America / Enlace</desc></programme>
+<programme start="20251228230000 +0000" stop="20251229000000 +0000" channel="DW (Español).uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251229000000 +0000" stop="20251229003000 +0000" channel="DW (Español).uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251229003000 +0000" stop="20251229010000 +0000" channel="DW (Español).uy"><title>El programa para jovenes en America Latina</title><desc>El programa para jovenes en America Latina</desc></programme>
+<programme start="20251229010000 +0000" stop="20251229013000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229013000 +0000" stop="20251229020000 +0000" channel="DW (Español).uy"><title>El magacín global del automovil y la movilidad</title><desc>El magacín global del automovil y la movilidad</desc></programme>
+<programme start="20251229020000 +0000" stop="20251229023000 +0000" channel="DW (Español).uy"><title>Lo que nos conecta a todos</title><desc>Lo que nos conecta a todos</desc></programme>
+<programme start="20251229023000 +0000" stop="20251229030000 +0000" channel="DW (Español).uy"><title>Países</title><desc>gentes, destinos</desc></programme>
+<programme start="20251229030000 +0000" stop="20251229030000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229030000 +0000" stop="20251229033000 +0000" channel="DW (Español).uy"><title>El magacín científico</title><desc>El magacín científico</desc></programme>
+<programme start="20251229033000 +0000" stop="20251229033000 +0000" channel="DW (Español).uy"><title>La guía del viajero</title><desc>La guía del viajero</desc></programme>
+<programme start="20251229033000 +0000" stop="20251229040000 +0000" channel="DW (Español).uy"><title>Experimentar y comprender</title><desc>Experimentar y comprender</desc></programme>
+<programme start="20251229040000 +0000" stop="20251229040000 +0000" channel="DW (Español).uy"><title>El magacín para una vida sana</title><desc>El magacín para una vida sana</desc></programme>
+<programme start="20251229040000 +0000" stop="20251229043000 +0000" channel="DW (Español).uy"><title>Lo que nos conecta a todos</title><desc>Lo que nos conecta a todos</desc></programme>
+<programme start="20251229043000 +0000" stop="20251229043000 +0000" channel="DW (Español).uy"><title>El magacín global del automovil y la movilidad</title><desc>El magacín global del automovil y la movilidad</desc></programme>
+<programme start="20251229043000 +0000" stop="20251229050000 +0000" channel="DW (Español).uy"><title>El programa para jovenes en America Latina</title><desc>El programa para jovenes en America Latina</desc></programme>
+<programme start="20251229050000 +0000" stop="20251229050000 +0000" channel="DW (Español).uy"><title>El trasfondo de las noticias</title><desc>El trasfondo de las noticias</desc></programme>
+<programme start="20251229050000 +0000" stop="20251229053000 +0000" channel="DW (Español).uy"><title>Sobre el terreno</title><desc>Sobre el terreno</desc></programme>
+<programme start="20251229053000 +0000" stop="20251229053000 +0000" channel="DW (Español).uy"><title>Encuentros con Pía Castro</title><desc>Encuentros con Pía Castro</desc></programme>
+<programme start="20251229053000 +0000" stop="20251229060000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229060000 +0000" stop="20251229060000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229060000 +0000" stop="20251229063000 +0000" channel="DW (Español).uy"><title>Hacia una cocina comprometida</title><desc>Hacia una cocina comprometida</desc></programme>
+<programme start="20251229063000 +0000" stop="20251229063000 +0000" channel="DW (Español).uy"><title>Lo que nos conecta a todos</title><desc>Lo que nos conecta a todos</desc></programme>
+<programme start="20251229063000 +0000" stop="20251229070000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229070000 +0000" stop="20251229070000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229070000 +0000" stop="20251229073000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
+<programme start="20251229073000 +0000" stop="20251229080000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229080000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229083000 +0000" channel="DW (Español).uy"><title>Países</title><desc>gentes, destinos</desc></programme>
+<programme start="20251229083000 +0000" stop="20251229090000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229090000 +0000" stop="20251229090000 +0000" channel="DW (Español).uy"><title>La guía del viajero</title><desc>La guía del viajero</desc></programme>
+<programme start="20251229090000 +0000" stop="20251229093000 +0000" channel="DW (Español).uy"><title>Experimentar y comprender</title><desc>Experimentar y comprender</desc></programme>
+<programme start="20251229093000 +0000" stop="20251229100000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229100000 +0000" stop="20251229100000 +0000" channel="DW (Español).uy"><title>Mi nombre es Felicidad</title><desc>Una voz contra el feminicidio - Parte 1</desc></programme>
+<programme start="20251229100000 +0000" stop="20251229103000 +0000" channel="DW (Español).uy"><title>Viaje al centro de la Tierra</title><desc>Tras las huellas de Julio Verne</desc></programme>
+<programme start="20251229103000 +0000" stop="20251229110000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229110000 +0000" stop="20251229110000 +0000" channel="DW (Español).uy"><title>El programa para jovenes en America Latina</title><desc>El programa para jovenes en America Latina</desc></programme>
+<programme start="20251229110000 +0000" stop="20251229113000 +0000" channel="DW (Español).uy"><title>Lo que nos conecta a todos</title><desc>Lo que nos conecta a todos</desc></programme>
+<programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229120000 +0000" channel="DW (Español).uy"><title>Rumbo a Marte</title><desc>Rumbo a Marte</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229123000 +0000" channel="DW (Español).uy"><title>Experimentar y comprender</title><desc>Experimentar y comprender</desc></programme>
+<programme start="20251229123000 +0000" stop="20251229130000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229130000 +0000" stop="20251229130000 +0000" channel="DW (Español).uy"><title>Viaje al centro de la Tierra</title><desc>Tras las huellas de Julio Verne</desc></programme>
+<programme start="20251229130000 +0000" stop="20251229133000 +0000" channel="DW (Español).uy"><title>El magacín economico</title><desc>El magacín economico</desc></programme>
+<programme start="20251229133000 +0000" stop="20251229140000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229140000 +0000" stop="20251229140000 +0000" channel="DW (Español).uy"><title>Hacia una cocina comprometida</title><desc>Hacia una cocina comprometida</desc></programme>
+<programme start="20251229140000 +0000" stop="20251229143000 +0000" channel="DW (Español).uy"><title>El magacín global del automovil y la movilidad</title><desc>El magacín global del automovil y la movilidad</desc></programme>
+<programme start="20251229143000 +0000" stop="20251229150000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229150000 +0000" stop="20251229150000 +0000" channel="DW (Español).uy"><title>Experimentar y comprender</title><desc>Experimentar y comprender</desc></programme>
+<programme start="20251229150000 +0000" stop="20251229153000 +0000" channel="DW (Español).uy"><title>Rumbo a Marte</title><desc>Rumbo a Marte</desc></programme>
+<programme start="20251229153000 +0000" stop="20251229160000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229160000 +0000" stop="20251229160000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
+<programme start="20251229160000 +0000" stop="20251229163000 +0000" channel="DW (Español).uy"><title>El magacín para una vida sana</title><desc>El magacín para una vida sana</desc></programme>
+<programme start="20251229163000 +0000" stop="20251229173000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229173000 +0000" stop="20251229173000 +0000" channel="DW (Español).uy"><title>Ventana abierta al mundo digital</title><desc>Ventana abierta al mundo digital</desc></programme>
+<programme start="20251229173000 +0000" stop="20251229180000 +0000" channel="DW (Español).uy"><title>El programa para jovenes en America Latina</title><desc>El programa para jovenes en America Latina</desc></programme>
+<programme start="20251229180000 +0000" stop="20251229183000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229183000 +0000" stop="20251229183000 +0000" channel="DW (Español).uy"><title>Hacia una cocina comprometida</title><desc>Hacia una cocina comprometida</desc></programme>
+<programme start="20251229183000 +0000" stop="20251229190000 +0000" channel="DW (Español).uy"><title>Mi nombre es Felicidad</title><desc>Una voz contra el feminicidio - Parte 1</desc></programme>
+<programme start="20251229190000 +0000" stop="20251229193000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229193000 +0000" stop="20251229193000 +0000" channel="DW (Español).uy"><title>Experimentar y comprender</title><desc>Experimentar y comprender</desc></programme>
+<programme start="20251229193000 +0000" stop="20251229200000 +0000" channel="DW (Español).uy"><title>El magacín global del automovil y la movilidad</title><desc>El magacín global del automovil y la movilidad</desc></programme>
+<programme start="20251229200000 +0000" stop="20251229203000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229203000 +0000" stop="20251229203000 +0000" channel="DW (Español).uy"><title>Vida y cultura en Europa</title><desc>Vida y cultura en Europa</desc></programme>
+<programme start="20251229203000 +0000" stop="20251229210000 +0000" channel="DW (Español).uy"><title>Ratas de ciudad</title><desc>Un mundo paralelo desconocido</desc></programme>
+<programme start="20251229210000 +0000" stop="20251229213000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229213000 +0000" stop="20251229213000 +0000" channel="DW (Español).uy"><title>Rumbo a Marte</title><desc>Rumbo a Marte</desc></programme>
+<programme start="20251229213000 +0000" stop="20251229220000 +0000" channel="DW (Español).uy"><title>Lo que nos conecta a todos</title><desc>Lo que nos conecta a todos</desc></programme>
+<programme start="20251229220000 +0000" stop="20251229223000 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
+<programme start="20251229223000 +0000" stop="20251229223000 +0000" channel="DW (Español).uy"><title>El magacín científico</title><desc>El magacín científico</desc></programme>
+<programme start="20251229223000 +0000" stop="20251229230000 +0000" channel="DW (Español).uy"><title>El reportaje actual</title><desc>El reportaje actual</desc></programme>
+<programme start="20251229230000 +0000" stop="20251229230000 +0000" channel="DW (Español).uy"><title>Sin informacion disponible.</title><desc>Sin informacion disponible.</desc></programme>
+<programme start="20251229230000 +0000" stop="20251229235900 +0000" channel="DW (Español).uy"><title>Noticias</title><desc>Noticias</desc></programme>
 <programme start="20251228020000 +0000" stop="20251228023000 +0000" channel="France 24.uy"><title>Noticias / Revista Digital / Corresponsales</title><desc>Noticias / Revista Digital / Corresponsales</desc></programme>
 <programme start="20251228023000 +0000" stop="20251228030000 +0000" channel="France 24.uy"><title>Noticias / Medio Ambiente / África</title><desc>7 Días</desc></programme>
-<programme start="20251228030000 +0000" stop="20251228030000 +0000" channel="France 24.uy"><title>Noticias / El Debate</title><desc>/ La Entrevista</desc></programme>
 <programme start="20251228030000 +0000" stop="20251228033000 +0000" channel="France 24.uy"><title>Noticias / Una Semana en el Mundo / Expreso de Oriente</title><desc>Noticias / Una Semana en el Mundo / Expreso de Oriente</desc></programme>
-<programme start="20251228033000 +0000" stop="20251228033000 +0000" channel="France 24.uy"><title>Noticias / Ciencia y Tecnología / África</title><desc>7 Días</desc></programme>
 <programme start="20251228033000 +0000" stop="20251228040000 +0000" channel="France 24.uy"><title>Noticias /</title><desc>Cultura / Esto es Francia</desc></programme>
-<programme start="20251228040000 +0000" stop="20251228040000 +0000" channel="France 24.uy"><title>Noticias / Moda / Ellas Hoy</title><desc>Noticias / Moda / Ellas Hoy</desc></programme>
 <programme start="20251228040000 +0000" stop="20251228043000 +0000" channel="France 24.uy"><title>Noticias / Ciencia y Tecnología</title><desc>Noticias / Ciencia y Tecnología</desc></programme>
-<programme start="20251228043000 +0000" stop="20251228043000 +0000" channel="France 24.uy"><title>Noticias / Europa Hoy / En Foco</title><desc>Noticias / Europa Hoy / En Foco</desc></programme>
 <programme start="20251228043000 +0000" stop="20251228050000 +0000" channel="France 24.uy"><title>Noticias / Escala en París / Revista Digital</title><desc>Noticias / Escala en París / Revista Digital</desc></programme>
-<programme start="20251228050000 +0000" stop="20251228050000 +0000" channel="France 24.uy"><title>Noticias / África</title><desc>7 Días / En 5 Minutos</desc></programme>
 <programme start="20251228050000 +0000" stop="20251228053000 +0000" channel="France 24.uy"><title>Noticias / Aquí America / Enlace</title><desc>Noticias / Aquí America / Enlace</desc></programme>
-<programme start="20251228053000 +0000" stop="20251228053000 +0000" channel="France 24.uy"><title>Noticias / Escala en París / En Foco</title><desc>Noticias / Escala en París / En Foco</desc></programme>
 <programme start="20251228053000 +0000" stop="20251228060000 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente / Moda</title><desc>Noticias / Expreso de Oriente / Moda</desc></programme>
-<programme start="20251228060000 +0000" stop="20251228060000 +0000" channel="France 24.uy"><title>Noticias / Reporteros</title><desc>Noticias / Reporteros</desc></programme>
 <programme start="20251228060000 +0000" stop="20251228063000 +0000" channel="France 24.uy"><title>Noticias / Revista Digital / En Primera Plana</title><desc>Noticias / Revista Digital / En Primera Plana</desc></programme>
-<programme start="20251228063000 +0000" stop="20251228063000 +0000" channel="France 24.uy"><title>Noticias / La Entrevista / En Foco</title><desc>Noticias / La Entrevista / En Foco</desc></programme>
 <programme start="20251228063000 +0000" stop="20251228070000 +0000" channel="France 24.uy"><title>Noticias / En Primera Plana / En Foco</title><desc>Noticias / En Primera Plana / En Foco</desc></programme>
-<programme start="20251228070000 +0000" stop="20251228070000 +0000" channel="France 24.uy"><title>Noticias / Corresponsales / En</title><desc>5 Minutos</desc></programme>
 <programme start="20251228070000 +0000" stop="20251228073000 +0000" channel="France 24.uy"><title>Noticias / Europa Hoy / Revista Digital</title><desc>Noticias / Europa Hoy / Revista Digital</desc></programme>
-<programme start="20251228073000 +0000" stop="20251228073000 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente / En Foco</title><desc>Noticias / Expreso de Oriente / En Foco</desc></programme>
 <programme start="20251228073000 +0000" stop="20251228080000 +0000" channel="France 24.uy"><title>Noticias / Reporteros</title><desc>Noticias / Reporteros</desc></programme>
-<programme start="20251228080000 +0000" stop="20251228080000 +0000" channel="France 24.uy"><title>Noticias / Cultura / Moda</title><desc>Noticias / Cultura / Moda</desc></programme>
 <programme start="20251228080000 +0000" stop="20251228083000 +0000" channel="France 24.uy"><title>Noticias / Aquí America / Enlace</title><desc>Noticias / Aquí America / Enlace</desc></programme>
-<programme start="20251228083000 +0000" stop="20251228083000 +0000" channel="France 24.uy"><title>Directo America / Directo America</title><desc>Directo America / Directo America</desc></programme>
 <programme start="20251228083000 +0000" stop="20251228090000 +0000" channel="France 24.uy"><title>Noticias / Escala en París</title><desc>Noticias / Escala en París</desc></programme>
-<programme start="20251228090000 +0000" stop="20251228090000 +0000" channel="France 24.uy"><title>Directo America</title><desc>Directo America</desc></programme>
 <programme start="20251228090000 +0000" stop="20251228093000 +0000" channel="France 24.uy"><title>Noticias / Ellas Hoy</title><desc>Noticias / Ellas Hoy</desc></programme>
 <programme start="20251228093000 +0000" stop="20251228100000 +0000" channel="France 24.uy"><title>Noticias / Historia / En Foco</title><desc>Noticias / Historia / En Foco</desc></programme>
 <programme start="20251228100000 +0000" stop="20251228110000 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente</title><desc>Noticias / Expreso de Oriente</desc></programme>
-<programme start="20251228110000 +0000" stop="20251228110000 +0000" channel="France 24.uy"><title>Noticias / Europa Hoy</title><desc>Noticias / Europa Hoy</desc></programme>
 <programme start="20251228110000 +0000" stop="20251228113000 +0000" channel="France 24.uy"><title>Noticias / Ciencia y Tecnología / Economía</title><desc>Noticias / Ciencia y Tecnología / Economía</desc></programme>
-<programme start="20251228113000 +0000" stop="20251228113000 +0000" channel="France 24.uy"><title>Noticias / Moda / Ciencia y Tecnología</title><desc>Noticias / Moda / Ciencia y Tecnología</desc></programme>
 <programme start="20251228113000 +0000" stop="20251228120000 +0000" channel="France 24.uy"><title>Noticias / Corresponsales</title><desc>Noticias / Corresponsales</desc></programme>
-<programme start="20251228120000 +0000" stop="20251228120000 +0000" channel="France 24.uy"><title>Noticias / Revista de Prensa / El Debate</title><desc>Noticias / Revista de Prensa / El Debate</desc></programme>
 <programme start="20251228120000 +0000" stop="20251228123000 +0000" channel="France 24.uy"><title>Noticias / Salud / El Debate</title><desc>Noticias / Salud / El Debate</desc></programme>
-<programme start="20251228123000 +0000" stop="20251228123000 +0000" channel="France 24.uy"><title>Noticias / Enlace / Invitado del Día</title><desc>Noticias / Enlace / Invitado del Día</desc></programme>
 <programme start="20251228123000 +0000" stop="20251228130000 +0000" channel="France 24.uy"><title>Noticias / Reporteros</title><desc>Noticias / Reporteros</desc></programme>
-<programme start="20251228130000 +0000" stop="20251228130000 +0000" channel="France 24.uy"><title>Noticias / Revista de Prensa / Carrusel de las Artes</title><desc>Noticias / Revista de Prensa / Carrusel de las Artes</desc></programme>
 <programme start="20251228130000 +0000" stop="20251228133000 +0000" channel="France 24.uy"><title>Noticias / Migrantes / Aquí America</title><desc>Noticias / Migrantes / Aquí America</desc></programme>
-<programme start="20251228133000 +0000" stop="20251228133000 +0000" channel="France 24.uy"><title>Noticias / Invitado del Día</title><desc>Noticias / Invitado del Día</desc></programme>
 <programme start="20251228133000 +0000" stop="20251228140000 +0000" channel="France 24.uy"><title>Noticias / Europa Hoy</title><desc>Noticias / Europa Hoy</desc></programme>
-<programme start="20251228140000 +0000" stop="20251228140000 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente</title><desc>Noticias / Expreso de Oriente</desc></programme>
 <programme start="20251228140000 +0000" stop="20251228143000 +0000" channel="France 24.uy"><title>Noticias / Ellas Hoy</title><desc>Noticias / Ellas Hoy</desc></programme>
-<programme start="20251228143000 +0000" stop="20251228143000 +0000" channel="France 24.uy"><title>Noticias / Escala en París</title><desc>Noticias / Escala en París</desc></programme>
-<programme start="20251228143000 +0000" stop="20251228150000 +0000" channel="France 24.uy"><title>Noticias / En Primera Plana</title><desc>Noticias / En Primera Plana</desc></programme>
-<programme start="20251228150000 +0000" stop="20251228153000 +0000" channel="France 24.uy"><title>Noticias / En</title><desc>5 Minutos / Salud</desc></programme>
-<programme start="20251228153000 +0000" stop="20251228153000 +0000" channel="France 24.uy"><title>Noticias / Reporteros</title><desc>Noticias / Reporteros</desc></programme>
+<programme start="20251228143000 +0000" stop="20251228153000 +0000" channel="France 24.uy"><title>Noticias / En Primera Plana</title><desc>Noticias / En Primera Plana</desc></programme>
 <programme start="20251228153000 +0000" stop="20251228160000 +0000" channel="France 24.uy"><title>Noticias / Corresponsales</title><desc>Noticias / Corresponsales</desc></programme>
-<programme start="20251228160000 +0000" stop="20251228160000 +0000" channel="France 24.uy"><title>Noticias / Europa Hoy</title><desc>Noticias / Europa Hoy</desc></programme>
 <programme start="20251228160000 +0000" stop="20251228163000 +0000" channel="France 24.uy"><title>Noticias / Carrusel de las Artes</title><desc>Noticias / Carrusel de las Artes</desc></programme>
-<programme start="20251228163000 +0000" stop="20251228163000 +0000" channel="France 24.uy"><title>Noticias / África</title><desc>7 Días</desc></programme>
 <programme start="20251228163000 +0000" stop="20251228170000 +0000" channel="France 24.uy"><title>Noticias / Salud / Medio Ambiente</title><desc>Noticias / Salud / Medio Ambiente</desc></programme>
-<programme start="20251228170000 +0000" stop="20251228170000 +0000" channel="France 24.uy"><title>Noticias / Moda / Esto es Francia</title><desc>Noticias / Moda / Esto es Francia</desc></programme>
 <programme start="20251228170000 +0000" stop="20251228173000 +0000" channel="France 24.uy"><title>Noticias / Aquí America</title><desc>Noticias / Aquí America</desc></programme>
-<programme start="20251228173000 +0000" stop="20251228173000 +0000" channel="France 24.uy"><title>Noticias / Enlace / En Foco</title><desc>Noticias / Enlace / En Foco</desc></programme>
 <programme start="20251228173000 +0000" stop="20251228180000 +0000" channel="France 24.uy"><title>Noticias / En Foco / Revista Digital</title><desc>Noticias / En Foco / Revista Digital</desc></programme>
-<programme start="20251228180000 +0000" stop="20251228180000 +0000" channel="France 24.uy"><title>Noticias / Salud / Cultura</title><desc>Noticias / Salud / Cultura</desc></programme>
 <programme start="20251228180000 +0000" stop="20251228183000 +0000" channel="France 24.uy"><title>Noticias / África</title><desc>7 Días</desc></programme>
-<programme start="20251228183000 +0000" stop="20251228183000 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente</title><desc>Noticias / Expreso de Oriente</desc></programme>
 <programme start="20251228183000 +0000" stop="20251228190000 +0000" channel="France 24.uy"><title>Noticias / Reporteros</title><desc>Noticias / Reporteros</desc></programme>
-<programme start="20251228190000 +0000" stop="20251228190000 +0000" channel="France 24.uy"><title>Noticias / Ciencia y Tecnología / En Foco</title><desc>Noticias / Ciencia y Tecnología / En Foco</desc></programme>
 <programme start="20251228190000 +0000" stop="20251228200000 +0000" channel="France 24.uy"><title>Noticias / Los Observadores / En Foco</title><desc>Noticias / Los Observadores / En Foco</desc></programme>
-<programme start="20251228200000 +0000" stop="20251228200000 +0000" channel="France 24.uy"><title>Noticias / Deportes / En Foco</title><desc>Noticias / Deportes / En Foco</desc></programme>
 <programme start="20251228200000 +0000" stop="20251228203000 +0000" channel="France 24.uy"><title>Noticias / Deportes / Moda</title><desc>Noticias / Deportes / Moda</desc></programme>
-<programme start="20251228203000 +0000" stop="20251228203000 +0000" channel="France 24.uy"><title>Noticias / Revista Digital / Los Observadores</title><desc>Noticias / Revista Digital / Los Observadores</desc></programme>
 <programme start="20251228203000 +0000" stop="20251228210000 +0000" channel="France 24.uy"><title>Noticias / Escala en París</title><desc>Noticias / Escala en París</desc></programme>
-<programme start="20251228210000 +0000" stop="20251228210000 +0000" channel="France 24.uy"><title>Directo America / Una Semana en el Mundo</title><desc>Directo America / Una Semana en el Mundo</desc></programme>
 <programme start="20251228210000 +0000" stop="20251228213000 +0000" channel="France 24.uy"><title>Noticias / Economía / El Debate</title><desc>Noticias / Economía / El Debate</desc></programme>
 <programme start="20251228213000 +0000" stop="20251228220000 +0000" channel="France 24.uy"><title>Noticias / Economía / Esto es Francia</title><desc>Noticias / Economía / Esto es Francia</desc></programme>
-<programme start="20251228220000 +0000" stop="20251228220000 +0000" channel="France 24.uy"><title>Directo America</title><desc>Directo America</desc></programme>
 <programme start="20251228220000 +0000" stop="20251228230000 +0000" channel="France 24.uy"><title>Noticias / Boleto de Vuelta</title><desc>Noticias / Boleto de Vuelta</desc></programme>
-<programme start="20251228230000 +0000" stop="20251228230000 +0000" channel="France 24.uy"><title>Directo America / Aquí America</title><desc>Directo America / Aquí America</desc></programme>
 <programme start="20251228230000 +0000" stop="20251228233000 +0000" channel="France 24.uy"><title>Noticias / Deportes / Los Observadores</title><desc>Noticias / Deportes / Los Observadores</desc></programme>
-<programme start="20251228233000 +0000" stop="20251228233000 +0000" channel="France 24.uy"><title>Noticias / Deportes / En Primera Plana</title><desc>Noticias / Deportes / En Primera Plana</desc></programme>
-<programme start="20251228233000 +0000" stop="20251228235900 +0000" channel="France 24.uy"><title>Noticias / Aquí America</title><desc>Noticias / Aquí America</desc></programme>
-<programme start="20251227013000 +0000" stop="20251227023000 +0000" channel="TV CIUDAD.uy"><title>LADO B</title><desc>repeticion</desc></programme>
-<programme start="20251227023000 +0000" stop="20251227033000 +0000" channel="TV CIUDAD.uy"><title>MIRÁ MONTEVIDEO (repeticion)</title><desc>MIRÁ MONTEVIDEO (repeticion)</desc></programme>
-<programme start="20251227033000 +0000" stop="20251227070000 +0000" channel="TV CIUDAD.uy"><title>VIDEOCLIPS</title><desc>VIDEOCLIPS</desc></programme>
-<programme start="20251227070000 +0000" stop="20251227083000 +0000" channel="TV CIUDAD.uy"><title>MVD NOTICIAS EDICIÓN CENTRAL (repeticion)</title><desc>MVD NOTICIAS EDICIÓN CENTRAL (repeticion)</desc></programme>
-<programme start="20251227083000 +0000" stop="20251227090000 +0000" channel="TV CIUDAD.uy"><title>RODANDO CAMINOS</title><desc>RODANDO CAMINOS</desc></programme>
-<programme start="20251227090000 +0000" stop="20251227110000 +0000" channel="TV CIUDAD.uy"><title>PASEO ANIMADO</title><desc>PASEO ANIMADO</desc></programme>
-<programme start="20251227110000 +0000" stop="20251227120000 +0000" channel="TV CIUDAD.uy"><title>EN MOVIMIENTO</title><desc>EN MOVIMIENTO</desc></programme>
-<programme start="20251227120000 +0000" stop="20251227130000 +0000" channel="TV CIUDAD.uy"><title>COCINEMOS</title><desc>COCINEMOS</desc></programme>
-<programme start="20251227130000 +0000" stop="20251227133000 +0000" channel="TV CIUDAD.uy"><title>NCC 1</title><desc>NCC 1</desc></programme>
-<programme start="20251227133000 +0000" stop="20251227140000 +0000" channel="TV CIUDAD.uy"><title>NCC REPORTE CLIMÁTICO</title><desc>NCC REPORTE CLIMÁTICO</desc></programme>
-<programme start="20251227140000 +0000" stop="20251227141500 +0000" channel="TV CIUDAD.uy"><title>NCC CULTURA EN MOVIMIENTO</title><desc>NCC CULTURA EN MOVIMIENTO</desc></programme>
-<programme start="20251227141500 +0000" stop="20251227143000 +0000" channel="TV CIUDAD.uy"><title>NCC EN ÓRBITA</title><desc>NCC EN ÓRBITA</desc></programme>
-<programme start="20251227143000 +0000" stop="20251227150000 +0000" channel="TV CIUDAD.uy"><title>INCLUIDOS</title><desc>INCLUIDOS</desc></programme>
-<programme start="20251227150000 +0000" stop="20251227153000 +0000" channel="TV CIUDAD.uy"><title>OFICIOS DEL FIN DEL MUNDO</title><desc>OFICIOS DEL FIN DEL MUNDO</desc></programme>
-<programme start="20251227153000 +0000" stop="20251227160000 +0000" channel="TV CIUDAD.uy"><title>RELATOS DE VIAJE</title><desc>RELATOS DE VIAJE</desc></programme>
-<programme start="20251227160000 +0000" stop="20251227163000 +0000" channel="TV CIUDAD.uy"><title>PARQUES NATURALES</title><desc>PARQUES NATURALES</desc></programme>
-<programme start="20251227163000 +0000" stop="20251227170000 +0000" channel="TV CIUDAD.uy"><title>QUE HACEN LOS QUE NO HICIERON?</title><desc>QUE HACEN LOS QUE NO HICIERON?</desc></programme>
-<programme start="20251227170000 +0000" stop="20251227173000 +0000" channel="TV CIUDAD.uy"><title>CON SABOR A SANTA FE</title><desc>CON SABOR A SANTA FE</desc></programme>
-<programme start="20251227173000 +0000" stop="20251227180000 +0000" channel="TV CIUDAD.uy"><title>HUELLAS DE HIERRO</title><desc>HUELLAS DE HIERRO</desc></programme>
-<programme start="20251227180000 +0000" stop="20251227190000 +0000" channel="TV CIUDAD.uy"><title>UNA APP EN MI CABEZA</title><desc>UNA APP EN MI CABEZA</desc></programme>
-<programme start="20251227190000 +0000" stop="20251227200000 +0000" channel="TV CIUDAD.uy"><title>DE IDA Y VUELTA</title><desc>(repeticion)</desc></programme>
-<programme start="20251227200000 +0000" stop="20251227210000 +0000" channel="TV CIUDAD.uy"><title>CONEXIONES (repeticion)</title><desc>CONEXIONES (repeticion)</desc></programme>
-<programme start="20251227210000 +0000" stop="20251227220000 +0000" channel="TV CIUDAD.uy"><title>CORRE CÁMARA</title><desc>CORRE CÁMARA</desc></programme>
-<programme start="20251227220000 +0000" stop="20251227230000 +0000" channel="TV CIUDAD.uy"><title>ROCK POR LA VIDA</title><desc>ROCK POR LA VIDA</desc></programme>
-<programme start="20251227230000 +0000" stop="20251228000000 +0000" channel="TV CIUDAD.uy"><title>LOS MEDIOS DE LA GUERRA</title><desc>LOS MEDIOS DE LA GUERRA</desc></programme>
-<programme start="20251228000000 +0000" stop="20251228010000 +0000" channel="TV CIUDAD.uy"><title>CORRE CÁMARA (repeticion)</title><desc>CORRE CÁMARA (repeticion)</desc></programme>
-<programme start="20251228010000 +0000" stop="20251228020000 +0000" channel="TV CIUDAD.uy"><title>AUTORES EN VIVO</title><desc>AUTORES EN VIVO</desc></programme>
+<programme start="20251228233000 +0000" stop="20251229000000 +0000" channel="France 24.uy"><title>Noticias / Aquí America</title><desc>Noticias / Aquí America</desc></programme>
+<programme start="20251229000000 +0000" stop="20251229003000 +0000" channel="France 24.uy"><title>Noticias / El Debate / Historia</title><desc>Noticias / El Debate / Historia</desc></programme>
+<programme start="20251229003000 +0000" stop="20251229010000 +0000" channel="France 24.uy"><title>Noticias / Escala en París / Cultura</title><desc>Noticias / Escala en París / Cultura</desc></programme>
+<programme start="20251229010000 +0000" stop="20251229020000 +0000" channel="France 24.uy"><title>Noticias / Carrusel de las Artes / Esto es Francia</title><desc>Noticias / Carrusel de las Artes / Esto es Francia</desc></programme>
+<programme start="20251229020000 +0000" stop="20251229023000 +0000" channel="France 24.uy"><title>Noticias / Boleto de Vuelta</title><desc>Noticias / Boleto de Vuelta</desc></programme>
+<programme start="20251229023000 +0000" stop="20251229030000 +0000" channel="France 24.uy"><title>Noticias / Ellas Hoy / Moda</title><desc>Noticias / Ellas Hoy / Moda</desc></programme>
+<programme start="20251229030000 +0000" stop="20251229030000 +0000" channel="France 24.uy"><title>Noticias / Una Semana en el Mundo / Expreso de Oriente</title><desc>Noticias / Una Semana en el Mundo / Expreso de Oriente</desc></programme>
+<programme start="20251229030000 +0000" stop="20251229033000 +0000" channel="France 24.uy"><title>Noticias / El Debate / Aquí America</title><desc>Noticias / El Debate / Aquí America</desc></programme>
+<programme start="20251229033000 +0000" stop="20251229033000 +0000" channel="France 24.uy"><title>Noticias /</title><desc>Cultura / Esto es Francia</desc></programme>
+<programme start="20251229033000 +0000" stop="20251229040000 +0000" channel="France 24.uy"><title>Noticias / Revista Digital / Corresponsales</title><desc>Noticias / Revista Digital / Corresponsales</desc></programme>
+<programme start="20251229040000 +0000" stop="20251229040000 +0000" channel="France 24.uy"><title>Noticias / Ciencia y Tecnología</title><desc>Noticias / Ciencia y Tecnología</desc></programme>
+<programme start="20251229040000 +0000" stop="20251229043000 +0000" channel="France 24.uy"><title>Noticias / Reporteros</title><desc>Noticias / Reporteros</desc></programme>
+<programme start="20251229043000 +0000" stop="20251229043000 +0000" channel="France 24.uy"><title>Noticias / Escala en París / Revista Digital</title><desc>Noticias / Escala en París / Revista Digital</desc></programme>
+<programme start="20251229043000 +0000" stop="20251229050000 +0000" channel="France 24.uy"><title>Noticias / Historia / En Primera Plana</title><desc>Noticias / Historia / En Primera Plana</desc></programme>
+<programme start="20251229050000 +0000" stop="20251229050000 +0000" channel="France 24.uy"><title>Noticias / Aquí America / Enlace</title><desc>Noticias / Aquí America / Enlace</desc></programme>
+<programme start="20251229050000 +0000" stop="20251229053000 +0000" channel="France 24.uy"><title>Noticias / En Primera Plana / En Foco</title><desc>Noticias / En Primera Plana / En Foco</desc></programme>
+<programme start="20251229053000 +0000" stop="20251229053000 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente / Moda</title><desc>Noticias / Expreso de Oriente / Moda</desc></programme>
+<programme start="20251229053000 +0000" stop="20251229060000 +0000" channel="France 24.uy"><title>Noticias / Boleto de Vuelta</title><desc>Noticias / Boleto de Vuelta</desc></programme>
+<programme start="20251229060000 +0000" stop="20251229060000 +0000" channel="France 24.uy"><title>Noticias / Revista Digital / En Primera Plana</title><desc>Noticias / Revista Digital / En Primera Plana</desc></programme>
+<programme start="20251229060000 +0000" stop="20251229063000 +0000" channel="France 24.uy"><title>Noticias</title><desc>/ Expreso de Oriente / Ciencia y Tecnología</desc></programme>
+<programme start="20251229063000 +0000" stop="20251229063000 +0000" channel="France 24.uy"><title>Noticias / En Primera Plana / En Foco</title><desc>Noticias / En Primera Plana / En Foco</desc></programme>
+<programme start="20251229063000 +0000" stop="20251229070000 +0000" channel="France 24.uy"><title>Noticias / Ellas Hoy / Cultura</title><desc>Noticias / Ellas Hoy / Cultura</desc></programme>
+<programme start="20251229070000 +0000" stop="20251229070000 +0000" channel="France 24.uy"><title>Noticias / Europa Hoy / Revista Digital</title><desc>Noticias / Europa Hoy / Revista Digital</desc></programme>
+<programme start="20251229070000 +0000" stop="20251229073000 +0000" channel="France 24.uy"><title>Noticias / Carrusel de las Artes / Moda</title><desc>Noticias / Carrusel de las Artes / Moda</desc></programme>
+<programme start="20251229073000 +0000" stop="20251229073000 +0000" channel="France 24.uy"><title>Noticias / Reporteros</title><desc>Noticias / Reporteros</desc></programme>
+<programme start="20251229073000 +0000" stop="20251229080000 +0000" channel="France 24.uy"><title>Noticias / Boleto de Vuelta</title><desc>Noticias / Boleto de Vuelta</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229080000 +0000" channel="France 24.uy"><title>Noticias / Aquí America / Enlace</title><desc>Noticias / Aquí America / Enlace</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229083000 +0000" channel="France 24.uy"><title>Noticias / Ellas Hoy / En</title><desc>5 Minutos</desc></programme>
+<programme start="20251229083000 +0000" stop="20251229083000 +0000" channel="France 24.uy"><title>Noticias / Escala en París</title><desc>Noticias / Escala en París</desc></programme>
+<programme start="20251229083000 +0000" stop="20251229090000 +0000" channel="France 24.uy"><title>Noticias / En Primera Plana</title><desc>Noticias / En Primera Plana</desc></programme>
+<programme start="20251229090000 +0000" stop="20251229093000 +0000" channel="France 24.uy"><title>Noticias / Ellas Hoy</title><desc>Noticias / Ellas Hoy</desc></programme>
+<programme start="20251229093000 +0000" stop="20251229093000 +0000" channel="France 24.uy"><title>Noticias / Historia / En Foco</title><desc>Noticias / Historia / En Foco</desc></programme>
+<programme start="20251229093000 +0000" stop="20251229100000 +0000" channel="France 24.uy"><title>Noticias / Medio Ambiente / En Foco</title><desc>Noticias / Medio Ambiente / En Foco</desc></programme>
+<programme start="20251229100000 +0000" stop="20251229100000 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente</title><desc>Noticias / Expreso de Oriente</desc></programme>
+<programme start="20251229100000 +0000" stop="20251229110000 +0000" channel="France 24.uy"><title>Noticias / Aquí America</title><desc>Noticias / Aquí America</desc></programme>
+<programme start="20251229110000 +0000" stop="20251229110000 +0000" channel="France 24.uy"><title>Noticias / Ciencia y Tecnología / Economía</title><desc>Noticias / Ciencia y Tecnología / Economía</desc></programme>
+<programme start="20251229110000 +0000" stop="20251229113000 +0000" channel="France 24.uy"><title>Noticias / Revista Digital / Economía</title><desc>Noticias / Revista Digital / Economía</desc></programme>
+<programme start="20251229113000 +0000" stop="20251229113000 +0000" channel="France 24.uy"><title>Noticias / Corresponsales</title><desc>Noticias / Corresponsales</desc></programme>
+<programme start="20251229113000 +0000" stop="20251229120000 +0000" channel="France 24.uy"><title>Noticias / Europa Hoy</title><desc>Noticias / Europa Hoy</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229123000 +0000" channel="France 24.uy"><title>Noticias / Salud / El Debate</title><desc>Noticias / Salud / El Debate</desc></programme>
+<programme start="20251229123000 +0000" stop="20251229123000 +0000" channel="France 24.uy"><title>Noticias / Reporteros</title><desc>Noticias / Reporteros</desc></programme>
+<programme start="20251229123000 +0000" stop="20251229130000 +0000" channel="France 24.uy"><title>Noticias / Boleto de Vuelta</title><desc>Noticias / Boleto de Vuelta</desc></programme>
+<programme start="20251229130000 +0000" stop="20251229130000 +0000" channel="France 24.uy"><title>Noticias / Migrantes / Aquí America</title><desc>Noticias / Migrantes / Aquí America</desc></programme>
+<programme start="20251229130000 +0000" stop="20251229133000 +0000" channel="France 24.uy"><title>Noticias / Los Observadores / África</title><desc>7 Días</desc></programme>
+<programme start="20251229133000 +0000" stop="20251229133000 +0000" channel="France 24.uy"><title>Noticias / Europa Hoy</title><desc>Noticias / Europa Hoy</desc></programme>
+<programme start="20251229133000 +0000" stop="20251229140000 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente</title><desc>Noticias / Expreso de Oriente</desc></programme>
+<programme start="20251229140000 +0000" stop="20251229140000 +0000" channel="France 24.uy"><title>Noticias / Ellas Hoy</title><desc>Noticias / Ellas Hoy</desc></programme>
+<programme start="20251229140000 +0000" stop="20251229143000 +0000" channel="France 24.uy"><title>Noticias / Escala en París</title><desc>Noticias / Escala en París</desc></programme>
+<programme start="20251229143000 +0000" stop="20251229143000 +0000" channel="France 24.uy"><title>Noticias / En Primera Plana</title><desc>Noticias / En Primera Plana</desc></programme>
+<programme start="20251229143000 +0000" stop="20251229150000 +0000" channel="France 24.uy"><title>Noticias / Corresponsales</title><desc>Noticias / Corresponsales</desc></programme>
+<programme start="20251229150000 +0000" stop="20251229153000 +0000" channel="France 24.uy"><title>Noticias / Aquí America</title><desc>Noticias / Aquí America</desc></programme>
+<programme start="20251229153000 +0000" stop="20251229153000 +0000" channel="France 24.uy"><title>Noticias / Corresponsales</title><desc>Noticias / Corresponsales</desc></programme>
+<programme start="20251229153000 +0000" stop="20251229160000 +0000" channel="France 24.uy"><title>Noticias / En Primera Plana</title><desc>Noticias / En Primera Plana</desc></programme>
+<programme start="20251229160000 +0000" stop="20251229163000 +0000" channel="France 24.uy"><title>Noticias / Carrusel de las Artes</title><desc>Noticias / Carrusel de las Artes</desc></programme>
+<programme start="20251229163000 +0000" stop="20251229163000 +0000" channel="France 24.uy"><title>Noticias / Salud / Medio Ambiente</title><desc>Noticias / Salud / Medio Ambiente</desc></programme>
+<programme start="20251229163000 +0000" stop="20251229170000 +0000" channel="France 24.uy"><title>Noticias / Salud / Cultura</title><desc>Noticias / Salud / Cultura</desc></programme>
+<programme start="20251229170000 +0000" stop="20251229170000 +0000" channel="France 24.uy"><title>Noticias / Aquí America</title><desc>Noticias / Aquí America</desc></programme>
+<programme start="20251229170000 +0000" stop="20251229173000 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente</title><desc>Noticias / Expreso de Oriente</desc></programme>
+<programme start="20251229173000 +0000" stop="20251229173000 +0000" channel="France 24.uy"><title>Noticias / En Foco / Revista Digital</title><desc>Noticias / En Foco / Revista Digital</desc></programme>
+<programme start="20251229173000 +0000" stop="20251229180000 +0000" channel="France 24.uy"><title>Noticias / En Foco / Ciencia y Tecnología</title><desc>Noticias / En Foco / Ciencia y Tecnología</desc></programme>
+<programme start="20251229180000 +0000" stop="20251229180000 +0000" channel="France 24.uy"><title>Noticias / África</title><desc>7 Días</desc></programme>
+<programme start="20251229180000 +0000" stop="20251229183000 +0000" channel="France 24.uy"><title>Noticias / Europa Hoy</title><desc>Noticias / Europa Hoy</desc></programme>
+<programme start="20251229183000 +0000" stop="20251229183000 +0000" channel="France 24.uy"><title>Noticias / Reporteros</title><desc>Noticias / Reporteros</desc></programme>
+<programme start="20251229183000 +0000" stop="20251229190000 +0000" channel="France 24.uy"><title>Noticias / Boleto de Vuelta</title><desc>Noticias / Boleto de Vuelta</desc></programme>
+<programme start="20251229190000 +0000" stop="20251229190000 +0000" channel="France 24.uy"><title>Noticias / Los Observadores / En Foco</title><desc>Noticias / Los Observadores / En Foco</desc></programme>
+<programme start="20251229190000 +0000" stop="20251229200000 +0000" channel="France 24.uy"><title>Noticias / Migrantes / En Foco</title><desc>Noticias / Migrantes / En Foco</desc></programme>
+<programme start="20251229200000 +0000" stop="20251229200000 +0000" channel="France 24.uy"><title>Noticias / Deportes / Moda</title><desc>Noticias / Deportes / Moda</desc></programme>
+<programme start="20251229200000 +0000" stop="20251229203000 +0000" channel="France 24.uy"><title>Noticias / Deportes / Esto es Francia</title><desc>Noticias / Deportes / Esto es Francia</desc></programme>
+<programme start="20251229203000 +0000" stop="20251229203000 +0000" channel="France 24.uy"><title>Noticias / Escala en París</title><desc>Noticias / Escala en París</desc></programme>
+<programme start="20251229203000 +0000" stop="20251229210000 +0000" channel="France 24.uy"><title>Noticias / Enlace / En</title><desc>5 Minutos</desc></programme>
+<programme start="20251229210000 +0000" stop="20251229210000 +0000" channel="France 24.uy"><title>Noticias / Economía / El Debate</title><desc>Noticias / Economía / El Debate</desc></programme>
+<programme start="20251229210000 +0000" stop="20251229213000 +0000" channel="France 24.uy"><title>Noticias / Economía / Una Semana en el Mundo</title><desc>Noticias / Economía / Una Semana en el Mundo</desc></programme>
+<programme start="20251229213000 +0000" stop="20251229213000 +0000" channel="France 24.uy"><title>Noticias / Economía / Esto es Francia</title><desc>Noticias / Economía / Esto es Francia</desc></programme>
+<programme start="20251229213000 +0000" stop="20251229220000 +0000" channel="France 24.uy"><title>Noticias / Economía / Moda</title><desc>Noticias / Economía / Moda</desc></programme>
+<programme start="20251229220000 +0000" stop="20251229220000 +0000" channel="France 24.uy"><title>Noticias / Boleto de Vuelta</title><desc>Noticias / Boleto de Vuelta</desc></programme>
+<programme start="20251229220000 +0000" stop="20251229230000 +0000" channel="France 24.uy"><title>Noticias / Reporteros</title><desc>Noticias / Reporteros</desc></programme>
+<programme start="20251229230000 +0000" stop="20251229230000 +0000" channel="France 24.uy"><title>Noticias / Deportes / Los Observadores</title><desc>Noticias / Deportes / Los Observadores</desc></programme>
+<programme start="20251229230000 +0000" stop="20251229233000 +0000" channel="France 24.uy"><title>Noticias / Deportes Domingo</title><desc>Noticias / Deportes Domingo</desc></programme>
+<programme start="20251229233000 +0000" stop="20251229233000 +0000" channel="France 24.uy"><title>Noticias / Aquí America</title><desc>Noticias / Aquí America</desc></programme>
+<programme start="20251229233000 +0000" stop="20251229235900 +0000" channel="France 24.uy"><title>Noticias / Expreso de Oriente</title><desc>Noticias / Expreso de Oriente</desc></programme>
 <programme start="20251228020000 +0000" stop="20251228023000 +0000" channel="TV CIUDAD.uy"><title>AUTORES EN VIVO</title><desc>AUTORES EN VIVO</desc></programme>
-<programme start="20251228023000 +0000" stop="20251228023000 +0000" channel="TV CIUDAD.uy"><title>MIRÁ MONTEVIDEO (repeticion)</title><desc>MIRÁ MONTEVIDEO (repeticion)</desc></programme>
 <programme start="20251228023000 +0000" stop="20251228030000 +0000" channel="TV CIUDAD.uy"><title>AUTORES EN VIVO</title><desc>AUTORES EN VIVO</desc></programme>
-<programme start="20251228030000 +0000" stop="20251228033000 +0000" channel="TV CIUDAD.uy"><title>VIDEOCLIPS</title><desc>VIDEOCLIPS</desc></programme>
-<programme start="20251228033000 +0000" stop="20251228070000 +0000" channel="TV CIUDAD.uy"><title>VIDEOCLIPS</title><desc>VIDEOCLIPS</desc></programme>
-<programme start="20251228070000 +0000" stop="20251228080000 +0000" channel="TV CIUDAD.uy"><title>MVD NOTICIAS EDICIÓN CENTRAL (repeticion)</title><desc>MVD NOTICIAS EDICIÓN CENTRAL (repeticion)</desc></programme>
+<programme start="20251228030000 +0000" stop="20251228080000 +0000" channel="TV CIUDAD.uy"><title>VIDEOCLIPS</title><desc>VIDEOCLIPS</desc></programme>
 <programme start="20251228080000 +0000" stop="20251228083000 +0000" channel="TV CIUDAD.uy"><title>MI CIUDAD EN BICICLETA</title><desc>MI CIUDAD EN BICICLETA</desc></programme>
-<programme start="20251228083000 +0000" stop="20251228083000 +0000" channel="TV CIUDAD.uy"><title>RODANDO CAMINOS</title><desc>RODANDO CAMINOS</desc></programme>
 <programme start="20251228083000 +0000" stop="20251228090000 +0000" channel="TV CIUDAD.uy"><title>PUEBLANDO</title><desc>PUEBLANDO</desc></programme>
 <programme start="20251228090000 +0000" stop="20251228110000 +0000" channel="TV CIUDAD.uy"><title>PASEO ANIMADO</title><desc>PASEO ANIMADO</desc></programme>
 <programme start="20251228110000 +0000" stop="20251228120000 +0000" channel="TV CIUDAD.uy"><title>EN MOVIMIENTO</title><desc>EN MOVIMIENTO</desc></programme>
 <programme start="20251228120000 +0000" stop="20251228130000 +0000" channel="TV CIUDAD.uy"><title>COCINEMOS</title><desc>COCINEMOS</desc></programme>
-<programme start="20251228130000 +0000" stop="20251228130000 +0000" channel="TV CIUDAD.uy"><title>NCC 1</title><desc>NCC 1</desc></programme>
 <programme start="20251228130000 +0000" stop="20251228133000 +0000" channel="TV CIUDAD.uy"><title>NCC 2</title><desc>NCC 2</desc></programme>
-<programme start="20251228133000 +0000" stop="20251228133000 +0000" channel="TV CIUDAD.uy"><title>NCC REPORTE CLIMÁTICO</title><desc>NCC REPORTE CLIMÁTICO</desc></programme>
 <programme start="20251228133000 +0000" stop="20251228140000 +0000" channel="TV CIUDAD.uy"><title>NCC SALUD</title><desc>NCC SALUD</desc></programme>
-<programme start="20251228140000 +0000" stop="20251228140000 +0000" channel="TV CIUDAD.uy"><title>NCC CULTURA EN MOVIMIENTO</title><desc>NCC CULTURA EN MOVIMIENTO</desc></programme>
-<programme start="20251228140000 +0000" stop="20251228141500 +0000" channel="TV CIUDAD.uy"><title>OTRA PARTE DE LA HISTORIA</title><desc>OTRA PARTE DE LA HISTORIA</desc></programme>
-<programme start="20251228141500 +0000" stop="20251228143000 +0000" channel="TV CIUDAD.uy"><title>NCC EN ÓRBITA</title><desc>NCC EN ÓRBITA</desc></programme>
-<programme start="20251228143000 +0000" stop="20251228143000 +0000" channel="TV CIUDAD.uy"><title>INCLUIDOS</title><desc>INCLUIDOS</desc></programme>
+<programme start="20251228140000 +0000" stop="20251228143000 +0000" channel="TV CIUDAD.uy"><title>OTRA PARTE DE LA HISTORIA</title><desc>OTRA PARTE DE LA HISTORIA</desc></programme>
 <programme start="20251228143000 +0000" stop="20251228150000 +0000" channel="TV CIUDAD.uy"><title>OCEANIDES</title><desc>OCEANIDES</desc></programme>
-<programme start="20251228150000 +0000" stop="20251228150000 +0000" channel="TV CIUDAD.uy"><title>OFICIOS DEL FIN DEL MUNDO</title><desc>OFICIOS DEL FIN DEL MUNDO</desc></programme>
 <programme start="20251228150000 +0000" stop="20251228153000 +0000" channel="TV CIUDAD.uy"><title>RECONSTRUYENDO NUESTRO AMBIENTE</title><desc>RECONSTRUYENDO NUESTRO AMBIENTE</desc></programme>
-<programme start="20251228153000 +0000" stop="20251228153000 +0000" channel="TV CIUDAD.uy"><title>RELATOS DE VIAJE</title><desc>RELATOS DE VIAJE</desc></programme>
 <programme start="20251228153000 +0000" stop="20251228160000 +0000" channel="TV CIUDAD.uy"><title>TRABAJO DE CAMPO</title><desc>TRABAJO DE CAMPO</desc></programme>
-<programme start="20251228160000 +0000" stop="20251228160000 +0000" channel="TV CIUDAD.uy"><title>PARQUES NATURALES</title><desc>PARQUES NATURALES</desc></programme>
 <programme start="20251228160000 +0000" stop="20251228163000 +0000" channel="TV CIUDAD.uy"><title>POR EL MUNDO ENTRO A MI CASA</title><desc>POR EL MUNDO ENTRO A MI CASA</desc></programme>
-<programme start="20251228163000 +0000" stop="20251228163000 +0000" channel="TV CIUDAD.uy"><title>QUE HACEN LOS QUE NO HICIERON?</title><desc>QUE HACEN LOS QUE NO HICIERON?</desc></programme>
 <programme start="20251228163000 +0000" stop="20251228170000 +0000" channel="TV CIUDAD.uy"><title>CLUBES SON AMORES</title><desc>CLUBES SON AMORES</desc></programme>
-<programme start="20251228170000 +0000" stop="20251228170000 +0000" channel="TV CIUDAD.uy"><title>CON SABOR A SANTA FE</title><desc>CON SABOR A SANTA FE</desc></programme>
 <programme start="20251228170000 +0000" stop="20251228173000 +0000" channel="TV CIUDAD.uy"><title>EL ARQUITECTO</title><desc>EL ARQUITECTO</desc></programme>
-<programme start="20251228173000 +0000" stop="20251228173000 +0000" channel="TV CIUDAD.uy"><title>HUELLAS DE HIERRO</title><desc>HUELLAS DE HIERRO</desc></programme>
 <programme start="20251228173000 +0000" stop="20251228180000 +0000" channel="TV CIUDAD.uy"><title>LA GUIA DEL DISEÑO</title><desc>LA GUIA DEL DISEÑO</desc></programme>
-<programme start="20251228180000 +0000" stop="20251228180000 +0000" channel="TV CIUDAD.uy"><title>UNA APP EN MI CABEZA</title><desc>UNA APP EN MI CABEZA</desc></programme>
 <programme start="20251228180000 +0000" stop="20251228190000 +0000" channel="TV CIUDAD.uy"><title>UNA HISTORIA DE VASCONIA</title><desc>UNA HISTORIA DE VASCONIA</desc></programme>
-<programme start="20251228190000 +0000" stop="20251228190000 +0000" channel="TV CIUDAD.uy"><title>DE IDA Y VUELTA</title><desc>(repeticion)</desc></programme>
 <programme start="20251228190000 +0000" stop="20251228200000 +0000" channel="TV CIUDAD.uy"><title>MVD NOTICIAS DOMINGO</title><desc>VIVO</desc></programme>
-<programme start="20251228200000 +0000" stop="20251228200000 +0000" channel="TV CIUDAD.uy"><title>CONEXIONES (repeticion)</title><desc>CONEXIONES (repeticion)</desc></programme>
 <programme start="20251228200000 +0000" stop="20251228210000 +0000" channel="TV CIUDAD.uy"><title>DESENFRENADAS</title><desc>DESENFRENADAS</desc></programme>
-<programme start="20251228210000 +0000" stop="20251228210000 +0000" channel="TV CIUDAD.uy"><title>CORRE CÁMARA</title><desc>CORRE CÁMARA</desc></programme>
 <programme start="20251228210000 +0000" stop="20251228220000 +0000" channel="TV CIUDAD.uy"><title>CANCIONES COMO TATUAJES</title><desc>CANCIONES COMO TATUAJES</desc></programme>
-<programme start="20251228220000 +0000" stop="20251228220000 +0000" channel="TV CIUDAD.uy"><title>ROCK POR LA VIDA</title><desc>ROCK POR LA VIDA</desc></programme>
 <programme start="20251228220000 +0000" stop="20251228230000 +0000" channel="TV CIUDAD.uy"><title>MEMORIA TROPICAL</title><desc>MEMORIA TROPICAL</desc></programme>
-<programme start="20251228230000 +0000" stop="20251228230000 +0000" channel="TV CIUDAD.uy"><title>LOS MEDIOS DE LA GUERRA</title><desc>LOS MEDIOS DE LA GUERRA</desc></programme>
 <programme start="20251228230000 +0000" stop="20251228233000 +0000" channel="TV CIUDAD.uy"><title>IMPULSO SONORO</title><desc>IMPULSO SONORO</desc></programme>
-<programme start="20251228233000 +0000" stop="20251228235900 +0000" channel="TV CIUDAD.uy"><title>LA SENDA DEL AGUA</title><desc>LA SENDA DEL AGUA</desc></programme>
+<programme start="20251228233000 +0000" stop="20251229000000 +0000" channel="TV CIUDAD.uy"><title>LA SENDA DEL AGUA</title><desc>LA SENDA DEL AGUA</desc></programme>
+<programme start="20251229000000 +0000" stop="20251229010000 +0000" channel="TV CIUDAD.uy"><title>AUTORES EN VIVO</title><desc>AUTORES EN VIVO</desc></programme>
+<programme start="20251229010000 +0000" stop="20251229020000 +0000" channel="TV CIUDAD.uy"><title>AUTORES EN VIVO</title><desc>AUTORES EN VIVO</desc></programme>
+<programme start="20251229020000 +0000" stop="20251229030000 +0000" channel="TV CIUDAD.uy"><title>VIDEOCLIPS</title><desc>VIDEOCLIPS</desc></programme>
+<programme start="20251229030000 +0000" stop="20251229070000 +0000" channel="TV CIUDAD.uy"><title>VIDEOCLIPS</title><desc>VIDEOCLIPS</desc></programme>
+<programme start="20251229070000 +0000" stop="20251229080000 +0000" channel="TV CIUDAD.uy"><title>PASEO ANIMADO</title><desc>PASEO ANIMADO</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229080000 +0000" channel="TV CIUDAD.uy"><title>MI CIUDAD EN BICICLETA</title><desc>MI CIUDAD EN BICICLETA</desc></programme>
+<programme start="20251229080000 +0000" stop="20251229083000 +0000" channel="TV CIUDAD.uy"><title>MVD NOTICIAS PRIMERA EDICIÓN</title><desc>VIVO</desc></programme>
+<programme start="20251229083000 +0000" stop="20251229090000 +0000" channel="TV CIUDAD.uy"><title>PUEBLANDO</title><desc>PUEBLANDO</desc></programme>
+<programme start="20251229090000 +0000" stop="20251229090000 +0000" channel="TV CIUDAD.uy"><title>PASEO ANIMADO</title><desc>PASEO ANIMADO</desc></programme>
+<programme start="20251229090000 +0000" stop="20251229110000 +0000" channel="TV CIUDAD.uy"><title>CIUDAD VIVA</title><desc>VIVO</desc></programme>
+<programme start="20251229110000 +0000" stop="20251229120000 +0000" channel="TV CIUDAD.uy"><title>EN MOVIMIENTO</title><desc>EN MOVIMIENTO</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229120000 +0000" channel="TV CIUDAD.uy"><title>COCINEMOS</title><desc>COCINEMOS</desc></programme>
+<programme start="20251229120000 +0000" stop="20251229130000 +0000" channel="TV CIUDAD.uy"><title>LADO B</title><desc>repeticion</desc></programme>
+<programme start="20251229130000 +0000" stop="20251229130000 +0000" channel="TV CIUDAD.uy"><title>NCC 2</title><desc>NCC 2</desc></programme>
+<programme start="20251229130000 +0000" stop="20251229133000 +0000" channel="TV CIUDAD.uy"><title>MVD NOTICIAS MEDIODÍA</title><desc>VIVO</desc></programme>
+<programme start="20251229133000 +0000" stop="20251229140000 +0000" channel="TV CIUDAD.uy"><title>NCC SALUD</title><desc>NCC SALUD</desc></programme>
+<programme start="20251229140000 +0000" stop="20251229140000 +0000" channel="TV CIUDAD.uy"><title>OTRA PARTE DE LA HISTORIA</title><desc>OTRA PARTE DE LA HISTORIA</desc></programme>
+<programme start="20251229140000 +0000" stop="20251229143000 +0000" channel="TV CIUDAD.uy"><title>NCC 1</title><desc>NCC 1</desc></programme>
+<programme start="20251229143000 +0000" stop="20251229143000 +0000" channel="TV CIUDAD.uy"><title>OCEANIDES</title><desc>OCEANIDES</desc></programme>
+<programme start="20251229143000 +0000" stop="20251229150000 +0000" channel="TV CIUDAD.uy"><title>CAMPEONAS DE LA CIUDAD</title><desc>CAMPEONAS DE LA CIUDAD</desc></programme>
+<programme start="20251229150000 +0000" stop="20251229150000 +0000" channel="TV CIUDAD.uy"><title>RECONSTRUYENDO NUESTRO AMBIENTE</title><desc>RECONSTRUYENDO NUESTRO AMBIENTE</desc></programme>
+<programme start="20251229150000 +0000" stop="20251229153000 +0000" channel="TV CIUDAD.uy"><title>CIUDAD VIVA</title><desc>repeticion</desc></programme>
+<programme start="20251229153000 +0000" stop="20251229160000 +0000" channel="TV CIUDAD.uy"><title>TRABAJO DE CAMPO</title><desc>TRABAJO DE CAMPO</desc></programme>
+<programme start="20251229160000 +0000" stop="20251229163000 +0000" channel="TV CIUDAD.uy"><title>POR EL MUNDO ENTRO A MI CASA</title><desc>POR EL MUNDO ENTRO A MI CASA</desc></programme>
+<programme start="20251229163000 +0000" stop="20251229163000 +0000" channel="TV CIUDAD.uy"><title>CLUBES SON AMORES</title><desc>CLUBES SON AMORES</desc></programme>
+<programme start="20251229163000 +0000" stop="20251229170000 +0000" channel="TV CIUDAD.uy"><title>PASEO ANIMADO</title><desc>PASEO ANIMADO</desc></programme>
+<programme start="20251229170000 +0000" stop="20251229173000 +0000" channel="TV CIUDAD.uy"><title>EL ARQUITECTO</title><desc>EL ARQUITECTO</desc></programme>
+<programme start="20251229173000 +0000" stop="20251229173000 +0000" channel="TV CIUDAD.uy"><title>LA GUIA DEL DISEÑO</title><desc>LA GUIA DEL DISEÑO</desc></programme>
+<programme start="20251229173000 +0000" stop="20251229180000 +0000" channel="TV CIUDAD.uy"><title>MIRÁ MONTEVIDEO</title><desc>VIVO</desc></programme>
+<programme start="20251229180000 +0000" stop="20251229183000 +0000" channel="TV CIUDAD.uy"><title>UNA HISTORIA DE VASCONIA</title><desc>UNA HISTORIA DE VASCONIA</desc></programme>
+<programme start="20251229183000 +0000" stop="20251229190000 +0000" channel="TV CIUDAD.uy"><title>MVD NOTICIAS EDICIÓN CENTRAL</title><desc>VIVO</desc></programme>
+<programme start="20251229190000 +0000" stop="20251229200000 +0000" channel="TV CIUDAD.uy"><title>MVD NOTICIAS DOMINGO</title><desc>VIVO</desc></programme>
+<programme start="20251229200000 +0000" stop="20251229200000 +0000" channel="TV CIUDAD.uy"><title>DESENFRENADAS</title><desc>DESENFRENADAS</desc></programme>
+<programme start="20251229200000 +0000" stop="20251229210000 +0000" channel="TV CIUDAD.uy"><title>LADO B</title><desc>VIVO</desc></programme>
+<programme start="20251229210000 +0000" stop="20251229210000 +0000" channel="TV CIUDAD.uy"><title>CANCIONES COMO TATUAJES</title><desc>CANCIONES COMO TATUAJES</desc></programme>
+<programme start="20251229210000 +0000" stop="20251229220000 +0000" channel="TV CIUDAD.uy"><title>DE IDA Y VUELTA</title><desc>(repeticion)</desc></programme>
+<programme start="20251229220000 +0000" stop="20251229220000 +0000" channel="TV CIUDAD.uy"><title>MEMORIA TROPICAL</title><desc>MEMORIA TROPICAL</desc></programme>
+<programme start="20251229220000 +0000" stop="20251229223000 +0000" channel="TV CIUDAD.uy"><title>DEU BOLA</title><desc>DEU BOLA</desc></programme>
+<programme start="20251229223000 +0000" stop="20251229230000 +0000" channel="TV CIUDAD.uy"><title>UN MINUTO DE SILENCIO</title><desc>UN MINUTO DE SILENCIO</desc></programme>
+<programme start="20251229230000 +0000" stop="20251229230000 +0000" channel="TV CIUDAD.uy"><title>IMPULSO SONORO</title><desc>IMPULSO SONORO</desc></programme>
+<programme start="20251229230000 +0000" stop="20251229233000 +0000" channel="TV CIUDAD.uy"><title>CORRE CÁMARA (repeticion)</title><desc>CORRE CÁMARA (repeticion)</desc></programme>
+<programme start="20251229233000 +0000" stop="20251229235900 +0000" channel="TV CIUDAD.uy"><title>LA SENDA DEL AGUA</title><desc>LA SENDA DEL AGUA</desc></programme>
 </tv>

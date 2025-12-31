@@ -351,8 +351,8 @@
 <programme start="20250103051500 +0000" stop="20250103060000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
 <programme start="20250103060000 +0000" stop="20250103080000 +0000" channel="Arenasport 1.ba"><title>Brentford - Tottenham</title><desc>Fudbal, ENGLESKA LIGA</desc></programme>
 <programme start="20250103080000 +0000" stop="20250103100000 +0000" channel="Arenasport 1.ba"><title>Liverpool - Leeds</title><desc>Fudbal, ENGLESKA LIGA</desc></programme>
-<programme start="20250103100000 +0000" stop="20250103120000 +0000" channel="Arenasport 1.ba"><title>Sunderland - Manchester City</title><desc>Fudbal, ENGLESKA LIGA</desc></programme>
-<programme start="20250103120000 +0000" stop="20250103140000 +0000" channel="Arenasport 1.ba"><title>Crystal Palace - Fulham</title><desc>Fudbal, ENGLESKA LIGA</desc></programme>
+<programme start="20250103100000 +0000" stop="20250103121500 +0000" channel="Arenasport 1.ba"><title>Italija - Španija</title><desc>Vaterpolo, Turnir Trebinje</desc></programme>
+<programme start="20250103121500 +0000" stop="20250103140000 +0000" channel="Arenasport 1.ba"><title>Grčka - Francuska</title><desc>Vaterpolo, Turnir Trebinje</desc></programme>
 <programme start="20250103140000 +0000" stop="20250103143000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
 <programme start="20250103143000 +0000" stop="20250103150000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
 <programme start="20250103150000 +0000" stop="20250103170000 +0000" channel="Arenasport 1.ba"><title>Genoa - Pisa</title><desc>Fudbal, ITALIJANSKA LIGA</desc></programme>
@@ -371,10 +371,10 @@
 <programme start="20250104130000 +0000" stop="20250104150000 +0000" channel="Arenasport 1.ba"><title>Birmingham - Coventry</title><desc>Fudbal, Championship</desc></programme>
 <programme start="20250104150000 +0000" stop="20250104170000 +0000" channel="Arenasport 1.ba"><title>Olympique M. - Nantes</title><desc>Fudbal, Francuska liga</desc></programme>
 <programme start="20250104170000 +0000" stop="20250104171500 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
-<programme start="20250104171500 +0000" stop="20250104191500 +0000" channel="Arenasport 1.ba"><title>Lorient - Metz</title><desc>Fudbal, Francuska liga</desc></programme>
-<programme start="20250104191500 +0000" stop="20250104193000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
-<programme start="20250104193000 +0000" stop="20250104223000 +0000" channel="Arenasport 1.ba"><title>TBD</title><desc>Američki fudbal, NFL</desc></programme>
-<programme start="20250104223000 +0000" stop="20251229060000 +0000" channel="Arenasport 1.ba"><title>TBD</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20250104171500 +0000" stop="20250104190000 +0000" channel="Arenasport 1.ba"><title>Lorient - Metz</title><desc>Fudbal, Francuska liga</desc></programme>
+<programme start="20250104190000 +0000" stop="20250104191500 +0000" channel="Arenasport 1.ba"><title>Houston Texans - Indianapolis Colts</title><desc>Američki fudbal, NFL</desc></programme>
+<programme start="20250104191500 +0000" stop="20250104223000 +0000" channel="Arenasport 1.ba"><title>Premier League Stories</title><desc>Premier League Stories, Engleska liga</desc></programme>
+<programme start="20250104223000 +0000" stop="20251229060000 +0000" channel="Arenasport 1.ba"><title>Denver Broncos - Los Angeles Chargers</title><desc>Američki fudbal, NFL</desc></programme>
 <programme start="20251229060000 +0000" stop="20251229080000 +0000" channel="Arenasport 1.ba"><title>Manchester United - Newcastle</title><desc>Fudbal, ENGLESKA LIGA</desc></programme>
 <programme start="20251229080000 +0000" stop="20251229100000 +0000" channel="Arenasport 1.ba"><title>Chelsea - Aston Villa</title><desc>Fudbal, ENGLESKA LIGA</desc></programme>
 <programme start="20251229100000 +0000" stop="20251229120000 +0000" channel="Arenasport 1.ba"><title>West Ham - Fulham</title><desc>Fudbal, ENGLESKA LIGA</desc></programme>
@@ -557,12 +557,10 @@
 <programme start="20250103130000 +0000" stop="20250103133000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
 <programme start="20250103133000 +0000" stop="20250103153000 +0000" channel="Arenasport 3.ba"><title>Celtic - Rangers</title><desc>Fudbal, Škotska liga</desc></programme>
 <programme start="20250103153000 +0000" stop="20250103160000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
-<programme start="20250103160000 +0000" stop="20250103180000 +0000" channel="Arenasport 3.ba"><title>Wolves - West Ham</title><desc>Fudbal, Engleska liga</desc></programme>
-<programme start="20250103180000 +0000" stop="20250103201500 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
-<programme start="20250103201500 +0000" stop="20250103210000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
-<programme start="20250103210000 +0000" stop="20250103230000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
-<programme start="20250103230000 +0000" stop="20250103233000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
-<programme start="20250103233000 +0000" stop="20250104000000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20250103160000 +0000" stop="20250103181500 +0000" channel="Arenasport 3.ba"><title>Wolves - West Ham</title><desc>Fudbal, Engleska liga</desc></programme>
+<programme start="20250103181500 +0000" stop="20250103203000 +0000" channel="Arenasport 3.ba"><title>Varese - Napoli</title><desc>Košarka, ITALIJANSKA LIGA</desc></programme>
+<programme start="20250103203000 +0000" stop="20250103223000 +0000" channel="Arenasport 3.ba"><title>Srbija - Italija</title><desc>Vaterpolo, Turnir Trebinje</desc></programme>
+<programme start="20250103223000 +0000" stop="20250104000000 +0000" channel="Arenasport 3.ba"><title>Tampa Bay - Carolina Panthers</title><desc>Americki fudbal, NFL</desc></programme>
 <programme start="20250104000000 +0000" stop="20250104020000 +0000" channel="Arenasport 3.ba"><title>IMT - Partizan</title><desc>Fudbal, Super liga Srbije</desc></programme>
 <programme start="20250104020000 +0000" stop="20250104040000 +0000" channel="Arenasport 3.ba"><title>Radnik Novi Pazar</title><desc>Fudbal, Super liga Srbije</desc></programme>
 <programme start="20250104040000 +0000" stop="20250104060000 +0000" channel="Arenasport 3.ba"><title>Hajduk - Vukovar</title><desc>Fudbal, HNL</desc></programme>
@@ -574,7 +572,7 @@
 <programme start="20250104160000 +0000" stop="20250104180000 +0000" channel="Arenasport 3.ba"><title>Manisa - Galatasaray</title><desc>Košarka, Turska liga</desc></programme>
 <programme start="20250104180000 +0000" stop="20250104183000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
 <programme start="20250104183000 +0000" stop="20250104203000 +0000" channel="Arenasport 3.ba"><title>Alaves - Oviedo</title><desc>Fudbal, ŠPANSKA LIGA</desc></programme>
-<programme start="20250104203000 +0000" stop="20250104210000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
+<programme start="20250104203000 +0000" stop="20250104210000 +0000" channel="Arenasport 3.ba"><title>Srbija - Španija</title><desc>Vaterpolo, Turnir Trebinje</desc></programme>
 <programme start="20250104210000 +0000" stop="20250104213000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
 <programme start="20250104213000 +0000" stop="20250104220000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
 <programme start="20250104220000 +0000" stop="20250104223000 +0000" channel="Arenasport 3.ba"><title>Great sporting moments</title><desc>Great sporting moments, Emisija</desc></programme>
@@ -839,7 +837,7 @@
 <programme start="20251230180000 +0000" stop="20251230190000 +0000" channel="Arenasport 5.ba"><title>Islas Canarias Live stage 4</title><desc>Automoto, WRC</desc></programme>
 <programme start="20251230190000 +0000" stop="20251230200000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
 <programme start="20251230200000 +0000" stop="20251230210000 +0000" channel="Arenasport 5.ba"><title>Scandinavia</title><desc>Automoto, ERC</desc></programme>
-<programme start="20251230210000 +0000" stop="20251230230000 +0000" channel="Arenasport 5.ba"><title>Motherwelll - Celtic</title><desc>Fudbal, Škotska liga</desc></programme>
+<programme start="20251230210000 +0000" stop="20251230230000 +0000" channel="Arenasport 5.ba"><title>Poljska</title><desc>Automoto, ERC</desc></programme>
 <programme start="20251230230000 +0000" stop="20251231000000 +0000" channel="Arenasport 5.ba"><title>Canaria</title><desc>Automoto, WRC</desc></programme>
 <programme start="20251231000000 +0000" stop="20251231010000 +0000" channel="Arenasport 5.ba"><title>Portugal Powerstage</title><desc>Automoto, WRC</desc></programme>
 <programme start="20251231010000 +0000" stop="20251231020000 +0000" channel="Arenasport 5.ba"><title>Sardegna Live stage 1</title><desc>Automoto, WRC</desc></programme>
